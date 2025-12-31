@@ -259,6 +259,8 @@
 
 ## android 
 
+- [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
+- [mardous/WhatSave](https://github.com/mardous/WhatSave) - Save WhatsApp statuses in the easiest way
 - [iamlooper/Android-Enhancer](https://github.com/iamlooper/Android-Enhancer) - Enhances your Android to run smoother and last longer.
 - [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user experience possible.
@@ -514,6 +516,7 @@
 
 ## awesome 
 
+- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [ang3lo-azevedo/my-awesome-stars](https://github.com/ang3lo-azevedo/my-awesome-stars) - A curated list of my GitHub stars!
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -542,6 +545,7 @@
 
 ## awesome-list 
 
+- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [ang3lo-azevedo/my-awesome-stars](https://github.com/ang3lo-azevedo/my-awesome-stars) - A curated list of my GitHub stars!
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -673,6 +677,7 @@
 
 ## cli 
 
+- [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [DeterminateSystems/fh](https://github.com/DeterminateSystems/fh) - The official CLI for FlakeHub: search for flakes, and add new inputs to your Nix flake.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -862,6 +867,7 @@
 
 ## discord 
 
+- [FlameFlag/nixcord](https://github.com/FlameFlag/nixcord) - Declarative Vencord plugins + options
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
 - [sparklost/endcord](https://github.com/sparklost/endcord) - Feature rich Discord TUI client.
 - [hackermondev/discord-active-developer-badge](https://github.com/hackermondev/discord-active-developer-badge) - Simple script you can use to get the new Discord "Active Developer" badge
@@ -1283,6 +1289,7 @@
 
 ## hacktoberfest 
 
+- [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
@@ -1499,6 +1506,7 @@
 
 ## kotlin 
 
+- [mardous/WhatSave](https://github.com/mardous/WhatSave) - Save WhatsApp statuses in the easiest way
 - [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user experience possible.
 - [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop.
@@ -1555,6 +1563,7 @@
 
 ## linux 
 
+- [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [0xc000022070/zen-browser-flake](https://github.com/0xc000022070/zen-browser-flake) - Community-driven Nix Flake for the Zen browser
 - [diogotcorreia/dotfiles](https://github.com/diogotcorreia/dotfiles) - Configuration for my NixOS systems
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
@@ -1830,6 +1839,7 @@
 
 ## monitoring 
 
+- [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [femto-code/Raspberry-Pi-Dashboard](https://github.com/femto-code/Raspberry-Pi-Dashboard) - Web-App Dashboard to monitor Raspberry Pi hardware and software status. Nothing more than Webserver + PHP required.
 
 ## music 
@@ -1867,6 +1877,7 @@
 
 ## neovim 
 
+- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [dpgraham4401/.dotfiles](https://github.com/dpgraham4401/.dotfiles) - Config files for *nix and Sway tiling wm, branches for different distros/computers
 - [mikavilpas/yazi.nvim](https://github.com/mikavilpas/yazi.nvim) - A Neovim Plugin for the yazi terminal file manager
@@ -2011,6 +2022,14 @@
 
 ## others 
 
+- [NordSecurity/nordvpn-linux](https://github.com/NordSecurity/nordvpn-linux) - NordVPN Linux client
+- [Crementif/BotW-BetterVR](https://github.com/Crementif/BotW-BetterVR) - A project aimed at providing a better PC VR mode for BotW using the Cemu emulator
+- [afkarxyz/SpotiDownloader](https://github.com/afkarxyz/SpotiDownloader) - Get Spotify tracks in MP3 and FLAC via the spotidownloader.com API
+- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
+- [Gerg-L/spicetify-nix](https://github.com/Gerg-L/spicetify-nix) - A nix library for modifying spotify with https://github.com/spicetify
+- [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VS Code Marketplace and Open VSX extensions
+- [xddxdd/nix-kernelsu-builder](https://github.com/xddxdd/nix-kernelsu-builder) - A set of nix packages (derivations) to build Android boot.img and AnyKernel installation zip files for given kernel source code.
+- [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu,@cyclic-pentane]
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA & IntelliJ Platform
 - [nix-community/nix-jetbrains-plugins](https://github.com/nix-community/nix-jetbrains-plugins) - Nix Flake to download any plugin from Jetbrains Marketplace [maintainer=@theCapypara]
 - [DreamMaoMao/mango-config](https://github.com/DreamMaoMao/mango-config) - my mango config
@@ -2430,7 +2449,7 @@
 - [crimera/twitter-apk](https://github.com/crimera/twitter-apk) - Apk builds of piko patches
 - [AntonioAlves6/myWebTerminal](https://github.com/AntonioAlves6/myWebTerminal) - 
 - [cygnusx-1-org/continuum](https://github.com/cygnusx-1-org/continuum) - A Reddit client for Android
-- [EdenwareApps/Megacubo](https://github.com/EdenwareApps/Megacubo) - :tv: A intuitive, multi-language and cross-platform IPTV player. Available for Windows, Android, Linux & macOS.
+- [EdenwareApps/Megacubo](https://github.com/EdenwareApps/Megacubo) - 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes.
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
 - [iptux/XCallRecording-xposed](https://github.com/iptux/XCallRecording-xposed) - LOS/CM Call Recording Settings (Xposed Mod)
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
@@ -3830,6 +3849,7 @@
 
 ## vim 
 
+- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
@@ -3854,6 +3874,7 @@
 
 ## vpn 
 
+- [phirecc/wgnord](https://github.com/phirecc/wgnord) - A NordVPN Wireguard ("NordLynx") client in POSIX shell
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required)
