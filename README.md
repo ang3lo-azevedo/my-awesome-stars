@@ -205,6 +205,7 @@
 - [ui](#ui)
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
+- [userscript](#userscript)
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
@@ -260,6 +261,7 @@
 
 ## android 
 
+- [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
 - [mardous/WhatSave](https://github.com/mardous/WhatSave) - Save WhatsApp statuses in the easiest way
@@ -679,6 +681,7 @@
 
 ## cli 
 
+- [e-tho/pwmenu](https://github.com/e-tho/pwmenu) - Launcher-driven audio manager for Linux
 - [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's terminal UI app - The ultimate weapon against brainrot
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [DeterminateSystems/fh](https://github.com/DeterminateSystems/fh) - The official CLI for FlakeHub: search for flakes, and add new inputs to your Nix flake.
@@ -906,6 +909,7 @@
 
 ## docker 
 
+- [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [Woahai321/list-sync](https://github.com/Woahai321/list-sync) - ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management. https://discord.gg/Dy5xNzEHKw
@@ -1175,6 +1179,7 @@
 
 ## gaming 
 
+- [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix
 - [kimjongbing/nix-proton-cachyos](https://github.com/kimjongbing/nix-proton-cachyos) - NixOS flake packaging for CachyOS Proton (https://github.com/CachyOS/proton-cachyos), a compatibility tool for Steam Play with CachyOS optimizations
 - [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
 - [Mr-Homeless/waldo](https://github.com/Mr-Homeless/waldo) - Waldo Vision | Cheat detection
@@ -1572,6 +1577,7 @@
 
 ## linux 
 
+- [e-tho/pwmenu](https://github.com/e-tho/pwmenu) - Launcher-driven audio manager for Linux
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [0xc000022070/zen-browser-flake](https://github.com/0xc000022070/zen-browser-flake) - Community-driven Nix Flake for the Zen browser
 - [diogotcorreia/dotfiles](https://github.com/diogotcorreia/dotfiles) - Configuration for my NixOS systems
@@ -2033,6 +2039,21 @@
 
 ## others 
 
+- [emersion/wlr-randr](https://github.com/emersion/wlr-randr) - An xrandr clone for wlroots compositors
+- [BEST8OY/ScrollMPRIS](https://github.com/BEST8OY/ScrollMPRIS) - Scrolling MPRIS module for waybar
+- [nix-community/pip2nix](https://github.com/nix-community/pip2nix) - Freeze pip-installable packages into Nix expressions [maintainer=@datakurre]
+- [DreamMaoMao/mmsg](https://github.com/DreamMaoMao/mmsg) - ipc client for mango
+- [fdev31/wlr-layout-ui](https://github.com/fdev31/wlr-layout-ui) - A tiny GUI to configure screen layouts on wayland
+- [yogo1212/waybar-cpufreq](https://github.com/yogo1212/waybar-cpufreq) - Control the maximum CPU frequency from a waybar module
+- [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm) - Universal Wayland Session Manager
+- [ValveSoftware/wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
+- [ph00lt0/blocklist](https://github.com/ph00lt0/blocklist) - Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole. Combine with Hagezi and OISD
+- [rodrig20/moonwake_kernel_xiaomi_ruby](https://github.com/rodrig20/moonwake_kernel_xiaomi_ruby) - [MoonWake] Redmi Note 12 pro 5G (ruby) kernel specify for powersave
+- [SteamNix/SteamNix](https://github.com/SteamNix/SteamNix) - SteamOS but Nix Flavoured.
+- [nix-community/nix4vscode](https://github.com/nix-community/nix4vscode) - 
+- [OsiPog/nix-firefox-addons](https://github.com/OsiPog/nix-firefox-addons) - Most addons from https://addons.mozilla.org packaged with Nix
+- [cole-h/agenix-cli](https://github.com/cole-h/agenix-cli) - Companion tool to https://github.com/ryantm/agenix
+- [yaxitech/ragenix](https://github.com/yaxitech/ragenix) - age-encrypted secrets for NixOS; drop-in replacement for agenix
 - [Hivos/windows-kvm-unattend](https://github.com/Hivos/windows-kvm-unattend) - scripts and howto for unattended windows server installs on kvm platform
 - [brahmkshatriya/echo](https://github.com/brahmkshatriya/echo) - Just a music player.
 - [yuzono/tachiyomi-extensions](https://github.com/yuzono/tachiyomi-extensions) - Source code of extensions for Komikku / Mihon & forks.
@@ -2154,7 +2175,6 @@
 - [Myst1cX/spotifuck-userscript](https://github.com/Myst1cX/spotifuck-userscript) - 
 - [mentalblank/GPhotos-Revanced](https://github.com/mentalblank/GPhotos-Revanced) - ReVanced Google Photos APK Auto-Builds
 - [Aunali321/revanced-downloader-plugins](https://github.com/Aunali321/revanced-downloader-plugins) - 
-- [LisoUseInAIKyrios/revanced-patches](https://github.com/LisoUseInAIKyrios/revanced-patches) - 🧩 Patches for ReVanced
 - [Aunali321/ReVancedExperiments](https://github.com/Aunali321/ReVancedExperiments) - 
 - [mamiiblt/instafel](https://github.com/mamiiblt/instafel) - Instafel provides fast & up-to-date Instagram Alpha experience for everyone!
 - [8Mi-Tech/LSPatch-ApkFactory](https://github.com/8Mi-Tech/LSPatch-ApkFactory) - 一个基于LSPatch的打包工具，自动为常见应用打LSPatch补丁的仓库，包括 OPatch / ONPatch / NPatch
@@ -3238,6 +3258,7 @@
 
 ## package-manager 
 
+- [nikstur/lon](https://github.com/nikstur/lon) - Lock & update Nix dependencies
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
@@ -3864,6 +3885,14 @@
 
 - [TheNewJavaman/unreal-vr](https://github.com/TheNewJavaman/unreal-vr) - Adds virtual reality support to flatscreen Unreal Engine games
 
+## userscript 
+
+- [JingMatrix/ChromeXt](https://github.com/JingMatrix/ChromeXt) - UserScript and DevTools supports for Chromium based and WebView based browsers
+- [Batlez/ChatGPT-Jailbreak-Pro](https://github.com/Batlez/ChatGPT-Jailbreak-Pro) - The ultimate ChatGPT Jailbreak Tool with stunning themes, categorized prompts, and a user-friendly interface.
+- [ang3lo-azevedo/open-stremio-links-on-mpv](https://github.com/ang3lo-azevedo/open-stremio-links-on-mpv) - This script will open Stremio Web links on MPV
+- [Vertex-Mods/Advanced-Tab-Groups](https://github.com/Vertex-Mods/Advanced-Tab-Groups) - Improves Tab Folders & Groups for Zen Browser
+- [HatScripts/youtube-auto-liker](https://github.com/HatScripts/youtube-auto-liker) - A userscript that automatically likes 👍 each video you watch on YouTube ▶️
+
 ## vagrant 
 
 - [brootware/flarevm-up](https://github.com/brootware/flarevm-up) - Easy automated vagrant provisioning of Windows 10 with flarevm tools installed for Digital Forensics and Malware Analysis Lab.
@@ -3896,6 +3925,7 @@
 
 ## vpn 
 
+- [connerohnesorge/nordvpn-flake](https://github.com/connerohnesorge/nordvpn-flake) - unofficial nordvpn nixos flake providing the nordvpn cli as a package and a nixos-module for configuring nordvpn on systems.
 - [phirecc/wgnord](https://github.com/phirecc/wgnord) - A NordVPN Wireguard ("NordLynx") client in POSIX shell
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
