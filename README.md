@@ -660,6 +660,7 @@
 
 ## chrome 
 
+- [nvckai/Discord-Web-Multi-Quest-Completer](https://github.com/nvckai/Discord-Web-Multi-Quest-Completer) - A Chrome extension that automatically completes multiple all Discord Quests
 - [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience
 - [JingMatrix/ChromeXt](https://github.com/JingMatrix/ChromeXt) - UserScript and DevTools supports for Chromium based and WebView based browsers
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
@@ -874,6 +875,7 @@
 
 ## discord 
 
+- [nvckai/Discord-Web-Multi-Quest-Completer](https://github.com/nvckai/Discord-Web-Multi-Quest-Completer) - A Chrome extension that automatically completes multiple all Discord Quests
 - [FlameFlag/nixcord](https://github.com/FlameFlag/nixcord) - Declarative Vencord plugins + options
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
 - [sparklost/endcord](https://github.com/sparklost/endcord) - Feature rich Discord TUI client.
@@ -1079,6 +1081,7 @@
 
 ## firefox 
 
+- [petrkozorezov/firefox-addons-nix](https://github.com/petrkozorezov/firefox-addons-nix) - The daily auto updated nix pkgs repository with Firefox add-ons
 - [prirai/nira-browser](https://github.com/prirai/nira-browser) - Android browser with multiple profiles, PWAs, extension and tab groups based on Geckoview
 - [glide-browser/glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
 - [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience
@@ -1980,6 +1983,7 @@
 
 ## open-source 
 
+- [nvckai/Discord-Web-Multi-Quest-Completer](https://github.com/nvckai/Discord-Web-Multi-Quest-Completer) - A Chrome extension that automatically completes multiple all Discord Quests
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [jpdoshi/dragon-store](https://github.com/jpdoshi/dragon-store) - Dragon Store is your gateway to transparent, libre and free open-source apps.
 - [Harish-Srinivas-07/hivefy](https://github.com/Harish-Srinivas-07/hivefy) - Hivefy - Ad-free, offline-ready music streaming app with Spotify-style interface and JioSaavn API.
@@ -2045,12 +2049,14 @@
 
 ## others 
 
+- [twifty/aura-gpu](https://github.com/twifty/aura-gpu) - i2c driver for AURA capable GPUs
+- [dbeley/nixos-benchmark](https://github.com/dbeley/nixos-benchmark) - An all-in-one nix shell to benchmark your system and compare your results.
+- [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
 - [Huttysam/samsung-galaxybook-linux-unified](https://github.com/Huttysam/samsung-galaxybook-linux-unified) - Unified configuration and drivers for running Linux on Samsung Galaxy Book with complete functionality. Combines galaxy-book2-pro-linux and samsung-galaxybook-extras repositories.
 - [qiangua2460/recovery_device_xiaomi_ruby](https://github.com/qiangua2460/recovery_device_xiaomi_ruby) - TWRP Device tree for the Redmi Note 12 Pro(+) 5G
 - [jaylikesbunda/ESPressoFlash](https://github.com/jaylikesbunda/ESPressoFlash) - Flash your ESP32 quickly and easily.
 - [i-am-shodan/USBArmyKnife-WatchFirmware](https://github.com/i-am-shodan/USBArmyKnife-WatchFirmware) - Unofficial os for Lilygo t-watch-s3
 - [Yurii0307/yurikey](https://github.com/Yurii0307/yurikey) - A systemless module to get strong integrity easily
-- [nvckai/Discord-Web-Multi-Quest-Completer](https://github.com/nvckai/Discord-Web-Multi-Quest-Completer) - A Chrome extension that automatically completes multiple Discord quests with spoofing payload
 - [omarcresp/cursor-flake](https://github.com/omarcresp/cursor-flake) - Nix flake for Cursor - The AI Code editor
 - [emersion/wlr-randr](https://github.com/emersion/wlr-randr) - An xrandr clone for wlroots compositors
 - [BEST8OY/ScrollMPRIS](https://github.com/BEST8OY/ScrollMPRIS) - Scrolling MPRIS module for waybar
