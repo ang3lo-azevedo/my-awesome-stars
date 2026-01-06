@@ -2049,6 +2049,7 @@
 
 ## others 
 
+- [s-adi-dev/nmgui](https://github.com/s-adi-dev/nmgui) - A simple and lightweight GTK4-based GUI for managing Wi-Fi using NetworkManager (nmcli) under the hood.
 - [twifty/aura-gpu](https://github.com/twifty/aura-gpu) - i2c driver for AURA capable GPUs
 - [dbeley/nixos-benchmark](https://github.com/dbeley/nixos-benchmark) - An all-in-one nix shell to benchmark your system and compare your results.
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
@@ -2119,7 +2120,6 @@
 - [Omni-guides/Jackify](https://github.com/Omni-guides/Jackify) - Jackify - Simplifying Wabbajack modlist installation and configuration on Linux
 - [mkcs121/TMoe](https://github.com/mkcs121/TMoe) - An Xposed module for Telegram clients
 - [MartinatorTime/auto-lspatch](https://github.com/MartinatorTime/auto-lspatch) - Automatic use LSpatcher to patch Telegram Client with Xposed modules
-- [NopeCHALLC/nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension) - Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.
 - [dcrebbin/cursor-unchained](https://github.com/dcrebbin/cursor-unchained) - Cursor's Tab complete for all: Reverse engineering Cursors AI Tab completion to allow for it to be used in other IDEs
 - [anlumo/sispmctl](https://github.com/anlumo/sispmctl) - SiS-PM (Silver Shield PM) Control for Linux and Mac (unofficial fork!)
 - [leedrake5/unredact](https://github.com/leedrake5/unredact) - A simple tool for reading in poorly redacted documents and reproducing their origional form
@@ -2755,7 +2755,7 @@
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [saneaspect/dotfiles](https://github.com/saneaspect/dotfiles) - My Hyprland dotfiles
 - [qwreey/quick-settings-tweaks](https://github.com/qwreey/quick-settings-tweaks) - Let's tweak gnome Quick Settings! You can add Media Controls, Notifications, Volume Mixer on quick settings and remove useless buttons!
-- [pablouser1/aio-github-card](https://github.com/pablouser1/aio-github-card) - 
+- [pablouser1/aio-github-card](https://github.com/pablouser1/aio-github-card) - Dynamic cards for your Github README for multiple services
 - [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules) - Magic to turn Cursor/Windsurf as 90% of Devin
 - [maharmstone/quibble](https://github.com/maharmstone/quibble) - Quibble - the custom Windows bootloader
 - [Senshi111/debian-hyprland-hyprdots](https://github.com/Senshi111/debian-hyprland-hyprdots) - 
