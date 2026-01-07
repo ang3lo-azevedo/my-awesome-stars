@@ -1033,7 +1033,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [ibttf/interview-coder](https://github.com/ibttf/interview-coder) - An invisible desktop application to help you pass your technical interviews.
-- [REVENGE977/stremio-enhanced](https://github.com/REVENGE977/stremio-enhanced) - Electron-based Stremio client with support for plugins and themes. This is a community project and is not affiliated with Stremio in any way.
+- [REVENGE977/stremio-enhanced](https://github.com/REVENGE977/stremio-enhanced) - Electron-based Stremio desktop client with support for plugins and themes. This is a community project and is not affiliated with Stremio in any way.
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
@@ -2049,6 +2049,8 @@
 
 ## others 
 
+- [StollD/proton-webdav-bridge](https://github.com/StollD/proton-webdav-bridge) - Proton Drive to WebDAV bridge
+- [io12/pwninit](https://github.com/io12/pwninit) - pwninit - automate starting binary exploit challenges
 - [s-adi-dev/nmgui](https://github.com/s-adi-dev/nmgui) - A simple and lightweight GTK4-based GUI for managing Wi-Fi using NetworkManager (nmcli) under the hood.
 - [twifty/aura-gpu](https://github.com/twifty/aura-gpu) - i2c driver for AURA capable GPUs
 - [dbeley/nixos-benchmark](https://github.com/dbeley/nixos-benchmark) - An all-in-one nix shell to benchmark your system and compare your results.
@@ -2103,8 +2105,8 @@
 - [Wuang26/Kaorios-Toolbox](https://github.com/Wuang26/Kaorios-Toolbox) - Kaorios Toolbox
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]
 - [CG-GeisT/nix-proton-cachyos](https://github.com/CG-GeisT/nix-proton-cachyos) - NixOS flake packaging for CachyOS Proton (https://github.com/CachyOS/proton-cachyos), a compatibility tool for Steam Play with CachyOS optimizations
-- [tetherto/pearpass-app-desktop](https://github.com/tetherto/pearpass-app-desktop) - 
-- [tetherto/pearpass-app-mobile](https://github.com/tetherto/pearpass-app-mobile) - 
+- [tetherto/pearpass-app-desktop](https://github.com/tetherto/pearpass-app-desktop) - PearPass is an open-source, privacy-first password manager with peer-to-peer syncing and end-to-end encryption.
+- [tetherto/pearpass-app-mobile](https://github.com/tetherto/pearpass-app-mobile) - PearPass is an open-source, privacy-first password manager with peer-to-peer syncing and end-to-end encryption.
 - [omuhr/nixos-rog-cachyos-kernel](https://github.com/omuhr/nixos-rog-cachyos-kernel) - CachyOS LTS kernel for NixOS
 - [drakon64/nixos-cachyos-kernel](https://github.com/drakon64/nixos-cachyos-kernel) - CachyOS LTS kernel for NixOS
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
