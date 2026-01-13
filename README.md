@@ -208,6 +208,7 @@
 - [unreal-engine](#unreal-engine)
 - [userscript](#userscript)
 - [vagrant](#vagrant)
+- [video](#video)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
@@ -262,6 +263,7 @@
 
 ## android 
 
+- [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
 - [zarzet/SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) - Mobile port of SpotiFLAC written in Flutter, powered by a Go backend for high performance. Download Spotify tracks in true FLAC from Tidal, Qobuz, & Amazon Music — no ads, no subscription.
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
@@ -626,6 +628,7 @@
 
 ## c 
 
+- [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [m0nad/Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64)
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
@@ -1585,6 +1588,8 @@
 
 ## linux 
 
+- [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
+- [anticitizn/creamlinux](https://github.com/anticitizn/creamlinux) - CreamAPI-like DLC unlocker for Linux
 - [LorenDB/kaon](https://github.com/LorenDB/kaon) - UEVR manager for games using Proton
 - [wlx-team/wayvr](https://github.com/wlx-team/wayvr) - Your way to enjoy VR on Linux. Run apps inside VR & access your Wayland/X11 screens from Monado/WiVRn/SteamVR.
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
@@ -1779,6 +1784,7 @@
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [AlexSSD7/linsk](https://github.com/AlexSSD7/linsk) - 📂 Access Linux-native file systems (including LVM and LUKS) on Windows and macOS with help of a lightweight Alpine Linux VM. x86/ARM supported.
 - [mesquidar/ForensicsTools](https://github.com/mesquidar/ForensicsTools) - A list of free and open forensics analysis tools and other resources
+- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
@@ -2056,6 +2062,12 @@
 
 ## others 
 
+- [dasJ/spotifywm](https://github.com/dasJ/spotifywm) - Set Spotify's WM_NAME before opening the window
+- [fholger/f4ovr_improvements](https://github.com/fholger/f4ovr_improvements) - Modified OpenVR DLL to trick FO4VR into believing the Index controllers are Touch controllers
+- [acidicoala/SmokeAPI](https://github.com/acidicoala/SmokeAPI) - Legit DLC Unlocker for Steamworks
+- [Kirottu/nixos](https://github.com/Kirottu/nixos) - My NixOS config
+- [nix-community/nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS. [maintainers=@colemickens, @Artturin]
+- [Scrumplex/nixpkgs](https://github.com/Scrumplex/nixpkgs) - Nix Packages collection
 - [talkol/spiderman](https://github.com/talkol/spiderman) - Spider-Man VR Experience
 - [SpookySkeletons/proton-ge-rtsp](https://github.com/SpookySkeletons/proton-ge-rtsp) - Compatibility tool for Steam Play based on Wine and additional components
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
@@ -2842,7 +2854,6 @@
 - [nezumisama/mpvmenu](https://github.com/nezumisama/mpvmenu) - A pop-up menu for mpv
 - [cyl0/ModernX](https://github.com/cyl0/ModernX) - A modern OSC UI replacement for MPV that retains the functionality of the default OSC.
 - [Tsubajashi/mpv-settings](https://github.com/Tsubajashi/mpv-settings) - basically my settings for MPV
-- [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [po5/memo](https://github.com/po5/memo) - A recent files menu for mpv
 - [po5/player-tracker](https://github.com/po5/player-tracker) - A tool that automatically updates various TV trackers while you're watching stuff.
 - [tomasklaen/uosc](https://github.com/tomasklaen/uosc) - Feature-rich minimalist proximity-based UI for MPV player.
@@ -3949,6 +3960,20 @@
 - [brootware/flarevm-up](https://github.com/brootware/flarevm-up) - Easy automated vagrant provisioning of Windows 10 with flarevm tools installed for Digital Forensics and Malware Analysis Lab.
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 
+## video 
+
+- [mardous/WhatSave](https://github.com/mardous/WhatSave) - Save WhatsApp statuses in the easiest way
+- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
+- [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
+- [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
+- [hankerspace/YASGU](https://github.com/hankerspace/YASGU) - YASGU : Youtube Automatised Shorts Generator And Uploader. YASGU is a tool to generate and upload Youtube Shorts videos automatically.
+- [Baldomo/open-in-mpv](https://github.com/Baldomo/open-in-mpv) - Simple web extension to open videos in mpv
+- [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
+- [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki, Status: https://uptime.viewtube.io
+- [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
+- [HatScripts/youtube-auto-liker](https://github.com/HatScripts/youtube-auto-liker) - A userscript that automatically likes 👍 each video you watch on YouTube ▶️
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
+
 ## vim 
 
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
@@ -4064,6 +4089,7 @@
 - [ElPumpo/TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - GeForce Experience sucks, this is the best open sourced AND lightweight NVIDIA GPU update checker.
 - [AlexSSD7/linsk](https://github.com/AlexSSD7/linsk) - 📂 Access Linux-native file systems (including LVM and LUKS) on Windows and macOS with help of a lightweight Alpine Linux VM. x86/ARM supported.
 - [mesquidar/ForensicsTools](https://github.com/mesquidar/ForensicsTools) - A list of free and open forensics analysis tools and other resources
+- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
