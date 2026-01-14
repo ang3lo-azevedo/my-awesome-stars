@@ -885,7 +885,6 @@
 - [sparklost/endcord](https://github.com/sparklost/endcord) - Feature rich Discord TUI client.
 - [hackermondev/discord-active-developer-badge](https://github.com/hackermondev/discord-active-developer-badge) - Simple script you can use to get the new Discord "Active Developer" badge
 - [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!
-- [rkrealizt/DiscordQuestCompleter](https://github.com/rkrealizt/DiscordQuestCompleter) - DiscordQuestCompleter is a simple script designed to help you automate completing Discord quests, such as streaming or playing games, to unlock rewards faster and more conveniently. It works seamlessl
 - [markterence/discord-quest-completer](https://github.com/markterence/discord-quest-completer) - A Windows desktop application to complete quests on Discord without installing the full actual games.
 - [gmpsankalpa/Complete-Recent-Discord-Quest](https://github.com/gmpsankalpa/Complete-Recent-Discord-Quest) - Complete Recent Discord Quest
 - [brunos3d/discord-enable-devtools](https://github.com/brunos3d/discord-enable-devtools) - 🚀 zx - Bring your Discord's devtools back to life (again)
@@ -1588,6 +1587,7 @@
 
 ## linux 
 
+- [abusoww/tuxmate](https://github.com/abusoww/tuxmate) - THE MISSING BULK APP INSTALLER FOR LINUX
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [anticitizn/creamlinux](https://github.com/anticitizn/creamlinux) - CreamAPI-like DLC unlocker for Linux
 - [LorenDB/kaon](https://github.com/LorenDB/kaon) - UEVR manager for games using Proton
@@ -2062,6 +2062,10 @@
 
 ## others 
 
+- [xddxdd/nix-cachyos-kernel](https://github.com/xddxdd/nix-cachyos-kernel) - CachyOS kernel for NixOS
+- [NPi2Loup/DOOM-3-BFG-VR](https://github.com/NPi2Loup/DOOM-3-BFG-VR) - Doom 3 BFG VR: Fully Possessed.   Doom 3 BFG with native Oculus Rift/Touch or OpenVR support
+- [KozGit/DOOM-3-BFG-VR](https://github.com/KozGit/DOOM-3-BFG-VR) - Doom 3 BFG VR: Fully Possessed.   Doom 3 BFG with native Oculus Rift/Touch or OpenVR support
+- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [dasJ/spotifywm](https://github.com/dasJ/spotifywm) - Set Spotify's WM_NAME before opening the window
 - [fholger/f4ovr_improvements](https://github.com/fholger/f4ovr_improvements) - Modified OpenVR DLL to trick FO4VR into believing the Index controllers are Touch controllers
 - [acidicoala/SmokeAPI](https://github.com/acidicoala/SmokeAPI) - Legit DLC Unlocker for Steamworks
@@ -3316,6 +3320,7 @@
 
 ## package-manager 
 
+- [abusoww/tuxmate](https://github.com/abusoww/tuxmate) - THE MISSING BULK APP INSTALLER FOR LINUX
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured
 - [nikstur/lon](https://github.com/nikstur/lon) - Lock & update Nix dependencies
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
@@ -3917,6 +3922,7 @@
 
 ## ubuntu 
 
+- [abusoww/tuxmate](https://github.com/abusoww/tuxmate) - THE MISSING BULK APP INSTALLER FOR LINUX
 - [Abyss-W4tcher/volatility3-symbols](https://github.com/Abyss-W4tcher/volatility3-symbols) - Collection of Linux and macOS Volatility3 Intermediate Symbol Files (ISF), suitable for memory analysis 🔍
 - [sh4r10/zen-browser-debian](https://github.com/sh4r10/zen-browser-debian) - Build/Download *.deb packages for the zen browser
 - [loeeeee/immich-in-lxc](https://github.com/loeeeee/immich-in-lxc) - Install Immich in LXC with optional CUDA support
@@ -4032,6 +4038,7 @@
 
 ## web 
 
+- [abusoww/tuxmate](https://github.com/abusoww/tuxmate) - THE MISSING BULK APP INSTALLER FOR LINUX
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [mayswind/AriaNg-Native](https://github.com/mayswind/AriaNg-Native) - A better aria2 desktop frontend than AriaNg, with all features of AriaNg and providing more features for desktop usage.
