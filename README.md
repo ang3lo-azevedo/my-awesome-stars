@@ -767,6 +767,7 @@
 
 ## cpp 
 
+- [praydog/UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4.8 - 5.4)
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Offline Minecraft launcher.
@@ -976,6 +977,7 @@
 
 ## dotfiles 
 
+- [anders130/dotfiles](https://github.com/anders130/dotfiles) - my dotfiles
 - [diogotcorreia/dotfiles](https://github.com/diogotcorreia/dotfiles) - Configuration for my NixOS systems
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
@@ -2070,6 +2072,10 @@
 
 ## others 
 
+- [Beyley/eepyxr](https://github.com/Beyley/eepyxr) - A Linux OpenXR overlay to help you sleep in VR
+- [MySelly/vendor_nothing_camera-spacewar](https://github.com/MySelly/vendor_nothing_camera-spacewar) - 
+- [smrth097/android_hardware_nothing](https://github.com/smrth097/android_hardware_nothing) - 
+- [chandradev28/streamed.app](https://github.com/chandradev28/streamed.app) - The Ultimate ALL-IN-ONE Streaming App (Movies, TV Shows & Hi-Fi Music)
 - [jacojayy/star](https://github.com/jacojayy/star) - star - An application that lets you run Windows applications via Wine and box64/86 on Android.
 - [jimzrt/apprenticeVr](https://github.com/jimzrt/apprenticeVr) - designed for managing and sideloading content onto Meta Quest devices
 - [ang3lo-azevedo/nix-proton-cachyos](https://github.com/ang3lo-azevedo/nix-proton-cachyos) - NixOS flake packaging for CachyOS Proton (https://github.com/CachyOS/proton-cachyos), a compatibility tool for Steam Play with CachyOS optimizations
@@ -3956,6 +3962,7 @@
 
 ## unity 
 
+- [Raicuparta/uuvr](https://github.com/Raicuparta/uuvr) - Universal VR mod for Unity games
 - [diodon-dev/diodon](https://github.com/diodon-dev/diodon) - Aiming to be the best integrated clipboard manager for the Unity desktop
 - [shishkabob27/CardWars](https://github.com/shishkabob27/CardWars) - A port of the "Adventure Time: Card Wars" mobile game to PC.
 - [dilmerv/OculusPassthroughWithHands](https://github.com/dilmerv/OculusPassthroughWithHands) - Testing passthrough with Hand Tracking and Hand Mesh generation
@@ -3963,6 +3970,7 @@
 
 ## unreal-engine 
 
+- [praydog/UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4.8 - 5.4)
 - [LorenDB/kaon](https://github.com/LorenDB/kaon) - UEVR manager for games using Proton
 - [TheNewJavaman/unreal-vr](https://github.com/TheNewJavaman/unreal-vr) - Adds virtual reality support to flatscreen Unreal Engine games
 
@@ -4003,6 +4011,8 @@
 
 ## virtual-reality 
 
+- [Raicuparta/uuvr](https://github.com/Raicuparta/uuvr) - Universal VR mod for Unity games
+- [praydog/UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4.8 - 5.4)
 - [Supreeeme/xrizer](https://github.com/Supreeeme/xrizer) - XR-ize your favorite OpenVR games
 - [LorenDB/kaon](https://github.com/LorenDB/kaon) - UEVR manager for games using Proton
 - [nix-community/nixpkgs-xr](https://github.com/nix-community/nixpkgs-xr) - Automated packages for XR/AR/VR tools and apps for NixOS [maintainer=@Scrumplex]
@@ -4023,7 +4033,7 @@
 
 ## vpn 
 
-- [HatsuneMikuUwU/MikuBoxForAndroid](https://github.com/HatsuneMikuUwU/MikuBoxForAndroid) - MikuBox for Android / sing-box / universal proxy toolchain for Android
+- [HatsuneMikuUwU/MikuBoxForAndroid](https://github.com/HatsuneMikuUwU/MikuBoxForAndroid) - MikuBox is based NekoBox with Miku UI and theme custom
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
 - [connerohnesorge/nordvpn-flake](https://github.com/connerohnesorge/nordvpn-flake) - unofficial nordvpn nixos flake providing the nordvpn cli as a package and a nixos-module for configuring nordvpn on systems.
 - [phirecc/wgnord](https://github.com/phirecc/wgnord) - A NordVPN Wireguard ("NordLynx") client in POSIX shell
