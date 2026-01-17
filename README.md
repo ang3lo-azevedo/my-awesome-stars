@@ -113,6 +113,7 @@
 - [jekyll](#jekyll)
 - [js](#js)
 - [kotlin](#kotlin)
+- [kubernetes](#kubernetes)
 - [language](#language)
 - [laravel](#laravel)
 - [library](#library)
@@ -197,6 +198,7 @@
 - [terminal](#terminal)
 - [termux](#termux)
 - [termux-hacking](#termux-hacking)
+- [terraform](#terraform)
 - [testing](#testing)
 - [text-to-speech](#text-to-speech)
 - [tui](#tui)
@@ -428,6 +430,7 @@
 
 ## ansible 
 
+- [ifd3f/infra](https://github.com/ifd3f/infra) - Personal cloud, dotfiles, and configurations omnirepo
 - [AlexNabokikh/windows-playbook](https://github.com/AlexNabokikh/windows-playbook) - Windows setup and configuration via Ansible.
 - [linuxpiper/ansible-arch-setup](https://github.com/linuxpiper/ansible-arch-setup) - Configure your Arch desktop and more using ansible
 - [id101010/ansible-archlinux](https://github.com/id101010/ansible-archlinux) - Automated arch linux desktop environment
@@ -481,6 +484,7 @@
 
 ## arduino 
 
+- [HadesVR/HadesVR](https://github.com/HadesVR/HadesVR) - The "DIY" SteamVR compatible VR setup made for tinkerers.
 - [lunokjod/watch](https://github.com/lunokjod/watch) - lunokWatch (lilygo twatch2020 series)
 - [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
 - [Xinyuan-LilyGO/TTGO_TWatch_Library](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library) - 
@@ -876,6 +880,7 @@
 
 ## devops 
 
+- [ifd3f/infra](https://github.com/ifd3f/infra) - Personal cloud, dotfiles, and configurations omnirepo
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification
@@ -919,6 +924,7 @@
 
 ## docker 
 
+- [ifd3f/infra](https://github.com/ifd3f/infra) - Personal cloud, dotfiles, and configurations omnirepo
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -977,6 +983,7 @@
 
 ## dotfiles 
 
+- [ifd3f/infra](https://github.com/ifd3f/infra) - Personal cloud, dotfiles, and configurations omnirepo
 - [anders130/dotfiles](https://github.com/anders130/dotfiles) - my dotfiles
 - [diogotcorreia/dotfiles](https://github.com/diogotcorreia/dotfiles) - Configuration for my NixOS systems
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
@@ -1578,6 +1585,10 @@
 - [2Ra66it/updater-for-spotify](https://github.com/2Ra66it/updater-for-spotify) - Updater For Spotify allows you to download the latest version of Spotify
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
 
+## kubernetes 
+
+- [ifd3f/infra](https://github.com/ifd3f/infra) - Personal cloud, dotfiles, and configurations omnirepo
+
 ## language 
 
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
@@ -2072,6 +2083,10 @@
 
 ## others 
 
+- [Mistyttm/nixpkgs-extra](https://github.com/Mistyttm/nixpkgs-extra) - Some extra packages I make for myself that I don't feel like upstreaming atm
+- [dmcke5/DIY_VR_Controllers](https://github.com/dmcke5/DIY_VR_Controllers) - A set of 3d Printed wireless controllers for use with the HadesVR ecosystem!
+- [AhmetCanArslan/ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) - Lightweight no root, no vpn firewall solution powered by Shizuku
+- [pyrohost/pyrodactyl](https://github.com/pyrohost/pyrodactyl) - Pyrodactyl is the Pterodactyl-based game server panel that's faster, smaller, safer, and more accessible than Pelican.
 - [Beyley/eepyxr](https://github.com/Beyley/eepyxr) - A Linux OpenXR overlay to help you sleep in VR
 - [MySelly/vendor_nothing_camera-spacewar](https://github.com/MySelly/vendor_nothing_camera-spacewar) - 
 - [smrth097/android_hardware_nothing](https://github.com/smrth097/android_hardware_nothing) - 
@@ -2324,8 +2339,7 @@
 - [nothing-sm7325/android_vendor_nothing_Spacewar](https://github.com/nothing-sm7325/android_vendor_nothing_Spacewar) - 
 - [Stremio/stremio-shell-ng](https://github.com/Stremio/stremio-shell-ng) - Stremio shell using WebView2/mpv, written in Rust
 - [VoltageOS/manifest](https://github.com/VoltageOS/manifest) - 
-- [SheoranPranshu/Building-Help](https://github.com/SheoranPranshu/Building-Help) - 
-- [SheoranPranshu/Building-Custom-Rom](https://github.com/SheoranPranshu/Building-Custom-Rom) - Scripts and Guide for making a custom rom.
+- [nullpointer1101/Building-Custom-Rom](https://github.com/nullpointer1101/Building-Custom-Rom) - Scripts and Guide for making a custom rom.
 - [LineageOS/android_kernel_nothing_sm8475](https://github.com/LineageOS/android_kernel_nothing_sm8475) - 
 - [ang3lo-azevedo/android_device_nothing_Spacewar](https://github.com/ang3lo-azevedo/android_device_nothing_Spacewar) - 
 - [StudioKeys/android_kernel_msm-5.4_nothing_sm7325](https://github.com/StudioKeys/android_kernel_msm-5.4_nothing_sm7325) - Kernel Source for NOTHING Phone(1)
@@ -3885,6 +3899,10 @@
 
 - [may215/awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools
 
+## terraform 
+
+- [ifd3f/infra](https://github.com/ifd3f/infra) - Personal cloud, dotfiles, and configurations omnirepo
+
 ## testing 
 
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
@@ -4011,6 +4029,7 @@
 
 ## virtual-reality 
 
+- [HadesVR/HadesVR](https://github.com/HadesVR/HadesVR) - The "DIY" SteamVR compatible VR setup made for tinkerers.
 - [Raicuparta/uuvr](https://github.com/Raicuparta/uuvr) - Universal VR mod for Unity games
 - [praydog/UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4.8 - 5.4)
 - [Supreeeme/xrizer](https://github.com/Supreeeme/xrizer) - XR-ize your favorite OpenVR games
