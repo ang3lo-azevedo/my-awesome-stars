@@ -266,6 +266,9 @@
 
 ## android 
 
+- [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
+- [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
+- [Ivorisnoob/TheMusicApp](https://github.com/Ivorisnoob/TheMusicApp) - A Material Expressive Music app for Android
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 - [nix-community/nix-on-droid-app](https://github.com/nix-community/nix-on-droid-app) - Run Nix package manager on Android. Based off Termux the terminal emulator, but not Termux the distro. [maintainer=@t184256]
 - [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
@@ -512,6 +515,7 @@
 
 ## automation 
 
+- [xhos/discord-quest-watcher](https://github.com/xhos/discord-quest-watcher) - receive notifications when new discord quests are released. filter for orb quests or monitor all quest types.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [AlexNabokikh/windows-playbook](https://github.com/AlexNabokikh/windows-playbook) - Windows setup and configuration via Ansible.
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
@@ -889,6 +893,7 @@
 
 ## discord 
 
+- [xhos/discord-quest-watcher](https://github.com/xhos/discord-quest-watcher) - receive notifications when new discord quests are released. filter for orb quests or monitor all quest types.
 - [nvckai/Discord-Web-Multi-Quest-Completer](https://github.com/nvckai/Discord-Web-Multi-Quest-Completer) - A Chrome extension that automatically completes multiple all Discord Quests
 - [FlameFlag/nixcord](https://github.com/FlameFlag/nixcord) - Declarative Vencord plugins + options
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
@@ -925,6 +930,7 @@
 
 ## docker 
 
+- [deinfreu/hytale-server-container](https://github.com/deinfreu/hytale-server-container) - hytale-server-container 📦 56.4MB (Alpine/Liberica) • Non-root • QUIC Enabled • Prod & Debug • Pterodactyl coming
 - [ifd3f/infra](https://github.com/ifd3f/infra) - Personal cloud, dotfiles, and configurations omnirepo
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
@@ -1201,6 +1207,7 @@
 
 ## gaming 
 
+- [Ketbome/hytale-server](https://github.com/Ketbome/hytale-server) - Docker image for Hytale dedicated server with web panel. Easy setup, auto-download, real-time console.
 - [keenanweaver/nix-config](https://github.com/keenanweaver/nix-config) - NixOS and home-manager config primarily for gaming
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix
 - [kimjongbing/nix-proton-cachyos](https://github.com/kimjongbing/nix-proton-cachyos) - NixOS flake packaging for CachyOS Proton (https://github.com/CachyOS/proton-cachyos), a compatibility tool for Steam Play with CachyOS optimizations
@@ -1253,6 +1260,7 @@
 
 ## golang 
 
+- [xhos/discord-quest-watcher](https://github.com/xhos/discord-quest-watcher) - receive notifications when new discord quests are released. filter for orb quests or monitor all quest types.
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
@@ -1494,6 +1502,7 @@
 
 ## java 
 
+- [Ketbome/hytale-server](https://github.com/Ketbome/hytale-server) - Docker image for Hytale dedicated server with web panel. Easy setup, auto-download, real-time console.
 - [tekgator/docker-mcmyadmin](https://github.com/tekgator/docker-mcmyadmin) - McMyAdmin control pannel for running a Java Minecraft server in all possible variants
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
@@ -1546,6 +1555,7 @@
 
 ## kotlin 
 
+- [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 - [mardous/WhatSave](https://github.com/mardous/WhatSave) - Save WhatsApp statuses in the easiest way
 - [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android
@@ -1836,6 +1846,7 @@
 
 ## material-design 
 
+- [Ivorisnoob/TheMusicApp](https://github.com/Ivorisnoob/TheMusicApp) - A Material Expressive Music app for Android
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 - [mostafaalagamy/Metrolist](https://github.com/mostafaalagamy/Metrolist) - YouTube Music client for Android
 - [Pool-Of-Tears/GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.
@@ -1864,6 +1875,7 @@
 
 ## minecraft 
 
+- [Ketbome/hytale-server](https://github.com/Ketbome/hytale-server) - Docker image for Hytale dedicated server with web panel. Easy setup, auto-download, real-time console.
 - [ZalithLauncher/ZalithLauncher2](https://github.com/ZalithLauncher/ZalithLauncher2) - A Minecraft: Java Edition Launcher for Android
 - [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
@@ -2087,6 +2099,7 @@
 
 ## others 
 
+- [Zhoros/Torranor](https://github.com/Zhoros/Torranor) - Download torrents DIRECTLY from your web browser, no torrent client needed!
 - [vic/import-tree](https://github.com/vic/import-tree) - Import all nix files in a directory tree.
 - [nix-community/haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for Nix [maintainer=@figsoda]
 - [Mistyttm/nixpkgs-extra](https://github.com/Mistyttm/nixpkgs-extra) - Some extra packages I make for myself that I don't feel like upstreaming atm
@@ -3737,6 +3750,7 @@
 
 ## self-hosted 
 
+- [xhos/discord-quest-watcher](https://github.com/xhos/discord-quest-watcher) - receive notifications when new discord quests are released. filter for orb quests or monitor all quest types.
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [TannerMidd/recommendarr](https://github.com/TannerMidd/recommendarr) - An LLM driven recommendation system based on Radarr and Sonarr library or watch history information
@@ -4198,6 +4212,7 @@
 
 ## youtube 
 
+- [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
 - [xlch88/YouTubeTweak](https://github.com/xlch88/YouTubeTweak) - Packed with all the features you want: lock video quality, speed buttons, show commenter names, auto-translate comments, hide distractions, and more.
 - [n-ce/ytify](https://github.com/n-ce/ytify) - Efficient YouTube Audio Streaming, Effortlessly, Anywhere.
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
