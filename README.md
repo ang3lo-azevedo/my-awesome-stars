@@ -269,6 +269,7 @@
 
 ## android 
 
+- [mlm-games/flicky](https://github.com/mlm-games/flicky) - Yet Another FDroid Client (wide screen / TV friendly)
 - [samyak2403/RepoStore](https://github.com/samyak2403/RepoStore) - Explore apps published on GitHub, view release details, and install APKs instantly — all in one place. Developed using pure Kotlin, optimized for modern Android devices.
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
@@ -1356,6 +1357,7 @@
 
 ## hacktoberfest 
 
+- [mlm-games/flicky](https://github.com/mlm-games/flicky) - Yet Another FDroid Client (wide screen / TV friendly)
 - [PixelCode01/UIBloatwareRegistry](https://github.com/PixelCode01/UIBloatwareRegistry) - Remove unwanted pre-installed apps from your Android phone without root access
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
@@ -2128,6 +2130,10 @@
 
 ## others 
 
+- [tsynik/LeanbackLauncher](https://github.com/tsynik/LeanbackLauncher) - Leanback on Fire - Google Leanback Launcher on steroids
+- [Alex-451/grayjay-media.ccc-plugin](https://github.com/Alex-451/grayjay-media.ccc-plugin) - 
+- [stefancruz/grayjay-plugin-preservetube](https://github.com/stefancruz/grayjay-plugin-preservetube) - 
+- [shiahonb777/web-to-app](https://github.com/shiahonb777/web-to-app) - A native Android application that converts any website URL into a standalone Android App.
 - [PhialsBasement/wine-adobe-installers](https://github.com/PhialsBasement/wine-adobe-installers) - Wine with a bit of extra spice
 - [webosbrew/webos-homebrew-channel](https://github.com/webosbrew/webos-homebrew-channel) - Unofficial webOS TV homebrew store and root-related tooling
 - [Garfield1002/pico-ducky-3.0](https://github.com/Garfield1002/pico-ducky-3.0) - Create a USB Rubber Ducky 3.0 like device using a Raspberry PI Pico
@@ -2222,6 +2228,8 @@
 - [bigelod/opentrackWXR](https://github.com/bigelod/opentrackWXR) - Conversion of the opentrack head tracking software for WinlatorXR's XrAPI
 - [NordSecurity/nordvpn-linux](https://github.com/NordSecurity/nordvpn-linux) - NordVPN Linux client
 - [Crementif/BotW-BetterVR](https://github.com/Crementif/BotW-BetterVR) - A project aimed at providing a better PC VR mode for BotW using the Cemu emulator
+- [afkarxyz/SpotiDownloader](https://github.com/afkarxyz/SpotiDownloader) - Get Spotify tracks in MP3 and FLAC via the spotidownloader.com API.
+- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
 - [Gerg-L/spicetify-nix](https://github.com/Gerg-L/spicetify-nix) - A nix library for modifying spotify with https://github.com/spicetify
 - [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VS Code Marketplace and Open VSX extensions [maintainers=@deemp, @ameertaweel]
 - [xddxdd/nix-kernelsu-builder](https://github.com/xddxdd/nix-kernelsu-builder) - A set of nix packages (derivations) to build Android boot.img and AnyKernel installation zip files for given kernel source code.
@@ -3768,7 +3776,6 @@
 - [stuxnet999/MemLabs](https://github.com/stuxnet999/MemLabs) - Educational, CTF-styled labs for individuals interested in Memory Forensics
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
 - [r4ph3cks/ctfs](https://github.com/r4ph3cks/ctfs) - A collection of Capture The Flag (CTF) challenges, writeups, and solutions from various cybersecurity competitions by r4ph3cks, a student CTF team from Portugal.
-- [ZG089/Re-Malwack](https://github.com/ZG089/Re-Malwack) - A fully-fledged ad-block module. Contains all your needs ✨
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [leohearts/AlternativeUnlockXposed](https://github.com/leohearts/AlternativeUnlockXposed) - Unlock your Android phone with an alternative PIN. (Xposed)
