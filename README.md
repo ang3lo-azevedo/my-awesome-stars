@@ -2227,7 +2227,7 @@
 - [KrispyKerabs/GuitarHero2recomp](https://github.com/KrispyKerabs/GuitarHero2recomp) - recomp files of guitar hero 2 executable obtained via xenon recomp, shared to promote preservation and public input to the project
 - [cschneegans/unattend-generator](https://github.com/cschneegans/unattend-generator) - .NET Core library to create highly customized autounattend.xml files
 - [downthecrop/Steam-OTP-Extractor](https://github.com/downthecrop/Steam-OTP-Extractor) - Extract the OTP keys used by the Steam Authenticator for use with alternative OTP managers (Bitwarden, FreeOTP+, LastPass, Microsoft Authenticator ect)
-- [bigelod/opentrackWXR](https://github.com/bigelod/opentrackWXR) - Conversion of the opentrack head tracking software for WinlatorXR's XrAPI
+- [WinlatorXR/opentrackWXR](https://github.com/WinlatorXR/opentrackWXR) - Conversion of the opentrack head tracking software for WinlatorXR's XrAPI
 - [NordSecurity/nordvpn-linux](https://github.com/NordSecurity/nordvpn-linux) - NordVPN Linux client
 - [Crementif/BotW-BetterVR](https://github.com/Crementif/BotW-BetterVR) - A project aimed at providing a better PC VR mode for BotW using the Cemu emulator
 - [afkarxyz/SpotiDownloader](https://github.com/afkarxyz/SpotiDownloader) - Get Spotify tracks in MP3 and FLAC via the spotidownloader.com API.
@@ -2540,12 +2540,12 @@
 - [streetwriters/notesnook-sync-server](https://github.com/streetwriters/notesnook-sync-server) - Sync server for Notesnook (self-hosting in alpha)
 - [DanGLVK/Hide-Navbar](https://github.com/DanGLVK/Hide-Navbar) - Hide Navbar
 - [ang3lo-azevedo/minecraft-docker-manager](https://github.com/ang3lo-azevedo/minecraft-docker-manager) - 
-- [bigelod/HaloCEWXR](https://github.com/bigelod/HaloCEWXR) - WinlatorXR API conversion of the VR conversion of the original PC version of Halo: Combat Evolved
+- [WinlatorXR/HaloCEWXR](https://github.com/WinlatorXR/HaloCEWXR) - WinlatorXR API conversion of the VR conversion of the original PC version of Halo: Combat Evolved
 - [bigelod/WinlatorXR](https://github.com/bigelod/WinlatorXR) - Winlator port for Meta Quest and Pico headsets.
 - [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
 - [MojoLauncher/MojoLauncher](https://github.com/MojoLauncher/MojoLauncher) - A Minecraft: Java Edition launcher, based on PojavLauncher
 - [Tornaco/Thanox](https://github.com/Tornaco/Thanox) - I am thanos! 😈 👌
-- [lvonasek/WinlatorXR](https://github.com/lvonasek/WinlatorXR) - Winlator port for Meta Quest, Pico and Play for Dream headsets.
+- [WinlatorXR/WinlatorXR](https://github.com/WinlatorXR/WinlatorXR) - Winlator port for Meta Quest, Pico and Play for Dream headsets.
 - [ente-io/privacypack](https://github.com/ente-io/privacypack) - Your privacy wins, in one card
 - [Ly-sec/dotfiles](https://github.com/Ly-sec/dotfiles) - Arch Dotfiles
 - [joric/bandersnatch](https://github.com/joric/bandersnatch) - Bandersnatch, HTML5 interactive version
