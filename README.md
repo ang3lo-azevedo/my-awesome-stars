@@ -271,6 +271,7 @@
 
 ## android 
 
+- [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
 - [mlm-games/flicky](https://github.com/mlm-games/flicky) - Yet Another FDroid Client (wide screen / TV friendly)
 - [samyak2403/RepoStore](https://github.com/samyak2403/RepoStore) - Explore apps published on GitHub, view release details, and install APKs instantly — all in one place. Developed using pure Kotlin, optimized for modern Android devices.
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
@@ -1583,6 +1584,7 @@
 
 ## kotlin 
 
+- [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
 - [samyak2403/RepoStore](https://github.com/samyak2403/RepoStore) - Explore apps published on GitHub, view release details, and install APKs instantly — all in one place. Developed using pure Kotlin, optimized for modern Android devices.
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
@@ -1887,6 +1889,7 @@
 
 ## material-design 
 
+- [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
 - [Ivorisnoob/TheMusicApp](https://github.com/Ivorisnoob/TheMusicApp) - A Material Expressive Music app for Android
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 - [mostafaalagamy/Metrolist](https://github.com/mostafaalagamy/Metrolist) - YouTube Music client for Android
@@ -3536,6 +3539,7 @@
 
 ## productivity 
 
+- [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
 - [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's terminal UI app - The ultimate weapon against brainrot
 - [johannesjo/linux-window-session-manager](https://github.com/johannesjo/linux-window-session-manager) - A tool to store and reload open windows and window positions for x11 desktops like unity and gnome.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
