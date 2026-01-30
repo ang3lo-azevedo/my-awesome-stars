@@ -1446,7 +1446,7 @@
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [hassio-addons/addon-adguard-home](https://github.com/hassio-addons/addon-adguard-home) - AdGuard Home - Home Assistant Community Add-ons
 - [hassio-addons/addon-pi-hole](https://github.com/hassio-addons/addon-pi-hole) - Pi-hole - Home Assistant Community Add-ons
-- [hassio-addons/addon-bitwarden](https://github.com/hassio-addons/addon-bitwarden) - Vaultwarden (Bitwarden) - Home Assistant Community Add-ons
+- [hassio-addons/app-vaultwarden](https://github.com/hassio-addons/app-vaultwarden) - Vaultwarden (Bitwarden) - Home Assistant Community App
 - [homeassistant-apps/app-cloudflared](https://github.com/homeassistant-apps/app-cloudflared) - Connect remotely to your Home Assistant instance without opening any ports using Cloudflared.
 - [lmagyar/homeassistant-addon-portainer](https://github.com/lmagyar/homeassistant-addon-portainer) - Makes available the deprecated Portainer add-on https://github.com/hassio-addons/addon-portainer
 - [hassio-addons/addon-nginx-proxy-manager](https://github.com/hassio-addons/addon-nginx-proxy-manager) - Nginx Proxy Manager - Home Assistant Community Add-ons
@@ -2155,6 +2155,7 @@
 
 ## others 
 
+- [smrth097/android_device_nothing_Spacewar](https://github.com/smrth097/android_device_nothing_Spacewar) - Device Tree for Nothing Phone (1)
 - [particle-box/PurrfectSnap](https://github.com/particle-box/PurrfectSnap) - A fork of Snapenhance made to meow your Snapchat experience. 😉
 - [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) - Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 - [WinlatorXR/HWXR-Release](https://github.com/WinlatorXR/HWXR-Release) - Release versions of the HWXR mod for Halo CE to be run on WinlatorXR
@@ -2338,7 +2339,7 @@
 - [JNightA/KitsuneMagisk-](https://github.com/JNightA/KitsuneMagisk-) - A fork of KitsuneMagisk. Thanks to the original author @HuskyDG.
 - [1q23lyc45/KitsuneMagisk](https://github.com/1q23lyc45/KitsuneMagisk) - A fork of KitsuneMagisk. Thanks to the original author @HuskyDG.
 - [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A tool that can share DeviceOwner permissions to other application.
-- [frknkrc44/HMA-OSS](https://github.com/frknkrc44/HMA-OSS) - A LSPosed module to hide your app list, settings, package installers and more. It is a fork of Hide My Applist project.
+- [frknkrc44/HMA-OSS](https://github.com/frknkrc44/HMA-OSS) - A ROOT REQUIRED LSPosed module to hide your app list, settings, package installers and more. It is a fork of Hide My Applist project.
 - [ArminJo/DigistumpArduino](https://github.com/ArminJo/DigistumpArduino) - Improved version of Digistump avr core for Arduino
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [ynsmroztas/NextRce](https://github.com/ynsmroztas/NextRce) - React Shell & Next.js RSC Exploit Tool (CVE-2025-55182)
