@@ -482,7 +482,7 @@
 - [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
 - [ashish-kus/waybar-minimal](https://github.com/ashish-kus/waybar-minimal) - A minimal kickstart configration for waybar.
 - [cybergaz/hyprconf](https://github.com/cybergaz/hyprconf) - hyprland configuration along with various other packages configs to call it a complete rice .... believe me when i say it's smooth af
-- [lvntcnylmz/dotfiles](https://github.com/lvntcnylmz/dotfiles) - Dotfiles of my Arch Linux
+- [lvntcnylmz/dotfiles](https://github.com/lvntcnylmz/dotfiles) - .dotfiles
 - [haxibami/dotfiles](https://github.com/haxibami/dotfiles) - my environment
 - [cxOrz/dotfiles-hyprland](https://github.com/cxOrz/dotfiles-hyprland) - Hyprland dotfiles on Arch Linux.
 - [AlexvZyl/.dotfiles](https://github.com/AlexvZyl/.dotfiles) - 🗃️ Configuration files/scripts for NixOS, Neovim, Tmux and friends.
@@ -698,7 +698,7 @@
 
 ## chrome 
 
-- [nvckai/Discord-Web-Multi-Quest-Completer](https://github.com/nvckai/Discord-Web-Multi-Quest-Completer) - A Chrome extension that automatically completes multiple all Discord Quests
+- [nvckai/Discord-Web-Auto-Quest-Extension](https://github.com/nvckai/Discord-Web-Auto-Quest-Extension) - A Chrome extension that automatically completes all Discord Quests
 - [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience
 - [JingMatrix/ChromeXt](https://github.com/JingMatrix/ChromeXt) - UserScript and DevTools supports for Chromium based and WebView based browsers
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
@@ -917,7 +917,7 @@
 ## discord 
 
 - [xhos/discord-quest-watcher](https://github.com/xhos/discord-quest-watcher) - receive notifications when new discord quests are released. filter for orb quests or monitor all quest types.
-- [nvckai/Discord-Web-Multi-Quest-Completer](https://github.com/nvckai/Discord-Web-Multi-Quest-Completer) - A Chrome extension that automatically completes multiple all Discord Quests
+- [nvckai/Discord-Web-Auto-Quest-Extension](https://github.com/nvckai/Discord-Web-Auto-Quest-Extension) - A Chrome extension that automatically completes all Discord Quests
 - [FlameFlag/nixcord](https://github.com/FlameFlag/nixcord) - Declarative Vencord plugins + options
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
 - [sparklost/endcord](https://github.com/sparklost/endcord) - Feature rich Discord TUI client.
@@ -1032,7 +1032,7 @@
 - [jcchikikomori/.dotfiles](https://github.com/jcchikikomori/.dotfiles) - Makes Configuration files easy as breeze!
 - [niksingh710/gdots](https://github.com/niksingh710/gdots) - The Graphical Interface that i Like to interact with. [Hyprland+Waybar+Much tools].
 - [mechakotik/dots](https://github.com/mechakotik/dots) - Minimal Hyprland + Waybar setup
-- [lvntcnylmz/dotfiles](https://github.com/lvntcnylmz/dotfiles) - Dotfiles of my Arch Linux
+- [lvntcnylmz/dotfiles](https://github.com/lvntcnylmz/dotfiles) - .dotfiles
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [haxibami/dotfiles](https://github.com/haxibami/dotfiles) - my environment
 - [LierB/dotfiles](https://github.com/LierB/dotfiles) - Hyprland Arch config based on pywal
@@ -1052,7 +1052,7 @@
 - [Nitestack/nix-config](https://github.com/Nitestack/nix-config) - Reproducible system configurations with Nix for NixOS (including WSL) and macOS (with nix-darwin)
 - [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles with a corporate-ish-level cleanliness
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles that does not use 100 bash scripts
 
 ## dotnet 
 
@@ -1226,6 +1226,7 @@
 
 ## games 
 
+- [Faugus/faugus-launcher](https://github.com/Faugus/faugus-launcher) - A simple and lightweight app for running Windows games using UMU-Launcher
 - [lunokjod/watch](https://github.com/lunokjod/watch) - lunokWatch (lilygo twatch2020 series)
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
@@ -1657,6 +1658,8 @@
 
 ## linux 
 
+- [Faugus/faugus-launcher](https://github.com/Faugus/faugus-launcher) - A simple and lightweight app for running Windows games using UMU-Launcher
+- [yuawn/Linux-Kernel-Exploitation](https://github.com/yuawn/Linux-Kernel-Exploitation) - Linux kernel module implementation & exploitation (pwn) labs.
 - [ikus060/minarca](https://github.com/ikus060/minarca) - Self-hosted opensource data backup for Linux, Windows and Mac. Git mirror of https://gitlab.com/ikus-soft/minarca
 - [ValveSoftware/SteamVR-for-Linux](https://github.com/ValveSoftware/SteamVR-for-Linux) - Issue tracker for the Linux port of SteamVR
 - [abusoww/tuxmate](https://github.com/abusoww/tuxmate) - THE MISSING BULK APP INSTALLER FOR LINUX
@@ -1737,7 +1740,7 @@
 - [byrantech/laptop](https://github.com/byrantech/laptop) - anyon_e, a highly integrated, high end, open source laptop. Attempt the impossible.
 - [mechakotik/dots](https://github.com/mechakotik/dots) - Minimal Hyprland + Waybar setup
 - [tymmesyde/Losange](https://github.com/tymmesyde/Losange) - A simple Stremio client for GNOME
-- [lvntcnylmz/dotfiles](https://github.com/lvntcnylmz/dotfiles) - Dotfiles of my Arch Linux
+- [lvntcnylmz/dotfiles](https://github.com/lvntcnylmz/dotfiles) - .dotfiles
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [tizonia/tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
@@ -1763,7 +1766,7 @@
 - [koeqaife/hyprland-material-you](https://github.com/koeqaife/hyprland-material-you) - Dynamic and elegant desktop setup inspired by Material You, featuring auto-generated colors, fluid animations, and customizable user experience.
 - [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install with the Dotfiles Installer app with setup scripts for Arc
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles with a corporate-ish-level cleanliness
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles that does not use 100 bash scripts
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [glaumar/QRookie](https://github.com/glaumar/QRookie) - Download and install Quest games from ROOKIE Public Mirror (like VRP Rookie Sideloader but for Linux and MacOS)
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web,
@@ -1906,7 +1909,7 @@
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [koeqaife/hyprland-material-you](https://github.com/koeqaife/hyprland-material-you) - Dynamic and elegant desktop setup inspired by Material You, featuring auto-generated colors, fluid animations, and customizable user experience.
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles with a corporate-ish-level cleanliness
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles that does not use 100 bash scripts
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
 - [FoedusProgramme/Gramophone](https://github.com/FoedusProgramme/Gramophone) - A sane music player built with media3 and material design library that is following android's standard strictly.
 - [BobbyESP/Jetispot](https://github.com/BobbyESP/Jetispot) - Unofficial Spotify client for Android built with Jetpack Compose, Material 3 and librespot-java. Fork ahead of Tayson's original repo. Read README!
@@ -2086,7 +2089,7 @@
 
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [jksalcedo/librefind](https://github.com/jksalcedo/librefind) - Discover and replace proprietary apps with FOSS alternatives
-- [nvckai/Discord-Web-Multi-Quest-Completer](https://github.com/nvckai/Discord-Web-Multi-Quest-Completer) - A Chrome extension that automatically completes multiple all Discord Quests
+- [nvckai/Discord-Web-Auto-Quest-Extension](https://github.com/nvckai/Discord-Web-Auto-Quest-Extension) - A Chrome extension that automatically completes all Discord Quests
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [jpdoshi/dragon-store](https://github.com/jpdoshi/dragon-store) - Dragon Store is your gateway to transparent, libre and free open-source apps.
 - [Harish-Srinivas-07/hivefy](https://github.com/Harish-Srinivas-07/hivefy) - Hivefy - Ad-free, offline-ready music streaming app with Spotify-style interface and JioSaavn API.
@@ -2155,6 +2158,9 @@
 
 ## others 
 
+- [elliotttate/OpenXR-Simulator](https://github.com/elliotttate/OpenXR-Simulator) - A lightweight OpenXR runtime for desktop VR preview without physical headset
+- [VoltageOS/vendor_voltage](https://github.com/VoltageOS/vendor_voltage) - 
+- [William24hmar/android_kernel_nothing_sm7325](https://github.com/William24hmar/android_kernel_nothing_sm7325) - 
 - [smrth097/android_device_nothing_Spacewar](https://github.com/smrth097/android_device_nothing_Spacewar) - Device Tree for Nothing Phone (1)
 - [particle-box/PurrfectSnap](https://github.com/particle-box/PurrfectSnap) - A fork of Snapenhance made to meow your Snapchat experience. 😉
 - [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) - Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
@@ -2167,7 +2173,7 @@
 - [PhialsBasement/wine-adobe-installers](https://github.com/PhialsBasement/wine-adobe-installers) - Wine with a bit of extra spice
 - [webosbrew/webos-homebrew-channel](https://github.com/webosbrew/webos-homebrew-channel) - Unofficial webOS TV homebrew store and root-related tooling
 - [Garfield1002/pico-ducky-3.0](https://github.com/Garfield1002/pico-ducky-3.0) - Create a USB Rubber Ducky 3.0 like device using a Raspberry PI Pico
-- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) - Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  AniList, MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.
+- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) - Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  AniList, TMDb, MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [msanft/ida-pro-overlay](https://github.com/msanft/ida-pro-overlay) - Nix flake for IDA Pro
 - [NixOS/nix-idea](https://github.com/NixOS/nix-idea) - Nix plugin for the IntelliJ IDEA IDE
 - [rodrig20/hyprdots](https://github.com/rodrig20/hyprdots) - Usability-first dotfiles with a corporate-ish-level cleanliness
@@ -3799,6 +3805,7 @@
 
 ## security 
 
+- [yuawn/Linux-Kernel-Exploitation](https://github.com/yuawn/Linux-Kernel-Exploitation) - Linux kernel module implementation & exploitation (pwn) labs.
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [redpwn/jail](https://github.com/redpwn/jail) - An nsjail Docker image for CTF pwnables. Easily create secure, isolated xinetd/inetd-style services.
