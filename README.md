@@ -91,6 +91,7 @@
 - [golang](#golang)
 - [good-first-issue](#good-first-issue)
 - [google](#google)
+- [google-cloud](#google-cloud)
 - [gui](#gui)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
@@ -183,6 +184,7 @@
 - [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
 - [server](#server)
+- [serverless](#serverless)
 - [shell](#shell)
 - [software](#software)
 - [spring-boot](#spring-boot)
@@ -607,10 +609,12 @@
 
 ## aws 
 
+- [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 
 ## azure 
 
+- [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 
 ## backend 
@@ -752,6 +756,7 @@
 
 ## cloud 
 
+- [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [neitsab/awesome-oracle-cloud-free-tier](https://github.com/neitsab/awesome-oracle-cloud-free-tier) - Curated list of awesome resources to make the best out of Oracle Cloud Infrastructure Free Tier
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [dadatuputi/bitwarden_gcloud](https://github.com/dadatuputi/bitwarden_gcloud) - Bitwarden installation optimized for Google Cloud's 'always free' e2-micro compute instance
@@ -1330,6 +1335,10 @@
 - [ssnjr2002/stremio-gdrive](https://github.com/ssnjr2002/stremio-gdrive) - Stremio addon for fetching videos from your google drive.
 - [jacopotediosi/GAppsMod](https://github.com/jacopotediosi/GAppsMod) - Tweak Google apps (e.g., Phone and Messages) to unlock hidden features (e.g., available only in some countries or on certain devices). Root is required.
 
+## google-cloud 
+
+- [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
+
 ## gui 
 
 - [xob0t/gotohp](https://github.com/xob0t/gotohp) - Unofficial Google Photos Desktop GUI Client
@@ -1367,6 +1376,7 @@
 
 ## hacktoberfest 
 
+- [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [mlm-games/flicky](https://github.com/mlm-games/flicky) - Yet Another FDroid Client (wide screen / TV friendly)
 - [PixelCode01/UIBloatwareRegistry](https://github.com/PixelCode01/UIBloatwareRegistry) - Remove unwanted pre-installed apps from your Android phone without root access
@@ -2160,12 +2170,20 @@
 
 ## others 
 
+- [Rares6567/NothingXpert](https://github.com/Rares6567/NothingXpert) - 
+- [smrth097/kernel_nothing_sm7325](https://github.com/smrth097/kernel_nothing_sm7325) - 
+- [ang3lo-azevedo/android_hardware_nothing](https://github.com/ang3lo-azevedo/android_hardware_nothing) - 
+- [ang3lo-azevedo/android_kernel_nothing_sm7325](https://github.com/ang3lo-azevedo/android_kernel_nothing_sm7325) - 
+- [ang3lo-azevedo/proprietary_vendor_nothing_Spacewar](https://github.com/ang3lo-azevedo/proprietary_vendor_nothing_Spacewar) - Vendor Tree for Nothing Phone (1)
+- [smrth097/proprietary_vendor_nothing_Spacewar](https://github.com/smrth097/proprietary_vendor_nothing_Spacewar) - Vendor Tree for Nothing Phone (1)
+- [luyanci/Android-Builder](https://github.com/luyanci/Android-Builder) - Automaticcaly build android kernel by github actions.
+- [Mrjam22/vmware-vmmon-vmnet-linux-6.18.x](https://github.com/Mrjam22/vmware-vmmon-vmnet-linux-6.18.x) - VMware Workstation modules patches for Linux kernel 6.18.x
 - [aarshps/varisankya-android](https://github.com/aarshps/varisankya-android) - 
 - [elliotttate/OpenXR-Simulator](https://github.com/elliotttate/OpenXR-Simulator) - A lightweight OpenXR runtime for desktop VR preview without physical headset
 - [VoltageOS/vendor_voltage](https://github.com/VoltageOS/vendor_voltage) - 
 - [William24hmar/android_kernel_nothing_sm7325](https://github.com/William24hmar/android_kernel_nothing_sm7325) - 
 - [smrth097/android_device_nothing_Spacewar](https://github.com/smrth097/android_device_nothing_Spacewar) - Device Tree for Nothing Phone (1)
-- [particle-box/PurrfectSnap](https://github.com/particle-box/PurrfectSnap) - A fork of Snapenhance made to meow your Snapchat experience. 😉
+- [particle-box/PurrfectSnap](https://github.com/particle-box/PurrfectSnap) - A fork of SnapEnhance made to meow your Snapchat experience. 😉
 - [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) - Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 - [WinlatorXR/HWXR-Release](https://github.com/WinlatorXR/HWXR-Release) - Release versions of the HWXR mod for Halo CE to be run on WinlatorXR
 - [iamneur0/syncio](https://github.com/iamneur0/syncio) - 
@@ -2224,7 +2242,7 @@
 - [jacopone/code-cursor-nix](https://github.com/jacopone/code-cursor-nix) - Auto-updating Nix package for Cursor AI editor with browser automation (Playwright/Puppeteer/Selenium). Updates 3x/week. Chrome bundled for NixOS testing.
 - [RPISEC/MBE](https://github.com/RPISEC/MBE) - Course materials for Modern Binary Exploitation by RPISEC
 - [MulesGaming/brave-debloatinator](https://github.com/MulesGaming/brave-debloatinator) - Removes unessasary bloat from Brave Browser.
-- [shuknuk/zentreeTabs](https://github.com/shuknuk/zentreeTabs) - 
+- [shuknuk/zentreeTabs](https://github.com/shuknuk/zentreeTabs) - ZenTree Tabs
 - [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
 - [anbud/DroidDucky](https://github.com/anbud/DroidDucky) - SImple duckyscript interpreter in Bash.
 - [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri
@@ -2406,10 +2424,8 @@
 - [Xposed-Modules-Repo/top.rainfall.kernelsuext](https://github.com/Xposed-Modules-Repo/top.rainfall.kernelsuext) - KernelSUExt
 - [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
 - [Producdevity/gamehub-lite](https://github.com/Producdevity/gamehub-lite) - GameHub Lite is a community-maintained modified version of GameHub for education purposes
-- [ang3lo-azevedo/android_kernel_nothing_sm7325](https://github.com/ang3lo-azevedo/android_kernel_nothing_sm7325) - Testing-
 - [spike0en/nothing_flasher](https://github.com/spike0en/nothing_flasher) - A collection of fastboot flashing scripts to flash stock & custom firmware for Nothing & CMF Devices.
 - [theNetworkChuck/dark-web-scraping-guide](https://github.com/theNetworkChuck/dark-web-scraping-guide) - Comprehensive guide for NetworkChuck Episode 480 - Robin AI Dark Web Scraping Tool. Installation, usage, safety guidelines, and troubleshooting for educational security research.
-- [ang3lo-azevedo/proprietary_vendor_nothing_Spacewar](https://github.com/ang3lo-azevedo/proprietary_vendor_nothing_Spacewar) - 
 - [lineageos4microg/docker-lineage-cicd](https://github.com/lineageos4microg/docker-lineage-cicd) - Docker microservice for LineageOS Continuous Integration and Continous Deployment
 - [King-Kernel/AnyKernel3](https://github.com/King-Kernel/AnyKernel3) - Repository to create flashable zip files by osm0sis. Do not clone this. Instead init the submodule from the kernel source
 - [ar37-rs/winlator_mali](https://github.com/ar37-rs/winlator_mali) - Android application for running Windows applications with Wine and Box86/Box64
@@ -2430,7 +2446,6 @@
 - [crdroidandroid/proprietary_vendor_nothing_Spacewar](https://github.com/crdroidandroid/proprietary_vendor_nothing_Spacewar) - 
 - [DreamMaoMao/mangowc](https://github.com/DreamMaoMao/mangowc) - wayland compositor base wlroots and scenefx(dwm but wayland)
 - [pedromigueladao/SSof](https://github.com/pedromigueladao/SSof) - Public Repo for Software Security Course@IST
-- [ang3lo-azevedo/android_hardware_nothing](https://github.com/ang3lo-azevedo/android_hardware_nothing) - 
 - [LineageOS/android_hardware_nothing](https://github.com/LineageOS/android_hardware_nothing) - 
 - [pedromigueladao/SSof-Project1920](https://github.com/pedromigueladao/SSof-Project1920) - Community Repository for Testing the Projects of the Software Security course 2019/20
 - [eribbey/dlhd-proxy](https://github.com/eribbey/dlhd-proxy) - A self-hosted IPTV proxy for DLHD using Docker. Adds channel guide info for IPTV clients among other features.
@@ -2727,7 +2742,7 @@
 - [r3ber/BD_Projeto](https://github.com/r3ber/BD_Projeto) - Projeto de Base de Dados - Sistema de Gestão de uma Universidade
 - [tiagosouzacandido/AdrenoToolsTurnipDrivers](https://github.com/tiagosouzacandido/AdrenoToolsTurnipDrivers) - 
 - [ProtonMail/proton-bridge](https://github.com/ProtonMail/proton-bridge) - Proton Mail Bridge application
-- [pflyly/eden-nightly](https://github.com/pflyly/eden-nightly) - Unofficial nightly release of Eden Emulator. This repository is not affiliated with the official Eden development team. It exists solely to provide an easy way for users to try out the latest features
+- [pflyly/eden-nightly](https://github.com/pflyly/eden-nightly) - 
 - [morckx/RadioDroid](https://github.com/morckx/RadioDroid) - radio browser app that uses www.radio-browser.info on android
 - [martoreto/aauto-sdk-demo](https://github.com/martoreto/aauto-sdk-demo) - Android Auto SDK Demo App
 - [slashmax/aauto-sdk](https://github.com/slashmax/aauto-sdk) - Unofficial Android Auto SDK
@@ -3500,6 +3515,7 @@
 
 ## postgresql 
 
+- [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -3590,6 +3606,7 @@
 
 ## python 
 
+- [FreeNetLabs/BugScanX](https://github.com/FreeNetLabs/BugScanX) - bughost scanner
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API (Don't need API KEY) (ChatGPT, Claude, DeeepSeek, Grok and more)
 - [HanaokaYuzu/Gemini-API](https://github.com/HanaokaYuzu/Gemini-API) - ✨ Reverse-engineered Python API for Google Gemini web app
 - [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's terminal UI app - The ultimate weapon against brainrot
@@ -3644,6 +3661,7 @@
 
 ## python3 
 
+- [miyurudassanayake/sni-injector](https://github.com/miyurudassanayake/sni-injector) - SNI Injecting tool for free internet (HTTP Injector)
 - [SageTendo/mal-stremio-addon](https://github.com/SageTendo/mal-stremio-addon) - A Stremio addon which allows users to access their anime lists through the MyAnimeList API, directly from within Stremio. With this addon, users can easily keep track of the content they've watched/pl
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
@@ -3879,6 +3897,10 @@
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
+
+## serverless 
+
+- [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 
 ## shell 
 
