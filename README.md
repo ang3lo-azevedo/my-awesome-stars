@@ -237,6 +237,7 @@
 
 ## agent 
 
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for Linux server, making it easy to manage OpenClaw agents, LLMs, websites, databases, containers, files, and scheduled tasks.
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
 
@@ -274,6 +275,9 @@
 
 ## android 
 
+- [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
+- [rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE) - BRENE - A SuSFS/KernelSU module for SuSFS patched kernels
+- [rajmani7584/Payload-Dumper-Android](https://github.com/rajmani7584/Payload-Dumper-Android) - Payload Dumper App for Android. Extract boot.img or any other partitions (images) from OTA.zip or payload.bin without PC
 - [TheROMMER/core](https://github.com/TheROMMER/core) - A powerful tool designed to customize Android ROM ZIP files without building from source.
 - [Nandanrmenon/florid](https://github.com/Nandanrmenon/florid) - F-Droid Client
 - [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
@@ -312,6 +316,7 @@
 - [Crazyphil/digitales-amt-liberator](https://github.com/Crazyphil/digitales-amt-liberator) - Removes root and bootloader checks from e-government apps
 - [JingMatrix/ChromeXt](https://github.com/JingMatrix/ChromeXt) - UserScript and DevTools supports for Chromium based and WebView based browsers
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
+- [WinlatorXR/WinlatorXR](https://github.com/WinlatorXR/WinlatorXR) - Windows apps/games emulator for standalone OpenXR headsets.
 - [JingMatrix/PlayIntegrityFix](https://github.com/JingMatrix/PlayIntegrityFix) - Spoof bootloader property (Android OS layer only) and Play Integrity verdict
 - [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project.
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
@@ -959,6 +964,7 @@
 
 ## docker 
 
+- [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
 - [deinfreu/hytale-server-container](https://github.com/deinfreu/hytale-server-container) - hytale-server-container 📦 56.4MB (Alpine/Liberica) • Non-root • QUIC Enabled • Prod & Debug • Pterodactyl coming
 - [ifd3f/infra](https://github.com/ifd3f/infra) - Personal cloud, dotfiles, and configurations omnirepo
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
@@ -983,7 +989,7 @@
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for Linux server, making it easy to manage OpenClaw agents, LLMs, websites, databases, containers, files, and scheduled tasks.
 - [tsaridas/stremio-docker](https://github.com/tsaridas/stremio-docker) - Docker files for easy stremio server and client. Images pushed to Dockerhub
 - [TeamPiped/Piped-Backend](https://github.com/TeamPiped/Piped-Backend) - The core component behind Piped, and other alternative frontends!
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -1604,6 +1610,8 @@
 
 ## kotlin 
 
+- [koiverse/ArchiveTune](https://github.com/koiverse/ArchiveTune) - The cutest Material 3 Expressive music streaming client for Android, built for performance and extensibility.
+- [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
 - [jksalcedo/librefind](https://github.com/jksalcedo/librefind) - Discover and replace proprietary apps with FOSS alternatives
 - [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
 - [samyak2403/RepoStore](https://github.com/samyak2403/RepoStore) - Explore apps published on GitHub, view release details, and install APKs instantly — all in one place. Developed using pure Kotlin, optimized for modern Android devices.
@@ -1737,7 +1745,7 @@
 - [ang3lo-azevedo/dotfiles](https://github.com/ang3lo-azevedo/dotfiles) - My personal dotfiles
 - [calamares/calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for Linux server, making it easy to manage OpenClaw agents, LLMs, websites, databases, containers, files, and scheduled tasks.
 - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [mtkusbdevice/hyprland-hdready](https://github.com/mtkusbdevice/hyprland-hdready) - Collection of dot config files for hyprland for HDReady displays with a simple install script for a fresh Arch linux with yay
@@ -1777,7 +1785,7 @@
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [koeqaife/hyprland-material-you](https://github.com/koeqaife/hyprland-material-you) - Dynamic and elegant desktop setup inspired by Material You, featuring auto-generated colors, fluid animations, and customizable user experience.
 - [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
-- [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install with the Dotfiles Installer app with setup scripts for Arc
+- [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install from a Live ISO or with the Dotfiles Installer app wi
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles that does not use 100 bash scripts
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [glaumar/QRookie](https://github.com/glaumar/QRookie) - Download and install Quest games from ROOKIE Public Mirror (like VRP Rookie Sideloader but for Linux and MacOS)
@@ -2170,6 +2178,15 @@
 
 ## others 
 
+- [sunmeplz/xray-3x-ui](https://github.com/sunmeplz/xray-3x-ui) - NixOS module for 3x-ui Xray panel
+- [DaViDev985/device_nothing_Spacewar](https://github.com/DaViDev985/device_nothing_Spacewar) - New DerpFest device tree for Nothing Phone (1) (Spacewar). Forked from LineageOS. ⚠️ Force push warning
+- [rxappdev/MouseTiler](https://github.com/rxappdev/MouseTiler) - The fastest, simplest tiler for KDE Plasma 6+ that gives you full freedom at your fingertip. No need to remember dozens of keyboard shortcuts or be limited by a fixed tile layout.
+- [VoltageOS/android_vendor_voltageota](https://github.com/VoltageOS/android_vendor_voltageota) - 
+- [StudioKeys-Dumps/proprietary_vendor_nothing_Spacewar](https://github.com/StudioKeys-Dumps/proprietary_vendor_nothing_Spacewar) - 
+- [StudioKeys-Dumps/kernel_nothing_sm7325](https://github.com/StudioKeys-Dumps/kernel_nothing_sm7325) - 
+- [StudioKeys-Dumps/hardware_nothing](https://github.com/StudioKeys-Dumps/hardware_nothing) - 
+- [derekantrican/GAS-ICS-Sync](https://github.com/derekantrican/GAS-ICS-Sync) - A Google Apps Script for syncing ICS/ICAL files faster than the current Google Calendar speed
+- [exos/DeHash](https://github.com/exos/DeHash) - Search hashes in various sites
 - [Rares6567/NothingXpert](https://github.com/Rares6567/NothingXpert) - 
 - [smrth097/kernel_nothing_sm7325](https://github.com/smrth097/kernel_nothing_sm7325) - 
 - [ang3lo-azevedo/android_hardware_nothing](https://github.com/ang3lo-azevedo/android_hardware_nothing) - 
@@ -2380,7 +2397,7 @@
 - [Xh4H/WhatsApp-device-activity-tracker](https://github.com/Xh4H/WhatsApp-device-activity-tracker) - 
 - [RenwaX23/XSS-Payloads](https://github.com/RenwaX23/XSS-Payloads) - List of XSS Vectors/Payloads
 - [vvb2060/KeyAttestation](https://github.com/vvb2060/KeyAttestation) - 
-- [corentin-c/SpotifyAutoPatcher](https://github.com/corentin-c/SpotifyAutoPatcher) - Android app to patch Spotify combining the powers of AntiSplit-M and ReVanced Manager !
+- [corentin-c/SpotifyAutoPatcher](https://github.com/corentin-c/SpotifyAutoPatcher) - Android app to patch Spotify and Youtube Music combining the powers of AntiSplit-M and ReVanced Manager !
 - [Natanji/whatsapp-privacy-version](https://github.com/Natanji/whatsapp-privacy-version) - A collection of scripts to build a more privacy-aware WhatsApp version that doesn't leak your contact information.
 - [DPR-MoonWake/moonwake_kernel_xiaomi_ruby](https://github.com/DPR-MoonWake/moonwake_kernel_xiaomi_ruby) - [MoonWake] Redmi Note 12 pro 5G (ruby) kernel specify for powersave
 - [morphiusnick-hub/moonwake_kernel_xiaomi_ruby](https://github.com/morphiusnick-hub/moonwake_kernel_xiaomi_ruby) - [MoonWake] Redmi Note 12 pro 5G (ruby) kernel specify for powersave
@@ -2596,7 +2613,6 @@
 - [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
 - [MojoLauncher/MojoLauncher](https://github.com/MojoLauncher/MojoLauncher) - A Minecraft: Java Edition launcher, based on PojavLauncher
 - [Tornaco/Thanox](https://github.com/Tornaco/Thanox) - I am thanos! 😈 👌
-- [WinlatorXR/WinlatorXR](https://github.com/WinlatorXR/WinlatorXR) - Winlator port for Meta Quest, Pico and Play for Dream headsets.
 - [ente-io/privacypack](https://github.com/ente-io/privacypack) - Your privacy wins, in one card
 - [Ly-sec/dotfiles](https://github.com/Ly-sec/dotfiles) - Arch Dotfiles
 - [joric/bandersnatch](https://github.com/joric/bandersnatch) - Bandersnatch, HTML5 interactive version
@@ -4303,7 +4319,7 @@
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
 - [GrieferAtWork/wintouchg](https://github.com/GrieferAtWork/wintouchg) - Windows Touch Gestures
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom) - Spicetify theme inspired by Microsoft's Fluent Design, Always up-to-date!, A Powerful Theme to Calm your Eyes While Listening to Your Favorite Beats
 - [xyou365/AutoRclone](https://github.com/xyou365/AutoRclone) - AutoRclone: rclone copy/move/sync (automatically) with thousands of service accounts
 - [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
