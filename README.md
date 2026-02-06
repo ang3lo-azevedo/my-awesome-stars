@@ -1475,7 +1475,7 @@
 ## home-assistant 
 
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
-- [hassio-addons/addon-adguard-home](https://github.com/hassio-addons/addon-adguard-home) - AdGuard Home - Home Assistant Community Add-ons
+- [hassio-addons/app-adguard-home](https://github.com/hassio-addons/app-adguard-home) - AdGuard Home - Home Assistant Community Apps
 - [hassio-addons/addon-pi-hole](https://github.com/hassio-addons/addon-pi-hole) - Pi-hole - Home Assistant Community Add-ons
 - [hassio-addons/app-vaultwarden](https://github.com/hassio-addons/app-vaultwarden) - Vaultwarden (Bitwarden) - Home Assistant Community App
 - [homeassistant-apps/app-cloudflared](https://github.com/homeassistant-apps/app-cloudflared) - Connect remotely to your Home Assistant instance without opening any ports using Cloudflared.
@@ -1484,6 +1484,7 @@
 
 ## homebrew 
 
+- [HamletDuFromage/aio-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater) - Update your CFW, cheat codes, firmwares and more directly from your Nintendo Switch!
 - [ITotalJustice/sphaira](https://github.com/ITotalJustice/sphaira) - A homebrew menu for the Nintendo Switch
 - [fortheusers/hb-appstore](https://github.com/fortheusers/hb-appstore) - Homebrew App Store - GUI for downloading/managing homebrew apps
 - [a1ex4/ownfoil](https://github.com/a1ex4/ownfoil) - Switch library manager, with a self-hosted Tinfoil Shop.
@@ -2204,6 +2205,14 @@
 
 ## others 
 
+- [Ultra-NX/Ultra-Tuner](https://github.com/Ultra-NX/Ultra-Tuner) - 
+- [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX) - 
+- [mlemiam/Vanillatmosphere](https://github.com/mlemiam/Vanillatmosphere) - A truly atmosphere cfw vanilla pack for the Nintendo switch
+- [Gheovgos/melonDS](https://github.com/Gheovgos/melonDS) - DS emulator, sorta
+- [impeeza/sys-patch](https://github.com/impeeza/sys-patch) - A script-like system module that patches fs, es, ldr and nifm on boot
+- [switchbrew/nx-hbloader](https://github.com/switchbrew/nx-hbloader) - Host process for loading Switch homebrew NROs
+- [carcaschoi/tinfoil-json](https://github.com/carcaschoi/tinfoil-json) - 
+- [melogabriel/tinfoil-shops](https://github.com/melogabriel/tinfoil-shops) - Repository with list of links to active and working tinfoil shops for Nintendo Switch.
 - [ajmandourah/tinshop-ng](https://github.com/ajmandourah/tinshop-ng) - A next generation version of tinshop server for tinfoil originally by DBlK
 - [rashevskyv/dbi](https://github.com/rashevskyv/dbi) - Author is duckbill
 - [ravindu644/Android-Kernel-Tutorials](https://github.com/ravindu644/Android-Kernel-Tutorials) - Kernel building tutorials for Any device for newbies..! 🎉
