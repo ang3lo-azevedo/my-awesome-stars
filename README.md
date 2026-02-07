@@ -1339,6 +1339,7 @@
 
 ## google 
 
+- [nextcloud/integration_google](https://github.com/nextcloud/integration_google) - 🇬 Google integration into Nextcloud
 - [HanaokaYuzu/Gemini-API](https://github.com/HanaokaYuzu/Gemini-API) - ✨ Reverse-engineered Python API for Google Gemini web app
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
@@ -1393,6 +1394,7 @@
 
 ## hacktoberfest 
 
+- [cobalt2727/L4T-Megascript](https://github.com/cobalt2727/L4T-Megascript) - All-in-one installer and updater for popular programs on L4T Ubuntu/Fedora with no prior knowledge of Linux needed
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
 - [XorTroll/Goldleaf](https://github.com/XorTroll/Goldleaf) - 🍂 Multipurpose homebrew tool for Nintendo Switch
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
@@ -1974,6 +1976,7 @@
 
 ## minecraft 
 
+- [cobalt2727/L4T-Megascript](https://github.com/cobalt2727/L4T-Megascript) - All-in-one installer and updater for popular programs on L4T Ubuntu/Fedora with no prior knowledge of Linux needed
 - [Ketbome/hytalepanel](https://github.com/Ketbome/hytalepanel) - Docker image for Hytale dedicated server with web panel. Easy setup, auto-download, real-time console.
 - [ZalithLauncher/ZalithLauncher2](https://github.com/ZalithLauncher/ZalithLauncher2) - A Minecraft: Java Edition Launcher for Android
 - [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft
@@ -2205,6 +2208,13 @@
 
 ## others 
 
+- [0xGuigui/Katoolin3](https://github.com/0xGuigui/Katoolin3) - Automatically install all Kali linux tools
+- [joanasesinando/gerador-horarios-ist](https://github.com/joanasesinando/gerador-horarios-ist) - 🕓 A schedule generator for Instituto Superior Técnico (IST)'s students.
+- [LionSec/katoolin](https://github.com/LionSec/katoolin) - Automatically install all Kali linux tools
+- [oddsolutions/sabrina-unlock](https://github.com/oddsolutions/sabrina-unlock) - Chromecast with Google TV (4K) "sabrina" - Persistent Secure-Boot Bypass Exploit Chain
+- [MarcelRobitaille/nextcloud_google_synchronization](https://github.com/MarcelRobitaille/nextcloud_google_synchronization) - 🇬 Google integration into Nextcloud
+- [WiiPlayer2/switchroot-nixos](https://github.com/WiiPlayer2/switchroot-nixos) - A nix flake for running NixOS on the Nintendo Switch
+- [nyawox/nixtendo-switch](https://github.com/nyawox/nixtendo-switch) - NixOS module with some useful features for hacked nintendo switch
 - [Ultra-NX/Ultra-Tuner](https://github.com/Ultra-NX/Ultra-Tuner) - 
 - [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX) - 
 - [mlemiam/Vanillatmosphere](https://github.com/mlemiam/Vanillatmosphere) - A truly atmosphere cfw vanilla pack for the Nintendo switch
@@ -2485,7 +2495,6 @@
 - [3ct0s/whatsapp_hack](https://github.com/3ct0s/whatsapp_hack) - Leak Public IP from victim caller.
 - [chsbuffer/ReVancedXposed_Spotify](https://github.com/chsbuffer/ReVancedXposed_Spotify) - 
 - [DeathgamerB/OFRP-device_nothing_Spacewar](https://github.com/DeathgamerB/OFRP-device_nothing_Spacewar) - 
-- [neonmodder123/spacewar-recoveries](https://github.com/neonmodder123/spacewar-recoveries) - Test to revive OrangeFox back for the Nothing Phone 1 Spacewar
 - [gmankab/orangefox_device_nothing_Spacewar](https://github.com/gmankab/orangefox_device_nothing_Spacewar) - forked from https://github.com/DeathgamerB/OFRP-device_nothing_Spacewar
 - [nyxalune/twrp_device_nothing_Spacewar](https://github.com/nyxalune/twrp_device_nothing_Spacewar) - forked from https://github.com/DeathgamerB/OFRP-device_nothing_Spacewar
 - [croccio/Android-Auto-Store](https://github.com/croccio/Android-Auto-Store) - Android Auto Store - AAStore
@@ -3732,6 +3741,7 @@
 
 ## python3 
 
+- [PixulMonk/auto-enrollment-bot-selenium](https://github.com/PixulMonk/auto-enrollment-bot-selenium) - A Python script that automates the enrollment process for a university's enrollment portal
 - [miyurudassanayake/sni-injector](https://github.com/miyurudassanayake/sni-injector) - SNI Injecting tool for free internet (HTTP Injector)
 - [SageTendo/mal-stremio-addon](https://github.com/SageTendo/mal-stremio-addon) - A Stremio addon which allows users to access their anime lists through the MyAnimeList API, directly from within Stremio. With this addon, users can easily keep track of the content they've watched/pl
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
