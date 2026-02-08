@@ -9,6 +9,7 @@
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [android](#android)
+- [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
 - [archlinux](#archlinux)
@@ -366,7 +367,7 @@
 - [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 - [uditkarode/AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer) - 🎵 A Youtube Music like app with a Spotify like design - ad free, open source, and deprecated.
-- [mostafaalagamy/Metrolist](https://github.com/mostafaalagamy/Metrolist) - YouTube Music client for Android
+- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) - A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune
 - [knighthat/Kreate](https://github.com/knighthat/Kreate) - A multilingual YouTube Music frontend for Android, prioritize performance
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
@@ -450,6 +451,10 @@
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [may215/awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools
 - [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
+
+## angular 
+
+- [aBrihoum/qomander](https://github.com/aBrihoum/qomander) - Qomander - A Self ordering kiosk web application. Made with Angular
 
 ## ansible 
 
@@ -538,6 +543,7 @@
 
 ## automation 
 
+- [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
 - [xhos/discord-quest-watcher](https://github.com/xhos/discord-quest-watcher) - receive notifications when new discord quests are released. filter for orb quests or monitor all quest types.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [AlexNabokikh/windows-playbook](https://github.com/AlexNabokikh/windows-playbook) - Windows setup and configuration via Ansible.
@@ -559,6 +565,7 @@
 
 ## awesome 
 
+- [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [ang3lo-azevedo/my-awesome-stars](https://github.com/ang3lo-azevedo/my-awesome-stars) - A curated list of my GitHub stars!
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
@@ -588,6 +595,7 @@
 
 ## awesome-list 
 
+- [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
 - [clivoa/awesome-security-feeds](https://github.com/clivoa/awesome-security-feeds) - Awesome Security Feeds a curated, structured and automation-friendly collection of security RSS/Atom sources. Based on https://securityfeeds.org/
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [ang3lo-azevedo/my-awesome-stars](https://github.com/ang3lo-azevedo/my-awesome-stars) - A curated list of my GitHub stars!
@@ -1029,6 +1037,7 @@
 
 ## documentation 
 
+- [i3months/eziwiki](https://github.com/i3months/eziwiki) - 🧩 A modern wiki and documentation site generator. Create beautiful docs with markdown, customizable navigation.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
@@ -1292,6 +1301,7 @@
 
 ## go 
 
+- [willfaught/ebnf](https://github.com/willfaught/ebnf) - Parses, represents, and inspects EBNF grammars
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, and labwc.
@@ -1311,6 +1321,7 @@
 
 ## golang 
 
+- [willfaught/ebnf](https://github.com/willfaught/ebnf) - Parses, represents, and inspects EBNF grammars
 - [xhos/discord-quest-watcher](https://github.com/xhos/discord-quest-watcher) - receive notifications when new discord quests are released. filter for orb quests or monitor all quest types.
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 - [zarzet/SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) - Mobile version of SpotiFLAC written in Flutter, powered by a Go backend for high performance. Download Spotify tracks in true FLAC from Tidal, Qobuz, & Amazon Music - no account, no ads, no subscripti
@@ -1941,6 +1952,7 @@
 
 ## markdown 
 
+- [i3months/eziwiki](https://github.com/i3months/eziwiki) - 🧩 A modern wiki and documentation site generator. Create beautiful docs with markdown, customizable navigation.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 
@@ -1949,7 +1961,7 @@
 - [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
 - [Ivorisnoob/TheMusicApp](https://github.com/Ivorisnoob/TheMusicApp) - A Material Expressive Music app for Android
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
-- [mostafaalagamy/Metrolist](https://github.com/mostafaalagamy/Metrolist) - YouTube Music client for Android
+- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [Pool-Of-Tears/GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.
 - [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - 🦊 Firefox user CSS theme looks similar to Chrome
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
@@ -2028,7 +2040,7 @@
 - [vhaudiquet/BladePlayer](https://github.com/vhaudiquet/BladePlayer) - Android music player that plays from multiple sources
 - [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
-- [mostafaalagamy/Metrolist](https://github.com/mostafaalagamy/Metrolist) - YouTube Music client for Android
+- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
 - [ZingyTomato/Harmony-Music](https://github.com/ZingyTomato/Harmony-Music) - An open souce music streamer based on MPV.
 - [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) - A cross platform App for streaming Music
@@ -2208,6 +2220,7 @@
 
 ## others 
 
+- [ang3lo-azevedo/ist-fenix-auto-enroller](https://github.com/ang3lo-azevedo/ist-fenix-auto-enroller) - Desktop Python app for searching, planning, and enrolling in IST courses on FenixEdu. It combines an API client, a Tkinter GUI, and Selenium automation to build schedules and complete enrollment.
 - [0xGuigui/Katoolin3](https://github.com/0xGuigui/Katoolin3) - Automatically install all Kali linux tools
 - [joanasesinando/gerador-horarios-ist](https://github.com/joanasesinando/gerador-horarios-ist) - 🕓 A schedule generator for Instituto Superior Técnico (IST)'s students.
 - [LionSec/katoolin](https://github.com/LionSec/katoolin) - Automatically install all Kali linux tools
@@ -4151,6 +4164,7 @@
 
 ## typescript 
 
+- [i3months/eziwiki](https://github.com/i3months/eziwiki) - 🧩 A modern wiki and documentation site generator. Create beautiful docs with markdown, customizable navigation.
 - [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's terminal UI app - The ultimate weapon against brainrot
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
@@ -4315,6 +4329,7 @@
 
 ## webapp 
 
+- [aBrihoum/qomander](https://github.com/aBrihoum/qomander) - Qomander - A Self ordering kiosk web application. Made with Angular
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web A, GPL v3
 - [maheshpaulj/Prompt2Shorts](https://github.com/maheshpaulj/Prompt2Shorts) - Prompt2Shorts is an innovative application that generates short-form content by transforming prompts into full scripts, voice-over audio, and relevant videos. Designed for creators who want to quickly
 - [Woahai321/SeerrBridge](https://github.com/Woahai321/SeerrBridge) - SeerrBridge automates movie torrent fetching by integrating Jellyseer/Overseer with DebridMediaManager. It listens to OverSeerr movie requests via webhook and uses DMM / Real-Debrid for efficient down
@@ -4429,7 +4444,7 @@
 - [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 - [uditkarode/AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer) - 🎵 A Youtube Music like app with a Spotify like design - ad free, open source, and deprecated.
-- [mostafaalagamy/Metrolist](https://github.com/mostafaalagamy/Metrolist) - YouTube Music client for Android
+- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [Armaansaini20/ShortEZY-YouTube-Bot](https://github.com/Armaansaini20/ShortEZY-YouTube-Bot) - Automatic youtube or insta shorts generator, Free alternative to openAI api bots
 - [gyoridavid/short-video-maker](https://github.com/gyoridavid/short-video-maker) - Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using the Model Context Protocol (MCP) and a REST API.
 - [hankerspace/YASGU](https://github.com/hankerspace/YASGU) - YASGU : Youtube Automatised Shorts Generator And Uploader. YASGU is a tool to generate and upload Youtube Shorts videos automatically.
