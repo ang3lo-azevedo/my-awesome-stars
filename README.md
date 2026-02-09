@@ -71,6 +71,7 @@
 - [express](#express)
 - [facebook](#facebook)
 - [finance](#finance)
+- [firebase](#firebase)
 - [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
@@ -173,6 +174,7 @@
 - [python3](#python3)
 - [qt](#qt)
 - [rag](#rag)
+- [rails](#rails)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
@@ -276,6 +278,8 @@
 
 ## android 
 
+- [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
+- [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [Siddhesh2377/ToolNeuron](https://github.com/Siddhesh2377/ToolNeuron) - Complete offline AI ecosystem for Android: Chat (GGUF/LLMs), Images (Stable Diffusion 1.5), Voice (TTS/STT), and Knowledge (RAG Data-Packs), zero subscriptions, no data harvesting. Open-source privacy
 - [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
 - [rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE) - BRENE - A SuSFS/KernelSU module for SuSFS patched kernels
@@ -565,6 +569,7 @@
 
 ## awesome 
 
+- [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [ang3lo-azevedo/my-awesome-stars](https://github.com/ang3lo-azevedo/my-awesome-stars) - A curated list of my GitHub stars!
@@ -595,6 +600,7 @@
 
 ## awesome-list 
 
+- [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
 - [clivoa/awesome-security-feeds](https://github.com/clivoa/awesome-security-feeds) - Awesome Security Feeds a curated, structured and automation-friendly collection of security RSS/Atom sources. Based on https://securityfeeds.org/
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
@@ -962,6 +968,7 @@
 - [terminal-discord/discord-voice-cli](https://github.com/terminal-discord/discord-voice-cli) - A headless Discord Voice client
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
 - [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny native Discord app
+- [fizzexual/FakeDeafenVencord](https://github.com/fizzexual/FakeDeafenVencord) - [ WORKING / 08.02.26 ] Fake deafen on discord. You can listen to the others while they think you are deafen :) Enjoy!
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
@@ -977,6 +984,7 @@
 
 ## django 
 
+- [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 
 ## docker 
@@ -1155,6 +1163,10 @@
 ## finance 
 
 - [Pool-Of-Tears/GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.
+
+## firebase 
+
+- [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 
 ## firefox 
 
@@ -1561,6 +1573,7 @@
 
 ## ios 
 
+- [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [zarzet/SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) - Mobile version of SpotiFLAC written in Flutter, powered by a Go backend for high performance. Download Spotify tracks in true FLAC from Tidal, Qobuz, & Amazon Music - no account, no ads, no subscripti
 - [jpdoshi/dragon-store](https://github.com/jpdoshi/dragon-store) - Dragon Store is your gateway to transparent, libre and free open-source apps.
 - [SpotCompiled/SpotveeC](https://github.com/SpotCompiled/SpotveeC) - Compiled EeveeSpotify IPA's.
@@ -1644,6 +1657,7 @@
 
 ## kotlin 
 
+- [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
 - [Siddhesh2377/ToolNeuron](https://github.com/Siddhesh2377/ToolNeuron) - Complete offline AI ecosystem for Android: Chat (GGUF/LLMs), Images (Stable Diffusion 1.5), Voice (TTS/STT), and Knowledge (RAG Data-Packs), zero subscriptions, no data harvesting. Open-source privacy
 - [koiverse/ArchiveTune](https://github.com/koiverse/ArchiveTune) - The cutest Material 3 Expressive music streaming client for Android, built for performance and extensibility.
 - [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
@@ -1704,6 +1718,7 @@
 
 ## laravel 
 
+- [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 
@@ -2147,6 +2162,7 @@
 
 ## open-source 
 
+- [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
 - [Siddhesh2377/ToolNeuron](https://github.com/Siddhesh2377/ToolNeuron) - Complete offline AI ecosystem for Android: Chat (GGUF/LLMs), Images (Stable Diffusion 1.5), Voice (TTS/STT), and Knowledge (RAG Data-Packs), zero subscriptions, no data harvesting. Open-source privacy
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -2220,6 +2236,8 @@
 
 ## others 
 
+- [Tam-Taro/SEL-Filtering-and-Sorting](https://github.com/Tam-Taro/SEL-Filtering-and-Sorting) - Tired of results cluttering up your Stremio? This page features SEL filtering setup and formatter templates for smarter, cleaner results page. Compatible with all AIOStreams instances for debrid, usen
+- [dekusms/DekuSMS-Android](https://github.com/dekusms/DekuSMS-Android) - Android SMS app ~ Featuring E2EE, Cloud Forwarding, RMQ integrations
 - [ang3lo-azevedo/ist-fenix-auto-enroller](https://github.com/ang3lo-azevedo/ist-fenix-auto-enroller) - Desktop Python app for searching, planning, and enrolling in IST courses on FenixEdu. It combines an API client, a Tkinter GUI, and Selenium automation to build schedules and complete enrollment.
 - [0xGuigui/Katoolin3](https://github.com/0xGuigui/Katoolin3) - Automatically install all Kali linux tools
 - [joanasesinando/gerador-horarios-ist](https://github.com/joanasesinando/gerador-horarios-ist) - 🕓 A schedule generator for Instituto Superior Técnico (IST)'s students.
@@ -3131,7 +3149,6 @@
 - [girishso/autosleep](https://github.com/girishso/autosleep) - Auto sleep inactive Docker containers
 - [element-hq/dendrite](https://github.com/element-hq/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
-- [fizzexual/FakeDeafenVencord](https://github.com/fizzexual/FakeDeafenVencord) - Fake deafen on discord. You can listen to the others while they think you are deafen :) Enjoy!
 - [Equicord/Equibop](https://github.com/Equicord/Equibop) - Equibop is a custom Discord App aiming to give you better performance and improve linux support
 - [Equicord/Equicord](https://github.com/Equicord/Equicord) - The other cutest Discord client mod
 - [axelmierczuk/sportyfin](https://github.com/axelmierczuk/sportyfin) - A way to scrape sports streams for use with Jellyfin.
@@ -3778,6 +3795,10 @@
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
 
+## rails 
+
+- [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
+
 ## raspberry-pi 
 
 - [procount/pinn](https://github.com/procount/pinn) - An enhanced Operating System installer for the Raspberry Pi
@@ -3797,6 +3818,7 @@
 
 ## react 
 
+- [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's terminal UI app - The ultimate weapon against brainrot
 - [hitarth-gg/zenshin](https://github.com/hitarth-gg/zenshin) - 🔖 Web & Electron based Anime Streaming App for 🐈s
@@ -3828,6 +3850,7 @@
 
 ## react-native 
 
+- [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [jpdoshi/dragon-store](https://github.com/jpdoshi/dragon-store) - Dragon Store is your gateway to transparent, libre and free open-source apps.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
@@ -3845,6 +3868,7 @@
 
 ## reactjs 
 
+- [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [hitarth-gg/zenshin](https://github.com/hitarth-gg/zenshin) - 🔖 Web & Electron based Anime Streaming App for 🐈s
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
@@ -3902,7 +3926,7 @@
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - Rust for malware Development is a repository for advanced Red Team techniques and offensive malwares & Ransomwares, focused on Rust 🦀
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
+- [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [aa-proxy/aa-proxy-rs](https://github.com/aa-proxy/aa-proxy-rs) - AndroidAuto wired/wireless proxy
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [ow-mods/ow-mod-man](https://github.com/ow-mods/ow-mod-man) - The mod manager for the Outer Wilds Mod Loader
@@ -4186,6 +4210,7 @@
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+- [fizzexual/FakeDeafenVencord](https://github.com/fizzexual/FakeDeafenVencord) - [ WORKING / 08.02.26 ] Fake deafen on discord. You can listen to the others while they think you are deafen :) Enjoy!
 - [Aylur/ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+Gnim
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki, Status: https://uptime.viewtube.io
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's private API, known as InnerTube.
