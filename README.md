@@ -2236,6 +2236,10 @@
 
 ## others 
 
+- [Cosm-gedenke/Web-Exploitation-classes-secSTT-26](https://github.com/Cosm-gedenke/Web-Exploitation-classes-secSTT-26) - the collection of classes and challenges used for the teaching of Web exploitation for the CTF IST team secSTT
+- [Pong-Development/device_nothing_Pong](https://github.com/Pong-Development/device_nothing_Pong) - About Device tree for Nothing Phone (2)
+- [VoltageOS/vendor_voltage-priv_keys](https://github.com/VoltageOS/vendor_voltage-priv_keys) - 
+- [VoltageOS/voltage_signatures-scripts](https://github.com/VoltageOS/voltage_signatures-scripts) - 
 - [Tam-Taro/SEL-Filtering-and-Sorting](https://github.com/Tam-Taro/SEL-Filtering-and-Sorting) - Tired of results cluttering up your Stremio? This page features SEL filtering setup and formatter templates for smarter, cleaner results page. Compatible with all AIOStreams instances for debrid, usen
 - [dekusms/DekuSMS-Android](https://github.com/dekusms/DekuSMS-Android) - Android SMS app ~ Featuring E2EE, Cloud Forwarding, RMQ integrations
 - [ang3lo-azevedo/ist-fenix-auto-enroller](https://github.com/ang3lo-azevedo/ist-fenix-auto-enroller) - Desktop Python app for searching, planning, and enrolling in IST courses on FenixEdu. It combines an API client, a Tkinter GUI, and Selenium automation to build schedules and complete enrollment.
@@ -2471,7 +2475,6 @@
 - [jaylikesbunda/Ghost_ESP](https://github.com/jaylikesbunda/Ghost_ESP) - GhostESP: Revival turns your ESP32 into a cheap and powerful wireless testing tool.
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
 - [CachyOS/cachyos-niri-noctalia](https://github.com/CachyOS/cachyos-niri-noctalia) - Niri + Noctalia Settings
-- [Tools-cx-app/meta-magic_mount](https://github.com/Tools-cx-app/meta-magic_mount) - Magic Mount Metamodule
 - [LSPosed/LSPosed_translations](https://github.com/LSPosed/LSPosed_translations) - 
 - [JNightA/KitsuneMagisk-](https://github.com/JNightA/KitsuneMagisk-) - A fork of KitsuneMagisk. Thanks to the original author @HuskyDG.
 - [1q23lyc45/KitsuneMagisk](https://github.com/1q23lyc45/KitsuneMagisk) - A fork of KitsuneMagisk. Thanks to the original author @HuskyDG.
