@@ -293,7 +293,7 @@
 - [samyak2403/RepoStore](https://github.com/samyak2403/RepoStore) - Explore apps published on GitHub, view release details, and install APKs instantly — all in one place. Developed using pure Kotlin, optimized for modern Android devices.
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
-- [Ivorisnoob/TheMusicApp](https://github.com/Ivorisnoob/TheMusicApp) - A Material Expressive Music app for Android
+- [Ivorisnoob/Koda](https://github.com/Ivorisnoob/Koda) - A Material Expressive Music app for Android
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 - [nix-community/nix-on-droid-app](https://github.com/nix-community/nix-on-droid-app) - Run Nix package manager on Android. Based off Termux the terminal emulator, but not Termux the distro. [maintainer=@t184256]
 - [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
@@ -417,7 +417,7 @@
 - [BobbyESP/Jetispot](https://github.com/BobbyESP/Jetispot) - Unofficial Spotify client for Android built with Jetpack Compose, Material 3 and librespot-java. Fork ahead of Tayson's original repo. Read README!
 - [galaxygoldfish/pineapple](https://github.com/galaxygoldfish/pineapple) - 🍍 Reddit client for Android using Material You
 - [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design/theme.
-- [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web,
+- [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
 - [itsmartashub/floristyle](https://github.com/itsmartashub/floristyle) - Dynamic Material You themes for the Florisboard keyboard. Make the Florisboard keyboard's UI more similar to Gboard.
 - [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
 - [polodarb/GMS-Flags](https://github.com/polodarb/GMS-Flags) - GMS Flags is a tool for changing parameters in Google services to activate or deactivate certain functionality in Google applications
@@ -503,7 +503,7 @@
 - [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
 - [ashish-kus/waybar-minimal](https://github.com/ashish-kus/waybar-minimal) - A minimal kickstart configration for waybar.
 - [cybergaz/hyprconf](https://github.com/cybergaz/hyprconf) - hyprland configuration along with various other packages configs to call it a complete rice .... believe me when i say it's smooth af
-- [lvntcnylmz/dotfiles](https://github.com/lvntcnylmz/dotfiles) - .dotfiles
+- [lvntcnylmz/dotfiles](https://github.com/lvntcnylmz/dotfiles) - .files
 - [haxibami/dotfiles](https://github.com/haxibami/dotfiles) - my environment
 - [cxOrz/dotfiles-hyprland](https://github.com/cxOrz/dotfiles-hyprland) - Hyprland dotfiles on Arch Linux.
 - [AlexvZyl/.dotfiles](https://github.com/AlexvZyl/.dotfiles) - 🗃️ Configuration files/scripts for NixOS, Neovim, Tmux and friends.
@@ -1075,7 +1075,7 @@
 - [jcchikikomori/.dotfiles](https://github.com/jcchikikomori/.dotfiles) - Makes Configuration files easy as breeze!
 - [niksingh710/gdots](https://github.com/niksingh710/gdots) - The Graphical Interface that i Like to interact with. [Hyprland+Waybar+Much tools].
 - [mechakotik/dots](https://github.com/mechakotik/dots) - Minimal Hyprland + Waybar setup
-- [lvntcnylmz/dotfiles](https://github.com/lvntcnylmz/dotfiles) - .dotfiles
+- [lvntcnylmz/dotfiles](https://github.com/lvntcnylmz/dotfiles) - .files
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [haxibami/dotfiles](https://github.com/haxibami/dotfiles) - my environment
 - [LierB/dotfiles](https://github.com/LierB/dotfiles) - Hyprland Arch config based on pywal
@@ -1252,7 +1252,7 @@
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
-- [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web,
+- [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 - [cartmandos/BINGIE](https://github.com/cartmandos/BINGIE) - The official BINGIE dev repo for the development of the Kodi UI of BINGIE
@@ -1819,7 +1819,7 @@
 - [byrantech/laptop](https://github.com/byrantech/laptop) - anyon_e, a highly integrated, high end, open source laptop. Attempt the impossible.
 - [mechakotik/dots](https://github.com/mechakotik/dots) - Minimal Hyprland + Waybar setup
 - [tymmesyde/Losange](https://github.com/tymmesyde/Losange) - A simple Stremio client for GNOME
-- [lvntcnylmz/dotfiles](https://github.com/lvntcnylmz/dotfiles) - .dotfiles
+- [lvntcnylmz/dotfiles](https://github.com/lvntcnylmz/dotfiles) - .files
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [tizonia/tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
@@ -1848,7 +1848,7 @@
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles that does not use 100 bash scripts
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [glaumar/QRookie](https://github.com/glaumar/QRookie) - Download and install Quest games from ROOKIE Public Mirror (like VRP Rookie Sideloader but for Linux and MacOS)
-- [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web,
+- [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
 - [owerdogan/whoami-project](https://github.com/owerdogan/whoami-project) - Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions
 - [Shatur/optimus-manager-qt](https://github.com/Shatur/optimus-manager-qt) - An interface for Optimus Manager that allows to switch GPUs on Optimus laptops.
 - [korvahannu/arch-nvidia-drivers-installation-guide](https://github.com/korvahannu/arch-nvidia-drivers-installation-guide) - A repository that holds a simple guide on how you can install and configure proprietary NVIDIA drivers for Arch Linux.
@@ -1957,7 +1957,7 @@
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [glaumar/QRookie](https://github.com/glaumar/QRookie) - Download and install Quest games from ROOKIE Public Mirror (like VRP Rookie Sideloader but for Linux and MacOS)
-- [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web,
+- [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
 - [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
@@ -1983,7 +1983,7 @@
 
 - [koiverse/ArchiveTune](https://github.com/koiverse/ArchiveTune) - The cutest Material 3 Expressive music streaming client for Android, built for performance and extensibility.
 - [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
-- [Ivorisnoob/TheMusicApp](https://github.com/Ivorisnoob/TheMusicApp) - A Material Expressive Music app for Android
+- [Ivorisnoob/Koda](https://github.com/Ivorisnoob/Koda) - A Material Expressive Music app for Android
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [Pool-Of-Tears/GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.
@@ -2247,6 +2247,13 @@
 
 ## others 
 
+- [Pong-Development/packages_apps_ParanoidGlyph](https://github.com/Pong-Development/packages_apps_ParanoidGlyph) - packages/apps/ParanoidGlyph
+- [smrth097/packages_apps_ParanoidGlyph](https://github.com/smrth097/packages_apps_ParanoidGlyph) - packages/apps/ParanoidGlyph
+- [MySelly/device_nothing_spacewar](https://github.com/MySelly/device_nothing_spacewar) - 
+- [smrth097/hardware_dolby](https://github.com/smrth097/hardware_dolby) - 
+- [ang3lo-azevedo/android_device_nothing_Spacewar](https://github.com/ang3lo-azevedo/android_device_nothing_Spacewar) - Device Tree for Nothing Phone (1)
+- [DaViDev985/proprietary_vendor_nothing_camera](https://github.com/DaViDev985/proprietary_vendor_nothing_camera) - 
+- [smrth097/proprietary_vendor_nothing_camera](https://github.com/smrth097/proprietary_vendor_nothing_camera) - 
 - [QCerberusQ/OFRP-device_nothing_Spacewar](https://github.com/QCerberusQ/OFRP-device_nothing_Spacewar) - 
 - [crdroidandroid/android_device_nothing_Spacewar](https://github.com/crdroidandroid/android_device_nothing_Spacewar) - 
 - [osm0sis/AnyKernel3](https://github.com/osm0sis/AnyKernel3) - AnyKernel, Evolved
@@ -2308,7 +2315,6 @@
 - [smrth097/kernel_nothing_sm7325](https://github.com/smrth097/kernel_nothing_sm7325) - 
 - [ang3lo-azevedo/android_hardware_nothing](https://github.com/ang3lo-azevedo/android_hardware_nothing) - 
 - [ang3lo-azevedo/android_kernel_nothing_sm7325](https://github.com/ang3lo-azevedo/android_kernel_nothing_sm7325) - 
-- [ang3lo-azevedo/proprietary_vendor_nothing_Spacewar](https://github.com/ang3lo-azevedo/proprietary_vendor_nothing_Spacewar) - Vendor Tree for Nothing Phone (1)
 - [smrth097/proprietary_vendor_nothing_Spacewar](https://github.com/smrth097/proprietary_vendor_nothing_Spacewar) - Vendor Tree for Nothing Phone (1)
 - [luyanci/Android-Builder](https://github.com/luyanci/Android-Builder) - Automaticcaly build android kernel by github actions.
 - [Mrjam22/vmware-vmmon-vmnet-linux-6.18.x](https://github.com/Mrjam22/vmware-vmmon-vmnet-linux-6.18.x) - VMware Workstation modules patches for Linux kernel 6.18.x
@@ -2367,7 +2373,7 @@
 - [SpookySkeletons/proton-ge-rtsp](https://github.com/SpookySkeletons/proton-ge-rtsp) - Compatibility tool for Steam Play based on Wine and additional components
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [kanaodnd/Stellar-Tweaks](https://github.com/kanaodnd/Stellar-Tweaks) - Performance module, focused on making the phone better, with some tweaks specifically for all types of soc. Ai-assisted module, changes modes when playing games
-- [olekolek1000/wayvr-dashboard](https://github.com/olekolek1000/wayvr-dashboard) - Launch your favorite desktop applications and games seamlessly within your VR environment (wlx-overlay-s addon)
+- [oo8dev/wayvr-dashboard](https://github.com/oo8dev/wayvr-dashboard) - Launch your favorite desktop applications and games seamlessly within your VR environment (wlx-overlay-s addon)
 - [chaosmaou/wivrn-guide](https://github.com/chaosmaou/wivrn-guide) - A comprehensive guide to Linux VR on standalone headsets using WiVRn.
 - [Frogging-Family/community-patches](https://github.com/Frogging-Family/community-patches) - A place to find patches that are maintained by the community before myself
 - [wiiznokes/gitnote](https://github.com/wiiznokes/gitnote) - Android note app with real file. Can be sync with git providers such as Github
@@ -2592,7 +2598,6 @@
 - [VoltageOS/manifest](https://github.com/VoltageOS/manifest) - 
 - [nullpointer1101/Building-Custom-Rom](https://github.com/nullpointer1101/Building-Custom-Rom) - Scripts and Guide for making a custom rom.
 - [LineageOS/android_kernel_nothing_sm8475](https://github.com/LineageOS/android_kernel_nothing_sm8475) - 
-- [ang3lo-azevedo/android_device_nothing_Spacewar](https://github.com/ang3lo-azevedo/android_device_nothing_Spacewar) - 
 - [StudioKeys/android_kernel_msm-5.4_nothing_sm7325](https://github.com/StudioKeys/android_kernel_msm-5.4_nothing_sm7325) - Kernel Source for NOTHING Phone(1)
 - [Evolution-X-Devices/kernel_nothing_sm7325](https://github.com/Evolution-X-Devices/kernel_nothing_sm7325) - 
 - [tecnico-sec/Setup](https://github.com/tecnico-sec/Setup) - Information on how to setup the Lab Environment
@@ -2693,7 +2698,7 @@
 - [newbit1/rootAVD](https://github.com/newbit1/rootAVD) - Script to root AVDs running with QEMU Emulator from Android Studio
 - [r4ph3cks/r4ph3cks.github.io](https://github.com/r4ph3cks/r4ph3cks.github.io) - R3p3cks Blog for CTFs Writeups
 - [diabolino/trakt_enhanced](https://github.com/diabolino/trakt_enhanced) - 
-- [gvenzl/oci-oracle-free](https://github.com/gvenzl/oci-oracle-free) - Build scripts for Oracle Database FREE container/docker images
+- [gvenzl/oci-oracle-free](https://github.com/gvenzl/oci-oracle-free) - Build scripts for Oracle AI Database FREE container/docker images
 - [Fitzsimmons/oracle-always-free-vps](https://github.com/Fitzsimmons/oracle-always-free-vps) - 
 - [UdDReX/oracle-vps-script](https://github.com/UdDReX/oracle-vps-script) - 
 - [Starry-AXQG/Context-Menu-Icons](https://github.com/Starry-AXQG/Context-Menu-Icons) - Improve your context menu by adding icons, folding redundant menu items, and more. Support Firefox/Zen
@@ -2873,7 +2878,6 @@
 - [r3ber/BD_Projeto](https://github.com/r3ber/BD_Projeto) - Projeto de Base de Dados - Sistema de Gestão de uma Universidade
 - [tiagosouzacandido/AdrenoToolsTurnipDrivers](https://github.com/tiagosouzacandido/AdrenoToolsTurnipDrivers) - 
 - [ProtonMail/proton-bridge](https://github.com/ProtonMail/proton-bridge) - Proton Mail Bridge application
-- [pflyly/eden-nightly](https://github.com/pflyly/eden-nightly) - 
 - [morckx/RadioDroid](https://github.com/morckx/RadioDroid) - radio browser app that uses www.radio-browser.info on android
 - [martoreto/aauto-sdk-demo](https://github.com/martoreto/aauto-sdk-demo) - Android Auto SDK Demo App
 - [slashmax/aauto-sdk](https://github.com/slashmax/aauto-sdk) - Unofficial Android Auto SDK
@@ -3704,7 +3708,7 @@
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
 - [Psyhackological/AAA](https://github.com/Psyhackological/AAA) - :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!
-- [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web,
+- [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
 - [owerdogan/whoami-project](https://github.com/owerdogan/whoami-project) - Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -4455,7 +4459,7 @@
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
-- [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web,
+- [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuratio
 - [portapps/whatsapp-portable](https://github.com/portapps/whatsapp-portable) - ⚠️ WhatsApp portable for Windows
 - [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
@@ -4524,7 +4528,7 @@
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's private API, known as InnerTube.
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
-- [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web,
+- [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
