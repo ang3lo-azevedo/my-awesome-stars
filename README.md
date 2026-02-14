@@ -287,6 +287,7 @@
 - [rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE) - BRENE - A SuSFS/KernelSU module for SuSFS patched kernels
 - [rajmani7584/Payload-Dumper-Android](https://github.com/rajmani7584/Payload-Dumper-Android) - Payload Dumper App for Android. Extract boot.img or any other partitions (images) from OTA.zip or payload.bin without PC
 - [TheROMMER/core](https://github.com/TheROMMER/core) - A powerful tool designed to customize Android ROM ZIP files without building from source.
+- [particle-box/PurrfectSnap](https://github.com/particle-box/PurrfectSnap) - PurrfectSnap: Enhance your Snapchat Experience!
 - [Nandanrmenon/florid](https://github.com/Nandanrmenon/florid) - F-Droid Client
 - [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
 - [mlm-games/flicky](https://github.com/mlm-games/flicky) - Yet Another FDroid Client (wide screen / TV friendly)
@@ -2040,6 +2041,7 @@
 
 ## mobile 
 
+- [particle-box/PurrfectSnap](https://github.com/particle-box/PurrfectSnap) - PurrfectSnap: Enhance your Snapchat Experience!
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) - 📱 Unofficial Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Works well with Syncplay on PC. Fully written in Kotlin and Compose multiplatform.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
@@ -2247,6 +2249,10 @@
 
 ## others 
 
+- [ServerHive-Development/guide](https://github.com/ServerHive-Development/guide) - 
+- [KOWX712/KernelSU](https://github.com/KOWX712/KernelSU) - personal fork, focused on lkm
+- [5ec1cff/KernelSU](https://github.com/5ec1cff/KernelSU) - A KernelSU based root solution for Android
+- [LKDenchin/rsuntk-KernelSU](https://github.com/LKDenchin/rsuntk-KernelSU) - KernelSU with MagicMount, support GKI and Non-GKI. Updates: https://t.me/rsukrnlsu
 - [Pong-Development/packages_apps_ParanoidGlyph](https://github.com/Pong-Development/packages_apps_ParanoidGlyph) - packages/apps/ParanoidGlyph
 - [smrth097/packages_apps_ParanoidGlyph](https://github.com/smrth097/packages_apps_ParanoidGlyph) - packages/apps/ParanoidGlyph
 - [MySelly/device_nothing_spacewar](https://github.com/MySelly/device_nothing_spacewar) - 
@@ -2323,7 +2329,6 @@
 - [VoltageOS/vendor_voltage](https://github.com/VoltageOS/vendor_voltage) - 
 - [William24hmar/android_kernel_nothing_sm7325](https://github.com/William24hmar/android_kernel_nothing_sm7325) - 
 - [smrth097/android_device_nothing_Spacewar](https://github.com/smrth097/android_device_nothing_Spacewar) - Device Tree for Nothing Phone (1)
-- [particle-box/PurrfectSnap](https://github.com/particle-box/PurrfectSnap) - A fork of SnapEnhance made to meow your Snapchat experience. 😉
 - [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) - Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 - [WinlatorXR/HWXR-Release](https://github.com/WinlatorXR/HWXR-Release) - Release versions of the HWXR mod for Halo CE to be run on WinlatorXR
 - [iamneur0/syncio](https://github.com/iamneur0/syncio) - 
@@ -3223,7 +3228,6 @@
 - [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
 - [cjbassi/config](https://github.com/cjbassi/config) - 
 - [kamlendras/waybar-macos-sequoia](https://github.com/kamlendras/waybar-macos-sequoia) - macOS 15 Sequoia-inspired design
-- [ch4xer/hyprland](https://github.com/ch4xer/hyprland) - hyprland configuration
 - [SuceV587/hyprland-ags](https://github.com/SuceV587/hyprland-ags) - 
 - [Nocturnussx/Hyprland-DotFiles](https://github.com/Nocturnussx/Hyprland-DotFiles) - Hyprland DotFiles
 - [jin-li/ags-dotfiles](https://github.com/jin-li/ags-dotfiles) - Hyprland dot files with ags created widgets
@@ -4014,6 +4018,7 @@
 - [xhos/discord-quest-watcher](https://github.com/xhos/discord-quest-watcher) - webhook notifications when new discord quests are released, w/ filters
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [TannerMidd/recommendarr](https://github.com/TannerMidd/recommendarr) - An LLM driven recommendation system based on Radarr and Sonarr library or watch history information
 - [5rahim/seanime](https://github.com/5rahim/seanime) - Open-source media server with a web interface and desktop app for anime and manga.
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
@@ -4222,6 +4227,7 @@
 
 - [i3months/eziwiki](https://github.com/i3months/eziwiki) - 🧩 A modern wiki and documentation site generator. Create beautiful docs with markdown, customizable navigation.
 - [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's terminal UI app - The ultimate weapon against brainrot
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [n-ce/ytify](https://github.com/n-ce/ytify) - Efficient YouTube Audio Streaming, Effortlessly, Anywhere.
