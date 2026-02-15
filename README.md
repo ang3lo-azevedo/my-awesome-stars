@@ -2249,6 +2249,8 @@
 
 ## others 
 
+- [Project-CHerta/android_device_nothing_Spacewar](https://github.com/Project-CHerta/android_device_nothing_Spacewar) - 
+- [musabcel/android_rom_list](https://github.com/musabcel/android_rom_list) - List of all Android ROMs
 - [ServerHive-Development/guide](https://github.com/ServerHive-Development/guide) - 
 - [KOWX712/KernelSU](https://github.com/KOWX712/KernelSU) - personal fork, focused on lkm
 - [5ec1cff/KernelSU](https://github.com/5ec1cff/KernelSU) - A KernelSU based root solution for Android
@@ -2533,7 +2535,7 @@
 - [apkunpacker/MagiskDetection](https://github.com/apkunpacker/MagiskDetection) - Collection of Some Publically Available POC Apps to Detect Root/Magisk presence.
 - [reveny/Android-Native-Root-Detector](https://github.com/reveny/Android-Native-Root-Detector) - A tool to detect root on android
 - [mModule/guide_hma](https://github.com/mModule/guide_hma) - This is a quick guide to hopefully make it a little easier for people new to Hide My Applist.
-- [theovilardo/PixelPlayer](https://github.com/theovilardo/PixelPlayer) - 
+- [theovilardo/PixelPlayer](https://github.com/theovilardo/PixelPlayer) - privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.
 - [ThePedroo/ReLSPosed](https://github.com/ThePedroo/ReLSPosed) - LSPosed Framework resuscitated
 - [rt-evil-inc/gira-mais](https://github.com/rt-evil-inc/gira-mais) - Aplicação alternativa para o sistema de bicicletas partilhadas de Lisboa
 - [Myst1cX/spotifuck-userscript](https://github.com/Myst1cX/spotifuck-userscript) - 
@@ -2835,7 +2837,7 @@
 - [estrellagus/iptv-tools](https://github.com/estrellagus/iptv-tools) - Set of scripts to learn about iptv services for available providers
 - [sudo-ronmexico/IPTVChecker-BitRate](https://github.com/sudo-ronmexico/IPTVChecker-BitRate) - Script that goes through a playlist to check IPTV channels, now with bit-rate included- Created originally by NewsGuyTor
 - [cygnusx-1-org/Discoverium](https://github.com/cygnusx-1-org/Discoverium) - Android app for discovering open source Android apps
-- [crimera/piko](https://github.com/crimera/piko) - revanced-patches for twitter
+- [crimera/piko](https://github.com/crimera/piko) - morphe patches for twitter
 - [NextAlone/Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
 - [crimera/twitter-apk](https://github.com/crimera/twitter-apk) - Apk builds of piko patches
 - [cygnusx-1-org/continuum](https://github.com/cygnusx-1-org/continuum) - A Reddit client for Android
