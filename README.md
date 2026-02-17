@@ -280,6 +280,7 @@
 
 ## android 
 
+- [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smal
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [Siddhesh2377/ToolNeuron](https://github.com/Siddhesh2377/ToolNeuron) - Complete offline AI ecosystem for Android: Chat (GGUF/LLMs), Images (Stable Diffusion 1.5), Voice (TTS/STT), and Knowledge (RAG Data-Packs), zero subscriptions, no data harvesting. Open-source privacy
@@ -1610,6 +1611,7 @@
 
 ## java 
 
+- [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smal
 - [Ketbome/hytalepanel](https://github.com/Ketbome/hytalepanel) - Docker image for Hytale dedicated server with web panel. Easy setup, auto-download, real-time console.
 - [tekgator/docker-mcmyadmin](https://github.com/tekgator/docker-mcmyadmin) - McMyAdmin control pannel for running a Java Minecraft server in all possible variants
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
@@ -2249,6 +2251,9 @@
 
 ## others 
 
+- [firu11/nothing-glyphtones](https://github.com/firu11/nothing-glyphtones) - Glyphtones - a simple audio-sharing platform for Nothing Phone users
+- [MathieuDvv/Nboard](https://github.com/MathieuDvv/Nboard) - Nothing inspired keyboard for android
+- [Sample-Text-OS/My-Obtainium-Preset](https://github.com/Sample-Text-OS/My-Obtainium-Preset) - This is a preset for Obtainium that contains a list of open-source applications that are alternatives to Google counterparts.
 - [flowchartsman/greybeard](https://github.com/flowchartsman/greybeard) - a chunky monospaced bitmap programming font for old nerds that hate eyestrain
 - [ShadowBlip/InputPlumber](https://github.com/ShadowBlip/InputPlumber) - Open source input router and remapper daemon for Linux
 - [ang3lo-azevedo/nGKI_Kernel_Spacewar](https://github.com/ang3lo-azevedo/nGKI_Kernel_Spacewar) - nGKI Kernel with KSU+SUSFS. Nothing Phone (1) (spacewar) builds
@@ -2536,7 +2541,7 @@
 - [vvb2060/KeyAttestation](https://github.com/vvb2060/KeyAttestation) - 
 - [corentin-c/SpotifyAutoPatcher](https://github.com/corentin-c/SpotifyAutoPatcher) - Android app to patch Spotify and Youtube Music combining the powers of AntiSplit-M and ReVanced Manager !
 - [Natanji/whatsapp-privacy-version](https://github.com/Natanji/whatsapp-privacy-version) - A collection of scripts to build a more privacy-aware WhatsApp version that doesn't leak your contact information.
-- [DPR-MoonWake/moonwake_kernel_xiaomi_ruby](https://github.com/DPR-MoonWake/moonwake_kernel_xiaomi_ruby) - [MoonWake] Redmi Note 12 pro 5G (ruby) kernel specify for powersave
+- [DPR-MoonWake/moonwake_kernel_xiaomi_ruby](https://github.com/DPR-MoonWake/moonwake_kernel_xiaomi_ruby) - Redmi Note 12 pro 5G (ruby) kernel specifically for powersave
 - [morphiusnick-hub/moonwake_kernel_xiaomi_ruby](https://github.com/morphiusnick-hub/moonwake_kernel_xiaomi_ruby) - [MoonWake] Redmi Note 12 pro 5G (ruby) kernel specify for powersave
 - [fjrXTR/kernel_xiaomi_ruby](https://github.com/fjrXTR/kernel_xiaomi_ruby) - Kernel Source for Redmi Note 12 Pro 5G
 - [MiCode/Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi Mobile Phone Kernel OpenSource
@@ -3825,6 +3830,7 @@
 
 ## qt 
 
+- [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smal
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Offline Minecraft launcher.
 - [rafatosta/zapzap](https://github.com/rafatosta/zapzap) - WhatsApp desktop application written in PyQt6 + PyQt6-WebEngine.
@@ -3924,6 +3930,7 @@
 
 ## reverse-engineering 
 
+- [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smal
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [HanaokaYuzu/Gemini-API](https://github.com/HanaokaYuzu/Gemini-API) - ✨ Reverse-engineered Python API for Google Gemini web app
 - [JonathanSalwan/ROPgadget](https://github.com/JonathanSalwan/ROPgadget) - This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC, MIPS, RISC-V 64, and 
