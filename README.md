@@ -2245,6 +2245,7 @@
 
 ## others 
 
+- [iamlooper/Lumi-AI](https://github.com/iamlooper/Lumi-AI) - A friendly, human-like AI chatbot powered by Gemini.
 - [ang3lo-azevedo/local_manifests](https://github.com/ang3lo-azevedo/local_manifests) - 
 - [BasGame1/Pixelify-Next](https://github.com/BasGame1/Pixelify-Next) - Magisk /KSU module to enables pixel exclusive features and ui that supports android 16
 - [Pavelevich/llm-checker](https://github.com/Pavelevich/llm-checker) - Advanced CLI tool that scans your hardware and tells you exactly which LLM or sLLM models you can run locally, with full Ollama integration.
@@ -2339,7 +2340,7 @@
 - [aarshps/varisankya-android](https://github.com/aarshps/varisankya-android) - 
 - [elliotttate/OpenXR-Simulator](https://github.com/elliotttate/OpenXR-Simulator) - A lightweight OpenXR runtime for desktop VR preview without physical headset
 - [VoltageOS/vendor_voltage](https://github.com/VoltageOS/vendor_voltage) - 
-- [William24hmar/android_kernel_nothing_sm7325](https://github.com/William24hmar/android_kernel_nothing_sm7325) - 
+- [William24hmar/android_kernel_nothing_sm7325](https://github.com/William24hmar/android_kernel_nothing_sm7325) - Brickports
 - [smrth097/android_device_nothing_Spacewar](https://github.com/smrth097/android_device_nothing_Spacewar) - Device Tree for Nothing Phone (1)
 - [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) - Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 - [WinlatorXR/HWXR-Release](https://github.com/WinlatorXR/HWXR-Release) - Release versions of the HWXR mod for Halo CE to be run on WinlatorXR
