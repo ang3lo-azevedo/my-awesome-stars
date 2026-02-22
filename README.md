@@ -880,6 +880,7 @@
 
 ## cybersecurity 
 
+- [toneillcodes/brutalkeepass](https://github.com/toneillcodes/brutalkeepass) - Brute force Keepass database passwords
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [clivoa/awesome-security-feeds](https://github.com/clivoa/awesome-security-feeds) - Awesome Security Feeds a curated, structured and automation-friendly collection of security RSS/Atom sources. Based on https://securityfeeds.org/
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
@@ -2249,6 +2250,7 @@
 
 ## others 
 
+- [sashs/Ropper](https://github.com/sashs/Ropper) - Display information about files in different file formats and find gadgets to build rop chains for different architectures (x86/x86_64, ARM/ARM64, MIPS, PowerPC, SPARC64). For disassembly ropper uses 
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
 - [jchv/nix-binary-ninja](https://github.com/jchv/nix-binary-ninja) - Unofficial Nix flake for using Binary Ninja on NixOS.
 - [iamlooper/Lumi-AI](https://github.com/iamlooper/Lumi-AI) - A friendly, human-like AI chatbot powered by Gemini.
@@ -3119,7 +3121,7 @@
 - [WildKernels/GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS) - GKI Kernels with KernelSU & SUSFS
 - [AOSPA/android_kernel_nothing_sm7325](https://github.com/AOSPA/android_kernel_nothing_sm7325) - 
 - [MalBeacon/what-is-this-stealer](https://github.com/MalBeacon/what-is-this-stealer) - A repository of credential stealer formats
-- [Fr4nKB/Glyphify](https://github.com/Fr4nKB/Glyphify) - Glyphify is an Android app made for Nothing Phones, it tries to make the Glyph interface more useful.
+- [Fr4nKB/Glyphify-v1](https://github.com/Fr4nKB/Glyphify-v1) - Glyphify is an Android app made for Nothing Phones, it tries to make the Glyph interface more useful.
 - [NothingOSS/android_kernel_msm-5.4_nothing_sm7325](https://github.com/NothingOSS/android_kernel_msm-5.4_nothing_sm7325) - Kernel Source for NOTHING Phone(1)
 - [cybergaz/void_repo](https://github.com/cybergaz/void_repo) - just to store random stuff
 - [maks/MGit](https://github.com/maks/MGit) - A Git client for Android.
@@ -3638,6 +3640,7 @@
 
 ## penetration-testing 
 
+- [toneillcodes/brutalkeepass](https://github.com/toneillcodes/brutalkeepass) - Brute force Keepass database passwords
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
