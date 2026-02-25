@@ -241,7 +241,7 @@
 
 ## agent 
 
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for a Linux server / VPS, making it easy to manage OpenClaw agents, local LLMs, websites, databases, containers, files, and scheduled tasks.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw and websites in one click.
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 
@@ -1019,7 +1019,7 @@
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for a Linux server / VPS, making it easy to manage OpenClaw agents, local LLMs, websites, databases, containers, files, and scheduled tasks.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw and websites in one click.
 - [tsaridas/stremio-docker](https://github.com/tsaridas/stremio-docker) - Docker files for easy stremio server and client. Images pushed to Dockerhub
 - [TeamPiped/Piped-Backend](https://github.com/TeamPiped/Piped-Backend) - The core component behind Piped, and other alternative frontends!
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -1804,7 +1804,7 @@
 - [ang3lo-azevedo/dotfiles](https://github.com/ang3lo-azevedo/dotfiles) - My personal dotfiles
 - [calamares/calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for a Linux server / VPS, making it easy to manage OpenClaw agents, local LLMs, websites, databases, containers, files, and scheduled tasks.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw and websites in one click.
 - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [mtkusbdevice/hyprland-hdready](https://github.com/mtkusbdevice/hyprland-hdready) - Collection of dot config files for hyprland for HDReady displays with a simple install script for a fresh Arch linux with yay
@@ -2250,6 +2250,7 @@
 
 ## others 
 
+- [100thCoin/AccuracyCoin](https://github.com/100thCoin/AccuracyCoin) - A large collection of NES accuracy tests on a single NROM cartridge.
 - [spacealtctrl/microg_installer_revived_again](https://github.com/spacealtctrl/microg_installer_revived_again) - Install microG GmsCore, GsfProxy, FakeStore/Play Store and MapsV1 to /system/
 - [MySelly/kernel_nothing_Spacewar](https://github.com/MySelly/kernel_nothing_Spacewar) - 
 - [sashs/Ropper](https://github.com/sashs/Ropper) - Display information about files in different file formats and find gadgets to build rop chains for different architectures (x86/x86_64, ARM/ARM64, MIPS, PowerPC, SPARC64). For disassembly ropper uses 
@@ -2742,7 +2743,6 @@
 - [Xposed-Modules-Repo/ru.mike.mapstweaks](https://github.com/Xposed-Modules-Repo/ru.mike.mapstweaks) - Maps tweaks
 - [ang3lo-azevedo/AIOStreams-config](https://github.com/ang3lo-azevedo/AIOStreams-config) - This is a custom AIOStreams configuration for Stremio, optimized for Portuguese and English content with a focus on high quality. The configuration uses Real-Debrid as the primary debrid service and i
 - [danilopagotto82/stremio-assistido-trakt-addon](https://github.com/danilopagotto82/stremio-assistido-trakt-addon) - Complemento Stremio que mostra Assistido do Trakt nos Cartões informativos (Handy Cards)
-- [Shaun2177/trakt-import](https://github.com/Shaun2177/trakt-import) - 
 - [Pigamer37/letterboxd-stremio-addon](https://github.com/Pigamer37/letterboxd-stremio-addon) - Node.js addon trying to sync watched movies on Stremio with Letterboxd activity. (I'm new to backend so I'm using it as a learning experience)
 - [danilopagotto82/addon-assistido-stremio](https://github.com/danilopagotto82/addon-assistido-stremio) - 
 - [AndreGraca3/TugaFlix](https://github.com/AndreGraca3/TugaFlix) - Addon do Stremio para streaming de filmes em PT-PT
