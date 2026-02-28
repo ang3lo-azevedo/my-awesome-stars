@@ -241,7 +241,7 @@
 
 ## agent 
 
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw and websites in one click.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one click.
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Terminal guardrails for humans and AI agents — intercepts dangerous commands with context-aware challenges before the damage is done.
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
@@ -1025,7 +1025,7 @@
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw and websites in one click.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one click.
 - [tsaridas/stremio-docker](https://github.com/tsaridas/stremio-docker) - Docker files for easy stremio server and client. Images pushed to Dockerhub
 - [TeamPiped/Piped-Backend](https://github.com/TeamPiped/Piped-Backend) - The core component behind Piped, and other alternative frontends!
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -1812,7 +1812,7 @@
 - [ang3lo-azevedo/dotfiles](https://github.com/ang3lo-azevedo/dotfiles) - My personal dotfiles
 - [calamares/calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw and websites in one click.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one click.
 - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [mtkusbdevice/hyprland-hdready](https://github.com/mtkusbdevice/hyprland-hdready) - Collection of dot config files for hyprland for HDReady displays with a simple install script for a fresh Arch linux with yay
@@ -2144,7 +2144,7 @@
 
 ## node 
 
-- [DiegoFleitas/letterboxd-movie-justwatch](https://github.com/DiegoFleitas/letterboxd-movie-justwatch) - Web for scanning letterboxd watchlists & finding streaming options available for a chosen country. Free from JustWatch irrelevant movie recommendations.  Alternative searching included. 🏴‍☠️
+- [DiegoFleitas/letterboxd-movie-justwatch](https://github.com/DiegoFleitas/letterboxd-movie-justwatch) - Scan a Letterboxd watchlist, see what's streaming in your country - no JustWatch recommendations, optional alternative search.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -2161,7 +2161,6 @@
 - [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) - :shield: Take control of your Discord experience with GoofCord – a highly configurable and privacy minded discord client.
 - [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Quick deployment, distributed, multi-user, modern management panel for Minecraft and Steam game servers  /  快速安装，分布式架构，多用户销售，现代化的 Minecraft 和 Steam 游戏服务器管理面板
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [DiegoFleitas/letterboxd-movie-justwatch](https://github.com/DiegoFleitas/letterboxd-movie-justwatch) - Web for scanning letterboxd watchlists & finding streaming options available for a chosen country. Free from JustWatch irrelevant movie recommendations.  Alternative searching included. 🏴‍☠️
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -2260,6 +2259,8 @@
 
 ## others 
 
+- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL [maintainer=@nzbr]
+- [sefcom/ropbot](https://github.com/sefcom/ropbot) - A fast and powerful gadget finder and ROP chain generator. A research prototype for the ropbot paper accepted at NDSS'26.
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [mrshmllow/affinity-everywhere](https://github.com/mrshmllow/affinity-everywhere) - Affinity v2 & v3 packaged as AppImages
 - [mrshmllow/affinity-nix](https://github.com/mrshmllow/affinity-nix) - Affinity v3 & v2 packaged with Nix!
@@ -2286,7 +2287,7 @@
 - [Charcoal-Playground/android_device_nothing_Spacewar](https://github.com/Charcoal-Playground/android_device_nothing_Spacewar) - 
 - [musabcel/android_rom_list](https://github.com/musabcel/android_rom_list) - List of all Android ROMs
 - [ServerHive-Development/guide](https://github.com/ServerHive-Development/guide) - 
-- [KOWX712/KernelSU](https://github.com/KOWX712/KernelSU) - personal fork, focused on lkm
+- [KOWX712/KernelSU](https://github.com/KOWX712/KernelSU) - personal fork
 - [5ec1cff/KernelSU](https://github.com/5ec1cff/KernelSU) - A KernelSU based root solution for Android
 - [LKDenchin/rsuntk-KernelSU](https://github.com/LKDenchin/rsuntk-KernelSU) - KernelSU with MagicMount, support GKI and Non-GKI. Updates: https://t.me/rsukrnlsu
 - [Pong-Development/packages_apps_ParanoidGlyph](https://github.com/Pong-Development/packages_apps_ParanoidGlyph) - packages/apps/ParanoidGlyph
@@ -3905,6 +3906,7 @@
 - [MuhammedKpln/react-native-chatty](https://github.com/MuhammedKpln/react-native-chatty) - 💬 Full-featured high performance chat UI for React Native
 - [marcusfrdk/messages-clone](https://github.com/marcusfrdk/messages-clone) - This is a clone of the iOS messages app using React Native.
 - [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
+- [DiegoFleitas/letterboxd-movie-justwatch](https://github.com/DiegoFleitas/letterboxd-movie-justwatch) - Scan a Letterboxd watchlist, see what's streaming in your country - no JustWatch recommendations, optional alternative search.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
@@ -4280,6 +4282,7 @@
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
+- [DiegoFleitas/letterboxd-movie-justwatch](https://github.com/DiegoFleitas/letterboxd-movie-justwatch) - Scan a Letterboxd watchlist, see what's streaming in your country - no JustWatch recommendations, optional alternative search.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [ibttf/interview-coder](https://github.com/ibttf/interview-coder) - An invisible desktop application to help you pass your technical interviews.
