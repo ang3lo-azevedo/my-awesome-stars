@@ -2545,7 +2545,6 @@
 - [CachyOS/cachyos-niri-noctalia](https://github.com/CachyOS/cachyos-niri-noctalia) - Niri + Noctalia Settings
 - [LSPosed/LSPosed_translations](https://github.com/LSPosed/LSPosed_translations) - 
 - [JNightA/KitsuneMagisk-](https://github.com/JNightA/KitsuneMagisk-) - A fork of KitsuneMagisk. Thanks to the original author @HuskyDG.
-- [1q23lyc45/KitsuneMagisk](https://github.com/1q23lyc45/KitsuneMagisk) - A fork of KitsuneMagisk. Thanks to the original author @HuskyDG.
 - [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A tool that can share DeviceOwner permissions to other application.
 - [frknkrc44/HMA-OSS](https://github.com/frknkrc44/HMA-OSS) - A ROOT REQUIRED LSPosed module to hide your app list, settings, package installers and more. It is a fork of Hide My Applist project.
 - [ArminJo/DigistumpArduino](https://github.com/ArminJo/DigistumpArduino) - Improved version of Digistump avr core for Arduino
