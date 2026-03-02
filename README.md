@@ -281,6 +281,7 @@
 
 ## android 
 
+- [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smal
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
@@ -576,12 +577,13 @@
 
 ## awesome 
 
+- [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [ang3lo-azevedo/my-awesome-stars](https://github.com/ang3lo-azevedo/my-awesome-stars) - A curated list of my GitHub stars!
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [m0nad/awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation) - A curated list of awesome privilege escalation
 - [QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes) - 🐱‍🏍 A curated list of awesome things related to Hugo themes.
@@ -607,13 +609,14 @@
 
 ## awesome-list 
 
+- [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
 - [clivoa/awesome-security-feeds](https://github.com/clivoa/awesome-security-feeds) - Awesome Security Feeds a curated, structured and automation-friendly collection of security RSS/Atom sources. Based on https://securityfeeds.org/
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [ang3lo-azevedo/my-awesome-stars](https://github.com/ang3lo-azevedo/my-awesome-stars) - A curated list of my GitHub stars!
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [m0nad/awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation) - A curated list of awesome privilege escalation
 - [neitsab/awesome-oracle-cloud-free-tier](https://github.com/neitsab/awesome-oracle-cloud-free-tier) - Curated list of awesome resources to make the best out of Oracle Cloud Infrastructure Free Tier
@@ -988,7 +991,6 @@
 - [riolubruh/YABDP4Nitro](https://github.com/riolubruh/YABDP4Nitro) - Yet Another BetterDiscord Plugin for Nitro features. Unlock screensharing modes, use cross-server and gif emotes and much more!
 - [tjarbo/discord-moodle-bot](https://github.com/tjarbo/discord-moodle-bot) - Get notified about changes on moodle on you favorite platform!
 - [m-doescode/BD-TemptationBGone](https://github.com/m-doescode/BD-TemptationBGone) - For BetterDiscord
-- [x-wav/DiscordNitroRemover](https://github.com/x-wav/DiscordNitroRemover) - Removes most of the Discord Nitro buttons and ads
 - [theoteno/NitroLess](https://github.com/theoteno/NitroLess) - Minimalistic BetterDiscord theme; hides Nitro (almost) everywhere, and it's done! But in the emoji selector, the linked plugin should work.
 - [JustOptimize/ShowHiddenChannels](https://github.com/JustOptimize/ShowHiddenChannels) - A BetterDiscord plugin which displays all hidden channels and allows users to view information about them.
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
@@ -1615,6 +1617,7 @@
 
 ## java 
 
+- [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is b
 - [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smal
 - [Ketbome/hytalepanel](https://github.com/Ketbome/hytalepanel) - Docker image for Hytale dedicated server with web panel. Easy setup, auto-download, real-time console.
 - [tekgator/docker-mcmyadmin](https://github.com/tekgator/docker-mcmyadmin) - McMyAdmin control pannel for running a Java Minecraft server in all possible variants
@@ -2497,7 +2500,7 @@
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
 - [amaanq/helium-flake](https://github.com/amaanq/helium-flake) - Nix flake for the Helium browser
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
-- [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
+- [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [Hyphaed/vmware-vmmon-vmnet-linux-6.17.x](https://github.com/Hyphaed/vmware-vmmon-vmnet-linux-6.17.x) - VMware Workstation modules patches for Linux kernel 6.17.x
 - [Omni-guides/Jackify](https://github.com/Omni-guides/Jackify) - Jackify - Simplifying Wabbajack modlist installation and configuration on Linux
@@ -2540,7 +2543,7 @@
 - [PGNetHun/PG-TTGO-Watchfaces](https://github.com/PGNetHun/PG-TTGO-Watchfaces) - Watchfaces for Lilygo T-Watch-2020 - Firmware: sharandac/My-TTGO-Watch
 - [whoeevee/EeveeSpotifyReborn](https://github.com/whoeevee/EeveeSpotifyReborn) - A tweak to enhance Spotify experience
 - [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
-- [jaylikesbunda/Ghost_ESP](https://github.com/jaylikesbunda/Ghost_ESP) - GhostESP: Revival turns your ESP32 into a cheap and powerful wireless testing tool.
+- [GhostESP-Revival/GhostESP](https://github.com/GhostESP-Revival/GhostESP) - GhostESP: Revival turns your ESP32 into a cheap and powerful wireless testing tool.
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
 - [CachyOS/cachyos-niri-noctalia](https://github.com/CachyOS/cachyos-niri-noctalia) - Niri + Noctalia Settings
 - [LSPosed/LSPosed_translations](https://github.com/LSPosed/LSPosed_translations) - 
@@ -2623,7 +2626,7 @@
 - [alexandre-lavoie/vs-ctf](https://github.com/alexandre-lavoie/vs-ctf) - A VSCode extension for CTFs
 - [DaViDev985/vendor_nothing_Spacewar](https://github.com/DaViDev985/vendor_nothing_Spacewar) - New DerpFest vendor tree for Nothing Phone (1) (Spacewar). Forked from TheMuppets.
 - [crdroidandroid/proprietary_vendor_nothing_Spacewar](https://github.com/crdroidandroid/proprietary_vendor_nothing_Spacewar) - 
-- [DreamMaoMao/mangowc](https://github.com/DreamMaoMao/mangowc) - Practical and Powerful wayland compositor (dwm but wayland)
+- [mangowm/mango](https://github.com/mangowm/mango) - Practical and Powerful wayland compositor (dwm but wayland)
 - [pedromigueladao/SSof](https://github.com/pedromigueladao/SSof) - Public Repo for Software Security Course@IST
 - [LineageOS/android_hardware_nothing](https://github.com/LineageOS/android_hardware_nothing) - 
 - [pedromigueladao/SSof-Project1920](https://github.com/pedromigueladao/SSof-Project1920) - Community Repository for Testing the Projects of the Software Security course 2019/20
@@ -3270,7 +3273,7 @@
 - [notnout/tutorials](https://github.com/notnout/tutorials) - 
 - [TheBeastLT/torrentio-scraper](https://github.com/TheBeastLT/torrentio-scraper) - 
 - [eylles/pywal16](https://github.com/eylles/pywal16) - 16 colors fork of pywal
-- [p4ulor/ISEL-LEIC-Info-Hub](https://github.com/p4ulor/ISEL-LEIC-Info-Hub) - 🎓Uma série de coisas acerca do curso de LEIC do ISEL. Links para trabalhos finais de curso e outros
+- [p4ulor/ISEL-LEIC-Info-Hub](https://github.com/p4ulor/ISEL-LEIC-Info-Hub) - 🎓Uma série de coisas acerca do curso de LEIC do ISEL. Links para trabalhos práticos e trabalhos finais do curso
 - [ang3lo-azevedo/OpenCord](https://github.com/ang3lo-azevedo/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [ang3lo-azevedo/Revanced-And-Revanced-Extended-Non-Root](https://github.com/ang3lo-azevedo/Revanced-And-Revanced-Extended-Non-Root) - 
 - [Demon000/aasdk](https://github.com/Demon000/aasdk) - Library to build AndroidAuto headunit emulator
@@ -3633,6 +3636,7 @@
 
 ## p2p 
 
+- [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is b
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [hauxir/rapidbay](https://github.com/hauxir/rapidbay) - Self-hosted torrent video streaming service compatible with Chromecast, AppleTV & Kodi deployable in the cloud
 
@@ -3950,6 +3954,7 @@
 
 ## reverse-engineering 
 
+- [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smal
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
