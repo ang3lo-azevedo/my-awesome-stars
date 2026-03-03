@@ -313,7 +313,7 @@
 - [prirai/nira-browser](https://github.com/prirai/nira-browser) - Android browser with multiple profiles, PWAs, extension and tab groups based on Geckoview
 - [Harish-Srinivas-07/hivefy](https://github.com/Harish-Srinivas-07/hivefy) - Hivefy - Ad-free, offline-ready music streaming app with Spotify-style interface and JioSaavn API.
 - [ZalithLauncher/ZalithLauncher2](https://github.com/ZalithLauncher/ZalithLauncher2) - A Minecraft: Java Edition Launcher for Android
-- [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Razzula/spotify-controller](https://github.com/Razzula/spotify-controller) - An Android app that uses Spotify's SDK and Web API to fill the current song queue with songs appropriate for the current driving speed
 - [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - 💊 An Android application to use ReVanced, Morphe and AmpleReVanced on that has extra features the official manager doesn't have
@@ -1002,6 +1002,7 @@
 
 ## docker 
 
+- [brannondorsey/mitm-router](https://github.com/brannondorsey/mitm-router) - ☠ Man-in-the-middle wireless access point inside a docker container 🐳
 - [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
 - [deinfreu/hytale-server-container](https://github.com/deinfreu/hytale-server-container) - hytale-server-container 📦 56.4MB (Alpine/Liberica) • Non-root • QUIC Enabled • Prod & Debug • Pterodactyl coming
 - [ifd3f/infra](https://github.com/ifd3f/infra) - Personal cloud, dotfiles, and configurations omnirepo
@@ -1687,7 +1688,7 @@
 - [ProjectOrbital/WhatSave](https://github.com/ProjectOrbital/WhatSave) - Save WhatsApp statuses in the easiest way
 - [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user experience possible.
-- [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [fym35/ZuckApp](https://github.com/fym35/ZuckApp) - complete foss recreation/client of whatsapp for android
 - [ReVanced/revanced-manager-downloader](https://github.com/ReVanced/revanced-manager-downloader) - 🔌 ReVanced Manager downloaders
 - [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - 💊 An Android application to use ReVanced, Morphe and AmpleReVanced on that has extra features the official manager doesn't have
@@ -1768,14 +1769,14 @@
 - [0xarchit/0xDABmusic](https://github.com/0xarchit/0xDABmusic) - A client for DAB music for download, convert, enjoy your library All in one! First opening might be delayed due to unsigned package detection by defender on windows. Enjoy studio quality music (FLAC) 
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
-- [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [m0nad/Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64)
 - [face-hh/fuck](https://github.com/face-hh/fuck) - An actually good, heavily opinionated Linux distro.
 - [Abyss-W4tcher/volatility3-symbols](https://github.com/Abyss-W4tcher/volatility3-symbols) - Collection of Linux and macOS Volatility3 Intermediate Symbol Files (ISF), suitable for memory analysis 🔍
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
-- [samuelngs/apple-emoji-ttf](https://github.com/samuelngs/apple-emoji-ttf) - Brings Apple’s vibrant color emojis to Linux and Windows
+- [samuelngs/apple-emoji-ttf](https://github.com/samuelngs/apple-emoji-ttf) - Brings Apple's vibrant color emojis to Linux, Windows, and the Web
 - [yrp604/rappel](https://github.com/yrp604/rappel) - A linux-based assembly REPL for x86, amd64, armv7, and armv8
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
 - [exploitoverload/PwNixOS](https://github.com/exploitoverload/PwNixOS) - PwNixOS - A Productivity Focused and Hacking-Oriented NixOS Flake
@@ -1943,7 +1944,7 @@
 - [0xarchit/0xDABmusic](https://github.com/0xarchit/0xDABmusic) - A client for DAB music for download, convert, enjoy your library All in one! First opening might be delayed due to unsigned package detection by defender on windows. Enjoy studio quality music (FLAC) 
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
-- [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
@@ -2197,7 +2198,7 @@
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [jpdoshi/dragon-store](https://github.com/jpdoshi/dragon-store) - Dragon Store is your gateway to transparent, libre and free open-source apps.
 - [Harish-Srinivas-07/hivefy](https://github.com/Harish-Srinivas-07/hivefy) - Hivefy - Ad-free, offline-ready music streaming app with Spotify-style interface and JioSaavn API.
-- [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [Ketbome/minepanel](https://github.com/Ketbome/minepanel) - A modern Docker-based web panel for managing multiple Minecraft servers with ease.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
@@ -2262,6 +2263,9 @@
 
 ## others 
 
+- [mvondracek/wifimitm](https://github.com/mvondracek/wifimitm) - Wi-Fi Machine-in-the-Middle: Automation of MitM Attack on Wi-Fi Networks
+- [Andycodeman/samsung-galaxy-book4-linux-fixes](https://github.com/Andycodeman/samsung-galaxy-book4-linux-fixes) - Speaker and webcam fixes for Samsung Galaxy Book4 laptops on Linux (Ubuntu 24.04+)
+- [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL [maintainer=@nzbr]
 - [sefcom/ropbot](https://github.com/sefcom/ropbot) - A fast and powerful gadget finder and ROP chain generator. A research prototype for the ropbot paper accepted at NDSS'26.
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
@@ -3130,7 +3134,6 @@
 - [whateverusername0/VRTRAKILL](https://github.com/whateverusername0/VRTRAKILL) - ULTRAKILL VR support mod
 - [Xposed-Modules-Repo/ru.mike.mcroot](https://github.com/Xposed-Modules-Repo/ru.mike.mcroot) - McDonalds Global App security fix
 - [caplogistica/MiceWine](https://github.com/caplogistica/MiceWine) - MiceWine is a project that aims to run Windows applications and games on Android smartphones.
-- [ajay9634/winlator-ajay](https://github.com/ajay9634/winlator-ajay) - Android application for running Windows applications with Wine and Box86/Box64
 - [SolidEva/android-auto-stub](https://github.com/SolidEva/android-auto-stub) - Android Auto Stub
 - [sn-00-x/android-auto](https://github.com/sn-00-x/android-auto) - Android Auto as user app with media apps support on GrapheneOS / Android 14
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
@@ -4475,12 +4478,12 @@
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
 - [AlexNabokikh/windows-playbook](https://github.com/AlexNabokikh/windows-playbook) - Windows setup and configuration via Ansible.
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
-- [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [stuxnet999/MemLabs](https://github.com/stuxnet999/MemLabs) - Educational, CTF-styled labs for individuals interested in Memory Forensics
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
-- [samuelngs/apple-emoji-ttf](https://github.com/samuelngs/apple-emoji-ttf) - Brings Apple’s vibrant color emojis to Linux and Windows
+- [samuelngs/apple-emoji-ttf](https://github.com/samuelngs/apple-emoji-ttf) - Brings Apple's vibrant color emojis to Linux, Windows, and the Web
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
