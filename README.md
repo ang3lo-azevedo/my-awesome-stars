@@ -70,6 +70,7 @@
 - [emulator](#emulator)
 - [express](#express)
 - [facebook](#facebook)
+- [fastapi](#fastapi)
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -1174,6 +1175,10 @@
 - [davidfegyver/facebook-533m](https://github.com/davidfegyver/facebook-533m) - 
 - [ptrpaws/Oculess](https://github.com/ptrpaws/Oculess) - Removes account requirements and telemetry from Oculus Quest devices
 
+## fastapi 
+
+- [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API (Don't need API KEY) (ChatGPT, Claude, DeeepSeek, Grok and more)
+
 ## finance 
 
 - [Pool-Of-Tears/GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.
@@ -2069,6 +2074,7 @@
 ## monitoring 
 
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [femto-code/Raspberry-Pi-Dashboard](https://github.com/femto-code/Raspberry-Pi-Dashboard) - Web-App Dashboard to monitor Raspberry Pi hardware and software status. Nothing more than Webserver + PHP required.
 
 ## music 
@@ -2263,6 +2269,7 @@
 
 ## others 
 
+- [kleidione/device_nothing_Spacewar](https://github.com/kleidione/device_nothing_Spacewar) - 
 - [mvondracek/wifimitm](https://github.com/mvondracek/wifimitm) - Wi-Fi Machine-in-the-Middle: Automation of MitM Attack on Wi-Fi Networks
 - [Andycodeman/samsung-galaxy-book4-linux-fixes](https://github.com/Andycodeman/samsung-galaxy-book4-linux-fixes) - Speaker and webcam fixes for Samsung Galaxy Book4 laptops on Linux (Ubuntu 24.04+)
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
@@ -2504,7 +2511,6 @@
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
 - [amaanq/helium-flake](https://github.com/amaanq/helium-flake) - Nix flake for the Helium browser
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
-- [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [Hyphaed/vmware-vmmon-vmnet-linux-6.17.x](https://github.com/Hyphaed/vmware-vmmon-vmnet-linux-6.17.x) - VMware Workstation modules patches for Linux kernel 6.17.x
 - [Omni-guides/Jackify](https://github.com/Omni-guides/Jackify) - Jackify - Simplifying Wabbajack modlist installation and configuration on Linux
@@ -2567,7 +2573,7 @@
 - [Xh4H/WhatsApp-device-activity-tracker](https://github.com/Xh4H/WhatsApp-device-activity-tracker) - 
 - [RenwaX23/XSS-Payloads](https://github.com/RenwaX23/XSS-Payloads) - List of XSS Vectors/Payloads
 - [vvb2060/KeyAttestation](https://github.com/vvb2060/KeyAttestation) - 
-- [corentin-c/SpotifyAutoPatcher](https://github.com/corentin-c/SpotifyAutoPatcher) - Android app to patch Spotify and Youtube Music combining the powers of AntiSplit-M and ReVanced Manager !
+- [corentin-c/SpotifyAutoPatcher](https://github.com/corentin-c/SpotifyAutoPatcher) - Patch Spotify and Youtube Music without the need to download APKs !
 - [Natanji/whatsapp-privacy-version](https://github.com/Natanji/whatsapp-privacy-version) - A collection of scripts to build a more privacy-aware WhatsApp version that doesn't leak your contact information.
 - [DPR-MoonWake/moonwake_kernel_xiaomi_ruby](https://github.com/DPR-MoonWake/moonwake_kernel_xiaomi_ruby) - Redmi Note 12 pro 5G (ruby) kernel specifically for powersave
 - [morphiusnick-hub/moonwake_kernel_xiaomi_ruby](https://github.com/morphiusnick-hub/moonwake_kernel_xiaomi_ruby) - [MoonWake] Redmi Note 12 pro 5G (ruby) kernel specify for powersave
@@ -2584,7 +2590,7 @@
 - [Aunali321/revanced-downloader-plugins](https://github.com/Aunali321/revanced-downloader-plugins) - 
 - [Aunali321/ReVancedExperiments](https://github.com/Aunali321/ReVancedExperiments) - 
 - [mamiiblt/instafel](https://github.com/mamiiblt/instafel) - Instafel provides fast & up-to-date Instagram Alpha experience for everyone!
-- [8Mi-Tech/LSPatch-ApkFactory](https://github.com/8Mi-Tech/LSPatch-ApkFactory) - 一个基于LSPatch的打包工具，自动为常见应用打LSPatch补丁的仓库，包括 OPatch / ONPatch / NPatch
+- [8Mi-Tech/LSPatch-ApkFactory](https://github.com/8Mi-Tech/LSPatch-ApkFactory) - 一个基于LSPatch的打包工具，自动为常见应用打LSPatch补丁的仓库，包括各类分支(详见readme)
 - [7723mod/NPatch](https://github.com/7723mod/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 - [vaginessa/NPatch](https://github.com/vaginessa/NPatch) - 
 - [WindySha/Xpatch](https://github.com/WindySha/Xpatch) - This is a tool to repackage apk file, then the apk can load any xposed modules installed in the device. It is another way to hook an app without root device.
@@ -2849,7 +2855,7 @@
 - [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [5ec1cff/KsuWebUIStandalone](https://github.com/5ec1cff/KsuWebUIStandalone) - 
-- [NewsGuyTor/IPTVChecker](https://github.com/NewsGuyTor/IPTVChecker) - Script that goes through a playlist to check IPTV channels
+- [kristofferR/IPTVChecker-Python](https://github.com/kristofferR/IPTVChecker-Python) - Script that goes through a playlist to check IPTV channels
 - [LITUATUI/M3UPT](https://github.com/LITUATUI/M3UPT) - IPTV playlist in M3U format with TV and radio stations in Portuguese. Public and official streams only.
 - [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - HyperOS enhancement module - Make HyperOS Great Again!
 - [f0nZ/epg-tv-portuguesa](https://github.com/f0nZ/epg-tv-portuguesa) - Guia de TV da televisão portuguesa para IPTV
@@ -3284,7 +3290,7 @@
 - [opencardev/aasdk](https://github.com/opencardev/aasdk) - Library to build AndroidAuto headunit emulator
 - [anddea/revanced-patches](https://github.com/anddea/revanced-patches) - 🧩 Patches for ReVanced
 - [ang3lo-azevedo/Revanced-And-Revanced-Extended](https://github.com/ang3lo-azevedo/Revanced-And-Revanced-Extended) - 
-- [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release
+- [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Morphe, Revanced and Revanced Extended about 10 minutes after patch release
 - [nitanmarcel/NothingCore](https://github.com/nitanmarcel/NothingCore) - [Magisk/XPosed] Install NothingOS apps on any device
 - [hypnomacka/revanced-spotify-patch](https://github.com/hypnomacka/revanced-spotify-patch) - 
 - [revanced-apks/build-apps](https://github.com/revanced-apks/build-apps) - The ReVanced APKs
