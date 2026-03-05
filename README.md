@@ -37,6 +37,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [cloud](#cloud)
+- [coding](#coding)
 - [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
@@ -282,6 +283,7 @@
 
 ## android 
 
+- [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools and mods for Android nerds
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smal
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
@@ -578,6 +580,7 @@
 
 ## awesome 
 
+- [toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding) - All things livecoding
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
@@ -610,6 +613,7 @@
 
 ## awesome-list 
 
+- [toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding) - All things livecoding
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
@@ -800,6 +804,10 @@
 - [bodybuilders-team/isel-leic-cn-g03](https://github.com/bodybuilders-team/isel-leic-cn-g03) - Cloud Computing project of group 03 - LEIC @ ISEL 2022/2023.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [hauxir/rapidbay](https://github.com/hauxir/rapidbay) - Self-hosted torrent video streaming service compatible with Chromecast, AppleTV & Kodi deployable in the cloud
+
+## coding 
+
+- [toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding) - All things livecoding
 
 ## command-line 
 
@@ -1681,6 +1689,7 @@
 
 ## kotlin 
 
+- [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools and mods for Android nerds
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
 - [Siddhesh2377/ToolNeuron](https://github.com/Siddhesh2377/ToolNeuron) - Complete offline AI ecosystem for Android: Chat (GGUF/LLMs), Images (Stable Diffusion 1.5), Voice (TTS/STT), and Knowledge (RAG Data-Packs), zero subscriptions, no data harvesting. Open-source privacy
 - [koiverse/ArchiveTune](https://github.com/koiverse/ArchiveTune) - The Cutest Material 3 Expressive Youtube Music client for Android, built for performance and extensibility.
@@ -2079,6 +2088,7 @@
 
 ## music 
 
+- [toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding) - All things livecoding
 - [koiverse/ArchiveTune](https://github.com/koiverse/ArchiveTune) - The Cutest Material 3 Expressive Youtube Music client for Android, built for performance and extensibility.
 - [0xarchit/0xDABmusic](https://github.com/0xarchit/0xDABmusic) - A client for DAB music for download, convert, enjoy your library All in one! First opening might be delayed due to unsigned package detection by defender on windows. Enjoy studio quality music (FLAC) 
 - [Harish-Srinivas-07/hivefy](https://github.com/Harish-Srinivas-07/hivefy) - Hivefy - Ad-free, offline-ready music streaming app with Spotify-style interface and JioSaavn API.
@@ -2269,6 +2279,12 @@
 
 ## others 
 
+- [louis-thevenet/nixos-config](https://github.com/louis-thevenet/nixos-config) - NixOS Niri flake setup
+- [justbuchanan/waybar-niri-workspaces-enhanced](https://github.com/justbuchanan/waybar-niri-workspaces-enhanced) - A replacement niri plugin for waybar to display icons for running programs
+- [afonsocrg/Uni-Feedback](https://github.com/afonsocrg/Uni-Feedback) - Collective feedback from MEIC courses
+- [andre-j3sus/MEIC-feedback](https://github.com/andre-j3sus/MEIC-feedback) - Collective feedback from MEIC courses
+- [google/kctf](https://github.com/google/kctf) - kCTF is a Kubernetes-based infrastructure for CTF competitions. For documentation, see
+- [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
 - [kleidione/device_nothing_Spacewar](https://github.com/kleidione/device_nothing_Spacewar) - 
 - [mvondracek/wifimitm](https://github.com/mvondracek/wifimitm) - Wi-Fi Machine-in-the-Middle: Automation of MitM Attack on Wi-Fi Networks
 - [Andycodeman/samsung-galaxy-book4-linux-fixes](https://github.com/Andycodeman/samsung-galaxy-book4-linux-fixes) - Speaker and webcam fixes for Samsung Galaxy Book4 laptops on Linux (Ubuntu 24.04+)
@@ -2575,7 +2591,7 @@
 - [vvb2060/KeyAttestation](https://github.com/vvb2060/KeyAttestation) - 
 - [corentin-c/SpotifyAutoPatcher](https://github.com/corentin-c/SpotifyAutoPatcher) - Patch Spotify and Youtube Music without the need to download APKs !
 - [Natanji/whatsapp-privacy-version](https://github.com/Natanji/whatsapp-privacy-version) - A collection of scripts to build a more privacy-aware WhatsApp version that doesn't leak your contact information.
-- [DPR-MoonWake/moonwake_kernel_xiaomi_ruby](https://github.com/DPR-MoonWake/moonwake_kernel_xiaomi_ruby) - Redmi Note 12 pro 5G (ruby) kernel specifically for powersave
+- [XDL-MoonWake/moonwake_kernel_xiaomi_ruby](https://github.com/XDL-MoonWake/moonwake_kernel_xiaomi_ruby) - Redmi Note 12 pro 5G (ruby) kernel specifically for powersave.
 - [morphiusnick-hub/moonwake_kernel_xiaomi_ruby](https://github.com/morphiusnick-hub/moonwake_kernel_xiaomi_ruby) - [MoonWake] Redmi Note 12 pro 5G (ruby) kernel specify for powersave
 - [fjrXTR/kernel_xiaomi_ruby](https://github.com/fjrXTR/kernel_xiaomi_ruby) - Kernel Source for Redmi Note 12 Pro 5G
 - [MiCode/Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi Mobile Phone Kernel OpenSource
@@ -3801,7 +3817,7 @@
 - [HanaokaYuzu/Gemini-API](https://github.com/HanaokaYuzu/Gemini-API) - ✨ Reverse-engineered Python API for Google Gemini web app
 - [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's terminal UI app - The ultimate weapon against brainrot
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
-- [rendercv/rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers, YAML to PDF
+- [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
 - [Nokse22/high-tide](https://github.com/Nokse22/high-tide) - Libadwaita TIDAL client for Linux
 - [Jman-Github/ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) - Automatically aggregates alternative ReVanced patch and integration repositories into JSON files to import into the ReVanced Manager Compose.
 - [Woahai321/list-sync](https://github.com/Woahai321/list-sync) - ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management. https://discord.gg/Dy5xNzEHKw
