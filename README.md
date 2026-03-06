@@ -754,6 +754,7 @@
 
 ## chrome-extension 
 
+- [RetireJS/retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds.
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [xlch88/YouTubeTweak](https://github.com/xlch88/YouTubeTweak) - Packed with all the features you want: lock video quality, speed buttons, show commenter names, auto-translate comments, hide distractions, and more.
 - [Baldomo/open-in-mpv](https://github.com/Baldomo/open-in-mpv) - Simple web extension to open videos in mpv
@@ -765,7 +766,7 @@
 
 ## cli 
 
-- [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - 錆緒 (Oxicord): A forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
+- [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - Forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
 - [e-tho/pwmenu](https://github.com/e-tho/pwmenu) - Launcher-driven audio manager for Linux
 - [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's terminal UI app - The ultimate weapon against brainrot
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
@@ -824,6 +825,7 @@
 
 ## compiler 
 
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
@@ -872,6 +874,7 @@
 
 ## csharp 
 
+- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [Amethyst-szs/MoonFlow](https://github.com/Amethyst-szs/MoonFlow) - Modding application for Super Mario Odyssey, specializing in text editing and event flowcharts
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
@@ -971,7 +974,7 @@
 
 ## discord 
 
-- [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - 錆緒 (Oxicord): A forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
+- [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - Forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
 - [xhos/discord-quest-watcher](https://github.com/xhos/discord-quest-watcher) - webhook notifications when new discord quests are released, w/ filters
 - [nvckai/Discord-Web-Auto-Quest-Extension](https://github.com/nvckai/Discord-Web-Auto-Quest-Extension) - A Chrome extension that automatically completes all Discord Quests
@@ -1257,6 +1260,7 @@
 
 ## framework 
 
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
@@ -1330,6 +1334,7 @@
 
 ## github 
 
+- [unchihugo/FluentFlyout](https://github.com/unchihugo/FluentFlyout) - The modern Flyout app for Windows 11, built with Fluent 2 Design principles. Media Flyouts, Taskbar Widgets and more.
 - [samyak2403/RepoStore](https://github.com/samyak2403/RepoStore) - Explore apps published on GitHub, view release details, and install APKs instantly — all in one place. Developed using pure Kotlin, optimized for modern Android devices.
 - [jpdoshi/dragon-store](https://github.com/jpdoshi/dragon-store) - Dragon Store is your gateway to transparent, libre and free open-source apps.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -1446,6 +1451,7 @@
 
 ## hacktoberfest 
 
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [cobalt2727/L4T-Megascript](https://github.com/cobalt2727/L4T-Megascript) - All-in-one installer and updater for popular programs on L4T Ubuntu/Fedora with no prior knowledge of Linux needed
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
@@ -1649,6 +1655,7 @@
 
 ## javascript 
 
+- [RetireJS/retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds.
 - [yoannchb-pro/MoodleGPT](https://github.com/yoannchb-pro/MoodleGPT) - This extension allows you to hide CHAT-GPT in a Moodle quiz.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web A, GPL v3
@@ -1746,6 +1753,7 @@
 
 ## language 
 
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [ice1000/NppExtension](https://github.com/ice1000/NppExtension) - :smiley: Language extension for notepad++
@@ -1762,7 +1770,7 @@
 
 ## linux 
 
-- [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - 錆緒 (Oxicord): A forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
+- [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - Forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
 - [Faugus/faugus-launcher](https://github.com/Faugus/faugus-launcher) - A simple and lightweight app for running Windows games using UMU-Launcher
 - [yuawn/Linux-Kernel-Exploitation](https://github.com/yuawn/Linux-Kernel-Exploitation) - Linux kernel module implementation & exploitation (pwn) labs.
 - [ikus060/minarca](https://github.com/ikus060/minarca) - Self-hosted opensource data backup for Linux, Windows and Mac. Git mirror of https://gitlab.com/ikus-soft/minarca
@@ -2088,6 +2096,7 @@
 
 ## music 
 
+- [unchihugo/FluentFlyout](https://github.com/unchihugo/FluentFlyout) - The modern Flyout app for Windows 11, built with Fluent 2 Design principles. Media Flyouts, Taskbar Widgets and more.
 - [toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding) - All things livecoding
 - [koiverse/ArchiveTune](https://github.com/koiverse/ArchiveTune) - The Cutest Material 3 Expressive Youtube Music client for Android, built for performance and extensibility.
 - [0xarchit/0xDABmusic](https://github.com/0xarchit/0xDABmusic) - A client for DAB music for download, convert, enjoy your library All in one! First opening might be delayed due to unsigned package detection by defender on windows. Enjoy studio quality music (FLAC) 
@@ -2164,6 +2173,7 @@
 
 ## node 
 
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 - [DiegoFleitas/letterboxd-movie-justwatch](https://github.com/DiegoFleitas/letterboxd-movie-justwatch) - Scan a Letterboxd watchlist, see what's streaming in your country - no JustWatch recommendations, optional alternative search.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -2279,6 +2289,12 @@
 
 ## others 
 
+- [wabbajack-tools/wabbajack](https://github.com/wabbajack-tools/wabbajack) - An automated Modlist installer for various games.
+- [S1gn3rs/writeups](https://github.com/S1gn3rs/writeups) - 
+- [rhythmcache/payload-dumper-gui](https://github.com/rhythmcache/payload-dumper-gui) - App for Windows and Android to extract Android OTA payloads from local files or HTTP URLs
+- [terryds/awesome-strudel](https://github.com/terryds/awesome-strudel) - A curated collection of awesome Strudel resources including tracks (popular song covers and remixes), tutorials, and repositories
+- [eefano/strudel-songs-collection](https://github.com/eefano/strudel-songs-collection) - Songs created with Strudel, the live coding music tool
+- [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [louis-thevenet/nixos-config](https://github.com/louis-thevenet/nixos-config) - NixOS Niri flake setup
 - [justbuchanan/waybar-niri-workspaces-enhanced](https://github.com/justbuchanan/waybar-niri-workspaces-enhanced) - A replacement niri plugin for waybar to display icons for running programs
 - [afonsocrg/Uni-Feedback](https://github.com/afonsocrg/Uni-Feedback) - Collective feedback from MEIC courses
@@ -2295,7 +2311,7 @@
 - [mrshmllow/affinity-everywhere](https://github.com/mrshmllow/affinity-everywhere) - Affinity v2 & v3 packaged as AppImages
 - [mrshmllow/affinity-nix](https://github.com/mrshmllow/affinity-nix) - Affinity v3 & v2 packaged with Nix!
 - [100thCoin/AccuracyCoin](https://github.com/100thCoin/AccuracyCoin) - A large collection of NES accuracy tests on a single NROM cartridge.
-- [spacealtctrl/microg_installer_revived_again](https://github.com/spacealtctrl/microg_installer_revived_again) - Install microG GmsCore, GsfProxy, Companion/Play Store and MapsV1 to '/system/' with privileged permissions
+- [spacealtctrl/microg_installer_revived_again](https://github.com/spacealtctrl/microg_installer_revived_again) - Install microG GmsCore, GsfProxy, Companion/Play Store and MapsV1 to /priv-app/' with privileged permissions
 - [MySelly/kernel_nothing_Spacewar](https://github.com/MySelly/kernel_nothing_Spacewar) - 
 - [sashs/Ropper](https://github.com/sashs/Ropper) - Display information about files in different file formats and find gadgets to build rop chains for different architectures (x86/x86_64, ARM/ARM64, MIPS, PowerPC, SPARC64). For disassembly ropper uses 
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
@@ -3011,7 +3027,6 @@
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
-- [eden-emulator/Releases](https://github.com/eden-emulator/Releases) - Eden's Releases
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [winapps-org/winapps-launcher](https://github.com/winapps-org/winapps-launcher) - Taskbar Launcher for [WinApps](https://github.com/winapps-org/winapps).
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
@@ -3684,7 +3699,7 @@
 ## penetration-testing 
 
 - [toneillcodes/brutalkeepass](https://github.com/toneillcodes/brutalkeepass) - Brute force Keepass database passwords
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [may215/awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools
@@ -3692,7 +3707,7 @@
 
 ## pentesting 
 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
 - [ndelphit/apkurlgrep](https://github.com/ndelphit/apkurlgrep) - Extract endpoints from APK files
 - [m0nad/awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation) - A curated list of awesome privilege escalation
 - [m0nad/Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64)
@@ -4016,9 +4031,10 @@
 
 ## rust 
 
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
-- [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - 錆緒 (Oxicord): A forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
+- [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - Forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
 - [TheROMMER/core](https://github.com/TheROMMER/core) - A powerful tool designed to customize Android ROM ZIP files without building from source.
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
@@ -4050,6 +4066,7 @@
 
 ## security 
 
+- [RetireJS/retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds.
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [yuawn/Linux-Kernel-Exploitation](https://github.com/yuawn/Linux-Kernel-Exploitation) - Linux kernel module implementation & exploitation (pwn) labs.
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
@@ -4079,7 +4096,7 @@
 ## security-tools 
 
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
 - [m0nad/Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64)
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 
@@ -4232,7 +4249,7 @@
 
 ## terminal 
 
-- [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - 錆緒 (Oxicord): A forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
+- [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - Forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [sparklost/endcord](https://github.com/sparklost/endcord) - Feature rich Discord TUI client.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
@@ -4274,7 +4291,7 @@
 
 ## tui 
 
-- [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - 錆緒 (Oxicord): A forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
+- [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - Forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [sparklost/endcord](https://github.com/sparklost/endcord) - Feature rich Discord TUI client.
 - [Vonr/parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
@@ -4397,7 +4414,7 @@
 
 ## vim 
 
-- [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - 錆緒 (Oxicord): A forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
+- [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - Forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -4443,6 +4460,7 @@
 
 ## vue 
 
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
 - [guyzyl/whatsapp-contact-sync](https://github.com/guyzyl/whatsapp-contact-sync) - Easy way to sync between the contact photos on WhatsApp to Google Contacts
@@ -4491,6 +4509,7 @@
 
 ## windows 
 
+- [unchihugo/FluentFlyout](https://github.com/unchihugo/FluentFlyout) - The modern Flyout app for Windows 11, built with Fluent 2 Design principles. Media Flyouts, Taskbar Widgets and more.
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [ikus060/minarca](https://github.com/ikus060/minarca) - Self-hosted opensource data backup for Linux, Windows and Mac. Git mirror of https://gitlab.com/ikus-soft/minarca
 - [ltx0101/SlimBrave](https://github.com/ltx0101/SlimBrave) - Debloat Brave for faster performance and smoother browsing.
