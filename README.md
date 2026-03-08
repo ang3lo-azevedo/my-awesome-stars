@@ -366,7 +366,7 @@
 - [NielsMasdorp/Nederadio-Android](https://github.com/NielsMasdorp/Nederadio-Android) - Stream radio stations
 - [anod/headunit](https://github.com/anod/headunit) - Headunit for Android Auto
 - [shmykelsa/extrasforaa-release](https://github.com/shmykelsa/extrasforaa-release) - Repo with just the APKs of Extras For Android Auto. Substratum theme to personalize Android Auto's look.
-- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk & LSPosed(xposed) modules with step-by-step rooting guides
+- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk/ KernelSu & LSPosed(xposed) modules & rooting guides
 - [phstudio2/FreeTV](https://github.com/phstudio2/FreeTV) - Free TV app
 - [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) - 📱 Unofficial Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Works well with Syncplay on PC. Fully written in Kotlin and Compose multiplatform.
 - [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
@@ -425,7 +425,7 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [BobbyESP/Jetispot](https://github.com/BobbyESP/Jetispot) - Unofficial Spotify client for Android built with Jetpack Compose, Material 3 and librespot-java. Fork ahead of Tayson's original repo. Read README!
 - [galaxygoldfish/pineapple](https://github.com/galaxygoldfish/pineapple) - 🍍 Reddit client for Android using Material You
-- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design/theme.
+- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design.
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
 - [itsmartashub/floristyle](https://github.com/itsmartashub/floristyle) - Dynamic Material You themes for the Florisboard keyboard. Make the Florisboard keyboard's UI more similar to Gboard.
 - [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
@@ -598,7 +598,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
-- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk & LSPosed(xposed) modules with step-by-step rooting guides
+- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk/ KernelSu & LSPosed(xposed) modules & rooting guides
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) - A curated list of awesome mpv resources.
 - [latipun7/dotfiles](https://github.com/latipun7/dotfiles) - 🏡 Home sweet ~/.
@@ -606,7 +606,7 @@
 - [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
 - [sayhiben/awesome-rabbit-r1](https://github.com/sayhiben/awesome-rabbit-r1) - A list of resources for hacking on the Rabbit r1
 - [Psyhackological/AAA](https://github.com/Psyhackological/AAA) - :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!
-- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design/theme.
+- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [doingodswork/awesome-stremio](https://github.com/doingodswork/awesome-stremio) - A curated list of awesome tools and addons for Stremio
@@ -631,14 +631,14 @@
 - [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced) - A curated list of all ReVanced resources, patches and projects!
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
-- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk & LSPosed(xposed) modules with step-by-step rooting guides
+- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk/ KernelSu & LSPosed(xposed) modules & rooting guides
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [ImKKingshuk/Awesome-CustomROM](https://github.com/ImKKingshuk/Awesome-CustomROM) - Awesome-CustomROM: Explore the World of Custom Android Experiences! Dive into a collection of the best Custom ROMs, featuring cutting-edge features, enhanced performance, and a vibrant developer commu
 - [mesquidar/ForensicsTools](https://github.com/mesquidar/ForensicsTools) - A list of free and open forensics analysis tools and other resources
 - [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) - A curated list of awesome mpv resources.
 - [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
 - [sayhiben/awesome-rabbit-r1](https://github.com/sayhiben/awesome-rabbit-r1) - A list of resources for hacking on the Rabbit r1
-- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design/theme.
+- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [doingodswork/awesome-stremio](https://github.com/doingodswork/awesome-stremio) - A curated list of awesome tools and addons for Stremio
@@ -1471,7 +1471,6 @@
 - [johannesjo/linux-window-session-manager](https://github.com/johannesjo/linux-window-session-manager) - A tool to store and reload open windows and window positions for x11 desktops like unity and gnome.
 - [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [angr/angr-management](https://github.com/angr/angr-management) - The official angr GUI.
 - [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
@@ -2296,6 +2295,11 @@
 
 ## others 
 
+- [duhenduhen/dGlyphs](https://github.com/duhenduhen/dGlyphs) - Unofficial Glyph implementation for Nothing Phone (1)
+- [rhowardstone/Epstein-research-data](https://github.com/rhowardstone/Epstein-research-data) - Structured data exports from forensic analysis of the 218GB DOJ Epstein file release — knowledge graph, entity extractions, image catalog, EFTA mapping
+- [Alex-Gilbert/unredact](https://github.com/Alex-Gilbert/unredact) - 
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
+- [RD945/hypervisor-crack-audit](https://github.com/RD945/hypervisor-crack-audit) - 
 - [AviumUI-Devices/device_nothing_Spacewar](https://github.com/AviumUI-Devices/device_nothing_Spacewar) - 
 - [AviumUI-Devices/hardware_nothing](https://github.com/AviumUI-Devices/hardware_nothing) - 
 - [AviumUI-Devices/kernel_nothing_sm7325](https://github.com/AviumUI-Devices/kernel_nothing_sm7325) - 
