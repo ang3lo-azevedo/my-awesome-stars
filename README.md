@@ -45,6 +45,7 @@
 - [config](#config)
 - [cpp](#cpp)
 - [crawler](#crawler)
+- [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
@@ -96,6 +97,7 @@
 - [good-first-issue](#good-first-issue)
 - [google](#google)
 - [google-cloud](#google-cloud)
+- [gradle](#gradle)
 - [gui](#gui)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
@@ -134,6 +136,7 @@
 - [malware](#malware)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [maven](#maven)
 - [mcp](#mcp)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
@@ -185,6 +188,8 @@
 - [reverse-engineering](#reverse-engineering)
 - [ruby](#ruby)
 - [rust](#rust)
+- [sass](#sass)
+- [scala](#scala)
 - [security](#security)
 - [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
@@ -483,6 +488,7 @@
 
 ## api 
 
+- [viu-media/viu](https://github.com/viu-media/viu) - Your browser anime experience from the terminal
 - [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
 - [samyak2403/RepoStore](https://github.com/samyak2403/RepoStore) - Explore apps published on GitHub, view release details, and install APKs instantly — all in one place. Developed using pure Kotlin, optimized for modern Android devices.
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API (Don't need API KEY) (ChatGPT, Claude, DeeepSeek, Grok and more)
@@ -767,6 +773,7 @@
 
 ## cli 
 
+- [viu-media/viu](https://github.com/viu-media/viu) - Your browser anime experience from the terminal
 - [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - Forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
 - [e-tho/pwmenu](https://github.com/e-tho/pwmenu) - Launcher-driven audio manager for Linux
 - [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's terminal UI app - The ultimate weapon against brainrot
@@ -873,6 +880,10 @@
 
 - [C0D3D3V/Moodle-DL](https://github.com/C0D3D3V/Moodle-DL) - Moodle-DL downloads course content fast from Moodle (eg. lecture pdfs)
 
+## cryptography 
+
+- [weavechain/threshold-sig](https://github.com/weavechain/threshold-sig) - Java Implementation of Threshold Signatures using Ed25519
+
 ## csharp 
 
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
@@ -889,6 +900,7 @@
 
 ## css 
 
+- [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
 - [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - 🦊 Firefox user CSS theme looks similar to Chrome
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -1135,7 +1147,7 @@
 ## electron 
 
 - [hitarth-gg/zenshin](https://github.com/hitarth-gg/zenshin) - 🔖 Web & Electron based Anime Streaming App for 🐈s
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [MultiboxLabs/flow-browser](https://github.com/MultiboxLabs/flow-browser) - A modern, privacy-focused browser with a minimalistic design.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
@@ -1412,6 +1424,10 @@
 
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 
+## gradle 
+
+- [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
+
 ## gui 
 
 - [andyjsmith/Registry-Spy](https://github.com/andyjsmith/Registry-Spy) - Cross-platform registry browser for raw Windows registry files
@@ -1640,6 +1656,8 @@
 
 ## java 
 
+- [weavechain/threshold-sig](https://github.com/weavechain/threshold-sig) - Java Implementation of Threshold Signatures using Ed25519
+- [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is b
 - [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smal
 - [Ketbome/hytalepanel](https://github.com/Ketbome/hytalepanel) - Docker image for Hytale dedicated server with web panel. Easy setup, auto-download, real-time console.
@@ -1658,6 +1676,7 @@
 
 ## javascript 
 
+- [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [RetireJS/retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds.
 - [yoannchb-pro/MoodleGPT](https://github.com/yoannchb-pro/MoodleGPT) - This extension allows you to hide CHAT-GPT in a Moodle quiz.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -1699,6 +1718,7 @@
 
 ## kotlin 
 
+- [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools and mods for Android nerds
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
 - [Siddhesh2377/ToolNeuron](https://github.com/Siddhesh2377/ToolNeuron) - Complete offline AI ecosystem for Android: Chat (GGUF/LLMs), Images (Stable Diffusion 1.5), Voice (TTS/STT), and Knowledge (RAG Data-Packs), zero subscriptions, no data harvesting. Open-source privacy
@@ -2037,6 +2057,10 @@
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 
+## maven 
+
+- [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
+
 ## mcp 
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -2224,7 +2248,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [jksalcedo/librefind](https://github.com/jksalcedo/librefind) - Discover and replace proprietary apps with FOSS alternatives
 - [nvckai/Discord-Web-Auto-Quest-Extension](https://github.com/nvckai/Discord-Web-Auto-Quest-Extension) - A Chrome extension that automatically completes all Discord Quests
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [jpdoshi/dragon-store](https://github.com/jpdoshi/dragon-store) - Dragon Store is your gateway to transparent, libre and free open-source apps.
 - [Harish-Srinivas-07/hivefy](https://github.com/Harish-Srinivas-07/hivefy) - Hivefy - Ad-free, offline-ready music streaming app with Spotify-style interface and JioSaavn API.
 - [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
@@ -2295,6 +2319,8 @@
 
 ## others 
 
+- [mkuritsu/helium-flake](https://github.com/mkuritsu/helium-flake) - Helium browser flake
+- [mkuritsu/nixconfig](https://github.com/mkuritsu/nixconfig) - My never complete nixos config
 - [duhenduhen/dGlyphs](https://github.com/duhenduhen/dGlyphs) - Unofficial Glyph implementation for Nothing Phone (1)
 - [rhowardstone/Epstein-research-data](https://github.com/rhowardstone/Epstein-research-data) - Structured data exports from forensic analysis of the 218GB DOJ Epstein file release — knowledge graph, entity extractions, image catalog, EFTA mapping
 - [Alex-Gilbert/unredact](https://github.com/Alex-Gilbert/unredact) - 
@@ -2350,7 +2376,7 @@
 - [Charcoal-Playground/android_device_nothing_Spacewar](https://github.com/Charcoal-Playground/android_device_nothing_Spacewar) - 
 - [musabcel/android_rom_list](https://github.com/musabcel/android_rom_list) - List of all Android ROMs
 - [ServerHive-Development/guide](https://github.com/ServerHive-Development/guide) - 
-- [KOWX712/KernelSU](https://github.com/KOWX712/KernelSU) - personal fork
+- [KOWX712/KernelSU](https://github.com/KOWX712/KernelSU) - personal fork, focused on Material theming update
 - [5ec1cff/KernelSU](https://github.com/5ec1cff/KernelSU) - A KernelSU based root solution for Android
 - [LKDenchin/rsuntk-KernelSU](https://github.com/LKDenchin/rsuntk-KernelSU) - KernelSU with MagicMount, support GKI and Non-GKI. Updates: https://t.me/rsukrnlsu
 - [Pong-Development/packages_apps_ParanoidGlyph](https://github.com/Pong-Development/packages_apps_ParanoidGlyph) - packages/apps/ParanoidGlyph
@@ -2365,7 +2391,7 @@
 - [osm0sis/AnyKernel3](https://github.com/osm0sis/AnyKernel3) - AnyKernel, Evolved
 - [xiaomi-mediatek-devs/android_kernel_xiaomi_mt6877](https://github.com/xiaomi-mediatek-devs/android_kernel_xiaomi_mt6877) - 
 - [LineageOS/android_hardware_xiaomi](https://github.com/LineageOS/android_hardware_xiaomi) - 
-- [Sonicx161/AIOManager](https://github.com/Sonicx161/AIOManager) - One Manager to rule them all. The ultimate toolkit for your Stremio setup. Unlock Mega Metrics, manage addons locally, and sync history across all your devices with absolute privacy.
+- [Sonicx161/AIOManager](https://github.com/Sonicx161/AIOManager) - One manager to rule them all. Addon management, cross-device sync, and deep metrics for your entire Stremio setup. All without sacrificing your privacy.
 - [Asymons/stremio-account-manager](https://github.com/Asymons/stremio-account-manager) - 
 - [Stremio/stremio-history-sync](https://github.com/Stremio/stremio-history-sync) - 
 - [sofoxe1/OyasumiVR](https://github.com/sofoxe1/OyasumiVR) - 🥽 VR Sleeping Utilities
@@ -3847,6 +3873,7 @@
 
 ## python 
 
+- [viu-media/viu](https://github.com/viu-media/viu) - Your browser anime experience from the terminal
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
 - [FreeNetLabs/BugScanX](https://github.com/FreeNetLabs/BugScanX) - bughost scanner
@@ -4086,6 +4113,14 @@
 - [YARC-Official/YARC-Launcher](https://github.com/YARC-Official/YARC-Launcher) - The official launcher for YARG (a.k.a. Yet Another Launcher or YAL)
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 
+## sass 
+
+- [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
+
+## scala 
+
+- [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
+
 ## security 
 
 - [duyfken/alternative-front-ends](https://github.com/duyfken/alternative-front-ends) - Privacy-respecting front-ends for popular platforms (e.g. YouTube, Reddit, Twitter, etc.)
@@ -4208,6 +4243,7 @@
 
 ## sql 
 
+- [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 
@@ -4340,6 +4376,7 @@
 
 ## typescript 
 
+- [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [yoannchb-pro/MoodleGPT](https://github.com/yoannchb-pro/MoodleGPT) - This extension allows you to hide CHAT-GPT in a Moodle quiz.
 - [walterlow/freecut](https://github.com/walterlow/freecut) - FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, re
 - [i3months/eziwiki](https://github.com/i3months/eziwiki) - 🧩 A modern wiki and documentation site generator. Create beautiful docs with markdown, customizable navigation.
