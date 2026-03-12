@@ -868,6 +868,7 @@
 
 ## cpp 
 
+- [FlavioFS/ParsecSoda](https://github.com/FlavioFS/ParsecSoda) - Parsec Soda is a custom open-source game streaming app that integrates with Parsec API and is focused in Host experience.
 - [praydog/UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4.8 - 5.4)
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
@@ -1487,6 +1488,7 @@
 
 ## hacktoberfest 
 
+- [FlavioFS/ParsecSoda](https://github.com/FlavioFS/ParsecSoda) - Parsec Soda is a custom open-source game streaming app that integrates with Parsec API and is focused in Host experience.
 - [swisskyrepo/HardwareAllTheThings](https://github.com/swisskyrepo/HardwareAllTheThings) - Hardware/IOT Pentesting Wiki
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
@@ -1819,6 +1821,7 @@
 
 ## linux 
 
+- [rltvty2/ulli](https://github.com/rltvty2/ulli) - USB-less Linux installer for Linux and Windows. Install Linux without a USB stick.
 - [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - Forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
 - [Faugus/faugus-launcher](https://github.com/Faugus/faugus-launcher) - A simple and lightweight app for running Windows games using UMU-Launcher
 - [yuawn/Linux-Kernel-Exploitation](https://github.com/yuawn/Linux-Kernel-Exploitation) - Linux kernel module implementation & exploitation (pwn) labs.
@@ -2356,6 +2359,11 @@
 
 ## others 
 
+- [edenaion/EZ-CorridorKey](https://github.com/edenaion/EZ-CorridorKey) - Perfect Green Screen Keys made EZ!
+- [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) - Perfect Green Screen Keys
+- [ptomato/inform7-ide](https://github.com/ptomato/inform7-ide) - A design system for interactive fiction based on natural language.
+- [ExTV/android_kernel_devicetree_nothing_sm7325](https://github.com/ExTV/android_kernel_devicetree_nothing_sm7325) - Nothing Phone 1 (Spacewar) device tree - SM7325/Lahaina
+- [ExTV/android_kernel_msm-5.4_nothing_sm7325](https://github.com/ExTV/android_kernel_msm-5.4_nothing_sm7325) - Nothing Phone 1 (Spacewar) kernel source - msm-5.4 QGKI with DroidSpaces, Docker & NetHunter support
 - [SrGesus/dotfiles](https://github.com/SrGesus/dotfiles) - 
 - [Hiirbaf/Spotify-ReVancedXposed](https://github.com/Hiirbaf/Spotify-ReVancedXposed) - Spotify ReVanced LSPosed module.
 - [PalisadeResearch/intercode](https://github.com/PalisadeResearch/intercode) - https://arxiv.org/abs/2412.02776
@@ -2395,7 +2403,7 @@
 - [mrshmllow/affinity-everywhere](https://github.com/mrshmllow/affinity-everywhere) - Affinity v2 & v3 packaged as AppImages
 - [mrshmllow/affinity-nix](https://github.com/mrshmllow/affinity-nix) - Affinity v3 & v2 packaged with Nix!
 - [100thCoin/AccuracyCoin](https://github.com/100thCoin/AccuracyCoin) - A large collection of NES accuracy tests on a single NROM cartridge.
-- [spacealtctrl/microg_installer_revived_again](https://github.com/spacealtctrl/microg_installer_revived_again) - Install microG GmsCore, GsfProxy, Companion/Play Store and MapsV1 to /priv-app/' with privileged permissions
+- [spacealtctrl/microg_installer_revived_again](https://github.com/spacealtctrl/microg_installer_revived_again) - Promote microG GmsCore, GsfProxy, Companion/Play Store and MapsV1 to system with privileged permissions
 - [MySelly/kernel_nothing_Spacewar](https://github.com/MySelly/kernel_nothing_Spacewar) - 
 - [sashs/Ropper](https://github.com/sashs/Ropper) - Display information about files in different file formats and find gadgets to build rop chains for different architectures (x86/x86_64, ARM/ARM64, MIPS, PowerPC, SPARC64). For disassembly ropper uses 
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
@@ -2901,7 +2909,6 @@
 - [Tornaco/Thanox](https://github.com/Tornaco/Thanox) - I am thanos! 😈 👌
 - [ente-io/privacypack](https://github.com/ente-io/privacypack) - Your privacy wins, in one card
 - [Ly-sec/dotfiles](https://github.com/Ly-sec/dotfiles) - Arch Dotfiles
-- [joric/bandersnatch](https://github.com/joric/bandersnatch) - Bandersnatch, HTML5 interactive version
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [JingMatrix/KernelSU](https://github.com/JingMatrix/KernelSU) - A Kernel based root solution for Android (GKI-1.0 support included)
 - [zribe/ZMC-Web-Panel-V2](https://github.com/zribe/ZMC-Web-Panel-V2) - 
@@ -3081,7 +3088,7 @@
 - [ovsky/sumi-emu](https://github.com/ovsky/sumi-emu) - Sumi | The latest, best and especially most performant Nintendo Switch emulator! Run Nintendo Switch titles on your Android, Windows, Mac and Linux devices :)
 - [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
 - [crdroidandroid/android_kernel_nothing_sm7325](https://github.com/crdroidandroid/android_kernel_nothing_sm7325) - 
-- [spike0en/nothing_archive](https://github.com/spike0en/nothing_archive) - This project indexes and preserves full firmware, and OTA update links for Nothing and CMF devices, sourced directly from official OEM servers while generating unmodified stock OTA images.
+- [spike0en/nothing_archive](https://github.com/spike0en/nothing_archive) - This project indexes and preserves full firmware, and OTA update links for Nothing and CMF phones, sourced directly from official OEM servers while generating unmodified stock OTA images.
 - [BenjaminAster/CSS-Minecraft](https://github.com/BenjaminAster/CSS-Minecraft) - A Minecraft clone made with pure HTML & CSS – no JavaScript.
 - [reiryuki/ZRAM-Swap-Configurator-Magisk-Module](https://github.com/reiryuki/ZRAM-Swap-Configurator-Magisk-Module) - 
 - [nift4/microg_installer_revived](https://github.com/nift4/microg_installer_revived) - Install microG GmsCore, GsfProxy, FakeStore (or Play Store if you want so) and MapsV1 to /system/
@@ -3323,7 +3330,7 @@
 - [maoiscat/mpv-dark-box](https://github.com/maoiscat/mpv-dark-box) - This is a mpv osc script
 - [0dist/oscc](https://github.com/0dist/oscc) - Dark-themed interface for the mpv player
 - [Samillion/ModernZ](https://github.com/Samillion/ModernZ) - A sleek and modern OSC for mpv designed to enhance functionality by adding more features, all while preserving the core standards of mpv's OSC.
-- [BorrowFiend/hyprland-wallust](https://github.com/BorrowFiend/hyprland-wallust) - This is my dotfiles repo for Hyprland Compositor with wallust theming.
+- [Sabisho/hyprland-wallust](https://github.com/Sabisho/hyprland-wallust) - This is my dotfiles repo for Hyprland Compositor with wallust theming.
 - [futo-org/grayjay-android](https://github.com/futo-org/grayjay-android) - Read-only mirror of Grayjay repo for issue tracking
 - [vinceliuice/Tela-circle-icon-theme](https://github.com/vinceliuice/Tela-circle-icon-theme) - Tela-circle-icon-theme
 - [TeamPiped/Piped-Docker](https://github.com/TeamPiped/Piped-Docker) - 
@@ -3759,6 +3766,7 @@
 
 ## p2p 
 
+- [FlavioFS/ParsecSoda](https://github.com/FlavioFS/ParsecSoda) - Parsec Soda is a custom open-source game streaming app that integrates with Parsec API and is focused in Host experience.
 - [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is b
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [hauxir/rapidbay](https://github.com/hauxir/rapidbay) - Self-hosted torrent video streaming service compatible with Chromecast, AppleTV & Kodi deployable in the cloud
@@ -3784,7 +3792,7 @@
 - [LayeSec006/pentest-mcp-server](https://github.com/LayeSec006/pentest-mcp-server) - MCP server for penetration testing
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [toneillcodes/brutalkeepass](https://github.com/toneillcodes/brutalkeepass) - Brute force Keepass database passwords
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [may215/awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools
@@ -3794,7 +3802,7 @@
 
 - [LayeSec006/pentest-mcp-server](https://github.com/LayeSec006/pentest-mcp-server) - MCP server for penetration testing
 - [DMontgomery40/pentest-mcp](https://github.com/DMontgomery40/pentest-mcp) - NOT for educational purposes: An MCP server for professional penetration testers including STDIO/HTTP/SSE support, nmap, go/dirbuster, nikto, JtR, hashcat, wordlist building, and more.
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 - [ndelphit/apkurlgrep](https://github.com/ndelphit/apkurlgrep) - Extract endpoints from APK files
 - [m0nad/awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation) - A curated list of awesome privilege escalation
 - [m0nad/Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64)
@@ -3907,6 +3915,7 @@
 
 ## programming-language 
 
+- [ganelson/inform](https://github.com/ganelson/inform) - The core software distribution for the Inform 7 programming language.
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
 ## pwa 
@@ -4072,7 +4081,7 @@
 - [MuhammedKpln/react-native-chatty](https://github.com/MuhammedKpln/react-native-chatty) - 💬 Full-featured high performance chat UI for React Native
 - [FaridSafi/react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - 💬 The most complete chat UI for React Native
 - [marcusfrdk/messages-clone](https://github.com/marcusfrdk/messages-clone) - This is a clone of the iOS messages app using React Native.
-- [founded-labs/react-native-reusables](https://github.com/founded-labs/react-native-reusables) - Bringing shadcn/ui to React Native. Beautifully crafted components with Nativewind, open source, and almost as easy to use.
+- [founded-labs/react-native-reusables](https://github.com/founded-labs/react-native-reusables) - Bringing shadcn/ui to React Native. Beautifully crafted components with Nativewind/Uniwind, open source, and almost as easy to use.
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
 
 ## reactjs 
@@ -4210,7 +4219,7 @@
 - [duyfken/alternative-front-ends](https://github.com/duyfken/alternative-front-ends) - Privacy-respecting front-ends for popular platforms (e.g. YouTube, Reddit, Twitter, etc.)
 - [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 - [m0nad/Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64)
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 
@@ -4473,6 +4482,7 @@
 
 ## ubuntu 
 
+- [rltvty2/ulli](https://github.com/rltvty2/ulli) - USB-less Linux installer for Linux and Windows. Install Linux without a USB stick.
 - [abusoww/tuxmate](https://github.com/abusoww/tuxmate) - THE MISSING BULK APP INSTALLER FOR LINUX
 - [Abyss-W4tcher/volatility3-symbols](https://github.com/Abyss-W4tcher/volatility3-symbols) - Collection of Linux and macOS Volatility3 Intermediate Symbol Files (ISF), suitable for memory analysis 🔍
 - [sh4r10/zen-browser-debian](https://github.com/sh4r10/zen-browser-debian) - Build/Download *.deb packages for the zen browser
@@ -4486,7 +4496,7 @@
 
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [mayswind/AriaNg-Native](https://github.com/mayswind/AriaNg-Native) - A better aria2 desktop frontend than AriaNg, with all features of AriaNg and providing more features for desktop usage.
-- [founded-labs/react-native-reusables](https://github.com/founded-labs/react-native-reusables) - Bringing shadcn/ui to React Native. Beautifully crafted components with Nativewind, open source, and almost as easy to use.
+- [founded-labs/react-native-reusables](https://github.com/founded-labs/react-native-reusables) - Bringing shadcn/ui to React Native. Beautifully crafted components with Nativewind/Uniwind, open source, and almost as easy to use.
 - [flixlix/shadcn-date-picker](https://github.com/flixlix/shadcn-date-picker) - Advanced date picker with range selection, year and month selection, and more.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom) - Spicetify theme inspired by Microsoft's Fluent Design, Always up-to-date!, A Powerful Theme to Calm your Eyes While Listening to Your Favorite Beats
@@ -4517,7 +4527,7 @@
 ## v2ray 
 
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
-- [barry-far/V2ray-Config](https://github.com/barry-far/V2ray-Config) - Free V2ray Configs, Updating Every 12 minutes. 🚀🌐
+- [barry-far/V2ray-Config](https://github.com/barry-far/V2ray-Config) - Free V2ray Configs, Updating Every 15 minutes. 🚀🌐
 - [HatsuneMikuUwU/MikuBoxForAndroid](https://github.com/HatsuneMikuUwU/MikuBoxForAndroid) - MikuBox is based NekoBox with Miku UI and theme custom
 
 ## vagrant 
@@ -4575,7 +4585,7 @@
 ## vpn 
 
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
-- [barry-far/V2ray-Config](https://github.com/barry-far/V2ray-Config) - Free V2ray Configs, Updating Every 12 minutes. 🚀🌐
+- [barry-far/V2ray-Config](https://github.com/barry-far/V2ray-Config) - Free V2ray Configs, Updating Every 15 minutes. 🚀🌐
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 - [HatsuneMikuUwU/MikuBoxForAndroid](https://github.com/HatsuneMikuUwU/MikuBoxForAndroid) - MikuBox is based NekoBox with Miku UI and theme custom
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
