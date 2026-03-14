@@ -1429,6 +1429,8 @@
 
 ## google 
 
+- [jacopone/antigravity-nix](https://github.com/jacopone/antigravity-nix) - Auto-updating Nix package for Google Antigravity agentic IDE. Updates 3x/week. FHS environment with overlay support for NixOS/Home Manager.
+- [tomycisco123/antigravity-nix](https://github.com/tomycisco123/antigravity-nix) - 🚀 Automate and manage Google Antigravity packaging for NixOS with auto-updating features and multi-platform support for seamless user experience.
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [BasGame1/Pixelify-Next](https://github.com/BasGame1/Pixelify-Next) - Magisk /KSU module to enables pixel exclusive features and ui that supports android 16
 - [nextcloud/integration_google](https://github.com/nextcloud/integration_google) - 🇬 Google integration into Nextcloud
@@ -2369,6 +2371,7 @@
 
 ## others 
 
+- [projectchicago/gastoken](https://github.com/projectchicago/gastoken) - ⛽  Tokenize gas on Ethereum with GasToken ⛽
 - [kleidione/hardware_nothing](https://github.com/kleidione/hardware_nothing) - 
 - [bigelod/WXRLauncher](https://github.com/bigelod/WXRLauncher) - WinlatorXR Launcher is a helper tool that may expand in future capabilities
 - [eternaldooly/AUTOCTF](https://github.com/eternaldooly/AUTOCTF) - AI-powered CTF automation platform utilizing GPT models.
@@ -4007,6 +4010,7 @@
 - [PixulMonk/auto-enrollment-bot-selenium](https://github.com/PixulMonk/auto-enrollment-bot-selenium) - A Python script that automates the enrollment process for a university's enrollment portal
 - [miyurudassanayake/sni-injector](https://github.com/miyurudassanayake/sni-injector) - SNI Injecting tool for free internet (HTTP Injector)
 - [SageTendo/mal-stremio-addon](https://github.com/SageTendo/mal-stremio-addon) - A Stremio addon which allows users to access their anime lists through the MyAnimeList API, directly from within Stremio. With this addon, users can easily keep track of the content they've watched/pl
+- [offici5l/MiUnlockTool](https://github.com/offici5l/MiUnlockTool) - MiUnlockTool developed to retrieve encryptData(token) for Xiaomi devices for unlocking bootloader, It is compatible with all platforms.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [xyou365/AutoRclone](https://github.com/xyou365/AutoRclone) - AutoRclone: rclone copy/move/sync (automatically) with thousands of service accounts
