@@ -324,7 +324,6 @@
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
-- [ProjectOrbital/WhatSave](https://github.com/ProjectOrbital/WhatSave) - Save WhatsApp statuses in the easiest way
 - [iamlooper/Android-Enhancer](https://github.com/iamlooper/Android-Enhancer) - Enhances your Android to run smoother and last longer.
 - [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user experience possible.
@@ -713,6 +712,7 @@
 
 ## bugbounty 
 
+- [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [yeswehack/PwnFox](https://github.com/yeswehack/PwnFox) - PwnFox is a Firefox/Burp extension that provide usefull tools for your security audit.
 
@@ -1768,7 +1768,6 @@
 - [samyak2403/RepoStore](https://github.com/samyak2403/RepoStore) - Explore apps published on GitHub, view release details, and install APKs instantly — all in one place. Developed using pure Kotlin, optimized for modern Android devices.
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
-- [ProjectOrbital/WhatSave](https://github.com/ProjectOrbital/WhatSave) - Save WhatsApp statuses in the easiest way
 - [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user experience possible.
 - [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
@@ -2376,6 +2375,14 @@
 
 ## others 
 
+- [advanced-security/ghas-to-csv](https://github.com/advanced-security/ghas-to-csv) - Play with GHAS API to provide posture data over time
+- [ambilykk/dependabot-alert-export](https://github.com/ambilykk/dependabot-alert-export) - Export the Dependabot alerts specific to a repo or organization
+- [ShamKarthikS-Hexaware/dependabot-alert-export](https://github.com/ShamKarthikS-Hexaware/dependabot-alert-export) - Export the Dependabot alerts specific to a repo or organization
+- [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) - Extract information about the dependencies being updated by a Dependabot-generated PR.
+- [verticalsync/Suncord](https://github.com/verticalsync/Suncord) - A fork of Vencord.
+- [roshank231/optest](https://github.com/roshank231/optest) - Based of an existing one pace addon, combines one pace and one piece kai into one addon for easy viewing
+- [au2001/onepace-stremio](https://github.com/au2001/onepace-stremio) - Stremio addon for watching One Pace and One Piece Kai effortlessly
+- [0xKirisame/SPiCa](https://github.com/0xKirisame/SPiCa) - **SPiCa** (System Process Integrity & Cross-view Analysis) is an eBPF-based rootkit detection engine written in Rust. It utilizes a "Binary Star" architecture to detect process masquerading and "Ghost
 - [projectchicago/gastoken](https://github.com/projectchicago/gastoken) - ⛽  Tokenize gas on Ethereum with GasToken ⛽
 - [kleidione/hardware_nothing](https://github.com/kleidione/hardware_nothing) - 
 - [bigelod/WXRLauncher](https://github.com/bigelod/WXRLauncher) - WinlatorXR Launcher is a helper tool that may expand in future capabilities
@@ -2445,7 +2452,6 @@
 - [ShadowBlip/InputPlumber](https://github.com/ShadowBlip/InputPlumber) - Open source input router and remapper daemon for Linux
 - [ang3lo-azevedo/nGKI_Kernel_Spacewar](https://github.com/ang3lo-azevedo/nGKI_Kernel_Spacewar) - nGKI Kernel with KSU+SUSFS. Nothing Phone (1) (spacewar) builds
 - [ReSukiSU/ReSukiSU](https://github.com/ReSukiSU/ReSukiSU) - Kernel-based Android Root Solution,forked from sukisu
-- [William24hmar/NonGKI_Kernel_Build_2nd](https://github.com/William24hmar/NonGKI_Kernel_Build_2nd) - Automatic build Non-GKI Kernel with KSU and SUSFS. Version 2.0
 - [cyberc3dr/nGKI_Kernel_Spacewar](https://github.com/cyberc3dr/nGKI_Kernel_Spacewar) - nGKI Kernel with KSU+SUSFS. Nothing Phone (1) (spacewar) builds
 - [ang3lo-azevedo/ISOdroid](https://github.com/ang3lo-azevedo/ISOdroid) - Turn your Android into a bootable USB with .iso & .img images (root required)
 - [rodrig20/DuckyHid](https://github.com/rodrig20/DuckyHid) - Use your rooted Android phone as Rubber Ducky
@@ -3286,11 +3292,12 @@
 - [whateverusername0/VRTRAKILL](https://github.com/whateverusername0/VRTRAKILL) - ULTRAKILL VR support mod
 - [Xposed-Modules-Repo/ru.mike.mcroot](https://github.com/Xposed-Modules-Repo/ru.mike.mcroot) - McDonalds Global App security fix
 - [caplogistica/MiceWine](https://github.com/caplogistica/MiceWine) - MiceWine is a project that aims to run Windows applications and games on Android smartphones.
+- [ajay9634/winlator-ajay](https://github.com/ajay9634/winlator-ajay) - Android application for running Windows applications with Wine and Box86/Box64
 - [SolidEva/android-auto-stub](https://github.com/SolidEva/android-auto-stub) - Android Auto Stub
 - [sn-00-x/android-auto](https://github.com/sn-00-x/android-auto) - Android Auto as user app with media apps support on GrapheneOS / Android 14
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [xteamlyer/LSPosed-JingMatrix](https://github.com/xteamlyer/LSPosed-JingMatrix) - LSPosed Framework
-- [WildKernels/GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS) - GKI Kernels with KernelSU & SUSFS
+- [WildKernels/GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS) - GKI2 5.10+ Kernels with Wild KSU & SUSFS
 - [AOSPA/android_kernel_nothing_sm7325](https://github.com/AOSPA/android_kernel_nothing_sm7325) - 
 - [MalBeacon/what-is-this-stealer](https://github.com/MalBeacon/what-is-this-stealer) - A repository of credential stealer formats
 - [Fr4nKB/Glyphify-v1](https://github.com/Fr4nKB/Glyphify-v1) - Glyphify is an Android app made for Nothing Phones, it tries to make the Glyph interface more useful.
@@ -3826,6 +3833,7 @@
 
 ## pentesting 
 
+- [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 - [LayeSec006/pentest-mcp-server](https://github.com/LayeSec006/pentest-mcp-server) - MCP server for penetration testing
 - [DMontgomery40/pentest-mcp](https://github.com/DMontgomery40/pentest-mcp) - NOT for educational purposes: An MCP server for professional penetration testers including STDIO/HTTP/SSE support, nmap, go/dirbuster, nikto, JtR, hashcat, wordlist building, and more.
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
@@ -4210,6 +4218,7 @@
 
 ## security 
 
+- [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 - [swisskyrepo/HardwareAllTheThings](https://github.com/swisskyrepo/HardwareAllTheThings) - Hardware/IOT Pentesting Wiki
 - [LayeSec006/pentest-mcp-server](https://github.com/LayeSec006/pentest-mcp-server) - MCP server for penetration testing
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -4291,6 +4300,7 @@
 
 ## server 
 
+- [nikzad-avasam/block-torrent-on-server](https://github.com/nikzad-avasam/block-torrent-on-server) - By this script you can block all torrent and p2p traffic on your server or vps .
 - [shishkabob27/cwk-server](https://github.com/shishkabob27/cwk-server) - A reversed-engineered server for Card Wars Kingdom.
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
@@ -4557,6 +4567,7 @@
 
 ## v2ray 
 
+- [nikzad-avasam/block-torrent-on-server](https://github.com/nikzad-avasam/block-torrent-on-server) - By this script you can block all torrent and p2p traffic on your server or vps .
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [barry-far/V2ray-Config](https://github.com/barry-far/V2ray-Config) - Free V2ray Configs, Updating Every 15 minutes. 🚀🌐
 - [HatsuneMikuUwU/MikuBoxForAndroid](https://github.com/HatsuneMikuUwU/MikuBoxForAndroid) - MikuBox is based NekoBox with Miku UI and theme custom
@@ -4569,7 +4580,6 @@
 ## video 
 
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-- [ProjectOrbital/WhatSave](https://github.com/ProjectOrbital/WhatSave) - Save WhatsApp statuses in the easiest way
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
