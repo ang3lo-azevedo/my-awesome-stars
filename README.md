@@ -298,6 +298,7 @@
 
 ## android 
 
+- [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator) - Software simulation for Android hardware-backed key pairs with key attestation
 - [dabao1955/kernel_build_action](https://github.com/dabao1955/kernel_build_action) - a action to build kernel automatically[force push warning!]
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) - A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites)
@@ -1011,6 +1012,7 @@
 
 ## discord 
 
+- [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - Forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
 - [xhos/discord-quest-watcher](https://github.com/xhos/discord-quest-watcher) - webhook notifications when new discord quests are released, w/ filters
@@ -1170,6 +1172,7 @@
 
 ## electron 
 
+- [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [hitarth-gg/zenshin](https://github.com/hitarth-gg/zenshin) - 🔖 Web & Electron based Anime Streaming App for 🐈s
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [MultiboxLabs/flow-browser](https://github.com/MultiboxLabs/flow-browser) - A modern, privacy-focused browser with a minimalistic design.
@@ -1716,6 +1719,7 @@
 
 ## javascript 
 
+- [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [RetireJS/retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds.
@@ -2275,6 +2279,7 @@
 
 ## nodejs 
 
+- [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [rmi7/phrack-rss](https://github.com/rmi7/phrack-rss) - Phrack.org RSS/Atom feed creator
 - [hitarth-gg/zenshin](https://github.com/hitarth-gg/zenshin) - 🔖 Web & Electron based Anime Streaming App for 🐈s
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
@@ -2384,6 +2389,16 @@
 
 ## others 
 
+- [davbo/active-cve-check](https://github.com/davbo/active-cve-check) - Script to check an installed packages list against the ubuntu-cve-tracker
+- [ACreTeam/forest](https://github.com/ACreTeam/forest) - PC Port of Animal Crossing
+- [sonicdcer/MarioKart64Recomp](https://github.com/sonicdcer/MarioKart64Recomp) - Recompilation of MarioKart 64
+- [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) - I have spaghetti, now i just need a kart
+- [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
+- [mariopartyrd/marioparty4](https://github.com/mariopartyrd/marioparty4) - 
+- [ACreTeam/ac-decomp](https://github.com/ACreTeam/ac-decomp) - Decompilation in progress of Animal Crossing for the Nintendo GameCube.
+- [flyngmt/ACGC-PC-Port](https://github.com/flyngmt/ACGC-PC-Port) - Unofficial PC Port of Animal Crossing Gamecube
+- [elder-plinius/GLOSSOPETRAE](https://github.com/elder-plinius/GLOSSOPETRAE) - LINGUISTIC ENGINE FOR AI
+- [William24hmar/nothing_android_kernel_sm7325](https://github.com/William24hmar/nothing_android_kernel_sm7325) - 
 - [domiriel/peerforum](https://github.com/domiriel/peerforum) - Peergrading for Moodle forums
 - [TheMrKiko/peerforum](https://github.com/TheMrKiko/peerforum) - 
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
@@ -2490,7 +2505,7 @@
 - [Asymons/stremio-account-manager](https://github.com/Asymons/stremio-account-manager) - 
 - [Stremio/stremio-history-sync](https://github.com/Stremio/stremio-history-sync) - 
 - [sofoxe1/OyasumiVR](https://github.com/sofoxe1/OyasumiVR) - 🥽 VR Sleeping Utilities
-- [Cosm-gedenke/Web-Exploitation-classes-secSTT-26](https://github.com/Cosm-gedenke/Web-Exploitation-classes-secSTT-26) - the collection of classes and challenges used for the teaching of Web exploitation for the CTF IST team secSTT
+- [Cosm-gedenke/Web-Exploitation-classes-secSTT-26](https://github.com/Cosm-gedenke/Web-Exploitation-classes-secSTT-26) - the collection of classes and challenges used for the teaching of Web exploitation for the CTF IST team SecTT
 - [Pong-Development/device_nothing_Pong](https://github.com/Pong-Development/device_nothing_Pong) - About Device tree for Nothing Phone (2)
 - [VoltageOS/vendor_voltage-priv_keys](https://github.com/VoltageOS/vendor_voltage-priv_keys) - 
 - [VoltageOS/voltage_signatures-scripts](https://github.com/VoltageOS/voltage_signatures-scripts) - 
@@ -2984,7 +2999,6 @@
 - [ArtsyMacaw/wlogout](https://github.com/ArtsyMacaw/wlogout) - A wayland based logout menu
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia
 - [rodrig20/dotfiles](https://github.com/rodrig20/dotfiles) - 
-- [FrameworkComputer/framework-system](https://github.com/FrameworkComputer/framework-system) - Rust libraries and tools to interact with the Framework Computer systems
 - [Rxfa/prometheus_kotlin_client](https://github.com/Rxfa/prometheus_kotlin_client) - 
 - [AndroidPatch/APatchDocs](https://github.com/AndroidPatch/APatchDocs) - The documents repository of APatch Project.
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -4505,6 +4519,7 @@
 
 ## typescript 
 
+- [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [yoannchb-pro/MoodleGPT](https://github.com/yoannchb-pro/MoodleGPT) - This extension allows you to hide CHAT-GPT in a Moodle quiz.
@@ -4675,6 +4690,7 @@
 
 ## web 
 
+- [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [duyfken/alternative-front-ends](https://github.com/duyfken/alternative-front-ends) - Privacy-respecting front-ends for popular platforms (e.g. YouTube, Reddit, Twitter, etc.)
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
 - [abusoww/tuxmate](https://github.com/abusoww/tuxmate) - THE MISSING BULK APP INSTALLER FOR LINUX
@@ -4688,6 +4704,7 @@
 
 ## webapp 
 
+- [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [aBrihoum/qomander](https://github.com/aBrihoum/qomander) - Qomander - A Self ordering kiosk web application. Made with Angular
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web A, GPL v3
