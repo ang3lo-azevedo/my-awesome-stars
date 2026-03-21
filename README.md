@@ -112,6 +112,7 @@
 - [html5](#html5)
 - [http](#http)
 - [https](#https)
+- [icon-font](#icon-font)
 - [information-gathering](#information-gathering)
 - [instagram](#instagram)
 - [ios](#ios)
@@ -260,6 +261,7 @@
 
 ## ai 
 
+- [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 174 FREE coding LLM models across 23 providers in real time
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 - [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) - A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites)
@@ -533,7 +535,7 @@
 - [mtkusbdevice/hyprland-hdready](https://github.com/mtkusbdevice/hyprland-hdready) - Collection of dot config files for hyprland for HDReady displays with a simple install script for a fresh Arch linux with yay
 - [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
 - [ashish-kus/waybar-minimal](https://github.com/ashish-kus/waybar-minimal) - A minimal kickstart configration for waybar.
-- [cybergaz/hyprconf](https://github.com/cybergaz/hyprconf) - hyprland configuration along with various other packages configs to call it a complete rice .... believe me when i say it's smooth af
+- [cybergaz/hyprconf](https://github.com/cybergaz/hyprconf) - hyprland configuration along with various other packages configs to call it a complete rice
 - [lvntcnylmz/dotfiles](https://github.com/lvntcnylmz/dotfiles) - .files
 - [haxibami/dotfiles](https://github.com/haxibami/dotfiles) - my environment
 - [cxOrz/dotfiles-hyprland](https://github.com/cxOrz/dotfiles-hyprland) - Hyprland dotfiles with ChromeOS style for Archlinux. Install with a simple script.
@@ -1298,6 +1300,7 @@
 
 ## font 
 
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 
@@ -1464,6 +1467,7 @@
 
 ## gui 
 
+- [XorTroll/Plutonium](https://github.com/XorTroll/Plutonium) - Easy-to-use, SDL2-based UI framework for Nintendo Switch homebrew
 - [andyjsmith/Registry-Spy](https://github.com/andyjsmith/Registry-Spy) - Cross-platform registry browser for raw Windows registry files
 - [fortheusers/hb-appstore](https://github.com/fortheusers/hb-appstore) - Homebrew App Store - GUI for downloading/managing homebrew apps
 - [xob0t/gotohp](https://github.com/xob0t/gotohp) - Unofficial Google Photos Desktop GUI Client
@@ -1505,6 +1509,7 @@
 
 ## hacktoberfest 
 
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [swisskyrepo/InternalAllTheThings](https://github.com/swisskyrepo/InternalAllTheThings) - Active Directory and Internal Pentest Cheatsheets
 - [TheCaduceus/WARP-UNLIMITED-ADVANCED](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED) - Get unlimited amount of data in Cloudflare's WARP VPN🔥
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -1604,6 +1609,7 @@
 
 ## homebrew 
 
+- [XorTroll/Plutonium](https://github.com/XorTroll/Plutonium) - Easy-to-use, SDL2-based UI framework for Nintendo Switch homebrew
 - [HamletDuFromage/aio-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater) - Update your CFW, cheat codes, firmwares and more directly from your Nintendo Switch!
 - [ITotalJustice/sphaira](https://github.com/ITotalJustice/sphaira) - A homebrew menu for the Nintendo Switch
 - [fortheusers/hb-appstore](https://github.com/fortheusers/hb-appstore) - Homebrew App Store - GUI for downloading/managing homebrew apps
@@ -1639,6 +1645,10 @@
 
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ED2K. Cross-platform, built with Golang and Flutter.
 - [Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher](https://github.com/Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher) - ⇒ Disable Chrome's Developer Mode Extension Warning Popup & Elision & Manifest V3 webRequestBlocking limitations
+
+## icon-font 
+
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## information-gathering 
 
@@ -1782,7 +1792,7 @@
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user experience possible.
 - [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [fym35/ZuckApp](https://github.com/fym35/ZuckApp) - complete foss recreation/client of whatsapp for android
-- [ReVanced/revanced-manager-downloader](https://github.com/ReVanced/revanced-manager-downloader) - 🔌 ReVanced Manager downloaders
+- [ReVanced/revanced-manager-downloaders](https://github.com/ReVanced/revanced-manager-downloaders) - 🔌 ReVanced Manager downloaders
 - [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - 💊 An Android application to use ReVanced, Morphe and AmpleReVanced on that has extra features the official manager doesn't have
 - [MMRLApp/MMRL](https://github.com/MMRLApp/MMRL) - A app for managing, sharing, and exploring Magisk modules across repositories
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
@@ -1852,7 +1862,7 @@
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [anticitizn/creamlinux](https://github.com/anticitizn/creamlinux) - CreamAPI-like DLC unlocker for Linux
 - [LorenDB/kaon](https://github.com/LorenDB/kaon) - UEVR manager for games using Proton
-- [wlx-team/wayvr](https://github.com/wlx-team/wayvr) - Your way to enjoy VR on Linux. Run apps inside VR & access your Wayland/X11 screens from Monado/WiVRn/SteamVR.
+- [wayvr-org/wayvr](https://github.com/wayvr-org/wayvr) - Your way to enjoy VR on Linux. Run apps inside VR & access your Wayland/X11 screens from Monado/WiVRn/SteamVR.
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [e-tho/pwmenu](https://github.com/e-tho/pwmenu) - Launcher-driven audio manager for Linux
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
@@ -2259,6 +2269,7 @@
 
 ## nim 
 
+- [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 174 FREE coding LLM models across 23 providers in real time
 - [eset/nimfilt](https://github.com/eset/nimfilt) - A collection of modules and scripts to help with analyzing Nim binaries
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 
@@ -2389,6 +2400,13 @@
 
 ## others 
 
+- [D35P4C1T0/ownfoil-rs](https://github.com/D35P4C1T0/ownfoil-rs) - Rust port of the core OwnFoil
+- [luketanti/AeroFoil](https://github.com/luketanti/AeroFoil) - Personal Library Manager
+- [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil) - A NSP, NSZ, XCI, XCZ Installer
+- [jecoteco/Atmosphere-1.10...-Tinfoil-patched](https://github.com/jecoteco/Atmosphere-1.10...-Tinfoil-patched) - Tinfoil patches for firmwares 21+
+- [sthetix/NX-Migrator-Pro](https://github.com/sthetix/NX-Migrator-Pro) - A professional partition management tool for Nintendo Switch SD cards with dual-mode operation: Migration and Cleanup.
+- [apatrushev/rdn](https://github.com/apatrushev/rdn) - Rusty Dos Navigator
+- [nooesc/git-mux](https://github.com/nooesc/git-mux) - wip , a terminal UI dashboard for GitHub. Browse your repos, view commit history, PRs, issues, CI status, and contribution stats
 - [davbo/active-cve-check](https://github.com/davbo/active-cve-check) - Script to check an installed packages list against the ubuntu-cve-tracker
 - [ACreTeam/forest](https://github.com/ACreTeam/forest) - PC Port of Animal Crossing
 - [sonicdcer/MarioKart64Recomp](https://github.com/sonicdcer/MarioKart64Recomp) - Recompilation of MarioKart 64
@@ -2483,7 +2501,6 @@
 - [cyberc3dr/nGKI_Kernel_Spacewar](https://github.com/cyberc3dr/nGKI_Kernel_Spacewar) - nGKI Kernel with KSU+SUSFS. Nothing Phone (1) (spacewar) builds
 - [ang3lo-azevedo/ISOdroid](https://github.com/ang3lo-azevedo/ISOdroid) - Turn your Android into a bootable USB with .iso & .img images (root required)
 - [rodrig20/DuckyHid](https://github.com/rodrig20/DuckyHid) - Use your rooted Android phone as Rubber Ducky
-- [Charcoal-Playground/android_device_nothing_Spacewar](https://github.com/Charcoal-Playground/android_device_nothing_Spacewar) - 
 - [musabcel/android_rom_list](https://github.com/musabcel/android_rom_list) - List of all Android ROMs
 - [ServerHive-Development/guide](https://github.com/ServerHive-Development/guide) - 
 - [KOWX712/KernelSU](https://github.com/KOWX712/KernelSU) - personal fork, focused on Material theming update
@@ -3985,6 +4002,7 @@
 
 ## python 
 
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [TheCaduceus/WARP-UNLIMITED-ADVANCED](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED) - Get unlimited amount of data in Cloudflare's WARP VPN🔥
 - [RamKansal/pentestMCP](https://github.com/RamKansal/pentestMCP) - pentestMCP: AI-Powered Penetration Testing via MCP, an MCP designed for penetration testers.
 - [viu-media/viu](https://github.com/viu-media/viu) - Your browser anime experience from the terminal
@@ -4342,6 +4360,7 @@
 
 ## shell 
 
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [david942j/one_gadget](https://github.com/david942j/one_gadget) - The best tool for finding one gadget RCE in libc.so.6
 - [brunos3d/discord-enable-devtools](https://github.com/brunos3d/discord-enable-devtools) - 🚀 zx - Bring your Discord's devtools back to life (again)
@@ -4568,6 +4587,7 @@
 
 ## ui 
 
+- [XorTroll/Plutonium](https://github.com/XorTroll/Plutonium) - Easy-to-use, SDL2-based UI framework for Nintendo Switch homebrew
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [mayswind/AriaNg-Native](https://github.com/mayswind/AriaNg-Native) - A better aria2 desktop frontend than AriaNg, with all features of AriaNg and providing more features for desktop usage.
 - [founded-labs/react-native-reusables](https://github.com/founded-labs/react-native-reusables) - Bringing shadcn/ui to React Native. Beautifully crafted components with Nativewind/Uniwind, open source, and almost as easy to use.
