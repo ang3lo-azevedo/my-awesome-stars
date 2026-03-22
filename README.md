@@ -1609,6 +1609,7 @@
 
 ## homebrew 
 
+- [exelix11/SysDVR](https://github.com/exelix11/SysDVR) - Stream switch games to your PC via USB or network
 - [XorTroll/Plutonium](https://github.com/XorTroll/Plutonium) - Easy-to-use, SDL2-based UI framework for Nintendo Switch homebrew
 - [HamletDuFromage/aio-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater) - Update your CFW, cheat codes, firmwares and more directly from your Nintendo Switch!
 - [ITotalJustice/sphaira](https://github.com/ITotalJustice/sphaira) - A homebrew menu for the Nintendo Switch
@@ -2400,6 +2401,12 @@
 
 ## others 
 
+- [rashevskyv/DBIPatcher](https://github.com/rashevskyv/DBIPatcher) - Translate DBI for other languages
+- [hax4dazy/TinWoo](https://github.com/hax4dazy/TinWoo) - Another NSP/XCI Installer
+- [sthetix/HATS](https://github.com/sthetix/HATS) - Complete Homebrew Apps Tools & Store distribution for a modded NX
+- [sthetix/HATS-Tools](https://github.com/sthetix/HATS-Tools) - HATS and Firmware Downloader, components uninstaller.
+- [sthetix/HATSKit](https://github.com/sthetix/HATSKit) - A powerful, interactive CLI tool for building custom Nintendo Switch HATS packs. Fetch the latest components and forge your own personalized homebrew setup.
+- [Moehammered/switch-remote-play](https://github.com/Moehammered/switch-remote-play) - Let the switch remotely play PC games (similar to steam link or remote play)
 - [D35P4C1T0/ownfoil-rs](https://github.com/D35P4C1T0/ownfoil-rs) - Rust port of the core OwnFoil
 - [luketanti/AeroFoil](https://github.com/luketanti/AeroFoil) - Personal Library Manager
 - [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil) - A NSP, NSZ, XCI, XCZ Installer
@@ -4858,7 +4865,7 @@
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) - Browse youtube from your terminal
 - [tizonia/tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
 - [ccgauche/ytermusic](https://github.com/ccgauche/ytermusic) - An in terminal youtube music client with focus on privacy, simplicity and performance
-- [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended) - ReVanced eXtended YT and YT-M for both root and non-root users.
+- [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended) - ReVanced eXtended (now Morphe) YT and YT-M for both root and non-root users.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 - [lighttube-org/LightTube](https://github.com/lighttube-org/LightTube) - An alternative YouTube front end written in ASP.NET
 - [tri2820/muer](https://github.com/tri2820/muer) - Self-hosted music player 🐧🎵
