@@ -320,6 +320,7 @@
 - [Nandanrmenon/florid](https://github.com/Nandanrmenon/florid) - F-Droid Client
 - [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
 - [mlm-games/flicky](https://github.com/mlm-games/flicky) - Yet Another FDroid Client (wide screen / TV friendly)
+- [shiahonb777/web-to-app](https://github.com/shiahonb777/web-to-app) - A native Android application that converts any website URL into a standalone Android App.
 - [samyak2403/RepoStore](https://github.com/samyak2403/RepoStore) - Explore apps published on GitHub, view release details, and install APKs instantly — all in one place. Developed using pure Kotlin, optimized for modern Android devices.
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
@@ -424,7 +425,6 @@
 - [azusalad/Isosta](https://github.com/azusalad/Isosta) - Anonymous Instagram viewer for Android, powered by Imginn.
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Official FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
-- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
 - [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
@@ -1331,6 +1331,7 @@
 
 ## game 
 
+- [htv04/funkin-rewritten](https://github.com/htv04/funkin-rewritten) - Optimized rewrite of Friday Night Funkin' built on LÖVE
 - [mtolly/onyx](https://github.com/mtolly/onyx) - Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games
 
 ## game-development 
@@ -1613,6 +1614,8 @@
 
 ## homebrew 
 
+- [giovannimirulla/TsVitch](https://github.com/giovannimirulla/TsVitch) - TV finally on Switch
+- [htv04/funkin-rewritten](https://github.com/htv04/funkin-rewritten) - Optimized rewrite of Friday Night Funkin' built on LÖVE
 - [exelix11/SysDVR](https://github.com/exelix11/SysDVR) - Stream switch games to your PC via USB or network
 - [XorTroll/Plutonium](https://github.com/XorTroll/Plutonium) - Easy-to-use, SDL2-based UI framework for Nintendo Switch homebrew
 - [HamletDuFromage/aio-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater) - Update your CFW, cheat codes, firmwares and more directly from your Nintendo Switch!
@@ -1841,7 +1844,6 @@
 - [zt64/Hyperion](https://github.com/zt64/Hyperion) - An alternative YouTube front-end
 - [azusalad/Isosta](https://github.com/azusalad/Isosta) - Anonymous Instagram viewer for Android, powered by Imginn.
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
-- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
 - [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
 - [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) - GitHub reimagined with Material You
@@ -1883,6 +1885,7 @@
 
 ## linux 
 
+- [htv04/funkin-rewritten](https://github.com/htv04/funkin-rewritten) - Optimized rewrite of Friday Night Funkin' built on LÖVE
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [rltvty2/ulli](https://github.com/rltvty2/ulli) - USB-less Linux installer for Linux and Windows. Install Linux without a USB stick.
 - [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - Forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
@@ -2053,6 +2056,7 @@
 
 ## lua 
 
+- [htv04/funkin-rewritten](https://github.com/htv04/funkin-rewritten) - Optimized rewrite of Friday Night Funkin' built on LÖVE
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [lunokjod/watch](https://github.com/lunokjod/watch) - lunokWatch (lilygo twatch2020 series)
 - [davidde/mpv-autosub](https://github.com/davidde/mpv-autosub) - Fully automatic subtitle downloading for the MPV media player
@@ -2083,6 +2087,7 @@
 
 ## macos 
 
+- [htv04/funkin-rewritten](https://github.com/htv04/funkin-rewritten) - Optimized rewrite of Friday Night Funkin' built on LÖVE
 - [0xc000022070/zen-browser-flake](https://github.com/0xc000022070/zen-browser-flake) - Community-driven Nix Flake for the Zen browser
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [0xarchit/0xDABmusic](https://github.com/0xarchit/0xDABmusic) - A client for DAB music for download, convert, enjoy your library All in one! First opening might be delayed due to unsigned package detection by defender on windows. Enjoy studio quality music (FLAC) 
@@ -2433,6 +2438,18 @@
 
 ## others 
 
+- [16BitWonder/nx-versions](https://github.com/16BitWonder/nx-versions) - 
+- [16BitWonder/NX-Update-Checker](https://github.com/16BitWonder/NX-Update-Checker) - A small console application that checks a Switch's installed contents against a provided versionlist for newer updates.
+- [crc-32/BrowseNX](https://github.com/crc-32/BrowseNX) - Launches the browser via nsp
+- [ITotalJustice/untitled](https://github.com/ITotalJustice/untitled) - Batch title uninstaller for the Nintendo Switch
+- [verialabs/ctf-agent](https://github.com/verialabs/ctf-agent) - Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026.
+- [zandercodes/Atmosphere-unofficial](https://github.com/zandercodes/Atmosphere-unofficial) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
+- [HamletDuFromage/nx-locale-switcher](https://github.com/HamletDuFromage/nx-locale-switcher) - Changes the locale for specific titles on your Nintendo Switch
+- [sthetix/hekate-ext](https://github.com/sthetix/hekate-ext) - A GUI based Nintendo Switch Bootloader with extended feature
+- [sthetix/DowngradeFixer](https://github.com/sthetix/DowngradeFixer) - A  payload designed to fix issues encountered when downgrading Nintendo Switch firmware
+- [exelix11/theme-patches](https://github.com/exelix11/theme-patches) - Qlaunch patches needed for custom themes but hosted on another repo
+- [NexlifyHub/SystemEnhancer](https://github.com/NexlifyHub/SystemEnhancer) - Patches for console system
+- [cathery/sys-con](https://github.com/cathery/sys-con) - Nintendo Switch sysmodule that allows support for third-party controllers
 - [mrdude2478/Tinwoo-Release](https://github.com/mrdude2478/Tinwoo-Release) - 
 - [Huntereb/Awoo-Installer](https://github.com/Huntereb/Awoo-Installer) - A No-Bullshit NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch
 - [ghost-land/Ghost-eShop-Wiki](https://github.com/ghost-land/Ghost-eShop-Wiki) - Source Code of Ghost eShop Wiki.
@@ -2459,7 +2476,7 @@
 - [ACreTeam/ac-decomp](https://github.com/ACreTeam/ac-decomp) - Decompilation in progress of Animal Crossing for the Nintendo GameCube.
 - [flyngmt/ACGC-PC-Port](https://github.com/flyngmt/ACGC-PC-Port) - Unofficial PC Port of Animal Crossing Gamecube
 - [elder-plinius/GLOSSOPETRAE](https://github.com/elder-plinius/GLOSSOPETRAE) - LINGUISTIC ENGINE FOR AI
-- [William24hmar/nothing_android_kernel_sm7325](https://github.com/William24hmar/nothing_android_kernel_sm7325) - 
+- [William24hmar/nothing_android_kernel_sm7325](https://github.com/William24hmar/nothing_android_kernel_sm7325) - Branch : Lineage-Rebase-23 is the clean base
 - [domiriel/peerforum](https://github.com/domiriel/peerforum) - Peergrading for Moodle forums
 - [TheMrKiko/peerforum](https://github.com/TheMrKiko/peerforum) - 
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
@@ -2630,7 +2647,6 @@
 - [tsynik/LeanbackLauncher](https://github.com/tsynik/LeanbackLauncher) - Leanback on Fire - Google Leanback Launcher on steroids
 - [Alex-451/grayjay-media.ccc-plugin](https://github.com/Alex-451/grayjay-media.ccc-plugin) - 
 - [stefancruz/grayjay-plugin-preservetube](https://github.com/stefancruz/grayjay-plugin-preservetube) - 
-- [shiahonb777/web-to-app](https://github.com/shiahonb777/web-to-app) - A native Android application that converts any website URL into a standalone Android App.
 - [PhialsBasement/wine-adobe-installers](https://github.com/PhialsBasement/wine-adobe-installers) - Wine with a bit of extra spice
 - [webosbrew/webos-homebrew-channel](https://github.com/webosbrew/webos-homebrew-channel) - Unofficial webOS TV homebrew store and root-related tooling
 - [Garfield1002/pico-ducky-3.0](https://github.com/Garfield1002/pico-ducky-3.0) - Create a USB Rubber Ducky 3.0 like device using a Raspberry PI Pico
@@ -4247,7 +4263,6 @@
 - [shishkabob27/cwk-server](https://github.com/shishkabob27/cwk-server) - A reversed-engineered server for Card Wars Kingdom.
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
 - [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) - An open-source low-code modding framework to create, manage and use themes/plugins for the desktop Steam Client without any low-level internal interaction or overhead.
-- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [Schwartzblat/WhatsAppPatcher](https://github.com/Schwartzblat/WhatsAppPatcher) - A patcher that decompiles WhatsApp APK, patches the smali, recompiles and signs it.
 - [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sess
 - [RBEnhanced/RB3Enhanced](https://github.com/RBEnhanced/RB3Enhanced) - Open-source plugin for Rock Band 3 providing many enhancements, fixes, and extra features.
@@ -4758,6 +4773,7 @@
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [duyfken/alternative-front-ends](https://github.com/duyfken/alternative-front-ends) - Privacy-respecting front-ends for popular platforms (e.g. YouTube, Reddit, Twitter, etc.)
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
+- [shiahonb777/web-to-app](https://github.com/shiahonb777/web-to-app) - A native Android application that converts any website URL into a standalone Android App.
 - [abusoww/tuxmate](https://github.com/abusoww/tuxmate) - THE MISSING BULK APP INSTALLER FOR LINUX
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
@@ -4792,6 +4808,7 @@
 
 ## windows 
 
+- [htv04/funkin-rewritten](https://github.com/htv04/funkin-rewritten) - Optimized rewrite of Friday Night Funkin' built on LÖVE
 - [unchihugo/FluentFlyout](https://github.com/unchihugo/FluentFlyout) - The modern Flyout app for Windows 11, built with Fluent 2 Design principles. Media Flyouts, Taskbar Widgets and more.
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [ikus060/minarca](https://github.com/ikus060/minarca) - Self-hosted opensource data backup for Linux, Windows and Mac. Git mirror of https://gitlab.com/ikus-soft/minarca
@@ -4880,6 +4897,7 @@
 
 ## youtube 
 
+- [noirscape/lennytube](https://github.com/noirscape/lennytube) - Youtube on the Nintendo Switch (NRO format).
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
