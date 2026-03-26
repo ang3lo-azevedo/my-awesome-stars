@@ -449,7 +449,7 @@
 - [galaxygoldfish/pineapple](https://github.com/galaxygoldfish/pineapple) - 🍍 Reddit client for Android using Material You
 - [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design.
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
-- [itsmartashub/floristyle](https://github.com/itsmartashub/floristyle) - Dynamic Material You themes for the Florisboard keyboard. Make the Florisboard keyboard's UI more similar to Gboard.
+- [itsmartashub/floristyle](https://github.com/itsmartashub/floristyle) - Dynamic Material You themes for the Florisboard keyboard. Make the Florisboard keyboard's UI more similar to Gboard or Futo
 - [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
 - [polodarb/GMS-Flags](https://github.com/polodarb/GMS-Flags) - GMS Flags is a tool for changing parameters in Google services to activate or deactivate certain functionality in Google applications
 - [pbombnz/Spoof-My-Device](https://github.com/pbombnz/Spoof-My-Device) - Using the Xposed Framework, will allow your device to appear as a completely different to specific applications to bypass restrictions.
@@ -1614,6 +1614,10 @@
 
 ## homebrew 
 
+- [Team-Neptune/DeepSea](https://github.com/Team-Neptune/DeepSea) - The new All-in-One CFW package for the Nintendo Switch.
+- [mentalblank/PYXIS](https://github.com/mentalblank/PYXIS) - Automated All-in-One (AIO) custom firmware and homebrew packages for modded Nintendo Switch devices.
+- [iUltimateLP/NXGallery](https://github.com/iUltimateLP/NXGallery) - 🎮 A Nintendo Switch Homebrew Application to transfer your screenshots to your phone or PC in no-time 📱⚡
+- [Chrscool8/Homebrew-Details](https://github.com/Chrscool8/Homebrew-Details) - A Homebrew App Manager and hbmenu Alternative for Switch.
 - [giovannimirulla/TsVitch](https://github.com/giovannimirulla/TsVitch) - TV finally on Switch
 - [htv04/funkin-rewritten](https://github.com/htv04/funkin-rewritten) - Optimized rewrite of Friday Night Funkin' built on LÖVE
 - [exelix11/SysDVR](https://github.com/exelix11/SysDVR) - Stream switch games to your PC via USB or network
@@ -2158,7 +2162,7 @@
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
 - [FoedusProgramme/Gramophone](https://github.com/FoedusProgramme/Gramophone) - A sane music player built with media3 and material design library that is following android's standard strictly.
 - [BobbyESP/Jetispot](https://github.com/BobbyESP/Jetispot) - Unofficial Spotify client for Android built with Jetpack Compose, Material 3 and librespot-java. Fork ahead of Tayson's original repo. Read README!
-- [itsmartashub/floristyle](https://github.com/itsmartashub/floristyle) - Dynamic Material You themes for the Florisboard keyboard. Make the Florisboard keyboard's UI more similar to Gboard.
+- [itsmartashub/floristyle](https://github.com/itsmartashub/floristyle) - Dynamic Material You themes for the Florisboard keyboard. Make the Florisboard keyboard's UI more similar to Gboard or Futo
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 
@@ -2438,6 +2442,26 @@
 
 ## others 
 
+- [nedex/QuickNTP](https://github.com/nedex/QuickNTP) - A Tesla plugin for Nintendo Switch to sync time with NTP servers
+- [suchmememanyskill/themezer-nx](https://github.com/suchmememanyskill/themezer-nx) - A switch theme downloader that pulls from https://themezer.net/
+- [WerWolv/Hekate-Toolbox](https://github.com/WerWolv/Hekate-Toolbox) - A toolbox for Hekate
+- [dslatt/nso-icon-tool](https://github.com/dslatt/nso-icon-tool) - A switch homebrew which allows you to create user icons like NSO
+- [Team-Neptune/CommonProblemResolver](https://github.com/Team-Neptune/CommonProblemResolver) - 
+- [spacemeowx2/ldn_mitm](https://github.com/spacemeowx2/ldn_mitm) - Play local wireless supported games online
+- [ppkantorski/nx-ovlloader](https://github.com/ppkantorski/nx-ovlloader) - Host process for loading Switch overlay OVLs (NROs)
+- [kenesu-h/sys-hidplus-client-rs](https://github.com/kenesu-h/sys-hidplus-client-rs) - A client written in Rust for the Nintendo Switch sysmodule "sys-hidplus"
+- [gtiersma/Simple_Mod_Alchemist](https://github.com/gtiersma/Simple_Mod_Alchemist) - Simple Mod Alchemist; a mod-management homebrew app for the Nintendo Switch
+- [SegFault42/BackupNX](https://github.com/SegFault42/BackupNX) - Nintendo switch Homebrew to backup files in cloud
+- [luvvyamy/sys-hidplus](https://github.com/luvvyamy/sys-hidplus) - A Nintendo Switch custom sysmodule to allow inputs over the network
+- [luvvyamy/hid-mitm-plus](https://github.com/luvvyamy/hid-mitm-plus) - [PROJECT ABANDONED] Sysmodule forked from hid-mitm to allow gamepads to be used from the network on the nintendo switch for services such as Parsec to be usable.
+- [HookedBehemoth/UpThemAll](https://github.com/HookedBehemoth/UpThemAll) - Update all switch games
+- [Xc987/NX-Save-Sync](https://github.com/Xc987/NX-Save-Sync) - Switch homebrew app to sync save files between console and emulator or between multiple modded consoles
+- [PoloNX/SimpleModDownloader](https://github.com/PoloNX/SimpleModDownloader) - A switch homebrew which downloads mods from gamebanana
+- [WerWolv/Tesla-Menu](https://github.com/WerWolv/Tesla-Menu) - The Nintendo Switch overlay menu
+- [ppkantorski/Ultrahand-Overlay](https://github.com/ppkantorski/Ultrahand-Overlay) - The fully craft-able Nintendo Switch overlay executor.
+- [ppkantorski/Alchemist](https://github.com/ppkantorski/Alchemist) - An Ultrahand package designed for managing and converting mods on the Nintendo Switch.
+- [nadrino/SimpleModManager](https://github.com/nadrino/SimpleModManager) - SimpleModManager is an homebrew app for the Nintendo Switch
+- [ReVanced/where-is-revanced-patches](https://github.com/ReVanced/where-is-revanced-patches) - https://gitlab.com/revanced/revanced-patches
 - [16BitWonder/nx-versions](https://github.com/16BitWonder/nx-versions) - 
 - [16BitWonder/NX-Update-Checker](https://github.com/16BitWonder/NX-Update-Checker) - A small console application that checks a Switch's installed contents against a provided versionlist for newer updates.
 - [crc-32/BrowseNX](https://github.com/crc-32/BrowseNX) - Launches the browser via nsp
@@ -2488,7 +2512,7 @@
 - [verticalsync/Suncord](https://github.com/verticalsync/Suncord) - A fork of Vencord.
 - [roshank231/optest](https://github.com/roshank231/optest) - Based of an existing one pace addon, combines one pace and one piece kai into one addon for easy viewing
 - [au2001/onepace-stremio](https://github.com/au2001/onepace-stremio) - Stremio addon for watching One Pace and One Piece Kai effortlessly
-- [0xKirisame/SPiCa](https://github.com/0xKirisame/SPiCa) - **SPiCa** (System Process Integrity & Cross-view Analysis) is an eBPF-based rootkit detection engine written in Rust. It utilizes a "Binary Star" architecture to detect process masquerading and "Ghost
+- [0xKirisame/SPiCa](https://github.com/0xKirisame/SPiCa) - SPiCa (System Process Integrity & Cross-view Analysis) is a high-performance, eBPF-based rootkit detection engine written in Rust, inspired by the hatsune miku song SPiCa
 - [projectchicago/gastoken](https://github.com/projectchicago/gastoken) - ⛽  Tokenize gas on Ethereum with GasToken ⛽
 - [kleidione/hardware_nothing](https://github.com/kleidione/hardware_nothing) - 
 - [bigelod/WXRLauncher](https://github.com/bigelod/WXRLauncher) - WinlatorXR Launcher is a helper tool that may expand in future capabilities
@@ -2741,7 +2765,7 @@
 - [WinlatorXR/opentrackWXR](https://github.com/WinlatorXR/opentrackWXR) - Conversion of the opentrack head tracking software for WinlatorXR's XrAPI
 - [NordSecurity/nordvpn-linux](https://github.com/NordSecurity/nordvpn-linux) - NordVPN Linux client
 - [Crementif/BotW-BetterVR](https://github.com/Crementif/BotW-BetterVR) - A project aimed at providing a better PC VR mode for BotW using the Cemu emulator
-- [afkarxyz/SpotiDownloader](https://github.com/afkarxyz/SpotiDownloader) - Get Spotify tracks in MP3 and FLAC via spotidownloader.com
+- [afkarxyz/SpotiDownloader](https://github.com/afkarxyz/SpotiDownloader) - Get Spotify tracks, albums, playlists and discography in MP3 and FLAC.
 - [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
 - [Gerg-L/spicetify-nix](https://github.com/Gerg-L/spicetify-nix) - A nix library for modifying spotify with https://github.com/spicetify
 - [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VS Code Marketplace and Open VSX extensions [maintainers=@deemp, @ameertaweel]
