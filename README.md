@@ -415,7 +415,7 @@
 - [chsbuffer/ReVancedXposed](https://github.com/chsbuffer/ReVancedXposed) - ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback
 - [wacko1805/MagiskGapps](https://github.com/wacko1805/MagiskGapps) - Convert a regular GApps package into a Magisk flashable package using a simple website
 - [Pool-Of-Tears/GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.
-- [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - Modern Xposed Framework
+- [JingMatrix/Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
 - [offici5l/MiUnlockTool](https://github.com/offici5l/MiUnlockTool) - MiUnlockTool developed to retrieve encryptData(token) for Xiaomi devices for unlocking bootloader, It is compatible with all platforms.
 - [MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass) - A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.
 - [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
@@ -1018,6 +1018,7 @@
 
 ## discord 
 
+- [eightcon/FakeVoiceOptions](https://github.com/eightcon/FakeVoiceOptions) - A Vencord plugin which shows that you are deafened & muted to others, while in reality you can still hear them.
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - Forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
@@ -1109,7 +1110,6 @@
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [qemus/qemu](https://github.com/qemus/qemu) - QEMU in a Docker container.
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
-- [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker.
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sess
@@ -2448,6 +2448,8 @@
 
 ## others 
 
+- [JySzE/SoM-MPV-Config](https://github.com/JySzE/SoM-MPV-Config) - SoM-MPV-Config
+- [timothe/Ace-Pace](https://github.com/timothe/Ace-Pace) - Keep up to date with One Pace releases
 - [DefenderOfHyrule/ldn_mitm](https://github.com/DefenderOfHyrule/ldn_mitm) - Play local wireless supported games online
 - [spacemeowx2/switch-lan-play](https://github.com/spacemeowx2/switch-lan-play) - Enjoy games with your friends as if you were on a LAN.
 - [mentalblank/rdt-client](https://github.com/mentalblank/rdt-client) - A web interface for managing torrents on various debrid providers and compatible with Sonarr, Radarr, and other applications. This fork of rogerfars RDTClient contains modifications tailored to my per
@@ -3591,6 +3593,7 @@
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [Maiux92/digispark-keyboard-layout-italian](https://github.com/Maiux92/digispark-keyboard-layout-italian) - 
 - [Dasor/digispark-keyboard-layout-Spanish](https://github.com/Dasor/digispark-keyboard-layout-Spanish) - Spanish keyboard layout for Digispark DigiKeyboard
+- [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - 
 - [ang3lo-azevedo/pi-hole-android-private-dns-docker](https://github.com/ang3lo-azevedo/pi-hole-android-private-dns-docker) - Script to install and configure pihole private DNS (pi-hole DNS over TLS) for android using docker.
 - [Viren070/Emulator-Manager-Resources](https://github.com/Viren070/Emulator-Manager-Resources) - 
 - [quintenvandamme/nothing_archive](https://github.com/quintenvandamme/nothing_archive) - This repository contains firmware files for Nothing Phone 1, 2, 2a, 2a plus and CMF Phone 1. The firmware files are sourced from the official OTA servers and are mirrored here for archival purposes.
