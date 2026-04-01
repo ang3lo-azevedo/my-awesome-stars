@@ -303,6 +303,7 @@
 
 ## android 
 
+- [teekamsuthar/Mutify](https://github.com/teekamsuthar/Mutify) - An android app built with java to mute Spotify ads.
 - [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator) - Software simulation for Android hardware-backed key pairs with key attestation
 - [dabao1955/kernel_build_action](https://github.com/dabao1955/kernel_build_action) - a action to build kernel automatically[force push warning!]
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -1729,6 +1730,7 @@
 
 ## java 
 
+- [teekamsuthar/Mutify](https://github.com/teekamsuthar/Mutify) - An android app built with java to mute Spotify ads.
 - [weavechain/threshold-sig](https://github.com/weavechain/threshold-sig) - Java Implementation of Threshold Signatures using Ed25519
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is b
@@ -2202,6 +2204,7 @@
 
 ## minecraft 
 
+- [ChimeraGaming/Chromium-Based-Web-Extensions](https://github.com/ChimeraGaming/Chromium-Based-Web-Extensions) - Building cool stuff for Chrome, Brave, Edge, and friends that I wanted but couldn't find - extensions that actually help.
 - [cobalt2727/L4T-Megascript](https://github.com/cobalt2727/L4T-Megascript) - All-in-one installer and updater for popular programs on L4T Ubuntu/Fedora with no prior knowledge of Linux needed
 - [Ketbome/hytalepanel](https://github.com/Ketbome/hytalepanel) - Docker image for Hytale dedicated server with web panel. Easy setup, auto-download, real-time console.
 - [ZalithLauncher/ZalithLauncher2](https://github.com/ZalithLauncher/ZalithLauncher2) - A Minecraft: Java Edition Launcher for Android
@@ -2452,6 +2455,12 @@
 
 ## others 
 
+- [MunifTanjim/stremthru](https://github.com/MunifTanjim/stremthru) - Companion for Stremio.
+- [JibsouX/Shushify](https://github.com/JibsouX/Shushify) - Shush spotify ads automatically
+- [JibsouX/Shutify](https://github.com/JibsouX/Shutify) - Shut ads on Spotify
+- [shugi12345/stremio-skip-button](https://github.com/shugi12345/stremio-skip-button) - Community-powered “Skip Intro” for shows and movies in Stremio Enhanced.
+- [TheBeastLT/stremio-kitsu-anime](https://github.com/TheBeastLT/stremio-kitsu-anime) - Unofficial Kitsu anime catalog for Stremio platform
+- [Saadiq8149/AnilistStream](https://github.com/Saadiq8149/AnilistStream) - A Stremio addon for streaming anime from multiple HTTP sources (no torrents) while keeping your AniList watch list perfectly in sync. Search, watch, and track your progress all in one place.
 - [fedew04/OnePaceStremio](https://github.com/fedew04/OnePaceStremio) - 
 - [ang3lo-azevedo/RVX-Spotify](https://github.com/ang3lo-azevedo/RVX-Spotify) - The goal of this fork is to: - Fix Ad blocking issues, - Fix bugs and compatibility issues, - Keep the project working with newer dependencies, - Improve stability and maintainability, - Continue deve
 - [enzomtpYT/ReVancedXposed_Spotify](https://github.com/enzomtpYT/ReVancedXposed_Spotify) - 
@@ -3260,7 +3269,6 @@
 - [FriendlyNeighborhoodShane/MinMicroG](https://github.com/FriendlyNeighborhoodShane/MinMicroG) - Sources and scripts for MinMicroG installers. You shall find no prebuilt releases here.
 - [FriendlyNeighborhoodShane/MinMicroG_releases](https://github.com/FriendlyNeighborhoodShane/MinMicroG_releases) - Prebuilt flashable zip RELEASES for the MinMicroG project.
 - [FriendlyNeighborhoodShane/MinMicroG-abuse-CI](https://github.com/FriendlyNeighborhoodShane/MinMicroG-abuse-CI) - Automatic MinMicroG builder for updatelys. DO NOT STAR. You will find constant unneccessary notifications in your mail whenever I play around with it.
-- [ovsky/sumi-emu](https://github.com/ovsky/sumi-emu) - Sumi | The latest, best and especially most performant Nintendo Switch emulator! Run Nintendo Switch titles on your Android, Windows, Mac and Linux devices :)
 - [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
 - [crdroidandroid/android_kernel_nothing_sm7325](https://github.com/crdroidandroid/android_kernel_nothing_sm7325) - 
 - [spike0en/nothing_archive](https://github.com/spike0en/nothing_archive) - This project indexes and preserves full firmware, and OTA update links for Nothing and CMF phones, sourced directly from official OEM servers while generating unmodified stock OTA images.
@@ -4103,6 +4111,7 @@
 
 ## python 
 
+- [mralanbourne/kitsutracker-stremio-v2](https://github.com/mralanbourne/kitsutracker-stremio-v2) - Asynchronous Stremio addon to auto-sync anime watch progress and catalogs with your Kitsu account.
 - [SpectrixDev/DIY_WhisperPair](https://github.com/SpectrixDev/DIY_WhisperPair) - Hijacking Bluetooth Accessories Using Google Fast Pair: WhisperPair CVE-2025-36911 Reference Implementation & Vulnerability Verification Toolkit
 - [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
