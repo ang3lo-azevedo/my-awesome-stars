@@ -331,7 +331,7 @@
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 - [nix-community/nix-on-droid-app](https://github.com/nix-community/nix-on-droid-app) - Run Nix package manager on Android. Based off Termux the terminal emulator, but not Termux the distro. [maintainer=@t184256]
 - [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
-- [zarzet/SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) - Mobile version of SpotiFLAC written in Flutter, powered by a Go backend for high performance. Download Tracks in true FLAC from Tidal, Qobuz, & Amazon Music - no account, no ads, no subscription.
+- [zarzet/SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
@@ -1288,7 +1288,7 @@
 ## flutter 
 
 - [Nandanrmenon/florid](https://github.com/Nandanrmenon/florid) - F-Droid Client
-- [zarzet/SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) - Mobile version of SpotiFLAC written in Flutter, powered by a Go backend for high performance. Download Tracks in true FLAC from Tidal, Qobuz, & Amazon Music - no account, no ads, no subscription.
+- [zarzet/SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [Harish-Srinivas-07/hivefy](https://github.com/Harish-Srinivas-07/hivefy) - Hivefy - Ad-free, offline-ready music streaming app with Spotify-style interface and JioSaavn API.
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ED2K. Cross-platform, built with Golang and Flutter.
@@ -1427,7 +1427,7 @@
 - [willfaught/ebnf](https://github.com/willfaught/ebnf) - Parses, represents, and inspects EBNF grammars
 - [xhos/discord-quest-watcher](https://github.com/xhos/discord-quest-watcher) - webhook notifications when new discord quests are released, w/ filters
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
-- [zarzet/SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) - Mobile version of SpotiFLAC written in Flutter, powered by a Go backend for high performance. Download Tracks in true FLAC from Tidal, Qobuz, & Amazon Music - no account, no ads, no subscription.
+- [zarzet/SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -1701,7 +1701,7 @@
 ## ios 
 
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
-- [zarzet/SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) - Mobile version of SpotiFLAC written in Flutter, powered by a Go backend for high performance. Download Tracks in true FLAC from Tidal, Qobuz, & Amazon Music - no account, no ads, no subscription.
+- [zarzet/SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [jpdoshi/dragon-store](https://github.com/jpdoshi/dragon-store) - Dragon Store is your gateway to transparent, libre and free open-source apps.
 - [SpotCompiled/SpotveeC](https://github.com/SpotCompiled/SpotveeC) - Compiled EeveeSpotify IPA's.
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
@@ -2574,6 +2574,7 @@
 - [AviumUI-Devices/kernel_nothing_sm7325](https://github.com/AviumUI-Devices/kernel_nothing_sm7325) - 
 - [duyfken/RedirectorPrivacyAlternatives](https://github.com/duyfken/RedirectorPrivacyAlternatives) - Redirect Big Tech links to privacy aware alternatives using Redirector rules
 - [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
+- [SleepTheGod/BreachForums-Database](https://github.com/SleepTheGod/BreachForums-Database) - This file contains usernames emails and passwords as well as tables
 - [wabbajack-tools/wabbajack](https://github.com/wabbajack-tools/wabbajack) - An automated Modlist installer for various games.
 - [S1gn3rs/writeups](https://github.com/S1gn3rs/writeups) - 
 - [rhythmcache/payload-dumper-gui](https://github.com/rhythmcache/payload-dumper-gui) - App for Windows and Android to extract Android OTA payloads from local files or HTTP URLs
@@ -2854,7 +2855,7 @@
 - [satyampandya/NewsTruth-AI](https://github.com/satyampandya/NewsTruth-AI) - NewsTruth is a hybrid AI-powered system that detects fake news by combining the predictive power of traditional Machine Learning and the deep reasoning of Google’s Gemini LLM.
 - [HumanSecurity/restringer](https://github.com/HumanSecurity/restringer) - A Javascript Deobfuscator
 - [RapliVx/KernelSU](https://github.com/RapliVx/KernelSU) - personal fork, focused on lkm
-- [matsuzaka-yuki/FolkPatch](https://github.com/matsuzaka-yuki/FolkPatch) - 基于 APatch 开发的内核级别ROOT方案!
+- [LyraVoid/FolkPatch](https://github.com/LyraVoid/FolkPatch) - 基于 APatch 开发的内核级别ROOT方案!
 - [deepongi-labs/KernelSU-KoWSU](https://github.com/deepongi-labs/KernelSU-KoWSU) - personal fork, focused on lkm
 - [music-assistant/home-assistant-addon](https://github.com/music-assistant/home-assistant-addon) - Music Assistant add-on (repository) for Home Assistant
 - [virtualabs/hackwatch](https://github.com/virtualabs/hackwatch) - T-Watch 2020 v1/v2/v3 compatible firmware providing WiFi and BLE testing tools, TV-B-Gone and a watch feature (obviously)
@@ -2896,7 +2897,7 @@
 - [theovilardo/PixelPlayer](https://github.com/theovilardo/PixelPlayer) - privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.
 - [ThePedroo/ReLSPosed](https://github.com/ThePedroo/ReLSPosed) - LSPosed Framework resuscitated
 - [rt-evil-inc/gira-mais](https://github.com/rt-evil-inc/gira-mais) - Aplicação alternativa para o sistema de bicicletas partilhadas de Lisboa
-- [Myst1cX/spotifuck-userscript](https://github.com/Myst1cX/spotifuck-userscript) - 
+- [Myst1cX/spotifuck-userscript](https://github.com/Myst1cX/spotifuck-userscript) - Ports the full Spotifuck 1.4.1 UI hack experience directly to the Spotify Web Player for use in the Firefox mobile browser.
 - [mentalblank/GPhotos-Revanced](https://github.com/mentalblank/GPhotos-Revanced) - ReVanced Google Photos APK Auto-Builds
 - [Aunali321/revanced-downloader-plugins](https://github.com/Aunali321/revanced-downloader-plugins) - 
 - [Aunali321/ReVancedExperiments](https://github.com/Aunali321/ReVancedExperiments) - 
