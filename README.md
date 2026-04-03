@@ -2455,6 +2455,15 @@
 
 ## others 
 
+- [Sirosky/Upscale-Hub](https://github.com/Sirosky/Upscale-Hub) - A repository collecting image and video upscaling resources as well as my own super resolution models.
+- [Artoriuz/ArtCNN](https://github.com/Artoriuz/ArtCNN) - Simple SISR CNNs aimed at anime content
+- [flowerey/flower-mpv-config](https://github.com/flowerey/flower-mpv-config) - flower's configs for mpv. Automated builds are in releases tab.
+- [TheIntroDB/stremio-enhanced-plugin](https://github.com/TheIntroDB/stremio-enhanced-plugin) - Skip segments for shows and movies in Stremio Enhanced using TheIntroDB
+- [Rishabh5321/custom-packages-flake](https://github.com/Rishabh5321/custom-packages-flake) - Just some custom packages I use.
+- [Rishabh5321/playtorrio-flake](https://github.com/Rishabh5321/playtorrio-flake) - 
+- [ayman708-UX/PlayTorrioV2](https://github.com/ayman708-UX/PlayTorrioV2) - 
+- [monogram-android/monogram](https://github.com/monogram-android/monogram) - Native Telegram client for Android based on TDLib
+- [yortem/chrome-stremio-imdb](https://github.com/yortem/chrome-stremio-imdb) - A chrome extension to open movies and shows from your browser directly to Stremio
 - [MunifTanjim/stremthru](https://github.com/MunifTanjim/stremthru) - Companion for Stremio.
 - [JibsouX/Shushify](https://github.com/JibsouX/Shushify) - Shush spotify ads automatically
 - [JibsouX/Shutify](https://github.com/JibsouX/Shutify) - Shut ads on Spotify
@@ -2549,7 +2558,7 @@
 - [eternaldooly/AUTOCTF](https://github.com/eternaldooly/AUTOCTF) - AI-powered CTF automation platform utilizing GPT models.
 - [Hashaleen420/Flixorent](https://github.com/Hashaleen420/Flixorent) - A native, ad-free Android & TV media manager for Debrid services. Stream in 4K with Real-Debrid, TorBox, and AllDebrid, or use the built-in engine for direct torrent playback.
 - [rwxrob/clip](https://github.com/rwxrob/clip) - 
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native -- CLI-Hub: https://clianything.cc/
 - [0-Time/INCEPT.sh](https://github.com/0-Time/INCEPT.sh) - Offline Linux command inference engine that runs on low-resource and edge devices with no GPU, no API, and no internet connection required.
 - [ynsmroztas/AndroHunter](https://github.com/ynsmroztas/AndroHunter) - AndroHunter
 - [jthack/cewlai](https://github.com/jthack/cewlai) - ai-based domain name generation
@@ -2574,7 +2583,6 @@
 - [AviumUI-Devices/kernel_nothing_sm7325](https://github.com/AviumUI-Devices/kernel_nothing_sm7325) - 
 - [duyfken/RedirectorPrivacyAlternatives](https://github.com/duyfken/RedirectorPrivacyAlternatives) - Redirect Big Tech links to privacy aware alternatives using Redirector rules
 - [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
-- [SleepTheGod/BreachForums-Database](https://github.com/SleepTheGod/BreachForums-Database) - This file contains usernames emails and passwords as well as tables
 - [wabbajack-tools/wabbajack](https://github.com/wabbajack-tools/wabbajack) - An automated Modlist installer for various games.
 - [S1gn3rs/writeups](https://github.com/S1gn3rs/writeups) - 
 - [rhythmcache/payload-dumper-gui](https://github.com/rhythmcache/payload-dumper-gui) - App for Windows and Android to extract Android OTA payloads from local files or HTTP URLs
