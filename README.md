@@ -72,6 +72,7 @@
 - [embedded](#embedded)
 - [emoji](#emoji)
 - [emulator](#emulator)
+- [esp32](#esp32)
 - [express](#express)
 - [facebook](#facebook)
 - [fastapi](#fastapi)
@@ -303,6 +304,7 @@
 
 ## android 
 
+- [Xposed-Modules-Repo/ps.reso.instaeclipse](https://github.com/Xposed-Modules-Repo/ps.reso.instaeclipse) - InstaEclipse
 - [teekamsuthar/Mutify](https://github.com/teekamsuthar/Mutify) - An android app built with java to mute Spotify ads.
 - [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator) - Software simulation for Android hardware-backed key pairs with key attestation
 - [dabao1955/kernel_build_action](https://github.com/dabao1955/kernel_build_action) - a action to build kernel automatically[force push warning!]
@@ -1230,6 +1232,15 @@
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 
+## esp32 
+
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [lunokjod/watch](https://github.com/lunokjod/watch) - lunokWatch (lilygo twatch2020 series)
+- [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
+- [sharandac/My-TTGO-Watch](https://github.com/sharandac/My-TTGO-Watch) - A GUI named hedge for smartwatch like devices based on ESP32. Currently support for T-Watch2020 (V1,V2,V3), T-Watch2021, M5Paper, M5Core2 and native Linux support for testing.
+- [Xinyuan-LilyGO/TTGO_TWatch_Library](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library) - 
+- [GhostESP-Revival/GhostESP](https://github.com/GhostESP-Revival/GhostESP) - GhostESP: Revival turns your ESP32 into a cheap and powerful wireless testing tool.
+
 ## express 
 
 - [hitarth-gg/zenshin](https://github.com/hitarth-gg/zenshin) - 🔖 Web & Electron based Anime Streaming App for 🐈s
@@ -1394,7 +1405,6 @@
 
 ## github 
 
-- [unchihugo/FluentFlyout](https://github.com/unchihugo/FluentFlyout) - The modern Flyout app for Windows 11, built with Fluent 2 Design principles. Media Flyouts, Taskbar Widgets and more.
 - [samyak2403/RepoStore](https://github.com/samyak2403/RepoStore) - Explore apps published on GitHub, view release details, and install APKs instantly — all in one place. Developed using pure Kotlin, optimized for modern Android devices.
 - [jpdoshi/dragon-store](https://github.com/jpdoshi/dragon-store) - Dragon Store is your gateway to transparent, libre and free open-source apps.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -1683,6 +1693,7 @@
 
 ## instagram 
 
+- [Xposed-Modules-Repo/ps.reso.instaeclipse](https://github.com/Xposed-Modules-Repo/ps.reso.instaeclipse) - InstaEclipse
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's terminal UI app - The ultimate weapon against brainrot
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
@@ -2455,6 +2466,14 @@
 
 ## others 
 
+- [the-nnn-stack/the-nnn-stack.github.io](https://github.com/the-nnn-stack/the-nnn-stack.github.io) - NixOS + Niri + Noctalia. Three letters, zero compromise.
+- [SthrNilshaaa/package_apps_nglyph](https://github.com/SthrNilshaaa/package_apps_nglyph) - The New Nothing Phone 1 Glyph Manager
+- [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
+- [WinlatorXR/GameNative](https://github.com/WinlatorXR/GameNative) - Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
+- [0xGF/boneyard](https://github.com/0xGF/boneyard) - Auto generated skeleton loading framework
+- [Equicord/Equibored](https://github.com/Equicord/Equibored) - Central repository storing plugin metadata, custom badges, and developer information for Equicord
+- [Stremio/libmpv2-rs](https://github.com/Stremio/libmpv2-rs) - A libmpv abstraction written in rust that's easy to use and provides the ability to read next to all video and audio codecs.
+- [Stremio/stremio-linux-shell](https://github.com/Stremio/stremio-linux-shell) - Client for Stremio on Linux
 - [Sirosky/Upscale-Hub](https://github.com/Sirosky/Upscale-Hub) - A repository collecting image and video upscaling resources as well as my own super resolution models.
 - [Artoriuz/ArtCNN](https://github.com/Artoriuz/ArtCNN) - Simple SISR CNNs aimed at anime content
 - [flowerey/flower-mpv-config](https://github.com/flowerey/flower-mpv-config) - flower's configs for mpv. Automated builds are in releases tab.
@@ -2583,6 +2602,7 @@
 - [AviumUI-Devices/kernel_nothing_sm7325](https://github.com/AviumUI-Devices/kernel_nothing_sm7325) - 
 - [duyfken/RedirectorPrivacyAlternatives](https://github.com/duyfken/RedirectorPrivacyAlternatives) - Redirect Big Tech links to privacy aware alternatives using Redirector rules
 - [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
+- [SleepTheGod/BreachForums-Database](https://github.com/SleepTheGod/BreachForums-Database) - This file contains usernames emails and passwords as well as tables
 - [wabbajack-tools/wabbajack](https://github.com/wabbajack-tools/wabbajack) - An automated Modlist installer for various games.
 - [S1gn3rs/writeups](https://github.com/S1gn3rs/writeups) - 
 - [rhythmcache/payload-dumper-gui](https://github.com/rhythmcache/payload-dumper-gui) - App for Windows and Android to extract Android OTA payloads from local files or HTTP URLs
@@ -2869,7 +2889,6 @@
 - [virtualabs/hackwatch](https://github.com/virtualabs/hackwatch) - T-Watch 2020 v1/v2/v3 compatible firmware providing WiFi and BLE testing tools, TV-B-Gone and a watch feature (obviously)
 - [VolosR/waveshareControl](https://github.com/VolosR/waveshareControl) - 
 - [waveshareteam/ESP32-S3-Touch-AMOLED-2.06](https://github.com/waveshareteam/ESP32-S3-Touch-AMOLED-2.06) - ESP32-S3-Touch-AMOLED-2.06 Engineering Sample Program
-- [sharandac/My-TTGO-Watch](https://github.com/sharandac/My-TTGO-Watch) - A GUI named hedge for smartwatch like devices based on ESP32. Currently support for T-Watch2020 (V1,V2,V3), T-Watch2021, M5Paper, M5Core2 and native Linux support for testing.
 - [sharandac/My-TTGO-Watchfaces](https://github.com/sharandac/My-TTGO-Watchfaces) - 
 - [PGNetHun/PG-TTGO-Watchfaces](https://github.com/PGNetHun/PG-TTGO-Watchfaces) - Watchfaces for Lilygo T-Watch-2020 - Firmware: sharandac/My-TTGO-Watch
 - [whoeevee/EeveeSpotifyReborn](https://github.com/whoeevee/EeveeSpotifyReborn) - A tweak to enhance Spotify experience
