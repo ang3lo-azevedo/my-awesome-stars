@@ -802,7 +802,6 @@
 
 ## cli 
 
-- [spideystreet/clix](https://github.com/spideystreet/clix) - X from terminal. No API keys needed. Just plug your AI Agent.
 - [viu-media/viu](https://github.com/viu-media/viu) - Your browser anime experience from the terminal
 - [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - Forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
 - [e-tho/pwmenu](https://github.com/e-tho/pwmenu) - Launcher-driven audio manager for Linux
@@ -1532,6 +1531,7 @@
 
 ## hacktoberfest 
 
+- [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [swisskyrepo/InternalAllTheThings](https://github.com/swisskyrepo/InternalAllTheThings) - Active Directory and Internal Pentest Cheatsheets
 - [TheCaduceus/WARP-UNLIMITED-ADVANCED](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED) - Get unlimited amount of data in Cloudflare's WARP VPN🔥
@@ -2196,7 +2196,6 @@
 
 ## mcp 
 
-- [spideystreet/clix](https://github.com/spideystreet/clix) - X from terminal. No API keys needed. Just plug your AI Agent.
 - [LayeSec006/pentest-mcp-server](https://github.com/LayeSec006/pentest-mcp-server) - MCP server for penetration testing
 - [RamKansal/pentestMCP](https://github.com/RamKansal/pentestMCP) - pentestMCP: AI-Powered Penetration Testing via MCP, an MCP designed for penetration testers.
 - [DMontgomery40/pentest-mcp](https://github.com/DMontgomery40/pentest-mcp) - NOT for educational purposes: An MCP server for professional penetration testers including STDIO/HTTP/SSE support, nmap, go/dirbuster, nikto, JtR, hashcat, wordlist building, and more.
@@ -2466,6 +2465,10 @@
 
 ## others 
 
+- [TorBox-App/torbox-tinfoil-server](https://github.com/TorBox-App/torbox-tinfoil-server) - The TorBox Tinfoil Server allows you to download torrents directly through Tinfoil using TorBox.
+- [ang3lo-azevedo/samsung-galaxy-book-linux-fixes](https://github.com/ang3lo-azevedo/samsung-galaxy-book-linux-fixes) - Linux fixes for Samsung Galaxy Book 3, 4 & 5 — webcam, speakers, microphone, and more
+- [marques-jpg/dotfiles](https://github.com/marques-jpg/dotfiles) - My personal dotfiles. WIP
+- [RookieEnough/De-ReVanced](https://github.com/RookieEnough/De-ReVanced) - De-ReVanced exists because the old way started getting frustrating, so I migrated everything to Morphe and turned it into a better, cleaner place to keep the experience alive.
 - [the-nnn-stack/the-nnn-stack.github.io](https://github.com/the-nnn-stack/the-nnn-stack.github.io) - NixOS + Niri + Noctalia. Three letters, zero compromise.
 - [SthrNilshaaa/package_apps_nglyph](https://github.com/SthrNilshaaa/package_apps_nglyph) - The New Nothing Phone 1 Glyph Manager
 - [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
@@ -2577,7 +2580,7 @@
 - [eternaldooly/AUTOCTF](https://github.com/eternaldooly/AUTOCTF) - AI-powered CTF automation platform utilizing GPT models.
 - [Hashaleen420/Flixorent](https://github.com/Hashaleen420/Flixorent) - A native, ad-free Android & TV media manager for Debrid services. Stream in 4K with Real-Debrid, TorBox, and AllDebrid, or use the built-in engine for direct torrent playback.
 - [rwxrob/clip](https://github.com/rwxrob/clip) - 
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native -- CLI-Hub: https://clianything.cc/
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [0-Time/INCEPT.sh](https://github.com/0-Time/INCEPT.sh) - Offline Linux command inference engine that runs on low-resource and edge devices with no GPU, no API, and no internet connection required.
 - [ynsmroztas/AndroHunter](https://github.com/ynsmroztas/AndroHunter) - AndroHunter
 - [jthack/cewlai](https://github.com/jthack/cewlai) - ai-based domain name generation
@@ -4671,7 +4674,6 @@
 
 ## twitter 
 
-- [spideystreet/clix](https://github.com/spideystreet/clix) - X from terminal. No API keys needed. Just plug your AI Agent.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
