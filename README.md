@@ -2465,6 +2465,11 @@
 
 ## others 
 
+- [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
+- [34306/vphone-aio](https://github.com/34306/vphone-aio) - 1 script run the vphone
+- [ang3lo-azevedo/fun-pace-subs](https://github.com/ang3lo-azevedo/fun-pace-subs) - Unofficial subtitle generator for the One Piece "Fun Pace" project. Providing English subtitles for the Japanese audio tracks of custom filler edits.
+- [PaRaN01a-hash/ultra-max-addon](https://github.com/PaRaN01a-hash/ultra-max-addon) - Clean Stremio/Nuvio addon with curated catalogs
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [TorBox-App/torbox-tinfoil-server](https://github.com/TorBox-App/torbox-tinfoil-server) - The TorBox Tinfoil Server allows you to download torrents directly through Tinfoil using TorBox.
 - [ang3lo-azevedo/samsung-galaxy-book-linux-fixes](https://github.com/ang3lo-azevedo/samsung-galaxy-book-linux-fixes) - Linux fixes for Samsung Galaxy Book 3, 4 & 5 — webcam, speakers, microphone, and more
 - [marques-jpg/dotfiles](https://github.com/marques-jpg/dotfiles) - My personal dotfiles. WIP
@@ -3275,7 +3280,6 @@
 - [tomasz-grobelny/AACS](https://github.com/tomasz-grobelny/AACS) - Android Auto Server encapsulates communication with modern car infotainment system
 - [okcar-os/android](https://github.com/okcar-os/android) - An open-source system designed for in-car entertainment. Use the CarPlay protocol to enable audio and video transmission between an Android smartphone and in-car entertainment.
 - [mustafa1dev/TeleVip-Lsposed](https://github.com/mustafa1dev/TeleVip-Lsposed) - TeleVip LSPosed Xposed Module
-- [Kenji-NX/Releases](https://github.com/Kenji-NX/Releases) - Builds of Kenji-NX compiled every so often
 - [nisargjhaveri/WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle) - Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi.
 - [i-am-shodan/USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife) - USB Army Knife – the ultimate close access tool for penetration testers and red teamers.
 - [CardosoDev04/uncover-ai](https://github.com/CardosoDev04/uncover-ai) - A web application to help users identify AI generated images.
@@ -4594,6 +4598,7 @@
 
 ## telegram 
 
+- [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web A, GPL v3
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [arsLan4k1390/Cherrygram](https://github.com/arsLan4k1390/Cherrygram) - 
