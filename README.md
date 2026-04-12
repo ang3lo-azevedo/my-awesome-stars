@@ -1734,7 +1734,6 @@
 - [marcusfrdk/messages-clone](https://github.com/marcusfrdk/messages-clone) - This is a clone of the iOS messages app using React Native.
 - [userbradley/BeReal](https://github.com/userbradley/BeReal) - How does BeReal work (Under the hood)
 - [cheers-li/cheers-li-app](https://github.com/cheers-li/cheers-li-app) - If Beer With Me and BeReal had a child
-- [FouadRaheb/Watusi-for-WhatsApp](https://github.com/FouadRaheb/Watusi-for-WhatsApp) - Your all-in-one tweak for WhatsApp Messenger!
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 
 ## iot 
@@ -2474,6 +2473,7 @@
 
 ## others 
 
+- [newman2x/WebStreamrMBG](https://github.com/newman2x/WebStreamrMBG) - 
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
 - [andir/npins](https://github.com/andir/npins) - Nix dependency pinning. Very similar to Niv but has a few features that I personally wanted.
 - [erikarvstedt/extra-container](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers without full system rebuilds
