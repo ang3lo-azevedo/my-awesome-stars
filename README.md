@@ -373,7 +373,7 @@
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [TachibanaGeneralLaboratories/download-navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - Free and  Open Source software download manager
 - [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
-- [IacobIonut01/Gallery](https://github.com/IacobIonut01/Gallery) - Media Gallery app for Android made with Jetpack Compose
+- [IacobIonut01/ReFra](https://github.com/IacobIonut01/ReFra) - Media Gallery app for Android made with Jetpack Compose
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
 - [revenge-mod/revenge-xposed](https://github.com/revenge-mod/revenge-xposed) - 🫚 Xposed module to use Revenge on rooted Android
@@ -792,6 +792,7 @@
 
 ## chrome-extension 
 
+- [nehirakbass/anime-filler-checker](https://github.com/nehirakbass/anime-filler-checker) - Browser extension that auto-detects anime filler episodes on any streaming site. Shows FILLER/CANON/MIXED badge directly on the page.
 - [RetireJS/retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds.
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [xlch88/YouTubeTweak](https://github.com/xlch88/YouTubeTweak) - Packed with all the features you want: lock video quality, speed buttons, show commenter names, auto-translate comments, hide distractions, and more.
@@ -1770,6 +1771,7 @@
 
 ## javascript 
 
+- [nehirakbass/anime-filler-checker](https://github.com/nehirakbass/anime-filler-checker) - Browser extension that auto-detects anime filler episodes on any streaming site. Shows FILLER/CANON/MIXED badge directly on the page.
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
@@ -1818,7 +1820,7 @@
 - [ZalithLauncher/ZalithLauncher2](https://github.com/ZalithLauncher/ZalithLauncher2) - A Minecraft: Java Edition Launcher for Android
 - [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility
 - [Tornaco/Thanox](https://github.com/Tornaco/Thanox) - I am thanos! 😈 👌
-- [IacobIonut01/Gallery](https://github.com/IacobIonut01/Gallery) - Media Gallery app for Android made with Jetpack Compose
+- [IacobIonut01/ReFra](https://github.com/IacobIonut01/ReFra) - Media Gallery app for Android made with Jetpack Compose
 - [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid) - [PRs are welcome] Modern streaming media player for Android designed to provide a feature-rich experience for viewing IPTV content, managing M3U playlists, and playing various media formats. Built wit
 - [egorikftp/RadioTok](https://github.com/egorikftp/RadioTok) - Listen to random radio from the whole world. Build with Compose and Media API, support Android Auto.
 - [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) - 📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with Syncplay PC. Fully written in Kotlin and Compose multiplatform.
@@ -1863,7 +1865,7 @@
 - [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - 💊 An Android application to use ReVanced, Morphe and AmpleReVanced on that has extra features the official manager doesn't have
 - [MMRLApp/MMRL](https://github.com/MMRLApp/MMRL) - A app for managing, sharing, and exploring Magisk modules across repositories
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
-- [IacobIonut01/Gallery](https://github.com/IacobIonut01/Gallery) - Media Gallery app for Android made with Jetpack Compose
+- [IacobIonut01/ReFra](https://github.com/IacobIonut01/ReFra) - Media Gallery app for Android made with Jetpack Compose
 - [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
 - [revenge-mod/revenge-xposed](https://github.com/revenge-mod/revenge-xposed) - 🫚 Xposed module to use Revenge on rooted Android
 - [revenge-mod/revenge-manager](https://github.com/revenge-mod/revenge-manager) - 🤖 Application to use Revenge on Android
@@ -2393,6 +2395,7 @@
 
 ## open-source 
 
+- [nehirakbass/anime-filler-checker](https://github.com/nehirakbass/anime-filler-checker) - Browser extension that auto-detects anime filler episodes on any streaming site. Shows FILLER/CANON/MIXED badge directly on the page.
 - [walterlow/freecut](https://github.com/walterlow/freecut) - FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, re
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
@@ -2826,6 +2829,7 @@
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
 - [Huttysam/samsung-galaxybook-linux-unified](https://github.com/Huttysam/samsung-galaxybook-linux-unified) - Unified configuration and drivers for running Linux on Samsung Galaxy Book with complete functionality. Combines galaxy-book2-pro-linux and samsung-galaxybook-extras repositories.
 - [qiangua2460/recovery_device_xiaomi_ruby](https://github.com/qiangua2460/recovery_device_xiaomi_ruby) - TWRP Device tree for the Redmi Note 12 Pro(+) 5G
+- [jaylikesbunda/ESPressoFlash](https://github.com/jaylikesbunda/ESPressoFlash) - Flash your ESP32 quickly and easily.
 - [i-am-shodan/USBArmyKnife-WatchFirmware](https://github.com/i-am-shodan/USBArmyKnife-WatchFirmware) - Unofficial os for Lilygo t-watch-s3
 - [Yurii0307/yurikey](https://github.com/Yurii0307/yurikey) - A systemless module to get strong integrity easily
 - [omarcresp/cursor-flake](https://github.com/omarcresp/cursor-flake) - Nix flake for Cursor - The AI Code editor
@@ -3329,7 +3333,7 @@
 - [FriendlyNeighborhoodShane/MinMicroG-abuse-CI](https://github.com/FriendlyNeighborhoodShane/MinMicroG-abuse-CI) - Automatic MinMicroG builder for updatelys. DO NOT STAR. You will find constant unneccessary notifications in your mail whenever I play around with it.
 - [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
 - [crdroidandroid/android_kernel_nothing_sm7325](https://github.com/crdroidandroid/android_kernel_nothing_sm7325) - 
-- [spike0en/nothing_archive](https://github.com/spike0en/nothing_archive) - This project indexes and preserves full firmware, and OTA update links for Nothing and CMF phones, sourced directly from official OEM servers while generating unmodified stock OTA images.
+- [spike0en/nothing_archive](https://github.com/spike0en/nothing_archive) - Your ultimate source for Nothing OS firmware, stock OTA images, community apps, projects, resources and comprehensive guides for Nothing & CMF devices
 - [BenjaminAster/CSS-Minecraft](https://github.com/BenjaminAster/CSS-Minecraft) - A Minecraft clone made with pure HTML & CSS – no JavaScript.
 - [reiryuki/ZRAM-Swap-Configurator-Magisk-Module](https://github.com/reiryuki/ZRAM-Swap-Configurator-Magisk-Module) - 
 - [nift4/microg_installer_revived](https://github.com/nift4/microg_installer_revived) - Install microG GmsCore, GsfProxy, FakeStore (or Play Store if you want so) and MapsV1 to /system/
