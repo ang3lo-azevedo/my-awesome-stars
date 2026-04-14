@@ -1155,7 +1155,7 @@
 - [mtkusbdevice/hyprland-hdready](https://github.com/mtkusbdevice/hyprland-hdready) - Collection of dot config files for hyprland for HDReady displays with a simple install script for a fresh Arch linux with yay
 - [Deathemonic/Cat-Dots](https://github.com/Deathemonic/Cat-Dots) - 🍚 Soothing pastel theme Rice
 - [jcchikikomori/.dotfiles](https://github.com/jcchikikomori/.dotfiles) - Makes Configuration files easy as breeze!
-- [niksingh710/gdots](https://github.com/niksingh710/gdots) - The Graphical Interface that i Like to interact with. [Hyprland+Waybar+Much tools].
+- [semi710/gdots](https://github.com/semi710/gdots) - The Graphical Interface that i Like to interact with. [Hyprland+Waybar+Much tools].
 - [mechakotik/dots](https://github.com/mechakotik/dots) - Minimal Hyprland + Waybar setup
 - [voidptrx/dotfiles](https://github.com/voidptrx/dotfiles) - .files
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -1735,6 +1735,7 @@
 - [marcusfrdk/messages-clone](https://github.com/marcusfrdk/messages-clone) - This is a clone of the iOS messages app using React Native.
 - [userbradley/BeReal](https://github.com/userbradley/BeReal) - How does BeReal work (Under the hood)
 - [cheers-li/cheers-li-app](https://github.com/cheers-li/cheers-li-app) - If Beer With Me and BeReal had a child
+- [FouadRaheb/Watusi-for-WhatsApp](https://github.com/FouadRaheb/Watusi-for-WhatsApp) - Your all-in-one tweak for WhatsApp Messenger!
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 
 ## iot 
@@ -2476,6 +2477,7 @@
 
 ## others 
 
+- [clerie/arduino-nix](https://github.com/clerie/arduino-nix) - Manage your arduino-cli with Nix
 - [newman2x/WebStreamrMBG](https://github.com/newman2x/WebStreamrMBG) - 
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
 - [andir/npins](https://github.com/andir/npins) - Nix dependency pinning. Very similar to Niv but has a few features that I personally wanted.
