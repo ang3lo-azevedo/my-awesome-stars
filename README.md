@@ -307,6 +307,7 @@
 
 ## android 
 
+- [premnirmal/StockTicker](https://github.com/premnirmal/StockTicker) - A resizable widget that shows your financial portfolio on your android home screen
 - [vishal2376/snaptick](https://github.com/vishal2376/snaptick) - Snaptick is an MVVM Jetpack Compose app, offering ad-free task management with a built-in pomodoro timer to help you organize your daily plans
 - [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Android feed reader app
 - [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
@@ -1289,6 +1290,7 @@
 
 ## finance 
 
+- [premnirmal/StockTicker](https://github.com/premnirmal/StockTicker) - A resizable widget that shows your financial portfolio on your android home screen
 - [Pool-Of-Tears/GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.
 
 ## firebase 
@@ -1880,6 +1882,7 @@
 
 ## kotlin 
 
+- [premnirmal/StockTicker](https://github.com/premnirmal/StockTicker) - A resizable widget that shows your financial portfolio on your android home screen
 - [vishal2376/snaptick](https://github.com/vishal2376/snaptick) - Snaptick is an MVVM Jetpack Compose app, offering ad-free task management with a built-in pomodoro timer to help you organize your daily plans
 - [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Android feed reader app
 - [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) - An application to write OS images to USB drives, on Android, no root required.
@@ -2523,6 +2526,7 @@
 
 ## others 
 
+- [DevDude437/App-Compatibility-with-GrapheneOS](https://github.com/DevDude437/App-Compatibility-with-GrapheneOS) - Just a collection of apps tested that work without Google Play Services on GrapheneOS
 - [xtremexq/StremioSubMaker](https://github.com/xtremexq/StremioSubMaker) - Stremio Subtitles addon, with multiple sub sources and BYOK AI translation
 - [qwertyuiop8899/SelfStream](https://github.com/qwertyuiop8899/SelfStream) - DockerHub image: qwertyuiop8899/selfstream
 - [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun) - The Red Sun vulnerability repository
@@ -3133,7 +3137,7 @@
 - [prxshetty/hugo-noir](https://github.com/prxshetty/hugo-noir) - Hugo Noir is a clean, minimalistic theme for Hugo with a focus on readability and simplicity.
 - [rhazdon/hugo-theme-hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [coolapso/hugo-theme-terminalcv](https://github.com/coolapso/hugo-theme-terminalcv) - An easy to setup and (almost) fully customizable command line style CV theme for HUGO
-- [f14myy/MyGlyph](https://github.com/f14myy/MyGlyph) - Get full access and customization of your glyph interface
+- [f14myy/myglyph](https://github.com/f14myy/myglyph) - Get full access and customization of your glyph interface
 - [pwncollege/dojo](https://github.com/pwncollege/dojo) - Infrastructure powering the pwn.college dojo
 - [rodrig20/rustyocr](https://github.com/rodrig20/rustyocr) - A Rust-based tool that captures text from the screen using OCR
 - [programminghoch10/ReVancedRepackaged](https://github.com/programminghoch10/ReVancedRepackaged) - ReVanced, but patched locally.
