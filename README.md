@@ -188,6 +188,7 @@
 - [python](#python)
 - [python3](#python3)
 - [qt](#qt)
+- [quantitative-finance](#quantitative-finance)
 - [rag](#rag)
 - [rails](#rails)
 - [raspberry-pi](#raspberry-pi)
@@ -744,6 +745,7 @@
 
 ## c 
 
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -1290,6 +1292,7 @@
 
 ## finance 
 
+- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [premnirmal/StockTicker](https://github.com/premnirmal/StockTicker) - A resizable widget that shows your financial portfolio on your android home screen
 - [Pool-Of-Tears/GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.
 
@@ -1490,6 +1493,7 @@
 
 ## good-first-issue 
 
+- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## google 
@@ -1569,6 +1573,8 @@
 
 ## hacktoberfest 
 
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1959,6 +1965,7 @@
 
 ## linux 
 
+- [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) - Wallpaper Engine backgrounds for Linux!
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 - [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) - An application to write OS images to USB drives, on Android, no root required.
 - [htv04/funkin-rewritten](https://github.com/htv04/funkin-rewritten) - Optimized rewrite of Friday Night Funkin' built on LÖVE
@@ -2159,6 +2166,7 @@
 
 ## machine-learning 
 
+- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [Mr-Homeless/waldo](https://github.com/Mr-Homeless/waldo) - Waldo Vision | Cheat detection
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
@@ -2316,6 +2324,7 @@
 
 ## monitoring 
 
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [femto-code/Raspberry-Pi-Dashboard](https://github.com/femto-code/Raspberry-Pi-Dashboard) - Web-App Dashboard to monitor Raspberry Pi hardware and software status. Nothing more than Webserver + PHP required.
@@ -2493,6 +2502,7 @@
 
 ## opengl 
 
+- [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) - Wallpaper Engine backgrounds for Linux!
 - [CaffeineMC/sodium](https://github.com/CaffeineMC/sodium) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
@@ -2526,7 +2536,7 @@
 
 ## others 
 
-- [DevDude437/App-Compatibility-with-GrapheneOS](https://github.com/DevDude437/App-Compatibility-with-GrapheneOS) - Just a collection of apps tested that work without Google Play Services on GrapheneOS
+- [DevDude437/App-Compatibility-with-GrapheneOS](https://github.com/DevDude437/App-Compatibility-with-GrapheneOS) - A collection of apps tested that work without Google Play Services on GrapheneOS
 - [xtremexq/StremioSubMaker](https://github.com/xtremexq/StremioSubMaker) - Stremio Subtitles addon, with multiple sub sources and BYOK AI translation
 - [qwertyuiop8899/SelfStream](https://github.com/qwertyuiop8899/SelfStream) - DockerHub image: qwertyuiop8899/selfstream
 - [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun) - The Red Sun vulnerability repository
@@ -2703,7 +2713,6 @@
 - [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 - [SleepTheGod/BreachForums-Database](https://github.com/SleepTheGod/BreachForums-Database) - This file contains usernames emails and passwords as well as tables
 - [wabbajack-tools/wabbajack](https://github.com/wabbajack-tools/wabbajack) - An automated Modlist installer for various games.
-- [S1gn3rs/writeups](https://github.com/S1gn3rs/writeups) - 
 - [rhythmcache/payload-dumper-gui](https://github.com/rhythmcache/payload-dumper-gui) - App for Windows and Android to extract Android OTA payloads from local files or HTTP URLs
 - [terryds/awesome-strudel](https://github.com/terryds/awesome-strudel) - A curated collection of awesome Strudel resources including tracks (popular song covers and remixes), tutorials, and repositories
 - [eefano/strudel-songs-collection](https://github.com/eefano/strudel-songs-collection) - Songs created with Strudel, the live coding music tool
@@ -2738,7 +2747,7 @@
 - [flowchartsman/greybeard](https://github.com/flowchartsman/greybeard) - a chunky monospaced bitmap programming font for old nerds that hate eyestrain
 - [ShadowBlip/InputPlumber](https://github.com/ShadowBlip/InputPlumber) - Open source input router and remapper daemon for Linux
 - [ang3lo-azevedo/nGKI_Kernel_Spacewar](https://github.com/ang3lo-azevedo/nGKI_Kernel_Spacewar) - nGKI Kernel with KSU+SUSFS. Nothing Phone (1) (spacewar) builds
-- [ReSukiSU/ReSukiSU](https://github.com/ReSukiSU/ReSukiSU) - Kernel-based Android Root Solution,forked from sukisu
+- [ReSukiSU/ReSukiSU](https://github.com/ReSukiSU/ReSukiSU) - Kernel-based Android Root Solution,Forked from SukiSU(Currently support 3.4~6.12)
 - [cyberc3dr/nGKI_Kernel_Spacewar](https://github.com/cyberc3dr/nGKI_Kernel_Spacewar) - nGKI Kernel with KSU+SUSFS. Nothing Phone (1) (spacewar) builds
 - [ang3lo-azevedo/ISOdroid](https://github.com/ang3lo-azevedo/ISOdroid) - Turn your Android into a bootable USB with .iso & .img images (root required)
 - [rodrig20/DuckyHid](https://github.com/rodrig20/DuckyHid) - Use your rooted Android phone as Rubber Ducky
@@ -2841,7 +2850,7 @@
 - [eriksonssilva/gemini-web-wrapper](https://github.com/eriksonssilva/gemini-web-wrapper) - Gemini Web Wrapper with Compatible OpenAI Endpoint
 - [quik-sms/quik](https://github.com/quik-sms/quik) - The most beautiful SMS messenger for Android - Revived
 - [Zhoros/Torranor](https://github.com/Zhoros/Torranor) - Download torrents DIRECTLY from your web browser, no torrent client needed!
-- [vic/import-tree](https://github.com/vic/import-tree) - Import all nix files in a directory tree.
+- [denful/import-tree](https://github.com/denful/import-tree) - Import all nix files in a directory tree.
 - [nix-community/haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for Nix [maintainer=@figsoda]
 - [Mistyttm/nixpkgs-extra](https://github.com/Mistyttm/nixpkgs-extra) - Some extra packages I make for myself that I don't feel like upstreaming atm
 - [dmcke5/DIY_VR_Controllers](https://github.com/dmcke5/DIY_VR_Controllers) - A set of 3d Printed wireless controllers for use with the HadesVR ecosystem!
@@ -2997,7 +3006,7 @@
 - [LSPosed/LSPosed_translations](https://github.com/LSPosed/LSPosed_translations) - 
 - [JNightA/KitsuneMagisk-](https://github.com/JNightA/KitsuneMagisk-) - A fork of KitsuneMagisk. Thanks to the original author @HuskyDG.
 - [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A tool that can share DeviceOwner permissions to other application.
-- [frknkrc44/HMA-OSS](https://github.com/frknkrc44/HMA-OSS) - A ROOT REQUIRED LSPosed module to hide your app list, settings, package installers and more. It is a fork of Hide My Applist project.
+- [frknkrc44/HMA-OSS](https://github.com/frknkrc44/HMA-OSS) - A ROOT REQUIRED LSPosed/Zygisk module to hide your app list, settings, package installers and more. It is a fork of Hide My Applist project.
 - [ArminJo/DigistumpArduino](https://github.com/ArminJo/DigistumpArduino) - Improved version of Digistump avr core for Arduino
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [ynsmroztas/NextRce](https://github.com/ynsmroztas/NextRce) - React Shell & Next.js RSC Exploit Tool (CVE-2025-55182)
@@ -3076,7 +3085,6 @@
 - [pedromigueladao/SSof](https://github.com/pedromigueladao/SSof) - Public Repo for Software Security Course@IST
 - [LineageOS/android_hardware_nothing](https://github.com/LineageOS/android_hardware_nothing) - 
 - [pedromigueladao/SSof-Project1920](https://github.com/pedromigueladao/SSof-Project1920) - Community Repository for Testing the Projects of the Software Security course 2019/20
-- [eribbey/dlhd-proxy](https://github.com/eribbey/dlhd-proxy) - A self-hosted IPTV proxy for DLHD using Docker. Adds channel guide info for IPTV clients among other features.
 - [pocketblue/recovery](https://github.com/pocketblue/recovery) - 
 - [TheMuppets/proprietary_vendor_nothing_Spacewar](https://github.com/TheMuppets/proprietary_vendor_nothing_Spacewar) - 
 - [nyxalune/vendor_nothing_Spacewar](https://github.com/nyxalune/vendor_nothing_Spacewar) - Vendor Tree for Nothing Phone (1)
@@ -4239,6 +4247,7 @@
 
 ## python 
 
+- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [mukul975/cve-mcp-server](https://github.com/mukul975/cve-mcp-server) - Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more.
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [mralanbourne/kitsutracker-stremio-v2](https://github.com/mralanbourne/kitsutracker-stremio-v2) - Asynchronous Stremio addon to auto-sync anime watch progress and catalogs with your Kitsu account.
@@ -4326,6 +4335,10 @@
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [glaumar/QRookie](https://github.com/glaumar/QRookie) - Download and install Quest games from ROOKIE Public Mirror (like VRP Rookie Sideloader but for Linux and MacOS)
 - [Shatur/optimus-manager-qt](https://github.com/Shatur/optimus-manager-qt) - An interface for Optimus Manager that allows to switch GPUs on Optimus laptops.
+
+## quantitative-finance 
+
+- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 
 ## rag 
 
@@ -4606,6 +4619,7 @@
 
 ## shell 
 
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [david942j/one_gadget](https://github.com/david942j/one_gadget) - The best tool for finding one gadget RCE in libc.so.6
