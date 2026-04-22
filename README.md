@@ -1713,7 +1713,7 @@
 
 ## http 
 
-- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP, Tun)
+- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 
@@ -2445,6 +2445,7 @@
 ## obsidian 
 
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 
 ## obsidian-md 
 
@@ -2615,7 +2616,7 @@
 - [dslatt/nso-icon-tool](https://github.com/dslatt/nso-icon-tool) - A switch homebrew which allows you to create user icons like NSO
 - [Team-Neptune/CommonProblemResolver](https://github.com/Team-Neptune/CommonProblemResolver) - 
 - [spacemeowx2/ldn_mitm](https://github.com/spacemeowx2/ldn_mitm) - Play local wireless supported games online
-- [ppkantorski/nx-ovlloader](https://github.com/ppkantorski/nx-ovlloader) - Host process for loading Switch overlay OVLs (NROs)
+- [ppkantorski/nx-ovlloader](https://github.com/ppkantorski/nx-ovlloader) - Host process for loading Switch overlay OVLs (NROs), optimized with dynamic heap size support
 - [kenesu-h/sys-hidplus-client-rs](https://github.com/kenesu-h/sys-hidplus-client-rs) - A client written in Rust for the Nintendo Switch sysmodule "sys-hidplus"
 - [gtiersma/Simple_Mod_Alchemist](https://github.com/gtiersma/Simple_Mod_Alchemist) - Simple Mod Alchemist; a mod-management homebrew app for the Nintendo Switch
 - [SegFault42/BackupNX](https://github.com/SegFault42/BackupNX) - Nintendo switch Homebrew to backup files in cloud
@@ -3184,7 +3185,7 @@
 - [allecsc/Stremio-Kai](https://github.com/allecsc/Stremio-Kai) - A refined all-in-one Stremio build for premium viewing: modern UI with enhanced metadata, intro skipping, smart automation and optional enhancements—all optimized for modest hardware.
 - [Fxy6969/Stremio-Glass-Theme](https://github.com/Fxy6969/Stremio-Glass-Theme) - 
 - [LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass) - LSPass: Bypass restrictions on non-SDK interfaces
-- [GBALATRO/balatro-gba](https://github.com/GBALATRO/balatro-gba) - 
+- [GBALATRO/balatro-gba](https://github.com/GBALATRO/balatro-gba) - A demake of Balatro for the GBA
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [C0C0B01/Kettu](https://github.com/C0C0B01/Kettu) - A Discord mobile app client modification continuing Bunny's mission  NOTICE: this is a mirror of the codeberg repository, please make all PRs and Issues there
 - [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) - Kernel-based Android Root Solution & KPM
