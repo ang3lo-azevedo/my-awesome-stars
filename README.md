@@ -677,6 +677,7 @@
 
 ## awesome-list 
 
+- [ardianta/anime-for-dev](https://github.com/ardianta/anime-for-dev) - A curated list of animes every developer should watch.
 - [miantiao-me/awesome-homelab](https://github.com/miantiao-me/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
 - [pe3zx/my-infosec-awesome](https://github.com/pe3zx/my-infosec-awesome) - My curated list of awesome links, resources and tools on infosec related topics
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
@@ -1609,6 +1610,7 @@
 
 ## hacktoberfest 
 
+- [ardianta/anime-for-dev](https://github.com/ardianta/anime-for-dev) - A curated list of animes every developer should watch.
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
@@ -2830,7 +2832,7 @@
 - [Asymons/stremio-account-manager](https://github.com/Asymons/stremio-account-manager) - 
 - [Stremio/stremio-history-sync](https://github.com/Stremio/stremio-history-sync) - 
 - [sofoxe1/OyasumiVR](https://github.com/sofoxe1/OyasumiVR) - 🥽 VR Sleeping Utilities
-- [Cosm-gedenke/Web-Exploitation-classes-secSTT-26](https://github.com/Cosm-gedenke/Web-Exploitation-classes-secSTT-26) - the collection of classes and challenges used for the teaching of Web exploitation for the CTF IST team SecTT
+- [Cosm-gedenke/Web-Exploitation-classes-secTT-26](https://github.com/Cosm-gedenke/Web-Exploitation-classes-secTT-26) - the collection of classes and challenges used for the teaching of Web exploitation for the CTF IST team SecTT
 - [Pong-Development/device_nothing_Pong](https://github.com/Pong-Development/device_nothing_Pong) - About Device tree for Nothing Phone (2)
 - [VoltageOS/vendor_voltage-priv_keys](https://github.com/VoltageOS/vendor_voltage-priv_keys) - 
 - [VoltageOS/voltage_signatures-scripts](https://github.com/VoltageOS/voltage_signatures-scripts) - 
@@ -3580,7 +3582,7 @@
 - [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) - HyDE, your Development Environment 🖥️💻
 - [cyb3rgh0u1/Crimson-Blade](https://github.com/cyb3rgh0u1/Crimson-Blade) - A striking fusion of sharp elegance, cutting through the darkness with bold hues.
 - [coderabbitai/dotfiles](https://github.com/coderabbitai/dotfiles) - A modern Zsh/tmux, Vim and Homebrew centric setup for macOS and Linux
-- [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays) - Output management utility for sway and Hyprland.
+- [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays) - Output management utility for sway, Hyprland and Niri
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [catppuccin/zen-browser](https://github.com/catppuccin/zen-browser) - 🧘‍♂️ Soothing pastel theme for Zen Browser
 - [sudoharun/dotfiles](https://github.com/sudoharun/dotfiles) - Another Arch Linux + Hyprland Configuration
@@ -4331,7 +4333,7 @@
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
 - [Nokse22/high-tide](https://github.com/Nokse22/high-tide) - Libadwaita TIDAL client for Linux
-- [Jman-Github/ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) - Automatically aggregates alternative ReVanced patch and integration repositories into JSON files to import into the ReVanced Manager Compose.
+- [Jman-Github/ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) - Automatically aggregates alternative ReVanced & Morphe patch bundles into JSON files to import into the ReVanced & Morphe Managers.
 - [Woahai321/list-sync](https://github.com/Woahai321/list-sync) - ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management. https://discord.gg/Dy5xNzEHKw
 - [jensb89/trakt---letterboxd-import](https://github.com/jensb89/trakt---letterboxd-import) - Import Letterboxd movie list (diary) into trakt.tv
 - [volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility 3.0 development
