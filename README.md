@@ -1610,6 +1610,7 @@
 
 ## hacktoberfest 
 
+- [swisskyrepo/SSRFmap](https://github.com/swisskyrepo/SSRFmap) - Automatic SSRF fuzzer and exploitation tool
 - [ardianta/anime-for-dev](https://github.com/ardianta/anime-for-dev) - A curated list of animes every developer should watch.
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
@@ -2006,6 +2007,7 @@
 
 ## linux 
 
+- [trailofbits/mquire](https://github.com/trailofbits/mquire) - Zero-dependency Linux memory forensics PoC — leverages kernel-embedded BTF and kallsyms for type-aware memory analysis without external debug info.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [bakustarver/rpgmakermlinux-cicpoffs](https://github.com/bakustarver/rpgmakermlinux-cicpoffs) - Run any RPG Maker XP, VX, VX Ace, MV, MZ, TyranoBuilder, Godot, Construct 2/3, Nscripter game on linux natively
@@ -2912,7 +2914,6 @@
 - [Zhoros/Torranor](https://github.com/Zhoros/Torranor) - Download torrents DIRECTLY from your web browser, no torrent client needed!
 - [denful/import-tree](https://github.com/denful/import-tree) - Import all nix files in a directory tree.
 - [nix-community/haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for Nix [maintainer=@figsoda]
-- [Mistyttm/nixpkgs-extra](https://github.com/Mistyttm/nixpkgs-extra) - Some extra packages I make for myself that I don't feel like upstreaming atm
 - [dmcke5/DIY_VR_Controllers](https://github.com/dmcke5/DIY_VR_Controllers) - A set of 3d Printed wireless controllers for use with the HadesVR ecosystem!
 - [AhmetCanArslan/ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) - Lightweight, no vpn firewall solution for Android 11+
 - [pyrohost/pyrodactyl](https://github.com/pyrohost/pyrodactyl) - Pyrodactyl is the Pterodactyl-based game server panel that's faster, smaller, safer, and more accessible than Pelican.
@@ -4548,6 +4549,7 @@
 
 ## rust 
 
+- [trailofbits/mquire](https://github.com/trailofbits/mquire) - Zero-dependency Linux memory forensics PoC — leverages kernel-embedded BTF and kallsyms for type-aware memory analysis without external debug info.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
@@ -4727,6 +4729,7 @@
 
 ## sql 
 
+- [trailofbits/mquire](https://github.com/trailofbits/mquire) - Zero-dependency Linux memory forensics PoC — leverages kernel-embedded BTF and kallsyms for type-aware memory analysis without external debug info.
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
