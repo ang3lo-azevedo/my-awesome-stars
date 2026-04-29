@@ -31,6 +31,7 @@
 - [bugbounty](#bugbounty)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
@@ -787,6 +788,10 @@
 - [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [strato-emu/strato](https://github.com/strato-emu/strato) - Run Nintendo Switch homebrew & games on your Android device!
+
+## c-sharp 
+
+- [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 
 ## chatbot 
 
@@ -2590,6 +2595,11 @@
 
 ## others 
 
+- [MySelly/vendor_nothing_Spacewar](https://github.com/MySelly/vendor_nothing_Spacewar) - 
+- [kleidione/hardware_dolby](https://github.com/kleidione/hardware_dolby) - 
+- [StudioKeys-Dumps/packages_apps_ParanoidGlyph](https://github.com/StudioKeys-Dumps/packages_apps_ParanoidGlyph) - 
+- [kleidione/vendor_nothing_Spacewar](https://github.com/kleidione/vendor_nothing_Spacewar) - 
+- [ang3lo-azevedo/TV](https://github.com/ang3lo-azevedo/TV) - 
 - [qwertyuiop8899/SelfStream](https://github.com/qwertyuiop8899/SelfStream) - 
 - [qwertyuiop8899/TV](https://github.com/qwertyuiop8899/TV) - 
 - [vmos-dev/open-vmos-aosp_5.1](https://github.com/vmos-dev/open-vmos-aosp_5.1) - 
@@ -2640,7 +2650,6 @@
 - [the-nnn-stack/the-nnn-stack.github.io](https://github.com/the-nnn-stack/the-nnn-stack.github.io) - NixOS + Niri + Noctalia. Three letters, zero compromise.
 - [SthrNilshaaa/package_apps_nglyph](https://github.com/SthrNilshaaa/package_apps_nglyph) - The New Nothing Phone 1 Glyph Manager
 - [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
-- [WinlatorXR/GameNative](https://github.com/WinlatorXR/GameNative) - Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
 - [0xGF/boneyard](https://github.com/0xGF/boneyard) - Auto generated skeleton loading framework
 - [Equicord/Equibored](https://github.com/Equicord/Equibored) - Central repository storing plugin metadata, custom badges, and developer information for Equicord
 - [Stremio/libmpv2-rs](https://github.com/Stremio/libmpv2-rs) - A libmpv abstraction written in rust that's easy to use and provides the ability to read next to all video and audio codecs.
@@ -2872,7 +2881,6 @@
 - [QuickHasaCat/leetFeedback-extension](https://github.com/QuickHasaCat/leetFeedback-extension) - Chrome Extension for traverse
 - [lqSky7/leetFeedback-extension](https://github.com/lqSky7/leetFeedback-extension) - A fully automated chrome extension integrating all major DSA learning platforms and making learning easier for everyone.                                                   This is a part of Traverse Ec
 - [ang3lo-azevedo/noogle-magisk-playstore](https://github.com/ang3lo-azevedo/noogle-magisk-playstore) - Default noodle-magisk with added modded Play Store
-- [nin0-dev/VendroidEnhanced](https://github.com/nin0-dev/VendroidEnhanced) - VendroidEnhanced is a fork of Vendroid, a custom client for Discord that loads the mobile website and injects Vencord, the cutest client mod.
 - [sunmeplz/xray-3x-ui](https://github.com/sunmeplz/xray-3x-ui) - NixOS module for 3x-ui Xray panel
 - [DaViDev985/device_nothing_Spacewar](https://github.com/DaViDev985/device_nothing_Spacewar) - New DerpFest device tree for Nothing Phone (1) (Spacewar). Forked from LineageOS. ⚠️ Force push warning
 - [rxappdev/MouseTiler](https://github.com/rxappdev/MouseTiler) - The fastest, simplest tiler for KDE Plasma 6+ that gives you full freedom at your fingertip. No need to remember dozens of keyboard shortcuts or be limited by a fixed tile layout.
@@ -3766,7 +3774,7 @@
 - [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles) - 
 - [typecraft-dev/dotfiles](https://github.com/typecraft-dev/dotfiles) - 
 - [scottyab/rootbeer](https://github.com/scottyab/rootbeer) - Simple to use root checking Android library and sample app
-- [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
+- [cursor/cursor](https://github.com/cursor/cursor) - 
 - [cjbassi/config](https://github.com/cjbassi/config) - 
 - [kamlendras/waybar-macos-sequoia](https://github.com/kamlendras/waybar-macos-sequoia) - macOS 15 Sequoia-inspired design
 - [ch4xer/hyprland](https://github.com/ch4xer/hyprland) - hyprland configuration
