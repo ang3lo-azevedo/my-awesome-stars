@@ -273,6 +273,7 @@
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
+- [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Any model. Every tool. Zero limits.
 - [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 200+ FREE coding LLM models across 20+ providers in real time
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
@@ -571,7 +572,7 @@
 - [voidptrx/dotfiles](https://github.com/voidptrx/dotfiles) - .files
 - [haxibami/dotfiles](https://github.com/haxibami/dotfiles) - my environment
 - [cxOrz/dotfiles-hyprland](https://github.com/cxOrz/dotfiles-hyprland) - Hyprland dotfiles with ChromeOS style for Archlinux. Install with a simple script.
-- [AlexvZyl/.dotfiles](https://github.com/AlexvZyl/.dotfiles) - 🗃️ Configuration files/scripts for NixOS, Neovim, Tmux and friends.
+- [AlexvZyl/.dotfiles-archive](https://github.com/AlexvZyl/.dotfiles-archive) - 🗃️ Configuration files/scripts for NixOS, Neovim, Tmux and friends.
 - [tabbeddev/arch-tui-installer](https://github.com/tabbeddev/arch-tui-installer) - An easy-to-use TUI installer for Archlinux for beginners
 - [classy-giraffe/easy-arch](https://github.com/classy-giraffe/easy-arch) - Script for boostrapping Arch Linux with BTRFS, snapshots and LUKS encryption (UEFI only).
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
@@ -860,6 +861,7 @@
 - [bakustarver/rpgmakermlinux-cicpoffs](https://github.com/bakustarver/rpgmakermlinux-cicpoffs) - Run any RPG Maker XP, VX, VX Ace, MV, MZ, TyranoBuilder, Godot, Construct 2/3, Nscripter game on linux natively
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
+- [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Any model. Every tool. Zero limits.
 - [viu-media/viu](https://github.com/viu-media/viu) - Your browser anime experience from the terminal
 - [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - Forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
 - [e-tho/pwmenu](https://github.com/e-tho/pwmenu) - Launcher-driven audio manager for Linux
@@ -902,6 +904,7 @@
 
 ## coding 
 
+- [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Any model. Every tool. Zero limits.
 - [toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding) - All things livecoding
 
 ## command-line 
@@ -1221,7 +1224,7 @@
 - [Spelljinxer/dotfiles](https://github.com/Spelljinxer/dotfiles) - Hyprland Config Files
 - [cxOrz/dotfiles-hyprland](https://github.com/cxOrz/dotfiles-hyprland) - Hyprland dotfiles with ChromeOS style for Archlinux. Install with a simple script.
 - [AmitGolden/dotfiles](https://github.com/AmitGolden/dotfiles) - AmitGold's catppuccin dotfiles!
-- [AlexvZyl/.dotfiles](https://github.com/AlexvZyl/.dotfiles) - 🗃️ Configuration files/scripts for NixOS, Neovim, Tmux and friends.
+- [AlexvZyl/.dotfiles-archive](https://github.com/AlexvZyl/.dotfiles-archive) - 🗃️ Configuration files/scripts for NixOS, Neovim, Tmux and friends.
 - [yorunoken/dotfiles](https://github.com/yorunoken/dotfiles) - dotfiles for different systems I use
 - [NotAShelf/dotfiles](https://github.com/NotAShelf/dotfiles) - A repository for (mostly) everything that starts with a dot on my Arch Linux systems.
 - [sadiksaifi/dotfiles](https://github.com/sadiksaifi/dotfiles) - Arch Linux dotfiles.
@@ -2113,7 +2116,7 @@
 - [Spelljinxer/dotfiles](https://github.com/Spelljinxer/dotfiles) - Hyprland Config Files
 - [AmitGolden/dotfiles](https://github.com/AmitGolden/dotfiles) - AmitGold's catppuccin dotfiles!
 - [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
-- [AlexvZyl/.dotfiles](https://github.com/AlexvZyl/.dotfiles) - 🗃️ Configuration files/scripts for NixOS, Neovim, Tmux and friends.
+- [AlexvZyl/.dotfiles-archive](https://github.com/AlexvZyl/.dotfiles-archive) - 🗃️ Configuration files/scripts for NixOS, Neovim, Tmux and friends.
 - [tabbeddev/arch-tui-installer](https://github.com/tabbeddev/arch-tui-installer) - An easy-to-use TUI installer for Archlinux for beginners
 - [classy-giraffe/easy-arch](https://github.com/classy-giraffe/easy-arch) - Script for boostrapping Arch Linux with BTRFS, snapshots and LUKS encryption (UEFI only).
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
@@ -2430,7 +2433,7 @@
 - [mikavilpas/yazi.nvim](https://github.com/mikavilpas/yazi.nvim) - A Neovim Plugin for the yazi terminal file manager
 - [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
 - [AmitGolden/dotfiles](https://github.com/AmitGolden/dotfiles) - AmitGold's catppuccin dotfiles!
-- [AlexvZyl/.dotfiles](https://github.com/AlexvZyl/.dotfiles) - 🗃️ Configuration files/scripts for NixOS, Neovim, Tmux and friends.
+- [AlexvZyl/.dotfiles-archive](https://github.com/AlexvZyl/.dotfiles-archive) - 🗃️ Configuration files/scripts for NixOS, Neovim, Tmux and friends.
 - [latipun7/dotfiles](https://github.com/latipun7/dotfiles) - 🏡 Home sweet ~/.
 - [vernette/hyprsnap](https://github.com/vernette/hyprsnap) - ⚡ Dynamic Hyprland dotfiles for Arch Linux
 
@@ -2649,7 +2652,6 @@
 - [RookieEnough/De-ReVanced](https://github.com/RookieEnough/De-ReVanced) - De-ReVanced exists because the old way started getting frustrating, so I migrated everything to Morphe and turned it into a better, cleaner place to keep the experience alive.
 - [the-nnn-stack/the-nnn-stack.github.io](https://github.com/the-nnn-stack/the-nnn-stack.github.io) - NixOS + Niri + Noctalia. Three letters, zero compromise.
 - [SthrNilshaaa/package_apps_nglyph](https://github.com/SthrNilshaaa/package_apps_nglyph) - The New Nothing Phone 1 Glyph Manager
-- [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 - [0xGF/boneyard](https://github.com/0xGF/boneyard) - Auto generated skeleton loading framework
 - [Equicord/Equibored](https://github.com/Equicord/Equibored) - Central repository storing plugin metadata, custom badges, and developer information for Equicord
 - [Stremio/libmpv2-rs](https://github.com/Stremio/libmpv2-rs) - A libmpv abstraction written in rust that's easy to use and provides the ability to read next to all video and audio codecs.
@@ -2949,7 +2951,7 @@
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [kanaodnd/Stellar-Tweaks](https://github.com/kanaodnd/Stellar-Tweaks) - Performance module, focused on making the phone better, with some tweaks specifically for all types of soc. Ai-assisted module, changes modes when playing games
 - [oo8dev/wayvr-dashboard](https://github.com/oo8dev/wayvr-dashboard) - Launch your favorite desktop applications and games seamlessly within your VR environment (wlx-overlay-s addon)
-- [chaosmaou/wivrn-guide](https://github.com/chaosmaou/wivrn-guide) - A comprehensive guide to Linux VR on standalone headsets using WiVRn.
+- [chaosdvorak/wivrn-guide](https://github.com/chaosdvorak/wivrn-guide) - A comprehensive guide to Linux VR on standalone headsets using WiVRn.
 - [Frogging-Family/community-patches](https://github.com/Frogging-Family/community-patches) - A place to find patches that are maintained by the community before myself
 - [wiiznokes/gitnote](https://github.com/wiiznokes/gitnote) - Android note app with real file. Can be sync with git providers such as Github
 - [AbdurazaaqMohammed/InjectDocumentsProvider](https://github.com/AbdurazaaqMohammed/InjectDocumentsProvider) - Access Android/data and all data files of an Android app without any permissions
