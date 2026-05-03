@@ -348,7 +348,6 @@
 - [rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE) - BRENE - A SuSFS/KernelSU module for SuSFS patched kernels
 - [rajmani7584/Payload-Dumper-Android](https://github.com/rajmani7584/Payload-Dumper-Android) - Payload Dumper App for Android. Extract boot.img or any other partitions (images) from OTA.zip or payload.bin without PC
 - [TheROMMER/core](https://github.com/TheROMMER/core) - A powerful tool designed to customize Android ROM ZIP files without building from source.
-- [particle-box/PurrfectSnap](https://github.com/particle-box/PurrfectSnap) - PurrfectSnap: Enhance your Snapchat Experience!
 - [Nandanrmenon/florid](https://github.com/Nandanrmenon/florid) - F-Droid Client
 - [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
 - [mlm-games/flicky](https://github.com/mlm-games/flicky) - Yet Another FDroid Client (wide screen / TV friendly)
@@ -2369,7 +2368,6 @@
 ## mobile 
 
 - [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) - A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites)
-- [particle-box/PurrfectSnap](https://github.com/particle-box/PurrfectSnap) - PurrfectSnap: Enhance your Snapchat Experience!
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [LeNerd46/beautiful-lyrics-mobile](https://github.com/LeNerd46/beautiful-lyrics-mobile) - A port of beautiful-lyrics by surfbryce to Android
 - [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) - 📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with Syncplay PC. Fully written in Kotlin and Compose multiplatform.
@@ -2601,6 +2599,7 @@
 
 ## others 
 
+- [afsc19/email-resender](https://github.com/afsc19/email-resender) - A Cloudflare Worker script that acts as an email proxy to send emails from your custom domain at ease.
 - [Kikols17/Kutils](https://github.com/Kikols17/Kutils) - 
 - [Siegema/nix-steam](https://github.com/Siegema/nix-steam) - Nix Steam System
 - [different-name/steam-config-nix](https://github.com/different-name/steam-config-nix) - Manage Steam launch options and compatibility tools declaratively through Home Manager
