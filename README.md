@@ -1013,6 +1013,7 @@
 
 ## cybersecurity 
 
+- [THORCollective/threat-hunting-mcp-server](https://github.com/THORCollective/threat-hunting-mcp-server) - A minimal, modular MCP server that equips your AI with practical capabilities for real-world threat hunting workflows.
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
 - [mukul975/cve-mcp-server](https://github.com/mukul975/cve-mcp-server) - Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more.
 - [SpectrixDev/DIY_WhisperPair](https://github.com/SpectrixDev/DIY_WhisperPair) - Hijacking Bluetooth Accessories Using Google Fast Pair: WhisperPair CVE-2025-36911 Reference Implementation & Vulnerability Verification Toolkit
@@ -2610,6 +2611,7 @@
 
 ## others 
 
+- [AntonioAlves6/The-Witcher-Interactive-Fiction](https://github.com/AntonioAlves6/The-Witcher-Interactive-Fiction) - 
 - [kalmek3nny/KallmeXposed](https://github.com/kalmek3nny/KallmeXposed) - ReVanced LSPosed module used as the base, added new features to prevent logouts
 - [MachinaIO/diamond-io](https://github.com/MachinaIO/diamond-io) - Diamond iO implementation https://eprint.iacr.org/2025/236
 - [brahmkshatriya/echo-spotify-extension](https://github.com/brahmkshatriya/echo-spotify-extension) - Spotify on Echo
@@ -2762,7 +2764,7 @@
 - [nooesc/git-mux](https://github.com/nooesc/git-mux) - wip , a terminal UI dashboard for GitHub. Browse your repos, view commit history, PRs, issues, CI status, and contribution stats
 - [davbo/active-cve-check](https://github.com/davbo/active-cve-check) - Script to check an installed packages list against the ubuntu-cve-tracker
 - [ACreTeam/forest](https://github.com/ACreTeam/forest) - PC Port of Animal Crossing
-- [sonicdcer/MarioKart64Recomp](https://github.com/sonicdcer/MarioKart64Recomp) - Recompilation of Mario Kart 64
+- [sonicdcer/MarioKart64Recomp](https://github.com/sonicdcer/MarioKart64Recomp) - Mario Kart 64 for PC (Windows/Linux/MacOS)
 - [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) - I have spaghetti, now i just need a kart
 - [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
 - [mariopartyrd/marioparty4](https://github.com/mariopartyrd/marioparty4) - 
@@ -4353,6 +4355,7 @@
 
 ## python 
 
+- [THORCollective/threat-hunting-mcp-server](https://github.com/THORCollective/threat-hunting-mcp-server) - A minimal, modular MCP server that equips your AI with practical capabilities for real-world threat hunting workflows.
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [mukul975/cve-mcp-server](https://github.com/mukul975/cve-mcp-server) - Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more.
