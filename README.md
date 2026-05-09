@@ -2631,6 +2631,7 @@
 
 ## others 
 
+- [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) - 
 - [L1v1ng0ffTh3L4N/EdgeSavedPasswordsDumper](https://github.com/L1v1ng0ffTh3L4N/EdgeSavedPasswordsDumper) - Proof of concept to show that Edge stores credentials in cleartext
 - [AntonioAlves6/The-Witcher-Interactive-Fiction](https://github.com/AntonioAlves6/The-Witcher-Interactive-Fiction) - 
 - [kalmek3nny/KallmeXposed](https://github.com/kalmek3nny/KallmeXposed) - ReVanced LSPosed module used as the base, added new features to prevent logouts
@@ -4057,7 +4058,6 @@
 - [C0Assassin/rb4-to-rb2](https://github.com/C0Assassin/rb4-to-rb2) - Complete recreation of Rock Band 4's venues/animations/lipsyncing in Rock Band 2's midi/milo format.
 - [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
 - [sinbad/lfs-folderstore](https://github.com/sinbad/lfs-folderstore) - git-lfs custom transfer adapter which simply uses a folder as the remote LFS media store (e.g. a shared NAS folder)
-- [namazso/OpenHashTab](https://github.com/namazso/OpenHashTab) - 📝 File hashing and checking shell extension
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [FrameworkComputer/ExpansionBay](https://github.com/FrameworkComputer/ExpansionBay) - CAD and documentation for the Expansion Bay module system in the Framework Laptop 16
 - [redsigma/UPMetroSkin](https://github.com/redsigma/UPMetroSkin) - This non-official addon for Metro for Steam fixes bugs with the current version and adds optional content for you to choose from.
