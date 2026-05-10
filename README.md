@@ -2370,6 +2370,7 @@
 
 ## minecraft 
 
+- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [ChimeraGaming/Chromium-Based-Web-Extensions](https://github.com/ChimeraGaming/Chromium-Based-Web-Extensions) - Building cool stuff for Chrome, Brave, Edge, and friends that I wanted but couldn't find - extensions that actually help.
 - [cobalt2727/L4T-Megascript](https://github.com/cobalt2727/L4T-Megascript) - All-in-one installer and updater for popular programs on L4T Ubuntu/Fedora with no prior knowledge of Linux needed
 - [Ketbome/hytalepanel](https://github.com/Ketbome/hytalepanel) - Docker image for Hytale dedicated server with web panel. Easy setup, auto-download, real-time console.
@@ -2658,7 +2659,7 @@
 - [qwertyuiop8899/SelfStream](https://github.com/qwertyuiop8899/SelfStream) - 
 - [qwertyuiop8899/TV](https://github.com/qwertyuiop8899/TV) - 
 - [vmos-dev/open-vmos-aosp_5.1](https://github.com/vmos-dev/open-vmos-aosp_5.1) - 
-- [goliveira32/flake](https://github.com/goliveira32/flake) - My personal NixOS Flake.
+- [goliveira32/flake](https://github.com/goliveira32/flake) - My personal NixOS flake.
 - [Mastermindzh/tidal-hifi](https://github.com/Mastermindzh/tidal-hifi) - The web version of Tidal running in electron with hifi support thanks to widevine.
 - [redlib-org/redlib-instances](https://github.com/redlib-org/redlib-instances) - 
 - [intel/ipu6-camera-hal](https://github.com/intel/ipu6-camera-hal) - 
@@ -2701,7 +2702,7 @@
 - [TorBox-App/torbox-tinfoil-server](https://github.com/TorBox-App/torbox-tinfoil-server) - The TorBox Tinfoil Server allows you to download torrents directly through Tinfoil using TorBox.
 - [ang3lo-azevedo/samsung-galaxy-book-linux-fixes](https://github.com/ang3lo-azevedo/samsung-galaxy-book-linux-fixes) - Linux fixes for Samsung Galaxy Book 3, 4 & 5 — webcam, speakers, microphone, and more
 - [marques-jpg/dotfiles](https://github.com/marques-jpg/dotfiles) - My personal dotfiles. WIP
-- [RookieEnough/De-ReVanced](https://github.com/RookieEnough/De-ReVanced) - De-ReVanced exists because the old way started getting frustrating, so I migrated everything to Morphe and turned it into a better, cleaner place to keep the experience alive.
+- [RookieEnough/De-Vanced](https://github.com/RookieEnough/De-Vanced) - De-Vanced exists because the old way started getting frustrating, so I migrated everything to Morphe and turned it into a better, cleaner place to keep the experience alive.
 - [the-nnn-stack/the-nnn-stack.github.io](https://github.com/the-nnn-stack/the-nnn-stack.github.io) - NixOS + Niri + Noctalia. Three letters, zero compromise.
 - [SthrNilshaaa/package_apps_nglyph](https://github.com/SthrNilshaaa/package_apps_nglyph) - The New Nothing Phone 1 Glyph Manager
 - [0xGF/boneyard](https://github.com/0xGF/boneyard) - Auto generated skeleton loading framework
@@ -4285,7 +4286,7 @@
 
 ## privacy 
 
-- [mubashardev/WaEnhancerX](https://github.com/mubashardev/WaEnhancerX) - WhatsApp tools for Android
+- [mubashardev/WaEnhancerX](https://github.com/mubashardev/WaEnhancerX) - 1. WaEnhancer X | WhatsApp tools for Android
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [pritkr/predirect](https://github.com/pritkr/predirect) - A manifest v3 web extension with minimal permissions to automatically redirect to privacy friendly frontends. ⭐️ Star to support our work!
 - [0xXyc/SwizGuard](https://github.com/0xXyc/SwizGuard) - A self-hosted "Stealth VPN" implementation, forked from xray-core and WireGuard. It makes your traffic look like normal TLS traffic but little does your ISP know there is an entire encrypted WireGuard
@@ -4613,6 +4614,7 @@
 
 ## rust 
 
+- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
 - [trailofbits/mquire](https://github.com/trailofbits/mquire) - Zero-dependency Linux memory forensics PoC — leverages kernel-embedded BTF and kallsyms for type-aware memory analysis without external debug info.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
