@@ -1152,6 +1152,7 @@
 
 ## docker 
 
+- [I-am-PUID-0/DUMB](https://github.com/I-am-PUID-0/DUMB) - Debrid Unlimited Media Bridge
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
@@ -1810,6 +1811,7 @@
 
 ## instagram 
 
+- [megadose/ignorant](https://github.com/megadose/ignorant) - ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.
 - [MobileFirstLLC/social-media-hacker-list](https://github.com/MobileFirstLLC/social-media-hacker-list) - Growing list of apps and tools for enhancing social media experiences.
 - [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram) - 🧘 An updatable, open source Instagram app for Android without distractions.
 - [Xposed-Modules-Repo/ps.reso.instaeclipse](https://github.com/Xposed-Modules-Repo/ps.reso.instaeclipse) - InstaEclipse
@@ -2613,6 +2615,7 @@
 
 ## osint 
 
+- [megadose/ignorant](https://github.com/megadose/ignorant) - ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.
 - [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [projectdiscovery/asnmap](https://github.com/projectdiscovery/asnmap) - Go CLI and Library for quickly mapping organization network ranges using ASN information.
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
@@ -2632,6 +2635,9 @@
 
 ## others 
 
+- [bashar0151/guides](https://github.com/bashar0151/guides) - User guides for various applicaitons
+- [FrancescoGrazioso/Meld](https://github.com/FrancescoGrazioso/Meld) - YouTube Music client for Android with Spotify integrations
+- [curious-freak/Purrfect](https://github.com/curious-freak/Purrfect) - 
 - [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) - 
 - [L1v1ng0ffTh3L4N/EdgeSavedPasswordsDumper](https://github.com/L1v1ng0ffTh3L4N/EdgeSavedPasswordsDumper) - Proof of concept to show that Edge stores credentials in cleartext
 - [AntonioAlves6/The-Witcher-Interactive-Fiction](https://github.com/AntonioAlves6/The-Witcher-Interactive-Fiction) - 
@@ -3337,7 +3343,7 @@
 - [Xposed-Modules-Repo/ru.mike.mapstweaks](https://github.com/Xposed-Modules-Repo/ru.mike.mapstweaks) - Maps tweaks
 - [ang3lo-azevedo/AIOStreams-config](https://github.com/ang3lo-azevedo/AIOStreams-config) - This is a custom AIOStreams configuration for Stremio, optimized for Portuguese and English content with a focus on high quality. The configuration uses Real-Debrid as the primary debrid service and i
 - [danilopagotto82/stremio-assistido-trakt-addon](https://github.com/danilopagotto82/stremio-assistido-trakt-addon) - Complemento Stremio que mostra Assistido do Trakt nos Cartões informativos (Handy Cards)
-- [Pigamer37/letterboxd-stremio-addon](https://github.com/Pigamer37/letterboxd-stremio-addon) - Node.js addon trying to sync watched movies on Stremio with Letterboxd activity. (I'm new to backend so I'm using it as a learning experience)
+- [Pigamer37/letterboxd-stremio-addon](https://github.com/Pigamer37/letterboxd-stremio-addon) - Node.js addon trying to sync watched movies on Stremio with Letterboxd activity. (Abandoned: use https://github.com/esp4ce/stremio-letterboxd-addon instead)
 - [danilopagotto82/addon-assistido-stremio](https://github.com/danilopagotto82/addon-assistido-stremio) - 
 - [AndreGraca3/TugaFlix](https://github.com/AndreGraca3/TugaFlix) - Addon do Stremio para streaming de filmes em PT-PT
 - [qwertyuiop8899/tvvoo](https://github.com/qwertyuiop8899/tvvoo) - DockerHub Image qwertyuiop8899/tvvoo:latest
@@ -4268,6 +4274,7 @@
 
 ## postgresql 
 
+- [I-am-PUID-0/DUMB](https://github.com/I-am-PUID-0/DUMB) - Debrid Unlimited Media Bridge
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
@@ -4377,6 +4384,7 @@
 
 ## python 
 
+- [megadose/ignorant](https://github.com/megadose/ignorant) - ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.
 - [THORCollective/threat-hunting-mcp-server](https://github.com/THORCollective/threat-hunting-mcp-server) - A minimal, modular MCP server that equips your AI with practical capabilities for real-world threat hunting workflows.
 - [Cxsmo-ai/Ascend-Media-RPC](https://github.com/Cxsmo-ai/Ascend-Media-RPC) - Ascend Media RPC is a Discord RPC and Auto Intro Skip Windows GUI for Stremio/Wako Android TV
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
