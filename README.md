@@ -328,6 +328,9 @@
 
 ## android 
 
+- [AntarcDev/Kura](https://github.com/AntarcDev/Kura) - 蔵 Kura: A modern, native Android client for Kemono
+- [Helandy/Kemonos](https://github.com/Helandy/Kemonos) - Unofficial Android client for kemono and coomer
+- [rawnaldclark/Stash](https://github.com/rawnaldclark/Stash) - Your Spotify + YouTube Music library & daily mixes, offline in lossless FLAC. Free and open source forever.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
@@ -1865,6 +1868,7 @@
 
 ## java 
 
+- [AntarcDev/Kura](https://github.com/AntarcDev/Kura) - 蔵 Kura: A modern, native Android client for Kemono
 - [teekamsuthar/Mutify](https://github.com/teekamsuthar/Mutify) - An android app built with java to mute Spotify ads.
 - [weavechain/threshold-sig](https://github.com/weavechain/threshold-sig) - Java Implementation of Threshold Signatures using Ed25519
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
@@ -1932,6 +1936,8 @@
 
 ## jetpack-compose 
 
+- [AntarcDev/Kura](https://github.com/AntarcDev/Kura) - 蔵 Kura: A modern, native Android client for Kemono
+- [rawnaldclark/Stash](https://github.com/rawnaldclark/Stash) - Your Spotify + YouTube Music library & daily mixes, offline in lossless FLAC. Free and open source forever.
 - [vishal2376/snaptick](https://github.com/vishal2376/snaptick) - Snaptick is an MVVM Jetpack Compose app, offering ad-free task management with a built-in pomodoro timer to help you organize your daily plans
 - [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Android feed reader app
 - [ycngmn/Nobook](https://github.com/ycngmn/Nobook) - Ad-free facebook lite for Android.
@@ -1969,6 +1975,8 @@
 
 ## kotlin 
 
+- [AntarcDev/Kura](https://github.com/AntarcDev/Kura) - 蔵 Kura: A modern, native Android client for Kemono
+- [rawnaldclark/Stash](https://github.com/rawnaldclark/Stash) - Your Spotify + YouTube Music library & daily mixes, offline in lossless FLAC. Free and open source forever.
 - [EchoMusicApp/Echo-Music](https://github.com/EchoMusicApp/Echo-Music) - A modern YouTube Music Client for Android with an ad-free experience, synced lyrics, and offline playback.
 - [premnirmal/StockTicker](https://github.com/premnirmal/StockTicker) - A resizable widget that shows your financial portfolio on your android home screen
 - [vishal2376/snaptick](https://github.com/vishal2376/snaptick) - Snaptick is an MVVM Jetpack Compose app, offering ad-free task management with a built-in pomodoro timer to help you organize your daily plans
@@ -2049,7 +2057,7 @@
 ## linux 
 
 - [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
-- [yelanxin/hiresTI](https://github.com/yelanxin/hiresTI) - hiresTI is a modern, high-fidelity TIDAL client for Linux
+- [yelanxin/hiresTI](https://github.com/yelanxin/hiresTI) - hiresTI is a modern, high-fidelity TIDAL client for Linux, designed for USB passthrough and bit-perfect playback.
 - [trailofbits/mquire](https://github.com/trailofbits/mquire) - Zero-dependency Linux memory forensics PoC — leverages kernel-embedded BTF and kallsyms for type-aware memory analysis without external debug info.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
@@ -2425,6 +2433,7 @@
 
 ## music 
 
+- [rawnaldclark/Stash](https://github.com/rawnaldclark/Stash) - Your Spotify + YouTube Music library & daily mixes, offline in lossless FLAC. Free and open source forever.
 - [EchoMusicApp/Echo-Music](https://github.com/EchoMusicApp/Echo-Music) - A modern YouTube Music Client for Android with an ad-free experience, synced lyrics, and offline playback.
 - [Aleks-Levet/better-nothing-music-visualizer](https://github.com/Aleks-Levet/better-nothing-music-visualizer) - This project improves the music visualisation on nothing phones with the help of SebiAi's glyph tools or a standalone android app! Why? Because the one that nothing made is not that good after all.
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
@@ -2447,7 +2456,7 @@
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
 - [tri2820/muer](https://github.com/tri2820/muer) - Self-hosted music player 🐧🎵
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
-- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature packed cross-platform music tracker for Last.fm, ListenBrainz, Libre.fm, Pleroma and other compatible services
+- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
@@ -2551,6 +2560,7 @@
 
 ## open-source 
 
+- [rawnaldclark/Stash](https://github.com/rawnaldclark/Stash) - Your Spotify + YouTube Music library & daily mixes, offline in lossless FLAC. Free and open source forever.
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
 - [nehirakbass/anime-filler-checker](https://github.com/nehirakbass/anime-filler-checker) - Browser extension that auto-detects anime filler episodes on any streaming site. Shows FILLER/CANON/MIXED badge directly on the page.
@@ -2638,6 +2648,7 @@
 
 ## others 
 
+- [jittarao/torbox-app](https://github.com/jittarao/torbox-app) - A modern, power-user focused alternative to the default TorBox UI. Built for speed and efficiency.
 - [bashar0151/guides](https://github.com/bashar0151/guides) - User guides for various applicaitons
 - [FrancescoGrazioso/Meld](https://github.com/FrancescoGrazioso/Meld) - YouTube Music client for Android with Spotify integrations
 - [curious-freak/Purrfect](https://github.com/curious-freak/Purrfect) - 
@@ -4539,7 +4550,7 @@
 - [MuhammedKpln/react-native-chatty](https://github.com/MuhammedKpln/react-native-chatty) - 💬 Full-featured high performance chat UI for React Native
 - [marcusfrdk/messages-clone](https://github.com/marcusfrdk/messages-clone) - This is a clone of the iOS messages app using React Native.
 - [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
-- [DiegoFleitas/letterboxd-movie-justwatch](https://github.com/DiegoFleitas/letterboxd-movie-justwatch) - Scan a Letterboxd watchlist, see what's streaming in your country - no JustWatch recommendations, optional alternative search.
+- [DiegoFleitas/letterboxd-movie-justwatch](https://github.com/DiegoFleitas/letterboxd-movie-justwatch) - Scan a Letterboxd watchlist and see what's streaming in your country. Without JustWatch recommendations and optional alternative search.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
@@ -4987,7 +4998,7 @@
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
-- [DiegoFleitas/letterboxd-movie-justwatch](https://github.com/DiegoFleitas/letterboxd-movie-justwatch) - Scan a Letterboxd watchlist, see what's streaming in your country - no JustWatch recommendations, optional alternative search.
+- [DiegoFleitas/letterboxd-movie-justwatch](https://github.com/DiegoFleitas/letterboxd-movie-justwatch) - Scan a Letterboxd watchlist and see what's streaming in your country. Without JustWatch recommendations and optional alternative search.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [ibttf/interview-coder](https://github.com/ibttf/interview-coder) - An invisible desktop application to help you pass your technical interviews.
@@ -5064,6 +5075,7 @@
 
 ## video 
 
+- [Helandy/Kemonos](https://github.com/Helandy/Kemonos) - Unofficial Android client for kemono and coomer
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
@@ -5274,6 +5286,7 @@
 
 ## youtube 
 
+- [rawnaldclark/Stash](https://github.com/rawnaldclark/Stash) - Your Spotify + YouTube Music library & daily mixes, offline in lossless FLAC. Free and open source forever.
 - [pritkr/predirect](https://github.com/pritkr/predirect) - A manifest v3 web extension with minimal permissions to automatically redirect to privacy friendly frontends. ⭐️ Star to support our work!
 - [MobileFirstLLC/social-media-hacker-list](https://github.com/MobileFirstLLC/social-media-hacker-list) - Growing list of apps and tools for enhancing social media experiences.
 - [noirscape/lennytube](https://github.com/noirscape/lennytube) - Youtube on the Nintendo Switch (NRO format).
