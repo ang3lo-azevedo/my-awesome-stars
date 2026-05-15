@@ -186,6 +186,7 @@
 - [powershell](#powershell)
 - [privacy](#privacy)
 - [productivity](#productivity)
+- [programming](#programming)
 - [programming-language](#programming-language)
 - [prompt-engineering](#prompt-engineering)
 - [pwa](#pwa)
@@ -1924,6 +1925,7 @@
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [heyseth/worm-sim](https://github.com/heyseth/worm-sim) - Simulate the C. Elegans worm brain in your browser and interact with the worm as it moves around
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
+- [braziljs/eloquente-javascript](https://github.com/braziljs/eloquente-javascript) - Tradução do livro "Eloquent JavaScript" 4ª edição, por Marijn Haverbeke
 - [riolubruh/YABDP4Nitro](https://github.com/riolubruh/YABDP4Nitro) - Yet Another BetterDiscord Plugin for Nitro features. Unlock screensharing modes, use cross-server and gif emotes and much more!
 
 ## jekyll 
@@ -2648,6 +2650,10 @@
 
 ## others 
 
+- [Inside4ndroid/M3U-XCAPI-EPG-IPTV-Stremio](https://github.com/Inside4ndroid/M3U-XCAPI-EPG-IPTV-Stremio) - A feature‑rich, configurable Stremio addon that ingests IPTV M3U playlists and optional EPG (XMLTV) guide data – with built‑in Xtream Codes API support, encrypted configuration tokens, caching (LRU + 
+- [kost/dvcs-ripper](https://github.com/kost/dvcs-ripper) - Rip web accessible (distributed) version control systems: SVN/GIT/HG...
+- [JohnHammond/ctf-katana](https://github.com/JohnHammond/ctf-katana) - This repository aims to hold suggestions (and hopefully/eventually code) for CTF challenges. The "project" is nicknamed Katana.
+- [DepthFirstDisclosures/Nginx-Rift](https://github.com/DepthFirstDisclosures/Nginx-Rift) - exploit for CVE-2026-42945
 - [DSmart33/Usenet-Ultimate](https://github.com/DSmart33/Usenet-Ultimate) - Modern Usenet addon for Stremio
 - [praveenjalasutram/Darkweb-Onion-Links](https://github.com/praveenjalasutram/Darkweb-Onion-Links) - This is a collection of important onion sites that you can leverage for Deepweb and Darkweb Monitoring
 - [Nightmare-Eclipse/GreenPlasma](https://github.com/Nightmare-Eclipse/GreenPlasma) - GreenPlasma Windows CTFMON Arbitrary Section Creation Elevation of Privileges Vulnerability
@@ -2689,7 +2695,7 @@
 - [intel/ipu6-camera-hal](https://github.com/intel/ipu6-camera-hal) - 
 - [swiitch-OFF-Lab/hardware_dolby](https://github.com/swiitch-OFF-Lab/hardware_dolby) - Sony Dolby, MIUI Dolby, Motorola Dolby
 - [cure53/Contracts](https://github.com/cure53/Contracts) - A small collection of potentially useful contract templates
-- [DevDude437/App-Compatibility-without-Google-Play-Services](https://github.com/DevDude437/App-Compatibility-without-Google-Play-Services) - A collection of apps tested that work without Google Play Services.
+- [DevDude437/App-Compatibility-without-Google-Play-Services](https://github.com/DevDude437/App-Compatibility-without-Google-Play-Services) - A website of apps tested that work without Google Play Services.
 - [xtremexq/StremioSubMaker](https://github.com/xtremexq/StremioSubMaker) - Stremio Subtitles addon, with multiple sub sources and BYOK AI translation
 - [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun) - The Red Sun vulnerability repository
 - [grayjay-sources/grayjay-sources.github.io](https://github.com/grayjay-sources/grayjay-sources.github.io) - Allows you to easily browse and install various GrayJay sources
@@ -4032,7 +4038,6 @@
 - [EDLLT/WSL2-Linux-Kernel](https://github.com/EDLLT/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [sh4tteredd/nothing-phone-1-tools](https://github.com/sh4tteredd/nothing-phone-1-tools) - A collection of scripts and stuff for the Nothing's first phone!
 - [Gistix/portal2vr](https://github.com/Gistix/portal2vr) - Portal 2 VR Mod
-- [braziljs/eloquente-javascript](https://github.com/braziljs/eloquente-javascript) - Tradução do livro Eloquent JavaScript - 2ª edição.
 - [isel-leic-ipw/2324i-IPW-LEIC32D](https://github.com/isel-leic-ipw/2324i-IPW-LEIC32D) - 
 - [matpato/reportisel](https://github.com/matpato/reportisel) - Template para relatório escrito em LaTex e Word
 - [isel-leic-tds/2324i.32d](https://github.com/isel-leic-tds/2324i.32d) - Código realizado nas aulas da turma LEIC32D de TDS no semestre 2023/2024 Inverno
@@ -4382,6 +4387,10 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
+
+## programming 
+
+- [braziljs/eloquente-javascript](https://github.com/braziljs/eloquente-javascript) - Tradução do livro "Eloquent JavaScript" 4ª edição, por Marijn Haverbeke
 
 ## programming-language 
 
@@ -5016,7 +5025,7 @@
 - [fizzexual/FakeDeafenVencord](https://github.com/fizzexual/FakeDeafenVencord) - [ WORKING / 14.03.26 ] Fake deafen on discord. You can listen to the others while they think you are deafen :) Enjoy!
 - [Aylur/ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+Gnim
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki
-- [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's private API, known as InnerTube.
+- [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's internal API, known as InnerTube.
 - [cheers-li/cheers-li-app](https://github.com/cheers-li/cheers-li-app) - If Beer With Me and BeReal had a child
 
 ## ubuntu 
@@ -5325,7 +5334,7 @@
 - [GoldDominik893/liberatube](https://github.com/GoldDominik893/liberatube) - Liberatube is a Privacy, Feature Rich alternative front end to YouTube.
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki
-- [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's private API, known as InnerTube.
+- [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's internal API, known as InnerTube.
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
