@@ -2650,6 +2650,12 @@
 
 ## others 
 
+- [wuplayapp/wuplay-releases](https://github.com/wuplayapp/wuplay-releases) - WuPlay for Android TV — releases and issue tracker
+- [Matroxt/one-pace-to-plex](https://github.com/Matroxt/one-pace-to-plex) - Guide to adapt One Pace releases to a format Plex can use
+- [haaihond/Trakt-Nuvio-Bridge](https://github.com/haaihond/Trakt-Nuvio-Bridge) - A web bridge for syncing Trakt watched history, playback progress, watchlist, and collection data into Nuvio Sync.
+- [ProdigyV21/ARVIO](https://github.com/ProdigyV21/ARVIO) - ARVIO - A media hub application for Android TV with a modern, beautiful interface.
+- [ParticularCatch449/Nuvio](https://github.com/ParticularCatch449/Nuvio) - Nuvio account and collections builder based off my TVFlix builder
+- [techuhak/Nuvio-Account-Manager](https://github.com/techuhak/Nuvio-Account-Manager) - 
 - [Inside4ndroid/M3U-XCAPI-EPG-IPTV-Stremio](https://github.com/Inside4ndroid/M3U-XCAPI-EPG-IPTV-Stremio) - A feature‑rich, configurable Stremio addon that ingests IPTV M3U playlists and optional EPG (XMLTV) guide data – with built‑in Xtream Codes API support, encrypted configuration tokens, caching (LRU + 
 - [kost/dvcs-ripper](https://github.com/kost/dvcs-ripper) - Rip web accessible (distributed) version control systems: SVN/GIT/HG...
 - [JohnHammond/ctf-katana](https://github.com/JohnHammond/ctf-katana) - This repository aims to hold suggestions (and hopefully/eventually code) for CTF challenges. The "project" is nicknamed Katana.
@@ -2675,7 +2681,7 @@
 - [Kikols17/Kutils](https://github.com/Kikols17/Kutils) - 
 - [Siegema/nix-steam](https://github.com/Siegema/nix-steam) - Nix Steam System
 - [different-name/steam-config-nix](https://github.com/different-name/steam-config-nix) - Manage Steam launch options and compatibility tools declaratively through Home Manager
-- [yesnt10/NuvioMobileDH](https://github.com/yesnt10/NuvioMobileDH) - Unofficial Nuvio Mobile Repository (DH Edition)
+- [yesnt10/NuvioYesnt](https://github.com/yesnt10/NuvioYesnt) - Unofficial Nuvio Mobile Repository (DH Edition)
 - [NuvioMedia/NuvioWeb](https://github.com/NuvioMedia/NuvioWeb) - Official Nuvio WebOS, TizenOS Repository
 - [NuvioMedia/NuvioTV](https://github.com/NuvioMedia/NuvioTV) - Official Nuvio Android TV Repository
 - [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) - Jellyfin Desktop Client
@@ -2693,7 +2699,7 @@
 - [Mastermindzh/tidal-hifi](https://github.com/Mastermindzh/tidal-hifi) - The web version of Tidal running in electron with hifi support thanks to widevine.
 - [redlib-org/redlib-instances](https://github.com/redlib-org/redlib-instances) - 
 - [intel/ipu6-camera-hal](https://github.com/intel/ipu6-camera-hal) - 
-- [swiitch-OFF-Lab/hardware_dolby](https://github.com/swiitch-OFF-Lab/hardware_dolby) - Sony Dolby, MIUI Dolby, Motorola Dolby
+- [swiitch-OFF-Lab/hardware_dolby](https://github.com/swiitch-OFF-Lab/hardware_dolby) - Sony Dolby, MIUI Dolby, Motorola Dolby with Dolby vision
 - [cure53/Contracts](https://github.com/cure53/Contracts) - A small collection of potentially useful contract templates
 - [DevDude437/App-Compatibility-without-Google-Play-Services](https://github.com/DevDude437/App-Compatibility-without-Google-Play-Services) - A website of apps tested that work without Google Play Services.
 - [xtremexq/StremioSubMaker](https://github.com/xtremexq/StremioSubMaker) - Stremio Subtitles addon, with multiple sub sources and BYOK AI translation
@@ -3531,7 +3537,7 @@
 - [martoreto/aauto-sdk](https://github.com/martoreto/aauto-sdk) - Unofficial Android Auto SDK
 - [tomasz-grobelny/AACS](https://github.com/tomasz-grobelny/AACS) - Android Auto Server encapsulates communication with modern car infotainment system
 - [okcar-os/android](https://github.com/okcar-os/android) - An open-source system designed for in-car entertainment. Use the CarPlay protocol to enable audio and video transmission between an Android smartphone and in-car entertainment.
-- [mustafa1dev/TeleVip-Lsposed](https://github.com/mustafa1dev/TeleVip-Lsposed) - TeleVip LSPosed Xposed Module
+- [mustafa1dev/TeleVip-LSPosed](https://github.com/mustafa1dev/TeleVip-LSPosed) - TeleVip LSPosed Xposed Module
 - [nisargjhaveri/WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle) - Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi.
 - [i-am-shodan/USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife) - USB Army Knife – the ultimate close access tool for penetration testers and red teamers.
 - [CardosoDev04/uncover-ai](https://github.com/CardosoDev04/uncover-ai) - A web application to help users identify AI generated images.
