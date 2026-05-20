@@ -330,7 +330,7 @@
 
 - [AntarcDev/Kura](https://github.com/AntarcDev/Kura) - 蔵 Kura: A modern, native Android client for Kemono
 - [Helandy/Kemonos](https://github.com/Helandy/Kemonos) - Unofficial Android client for kemono and coomer
-- [rawnaldclark/Stash](https://github.com/rawnaldclark/Stash) - Your Spotify + YouTube Music library & daily mixes, offline in lossless FLAC. Free and open source forever.
+- [rawnaldclark/Stash](https://github.com/rawnaldclark/Stash) - Your Spotify + YouTube Music library & daily mixes. Stream or download in lossless FLAC. Free and open source forever.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
@@ -980,7 +980,7 @@
 - [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
 - [f1xpl/openauto](https://github.com/f1xpl/openauto) - AndroidAuto headunit emulator
 - [numandev1/react-native-keys](https://github.com/numandev1/react-native-keys) - 🔐 Protected .ENVs variables in React Native 🚀✨
-- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux Userspace Emulator
+- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 - [weihuoya/dolphin](https://github.com/weihuoya/dolphin) - Dolphin is a GameCube / Wii emulator.
@@ -1321,7 +1321,7 @@
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [harryjph/android-auto-headunit](https://github.com/harryjph/android-auto-headunit) - Android Auto Headunit Emulator
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
-- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux Userspace Emulator
+- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 - [SSimco/Cemu](https://github.com/SSimco/Cemu) - Android port for the cemu emulator
 - [weihuoya/dolphin](https://github.com/weihuoya/dolphin) - Dolphin is a GameCube / Wii emulator.
@@ -1703,7 +1703,7 @@
 - [utkarsh914/whatsapp-stalker](https://github.com/utkarsh914/whatsapp-stalker) - Track when people came online and went offline on WhatsApp
 - [TeamPiped/Piped-Backend](https://github.com/TeamPiped/Piped-Backend) - The core component behind Piped, and other alternative frontends!
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
-- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux Userspace Emulator
+- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [kmille/freetar](https://github.com/kmille/freetar) - freetar  - an alternative frontend to ultimate-guitar.com
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
@@ -1941,7 +1941,7 @@
 ## jetpack-compose 
 
 - [AntarcDev/Kura](https://github.com/AntarcDev/Kura) - 蔵 Kura: A modern, native Android client for Kemono
-- [rawnaldclark/Stash](https://github.com/rawnaldclark/Stash) - Your Spotify + YouTube Music library & daily mixes, offline in lossless FLAC. Free and open source forever.
+- [rawnaldclark/Stash](https://github.com/rawnaldclark/Stash) - Your Spotify + YouTube Music library & daily mixes. Stream or download in lossless FLAC. Free and open source forever.
 - [vishal2376/snaptick](https://github.com/vishal2376/snaptick) - Snaptick is an MVVM Jetpack Compose app, offering ad-free task management with a built-in pomodoro timer to help you organize your daily plans
 - [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Android feed reader app
 - [ycngmn/Nobook](https://github.com/ycngmn/Nobook) - Ad-free facebook lite for Android.
@@ -1979,7 +1979,7 @@
 ## kotlin 
 
 - [AntarcDev/Kura](https://github.com/AntarcDev/Kura) - 蔵 Kura: A modern, native Android client for Kemono
-- [rawnaldclark/Stash](https://github.com/rawnaldclark/Stash) - Your Spotify + YouTube Music library & daily mixes, offline in lossless FLAC. Free and open source forever.
+- [rawnaldclark/Stash](https://github.com/rawnaldclark/Stash) - Your Spotify + YouTube Music library & daily mixes. Stream or download in lossless FLAC. Free and open source forever.
 - [EchoMusicApp/Echo-Music](https://github.com/EchoMusicApp/Echo-Music) - A modern YouTube Music Client for Android with an ad-free experience, synced lyrics, and offline playback.
 - [premnirmal/StockTicker](https://github.com/premnirmal/StockTicker) - A resizable widget that shows your financial portfolio on your android home screen
 - [vishal2376/snaptick](https://github.com/vishal2376/snaptick) - Snaptick is an MVVM Jetpack Compose app, offering ad-free task management with a built-in pomodoro timer to help you organize your daily plans
@@ -2140,6 +2140,7 @@
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
 - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
+- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [mtkusbdevice/hyprland-hdready](https://github.com/mtkusbdevice/hyprland-hdready) - Collection of dot config files for hyprland for HDReady displays with a simple install script for a fresh Arch linux with yay
 - [LoneWolf4713/seraphic.dotfiles](https://github.com/LoneWolf4713/seraphic.dotfiles) - Seraphic Dotfiles, includes rofi, sddm, spicetify, hyprlock themes
@@ -2434,7 +2435,7 @@
 
 ## music 
 
-- [rawnaldclark/Stash](https://github.com/rawnaldclark/Stash) - Your Spotify + YouTube Music library & daily mixes, offline in lossless FLAC. Free and open source forever.
+- [rawnaldclark/Stash](https://github.com/rawnaldclark/Stash) - Your Spotify + YouTube Music library & daily mixes. Stream or download in lossless FLAC. Free and open source forever.
 - [EchoMusicApp/Echo-Music](https://github.com/EchoMusicApp/Echo-Music) - A modern YouTube Music Client for Android with an ad-free experience, synced lyrics, and offline playback.
 - [Aleks-Levet/better-nothing-music-visualizer](https://github.com/Aleks-Levet/better-nothing-music-visualizer) - An android app that provides better music visualization for the Glyph Interface of Nothing Phones, and that also lets you feel your music through the haptic vibration motor.
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
@@ -2562,7 +2563,7 @@
 
 ## open-source 
 
-- [rawnaldclark/Stash](https://github.com/rawnaldclark/Stash) - Your Spotify + YouTube Music library & daily mixes, offline in lossless FLAC. Free and open source forever.
+- [rawnaldclark/Stash](https://github.com/rawnaldclark/Stash) - Your Spotify + YouTube Music library & daily mixes. Stream or download in lossless FLAC. Free and open source forever.
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
 - [nehirakbass/anime-filler-checker](https://github.com/nehirakbass/anime-filler-checker) - Browser extension that auto-detects anime filler episodes on any streaming site. Shows FILLER/CANON/MIXED badge directly on the page.
@@ -2650,6 +2651,7 @@
 
 ## others 
 
+- [fxqd/letterboxd-stremio](https://github.com/fxqd/letterboxd-stremio) - Add your Letterboxd lists to Stremio
 - [infostealers-stats/data-breach](https://github.com/infostealers-stats/data-breach) - A continuously updated resource that catalogs confirmed data breaches from across the globe. Each entry includes the breach name, usually aligned with the impacted organization, and the date of the in
 - [Korthos-Software/low_latency_layer](https://github.com/Korthos-Software/low_latency_layer) - Vulkan layer for hardware agnostic input latency reduction
 - [ang3lo-azevedo/forensics-classes-stt-26](https://github.com/ang3lo-azevedo/forensics-classes-stt-26) - 
@@ -3737,7 +3739,7 @@
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [saneaspect/dotfiles](https://github.com/saneaspect/dotfiles) - My Hyprland dotfiles
 - [qwreey/quick-settings-tweaks](https://github.com/qwreey/quick-settings-tweaks) - Let's tweak gnome Quick Settings! You can add Media Controls, Notifications, Volume Mixer on quick settings and remove useless buttons!
-- [pablouser1/aio-github-card](https://github.com/pablouser1/aio-github-card) - Dynamic cards for your Github README for multiple services
+- [pablouser1/aio-github-card](https://github.com/pablouser1/aio-github-card) - ⚠️ This repo has moved to https://codeberg.org/pablouser1/aio-profile-cards
 - [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules) - Magic to turn Cursor/Windsurf as 90% of Devin
 - [maharmstone/quibble](https://github.com/maharmstone/quibble) - Quibble - the custom Windows bootloader
 - [Senshi111/debian-hyprland-hyprdots](https://github.com/Senshi111/debian-hyprland-hyprdots) - 
@@ -4649,7 +4651,7 @@
 - [revenge-mod/revenge-bundle](https://github.com/revenge-mod/revenge-bundle) - 👊 Discord, your way. Revenge is a client modification for Discord mobile.
 - [jkennethcarino/privacy-revanced-patches](https://github.com/jkennethcarino/privacy-revanced-patches) - Privacy Patches for ReVanced to disable ads, trackers and analytics, always open Gboard in incognito mode, and much more!
 - [shishkabob27/cwk-server](https://github.com/shishkabob27/cwk-server) - A reversed-engineered server for Card Wars Kingdom.
-- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux Userspace Emulator
+- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
 - [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) - An open-source low-code modding framework to create, manage and use themes/plugins for the desktop Steam Client without any low-level internal interaction or overhead.
 - [Schwartzblat/WhatsAppPatcher](https://github.com/Schwartzblat/WhatsAppPatcher) - A patcher that decompiles WhatsApp APK, patches the smali, recompiles and signs it.
 - [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sess
@@ -5259,7 +5261,7 @@
 - [mesquidar/ForensicsTools](https://github.com/mesquidar/ForensicsTools) - A list of free and open forensics analysis tools and other resources
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
-- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux Userspace Emulator
+- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
@@ -5313,7 +5315,7 @@
 
 ## youtube 
 
-- [rawnaldclark/Stash](https://github.com/rawnaldclark/Stash) - Your Spotify + YouTube Music library & daily mixes, offline in lossless FLAC. Free and open source forever.
+- [rawnaldclark/Stash](https://github.com/rawnaldclark/Stash) - Your Spotify + YouTube Music library & daily mixes. Stream or download in lossless FLAC. Free and open source forever.
 - [pritkr/predirect](https://github.com/pritkr/predirect) - A manifest v3 web extension with minimal permissions to automatically redirect to privacy friendly frontends. ⭐️ Star to support our work!
 - [MobileFirstLLC/social-media-hacker-list](https://github.com/MobileFirstLLC/social-media-hacker-list) - Growing list of apps and tools for enhancing social media experiences.
 - [noirscape/lennytube](https://github.com/noirscape/lennytube) - Youtube on the Nintendo Switch (NRO format).
