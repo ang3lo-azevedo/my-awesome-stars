@@ -2651,6 +2651,7 @@
 
 ## others 
 
+- [Furglitch/modorganizer2-linux-installer](https://github.com/Furglitch/modorganizer2-linux-installer) - An easy-to-use Mod Organizer 2 installer for Linux
 - [fxqd/letterboxd-stremio](https://github.com/fxqd/letterboxd-stremio) - Add your Letterboxd lists to Stremio
 - [infostealers-stats/data-breach](https://github.com/infostealers-stats/data-breach) - A continuously updated resource that catalogs confirmed data breaches from across the globe. Each entry includes the breach name, usually aligned with the impacted organization, and the date of the in
 - [Korthos-Software/low_latency_layer](https://github.com/Korthos-Software/low_latency_layer) - Vulkan layer for hardware agnostic input latency reduction
@@ -2776,7 +2777,7 @@
 - [ang3lo-azevedo/RVX-Spotify](https://github.com/ang3lo-azevedo/RVX-Spotify) - The goal of this fork is to: - Fix Ad blocking issues, - Fix bugs and compatibility issues, - Keep the project working with newer dependencies, - Improve stability and maintainability, - Continue deve
 - [enzomtpYT/ReVancedXposed_Spotify](https://github.com/enzomtpYT/ReVancedXposed_Spotify) - 
 - [simoabid/RVX-Spotify](https://github.com/simoabid/RVX-Spotify) - The goal of this fork is to: - Fix Ad blocking issues, - Fix bugs and compatibility issues, - Keep the project working with newer dependencies, - Improve stability and maintainability, - Continue deve
-- [Coldblackice/ReVancedXposed_Spotify](https://github.com/Coldblackice/ReVancedXposed_Spotify) - 
+- [Coldblackice/ReVancedXposed_Spotify](https://github.com/Coldblackice/ReVancedXposed_Spotify) - ReVanced LSPosed module by ChsBuffer, for Spotify only
 - [JySzE/SoM-MPV-Config](https://github.com/JySzE/SoM-MPV-Config) - SoM-MPV-Config
 - [timothe/Ace-Pace](https://github.com/timothe/Ace-Pace) - Keep up to date with One Pace releases
 - [DefenderOfHyrule/ldn_mitm](https://github.com/DefenderOfHyrule/ldn_mitm) - Play local wireless supported games online
