@@ -418,7 +418,7 @@
 - [revenge-mod/revenge-xposed](https://github.com/revenge-mod/revenge-xposed) - 🫚 Xposed module to use Revenge on rooted Android
 - [revenge-mod/revenge-manager](https://github.com/revenge-mod/revenge-manager) - 🤖 Application to use Revenge on Android
 - [revenge-mod/revenge-bundle](https://github.com/revenge-mod/revenge-bundle) - 👊 Discord, your way. Revenge is a client modification for Discord mobile.
-- [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid) - [PRs are welcome] Modern streaming media player for Android designed to provide a feature-rich experience for viewing IPTV content, managing M3U playlists, and playing various media formats. Built wit
+- [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid) - a clean, practical, ad-free IPTV app
 - [Generator/Awesome-Android-TV-FOSS-Apps](https://github.com/Generator/Awesome-Android-TV-FOSS-Apps) - A curated list of FOSS Android TV apps
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [DesktopECHO/Pi-hole-for-Android](https://github.com/DesktopECHO/Pi-hole-for-Android) - Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)
@@ -1953,7 +1953,7 @@
 - [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility
 - [Tornaco/Thanox](https://github.com/Tornaco/Thanox) - I am thanos! 😈 👌
 - [IacobIonut01/ReFra](https://github.com/IacobIonut01/ReFra) - Media Gallery app for Android made with Jetpack Compose
-- [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid) - [PRs are welcome] Modern streaming media player for Android designed to provide a feature-rich experience for viewing IPTV content, managing M3U playlists, and playing various media formats. Built wit
+- [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid) - a clean, practical, ad-free IPTV app
 - [egorikftp/RadioTok](https://github.com/egorikftp/RadioTok) - Listen to random radio from the whole world. Build with Compose and Media API, support Android Auto.
 - [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) - 📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with Syncplay PC. Fully written in Kotlin and Compose multiplatform.
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
@@ -2007,7 +2007,7 @@
 - [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
 - [revenge-mod/revenge-xposed](https://github.com/revenge-mod/revenge-xposed) - 🫚 Xposed module to use Revenge on rooted Android
 - [revenge-mod/revenge-manager](https://github.com/revenge-mod/revenge-manager) - 🤖 Application to use Revenge on Android
-- [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid) - [PRs are welcome] Modern streaming media player for Android designed to provide a feature-rich experience for viewing IPTV content, managing M3U playlists, and playing various media formats. Built wit
+- [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid) - a clean, practical, ad-free IPTV app
 - [jkennethcarino/privacy-revanced-patches](https://github.com/jkennethcarino/privacy-revanced-patches) - Privacy Patches for ReVanced to disable ads, trackers and analytics, always open Gboard in incognito mode, and much more!
 - [phstudio2/FreeTV](https://github.com/phstudio2/FreeTV) - Free TV app
 - [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) - 📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with Syncplay PC. Fully written in Kotlin and Compose multiplatform.
@@ -2922,7 +2922,7 @@
 - [flowchartsman/greybeard](https://github.com/flowchartsman/greybeard) - a chunky monospaced bitmap programming font for old nerds that hate eyestrain
 - [ShadowBlip/InputPlumber](https://github.com/ShadowBlip/InputPlumber) - Open source input router and remapper daemon for Linux
 - [ang3lo-azevedo/nGKI_Kernel_Spacewar](https://github.com/ang3lo-azevedo/nGKI_Kernel_Spacewar) - nGKI Kernel with KSU+SUSFS. Nothing Phone (1) (spacewar) builds
-- [ReSukiSU/ReSukiSU](https://github.com/ReSukiSU/ReSukiSU) - A KernelSU based root solution for Android (Currently support Linux 3.4~6.12)
+- [ReSukiSU/ReSukiSU](https://github.com/ReSukiSU/ReSukiSU) - A KernelSU based root solution for Android (Currently support Linux 3.4~6.12,manager Required Android 8.1+)
 - [cyberc3dr/nGKI_Kernel_Spacewar](https://github.com/cyberc3dr/nGKI_Kernel_Spacewar) - nGKI Kernel with KSU+SUSFS. Nothing Phone (1) (spacewar) builds
 - [ang3lo-azevedo/ISOdroid](https://github.com/ang3lo-azevedo/ISOdroid) - Turn your Android into a bootable USB with .iso & .img images (root required)
 - [rodrig20/DuckyHid](https://github.com/rodrig20/DuckyHid) - Use your rooted Android phone as Rubber Ducky
@@ -2989,7 +2989,7 @@
 - [DaViDev985/device_nothing_Spacewar](https://github.com/DaViDev985/device_nothing_Spacewar) - New DerpFest device tree for Nothing Phone (1) (Spacewar). Forked from LineageOS. ⚠️ Force push warning
 - [rxappdev/MouseTiler](https://github.com/rxappdev/MouseTiler) - The fastest, simplest tiler for KDE Plasma 6+ that gives you full freedom at your fingertip. No need to remember dozens of keyboard shortcuts or be limited by a fixed tile layout.
 - [VoltageOS/android_vendor_voltageota](https://github.com/VoltageOS/android_vendor_voltageota) - 
-- [StudioKeys-Dumps/proprietary_vendor_nothing_Spacewar](https://github.com/StudioKeys-Dumps/proprietary_vendor_nothing_Spacewar) - 
+- [StudioKeys-Dumps/vendor_nothing_Spacewar](https://github.com/StudioKeys-Dumps/vendor_nothing_Spacewar) - 
 - [StudioKeys-Dumps/kernel_nothing_sm7325](https://github.com/StudioKeys-Dumps/kernel_nothing_sm7325) - 
 - [StudioKeys-Dumps/hardware_nothing](https://github.com/StudioKeys-Dumps/hardware_nothing) - 
 - [derekantrican/GAS-ICS-Sync](https://github.com/derekantrican/GAS-ICS-Sync) - A Google Apps Script for syncing ICS/ICAL files faster than the current Google Calendar speed
