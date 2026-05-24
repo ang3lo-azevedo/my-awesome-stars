@@ -347,6 +347,7 @@
 - [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) - An application to write OS images to USB drives, on Android, no root required.
 - [ycngmn/Nobook](https://github.com/ycngmn/Nobook) - Ad-free facebook lite for Android.
 - [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram) - 🧘 An updatable, open source Instagram app for Android without distractions.
+- [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring) - Android environment integrity inspection tool for root, hook, bootloader, SELinux, virtualization, and attestation signals
 - [Xposed-Modules-Repo/ps.reso.instaeclipse](https://github.com/Xposed-Modules-Repo/ps.reso.instaeclipse) - InstaEclipse
 - [teekamsuthar/Mutify](https://github.com/teekamsuthar/Mutify) - An android app built with java to mute Spotify ads.
 - [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator) - Software simulation for Android hardware-backed key pairs with key attestation
@@ -757,7 +758,7 @@
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
 - [dpgraham4401/.dotfiles](https://github.com/dpgraham4401/.dotfiles) - Config files for *nix and Sway tiling wm, branches for different distros/computers
-- [Benexl/yt-x](https://github.com/Benexl/yt-x) - Posix script to browse youtube plus other yt-dlp supported sites from your terminal (supports bash, zsh and dash)
+- [Benexl/yt-x](https://github.com/Benexl/yt-x) - Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)
 - [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
@@ -880,7 +881,7 @@
 
 ## cli 
 
-- [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for DeepSeek models that runs in your terminal
 - [bakustarver/rpgmakermlinux-cicpoffs](https://github.com/bakustarver/rpgmakermlinux-cicpoffs) - Run any RPG Maker XP, VX, VX Ace, MV, MZ, TyranoBuilder, Godot, Construct 2/3, Nscripter game on linux natively
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
@@ -904,7 +905,7 @@
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [Benexl/yt-x](https://github.com/Benexl/yt-x) - Posix script to browse youtube plus other yt-dlp supported sites from your terminal (supports bash, zsh and dash)
+- [Benexl/yt-x](https://github.com/Benexl/yt-x) - Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
@@ -1748,6 +1749,7 @@
 
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [hassio-addons/app-adguard-home](https://github.com/hassio-addons/app-adguard-home) - AdGuard Home - Home Assistant Community Apps
 - [hassio-addons/addon-pi-hole](https://github.com/hassio-addons/addon-pi-hole) - Pi-hole - Home Assistant Community Add-ons
 - [hassio-addons/app-vaultwarden](https://github.com/hassio-addons/app-vaultwarden) - Vaultwarden (Bitwarden) - Home Assistant Community App
@@ -1862,6 +1864,7 @@
 ## iot 
 
 - [swisskyrepo/HardwareAllTheThings](https://github.com/swisskyrepo/HardwareAllTheThings) - Hardware/IOT Pentesting Wiki
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
 - [BruceDevices/firmware](https://github.com/BruceDevices/firmware) - Predatory ESP32 Firmware
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -2209,7 +2212,7 @@
 ## llm 
 
 - [OWASP/www-project-top-10-for-large-language-model-applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications) - OWASP Top 10 for Large Language Model Apps (Part of the GenAI Security Project)
-- [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for DeepSeek models that runs in your terminal
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
@@ -2737,7 +2740,6 @@
 - [trakt/trakt-web](https://github.com/trakt/trakt-web) - Unlock the secrets of your watch history, explore hidden connections between films, and delve into the depths of personalized recommendations. But tread carefully, for the Trakt API holds powers that 
 - [frkngksl/SilentNimvest](https://github.com/frkngksl/SilentNimvest) - Nim implementation for sud0Ru's Credential Dumping from SAM/SECURITY Hives Method (a.k.a. SilentHarvest)
 - [xyzz/vita-moonlight](https://github.com/xyzz/vita-moonlight) - NVIDIA Gamestream client for PlayStation Vita, based on moonlight-embedded
-- [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring) - 
 - [nixos-rocm/nixos-rocm](https://github.com/nixos-rocm/nixos-rocm) - NixOS support for the ROCm graphics stack (rocm.github.io)
 - [ang3lo-azevedo/fun-pace-public-subtitles](https://github.com/ang3lo-azevedo/fun-pace-public-subtitles) - Subtitles for released Fun Pace fan edit episodes
 - [superfly310/muhn-pace-subtitles](https://github.com/superfly310/muhn-pace-subtitles) - Subtitles for released One Pace fan edit episodes
@@ -2966,7 +2968,7 @@
 - [impeeza/sys-patch](https://github.com/impeeza/sys-patch) - A script-like system module that patches fs, es, ldr and nifm on boot
 - [switchbrew/nx-hbloader](https://github.com/switchbrew/nx-hbloader) - Host process for loading Switch homebrew NROs
 - [carcaschoi/tinfoil-json](https://github.com/carcaschoi/tinfoil-json) - 
-- [melogabriel/tinfoil-shops](https://github.com/melogabriel/tinfoil-shops) - Repository with list of links to active and working tinfoil shops for Nintendo Switch.
+- [melogabriel/tinfoil-shops](https://github.com/melogabriel/tinfoil-shops) - Repository with list of links hosts to active and working tinfoil shops for Nintendo Switch.
 - [ajmandourah/tinshop-ng](https://github.com/ajmandourah/tinshop-ng) - A next generation version of tinshop server for tinfoil originally by DBlK
 - [rashevskyv/dbi](https://github.com/rashevskyv/dbi) - Author is duckbill
 - [ravindu644/Android-Kernel-Tutorials](https://github.com/ravindu644/Android-Kernel-Tutorials) - Kernel building tutorials for Any device for newbies..! 🎉
@@ -4670,7 +4672,7 @@
 ## rust 
 
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
-- [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for DeepSeek models that runs in your terminal
 - [trailofbits/mquire](https://github.com/trailofbits/mquire) - Zero-dependency Linux memory forensics PoC — leverages kernel-embedded BTF and kallsyms for type-aware memory analysis without external debug info.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
@@ -4927,7 +4929,7 @@
 
 ## terminal 
 
-- [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for DeepSeek models that runs in your terminal
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -4942,7 +4944,7 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Safety guardrails for ai coding agents and human terminal commands
 - [excalibur1234/pacui](https://github.com/excalibur1234/pacui) - Bash script providing advanced Pacman and Yay/Pikaur/Aurman/Pakku/Trizen/Pacaur/Pamac-cli functionality in a simple UI
-- [Benexl/yt-x](https://github.com/Benexl/yt-x) - Posix script to browse youtube plus other yt-dlp supported sites from your terminal (supports bash, zsh and dash)
+- [Benexl/yt-x](https://github.com/Benexl/yt-x) - Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)
 - [tizonia/tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
 - [ccgauche/ytermusic](https://github.com/ccgauche/ytermusic) - An in terminal youtube music client with focus on privacy, simplicity and performance
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
@@ -4981,7 +4983,7 @@
 
 ## tui 
 
-- [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for DeepSeek models that runs in your terminal
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 - [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - Forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -4990,7 +4992,7 @@
 - [apognu/tuigreet](https://github.com/apognu/tuigreet) - Graphical console greeter for greetd
 - [Stan-breaks/ytsurf](https://github.com/Stan-breaks/ytsurf) - YouTube in your terminal. Clean and distraction-free.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
-- [Benexl/yt-x](https://github.com/Benexl/yt-x) - Posix script to browse youtube plus other yt-dlp supported sites from your terminal (supports bash, zsh and dash)
+- [Benexl/yt-x](https://github.com/Benexl/yt-x) - Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)
 - [ccgauche/ytermusic](https://github.com/ccgauche/ytermusic) - An in terminal youtube music client with focus on privacy, simplicity and performance
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -5339,7 +5341,7 @@
 - [zt64/Hyperion](https://github.com/zt64/Hyperion) - An alternative YouTube front-end
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
-- [Benexl/yt-x](https://github.com/Benexl/yt-x) - Posix script to browse youtube plus other yt-dlp supported sites from your terminal (supports bash, zsh and dash)
+- [Benexl/yt-x](https://github.com/Benexl/yt-x) - Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)
 - [tizonia/tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
 - [ccgauche/ytermusic](https://github.com/ccgauche/ytermusic) - An in terminal youtube music client with focus on privacy, simplicity and performance
 - [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended) - ReVanced eXtended (now Morphe) YT and YT-M for both root and non-root users.
@@ -5378,7 +5380,7 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [jcchikikomori/.dotfiles](https://github.com/jcchikikomori/.dotfiles) - Makes Configuration files easy as breeze!
 - [ARKye03/dotfiles](https://github.com/ARKye03/dotfiles) - Arch, Hyprland/River, Morghulis.
-- [Benexl/yt-x](https://github.com/Benexl/yt-x) - Posix script to browse youtube plus other yt-dlp supported sites from your terminal (supports bash, zsh and dash)
+- [Benexl/yt-x](https://github.com/Benexl/yt-x) - Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)
 - [NotAShelf/dotfiles](https://github.com/NotAShelf/dotfiles) - A repository for (mostly) everything that starts with a dot on my Arch Linux systems.
 - [latipun7/dotfiles](https://github.com/latipun7/dotfiles) - 🏡 Home sweet ~/.
 - [vernette/hyprsnap](https://github.com/vernette/hyprsnap) - ⚡ Dynamic Hyprland dotfiles for Arch Linux
