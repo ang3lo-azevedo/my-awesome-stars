@@ -881,7 +881,7 @@
 
 ## cli 
 
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for open source, open weight models
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Agentic coding terminal. DeepSeek-first, multi-provider, cache-maximal, whale-themed. Five-locale UI + CN-region endpoints + CNB mirror.
 - [bakustarver/rpgmakermlinux-cicpoffs](https://github.com/bakustarver/rpgmakermlinux-cicpoffs) - Run any RPG Maker XP, VX, VX Ace, MV, MZ, TyranoBuilder, Godot, Construct 2/3, Nscripter game on linux natively
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
@@ -2212,7 +2212,7 @@
 ## llm 
 
 - [OWASP/www-project-top-10-for-large-language-model-applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications) - OWASP Top 10 for Large Language Model Apps (Part of the GenAI Security Project)
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for open source, open weight models
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Agentic coding terminal. DeepSeek-first, multi-provider, cache-maximal, whale-themed. Five-locale UI + CN-region endpoints + CNB mirror.
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
@@ -2760,7 +2760,6 @@
 - [Stremio/stremio-linux-shell](https://github.com/Stremio/stremio-linux-shell) - Client for Stremio on Linux
 - [Sirosky/Upscale-Hub](https://github.com/Sirosky/Upscale-Hub) - A repository collecting image and video upscaling resources as well as my own super resolution models.
 - [Artoriuz/ArtCNN](https://github.com/Artoriuz/ArtCNN) - Simple SISR CNNs aimed at anime content
-- [flowerey/flower-mpv-config](https://github.com/flowerey/flower-mpv-config) - flower's configs for mpv. Automated builds are in releases tab.
 - [TheIntroDB/stremio-enhanced-plugin](https://github.com/TheIntroDB/stremio-enhanced-plugin) - Skip segments for shows and movies in Stremio Enhanced using TheIntroDB
 - [Rishabh5321/custom-packages-flake](https://github.com/Rishabh5321/custom-packages-flake) - Just some custom packages I use.
 - [Rishabh5321/playtorrio-flake](https://github.com/Rishabh5321/playtorrio-flake) - 
@@ -4671,7 +4670,7 @@
 ## rust 
 
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for open source, open weight models
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Agentic coding terminal. DeepSeek-first, multi-provider, cache-maximal, whale-themed. Five-locale UI + CN-region endpoints + CNB mirror.
 - [trailofbits/mquire](https://github.com/trailofbits/mquire) - Zero-dependency Linux memory forensics PoC — leverages kernel-embedded BTF and kallsyms for type-aware memory analysis without external debug info.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
@@ -4928,7 +4927,7 @@
 
 ## terminal 
 
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for open source, open weight models
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Agentic coding terminal. DeepSeek-first, multi-provider, cache-maximal, whale-themed. Five-locale UI + CN-region endpoints + CNB mirror.
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -4982,7 +4981,7 @@
 
 ## tui 
 
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for open source, open weight models
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Agentic coding terminal. DeepSeek-first, multi-provider, cache-maximal, whale-themed. Five-locale UI + CN-region endpoints + CNB mirror.
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 - [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - Forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
