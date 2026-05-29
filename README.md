@@ -167,6 +167,7 @@
 - [no-code](#no-code)
 - [node](#node)
 - [nodejs](#nodejs)
+- [npm](#npm)
 - [objective-c](#objective-c)
 - [obsidian](#obsidian)
 - [obsidian-md](#obsidian-md)
@@ -677,6 +678,7 @@
 - [ang3lo-azevedo/my-awesome-stars](https://github.com/ang3lo-azevedo/my-awesome-stars) - A curated list of my GitHub stars!
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [m0nad/awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation) - A curated list of awesome privilege escalation
 - [QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes) - 🐱‍🏍 A curated list of awesome things related to Hugo themes.
@@ -1533,6 +1535,7 @@
 
 ## go 
 
+- [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 - [willfaught/ebnf](https://github.com/willfaught/ebnf) - Parses, represents, and inspects EBNF grammars
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.
@@ -1555,6 +1558,7 @@
 
 ## golang 
 
+- [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
 - [willfaught/ebnf](https://github.com/willfaught/ebnf) - Parses, represents, and inspects EBNF grammars
 - [xhos/discord-quest-watcher](https://github.com/xhos/discord-quest-watcher) - webhook notifications when new discord quests are released, w/ filters
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
@@ -2081,6 +2085,7 @@
 
 ## linux 
 
+- [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
 - [BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free, open-source music app that lets you stream and download high-quality tracks across all your devices. With a sleek, intuitive UI built for a seamless experience, it supports Android
 - [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
 - [yelanxin/hiresTI](https://github.com/yelanxin/hiresTI) - hiresTI is a modern, high-fidelity TIDAL client for Linux, designed for USB passthrough and bit-perfect playback.
@@ -2577,6 +2582,10 @@
 - [tjarbo/discord-moodle-bot](https://github.com/tjarbo/discord-moodle-bot) - Get notified about changes on moodle on you favorite platform!
 - [ImKyleJK/BeClone](https://github.com/ImKyleJK/BeClone) - Online browser social media network based of BeReal.
 
+## npm 
+
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+
 ## objective-c 
 
 - [alpatiev/airPodsTester](https://github.com/alpatiev/airPodsTester) - (temporary unavailable)
@@ -2682,6 +2691,10 @@
 
 ## others 
 
+- [foreni-packages/hachoir-subfile](https://github.com/foreni-packages/hachoir-subfile) - hachoir-subfile : Find subfile in any binary stream
+- [cdgriffith/puremagic](https://github.com/cdgriffith/puremagic) - Pure python implementation of identifying files based off their magic numbers
+- [sadjow/claude-code-nix](https://github.com/sadjow/claude-code-nix) - Always up-to-date Nix package for Claude Code with hourly updates from Anthropic's native releases
+- [Xposed-Modules-Repo/eu.hxreborn.biometricapplock](https://github.com/Xposed-Modules-Repo/eu.hxreborn.biometricapplock) - Biometric App Lock
 - [Vivi190/FakeVoiceOptions](https://github.com/Vivi190/FakeVoiceOptions) - FakeVoiceOptions
 - [juliosueiras-nix/nix-security](https://github.com/juliosueiras-nix/nix-security) - Nix/NixOS security tool collections
 - [NVISOsecurity/disable-flutter-tls-verification](https://github.com/NVISOsecurity/disable-flutter-tls-verification) - A Frida script that disables Flutter's TLS verification
@@ -3074,7 +3087,7 @@
 - [MySelly/vendor_nothing_camera-spacewar](https://github.com/MySelly/vendor_nothing_camera-spacewar) - 
 - [smrth097/android_hardware_nothing](https://github.com/smrth097/android_hardware_nothing) - 
 - [chandradev28/streamed.app](https://github.com/chandradev28/streamed.app) - The Ultimate ALL-IN-ONE Streaming App (Movies, TV Shows & Hi-Fi Music)
-- [jacojayy/star](https://github.com/jacojayy/star) - star - An application that lets you run Windows applications via Wine and box64/86 on Android.
+- [star-emu/star](https://github.com/star-emu/star) - star - An application that lets you run Windows applications via Wine and box64/86 on Android.
 - [jimzrt/apprenticeVr](https://github.com/jimzrt/apprenticeVr) - designed for managing and sideloading content onto Meta Quest devices
 - [ang3lo-azevedo/nix-proton-cachyos](https://github.com/ang3lo-azevedo/nix-proton-cachyos) - NixOS flake packaging for CachyOS Proton (https://github.com/CachyOS/proton-cachyos), a compatibility tool for Steam Play with CachyOS optimizations
 - [mobile-nixos/mobile-nixos](https://github.com/mobile-nixos/mobile-nixos) - 📱 (rebooting... please wait...)
@@ -4474,6 +4487,7 @@
 
 ## python 
 
+- [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
 - [dod-cyber-crime-center/pyhidra](https://github.com/dod-cyber-crime-center/pyhidra) - Pyhidra is a Python library that provides direct access to the Ghidra API within a native CPython interpreter using jpype.
 - [itsecgary/CTFBot](https://github.com/itsecgary/CTFBot) - Bot for keeping track of CTFs and points awarded
 - [megadose/ignorant](https://github.com/megadose/ignorant) - ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.
@@ -4613,6 +4627,7 @@
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's CLI and TUI client -- The ultimate weapon against brainrot
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [hitarth-gg/zenshin](https://github.com/hitarth-gg/zenshin) - 🔖 Web & Electron based Anime Streaming App for 🐈s
 - [MultiboxLabs/flow-browser](https://github.com/MultiboxLabs/flow-browser) - A modern, privacy-focused browser with a minimalistic design.
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
@@ -5066,6 +5081,7 @@
 - [walterlow/freecut](https://github.com/walterlow/freecut) - FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, re
 - [i3months/eziwiki](https://github.com/i3months/eziwiki) - 🧩 A modern wiki and documentation site generator. Create beautiful docs with markdown, customizable navigation.
 - [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's CLI and TUI client -- The ultimate weapon against brainrot
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
