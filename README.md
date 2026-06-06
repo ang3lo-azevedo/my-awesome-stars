@@ -11,6 +11,7 @@
 - [ai-agents](#ai-agents)
 - [algorithmic-trading](#algorithmic-trading)
 - [algorithms](#algorithms)
+- [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
 - [ansible](#ansible)
@@ -42,6 +43,7 @@
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [cloud](#cloud)
+- [cms](#cms)
 - [coding](#coding)
 - [command-line](#command-line)
 - [compiler](#compiler)
@@ -99,6 +101,7 @@
 - [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
+- [github-api](#github-api)
 - [go](#go)
 - [godot](#godot)
 - [golang](#golang)
@@ -326,6 +329,7 @@
 
 ## ai-agents 
 
+- [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - [CyberChef-MCP] Model Context Protocol Server for CyberChef ... exposing GCHQ's "Cyber Swiss Army Knife" as 463+ executable AI agent tools spanning encryption, encoding, compression, and forensic data
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,500+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
@@ -341,6 +345,10 @@
 ## algorithms 
 
 - [aw-junaid/Hacking-Tools](https://github.com/aw-junaid/Hacking-Tools) - This Repository is a collection of different ethical hacking tools and malware's for penetration testing and research purpose written in python, ruby, rust, c++, go and c.
+
+## analytics 
+
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 
 ## android 
 
@@ -971,6 +979,10 @@
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [hauxir/rapidbay](https://github.com/hauxir/rapidbay) - Self-hosted torrent video streaming service compatible with Chromecast, AppleTV & Kodi deployable in the cloud
 
+## cms 
+
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Git-based headless CMS. Successor to Netlify CMS (now Decap CMS). Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
+
 ## coding 
 
 - [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - runs anywhere. uses anything
@@ -1075,6 +1087,7 @@
 
 ## cybersecurity 
 
+- [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - [CyberChef-MCP] Model Context Protocol Server for CyberChef ... exposing GCHQ's "Cyber Swiss Army Knife" as 463+ executable AI agent tools spanning encryption, encoding, compression, and forensic data
 - [SuperAB123/Free-Official-Youtube-Content](https://github.com/SuperAB123/Free-Official-Youtube-Content) - Awesome list of Official YouTube Channels offering Free Official Content like Movies, Anime, Cartoons, Documentaries, TV Shows, Sports, VFX Breakdown
 - [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
@@ -1098,6 +1111,7 @@
 
 ## data-analysis 
 
+- [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - [CyberChef-MCP] Model Context Protocol Server for CyberChef ... exposing GCHQ's "Cyber Swiss Army Knife" as 463+ executable AI agent tools spanning encryption, encoding, compression, and forensic data
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 
 ## data-visualization 
@@ -1215,6 +1229,8 @@
 
 ## docker 
 
+- [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [google/docker-explorer](https://github.com/google/docker-explorer) - A tool to help forensicate offline docker acquisitions
 - [psyb0t/safe-stremio](https://github.com/psyb0t/safe-stremio) - Safe-Stremio is your gateway to running Stremio Server and Stremio Web within a Docker container, wrapped in layers of security, anonymity, and badassery. This ain't your grandma's streaming setup—thi
 - [I-am-PUID-0/DUMB](https://github.com/I-am-PUID-0/DUMB) - Debrid Unlimited Media Bridge
@@ -1285,6 +1301,7 @@
 
 ## dotfiles 
 
+- [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [lucasew/nixcfg](https://github.com/lucasew/nixcfg) - Personal Nix/NixOS configuration files
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
 - [ifd3f/infra](https://github.com/ifd3f/infra) - Personal cloud, dotfiles, and configurations omnirepo
@@ -1584,6 +1601,10 @@
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) - GitHub reimagined with Material You
 
+## github-api 
+
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Git-based headless CMS. Successor to Netlify CMS (now Decap CMS). Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
+
 ## go 
 
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
@@ -1727,6 +1748,7 @@
 
 ## hacktoberfest 
 
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [SuperAB123/Free-Official-Youtube-Content](https://github.com/SuperAB123/Free-Official-Youtube-Content) - Awesome list of Official YouTube Channels offering Free Official Content like Movies, Anime, Cartoons, Documentaries, TV Shows, Sports, VFX Breakdown
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 - [binarymaster/3WiFi](https://github.com/binarymaster/3WiFi) - 3WiFi Wireless Database
@@ -2140,6 +2162,7 @@
 
 ## kubernetes 
 
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [ifd3f/infra](https://github.com/ifd3f/infra) - Personal cloud, dotfiles, and configurations omnirepo
 
@@ -2163,6 +2186,7 @@
 
 ## linux 
 
+- [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [gl0bal01/volatility-toolkit](https://github.com/gl0bal01/volatility-toolkit) - Automated memory forensics for Windows, Linux, and macOS — Volatility 3 toolkit
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
@@ -2483,6 +2507,7 @@
 
 ## mcp 
 
+- [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - [CyberChef-MCP] Model Context Protocol Server for CyberChef ... exposing GCHQ's "Cyber Swiss Army Knife" as 463+ executable AI agent tools spanning encryption, encoding, compression, and forensic data
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,500+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mukul975/cve-mcp-server](https://github.com/mukul975/cve-mcp-server) - Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more.
@@ -2534,6 +2559,7 @@
 
 ## mobile 
 
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) - A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites)
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [LeNerd46/beautiful-lyrics-mobile](https://github.com/LeNerd46/beautiful-lyrics-mobile) - A port of beautiful-lyrics by surfbryce to Android
@@ -2590,6 +2616,7 @@
 
 ## mysql 
 
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 
 ## natural-language-processing 
@@ -2615,6 +2642,7 @@
 
 ## nextjs 
 
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free, open-source music app that lets you stream and download high-quality tracks across all your devices. With a sleek, intuitive UI built for a seamless experience, it supports Android
 - [esp4ce/stremio-letterboxd-addon](https://github.com/esp4ce/stremio-letterboxd-addon) - Stremio addon that syncs your Letterboxd watchlist, diary, friends & lists
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -2791,6 +2819,8 @@
 
 ## others 
 
+- [textiles-lab/knitout](https://github.com/textiles-lab/knitout) - The "Knitout" (.k) file format specification
+- [RaidOwl/homelab-hub](https://github.com/RaidOwl/homelab-hub) - 
 - [monyarm/nix-winery](https://github.com/monyarm/nix-winery) - This project aims to provide a collection of Nix packages for various compatibility layers, enabling the use of software designed for other operating systems on NixOS. The plan is to support Wine, Dar
 - [emmanuelrosa/erosanix](https://github.com/emmanuelrosa/erosanix) - My main NixOS/Nix Flakes repository
 - [linuxmint/timeshift](https://github.com/linuxmint/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be resto
@@ -4543,6 +4573,7 @@
 
 ## php 
 
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [binarymaster/3WiFi](https://github.com/binarymaster/3WiFi) - 3WiFi Wireless Database
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
@@ -4576,6 +4607,7 @@
 
 ## privacy 
 
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [kaleedtc/Nitterium](https://github.com/kaleedtc/Nitterium) - A privacy-focused Android app and wrapper for Nitter, allowing you to browse Twitter/X content without an account and subscribe to your favorite user profiles.
 - [Offshore-CAT/Offshore.CAT](https://github.com/Offshore-CAT/Offshore.CAT) - Offshore.CAT provides DMCA-ignored offshore hosting solutions. Built with HTML and CSS, it offers an intuitive interface for seamless interaction and data presentation. The project aims to offer relia
 - [mubashardev/WaEnhancer](https://github.com/mubashardev/WaEnhancer) - An open-source Xposed/LSPosed toolkit to enhance your WA messaging experience with advanced privacy controls, automation, and UI customization for Android.
@@ -4860,6 +4892,7 @@
 
 ## react-native 
 
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free, open-source music app that lets you stream and download high-quality tracks across all your devices. With a sleek, intuitive UI built for a seamless experience, it supports Android
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [jpdoshi/dragon-store](https://github.com/jpdoshi/dragon-store) - Dragon Store is your gateway to transparent, libre and free open-source apps.
@@ -4984,6 +5017,8 @@
 
 ## security 
 
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 - [gl0bal01/volatility-toolkit](https://github.com/gl0bal01/volatility-toolkit) - Automated memory forensics for Windows, Linux, and macOS — Volatility 3 toolkit
 - [JPCERTCC/LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
@@ -5033,6 +5068,7 @@
 
 ## security-tools 
 
+- [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - [CyberChef-MCP] Model Context Protocol Server for CyberChef ... exposing GCHQ's "Cyber Swiss Army Knife" as 463+ executable AI agent tools spanning encryption, encoding, compression, and forensic data
 - [lprat/VolUtility](https://github.com/lprat/VolUtility) - Web Interface for Volatility Memory Analysis framework from https://github.com/kevthehermit/VolUtility
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [dhondta/stegano-tools](https://github.com/dhondta/stegano-tools) - Collection of steganography tools for images and text
@@ -5048,6 +5084,8 @@
 
 ## self-hosted 
 
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
@@ -5155,6 +5193,7 @@
 
 ## svelte 
 
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Git-based headless CMS. Successor to Netlify CMS (now Decap CMS). Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [Raphiiko/OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - 🥽 VR Sleeping Utilities
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
@@ -5210,6 +5249,7 @@
 
 ## terminal 
 
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
@@ -5294,6 +5334,7 @@
 
 ## typescript 
 
+- [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - [CyberChef-MCP] Model Context Protocol Server for CyberChef ... exposing GCHQ's "Cyber Swiss Army Knife" as 463+ executable AI agent tools spanning encryption, encoding, compression, and forensic data
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
@@ -5508,11 +5549,13 @@
 
 ## website 
 
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [Istador/smoo.it](https://github.com/Istador/smoo.it) - Website for Super Mario Odyssey: Online
 
 ## whatsapp-bot 
 
+- [shridarpatil/whatomate](https://github.com/shridarpatil/whatomate) - Whatomate is an open-source WhatsApp integration
 - [meinto/whatsapp-signal-bridge](https://github.com/meinto/whatsapp-signal-bridge) - Forward your Whatsapp messages to a separate Signal chat and reply to Whatsapp by quoting received messages.
 
 ## windows 
