@@ -823,7 +823,7 @@
 - [itsecgary/CTFBot](https://github.com/itsecgary/CTFBot) - Bot for keeping track of CTFs and points awarded
 - [Armaansaini20/ShortEZY-YouTube-Bot](https://github.com/Armaansaini20/ShortEZY-YouTube-Bot) - Automatic youtube or insta shorts generator, Free alternative to openAI api bots
 - [jasperan/whatsapp-osint](https://github.com/jasperan/whatsapp-osint) - WhatsApp spy - logs online/offline events from ANYONE in the world
-- [Michael1337/tryhackme-autostreak](https://github.com/Michael1337/tryhackme-autostreak) - A dockerized bash script to automatically keep your streak on TryHackMe alive.
+- [Michael1337/tryhackme-autostreak](https://github.com/Michael1337/tryhackme-autostreak) - A dockerized puppeteer script to automatically keep your streak on TryHackMe alive.
 - [tjarbo/discord-moodle-bot](https://github.com/tjarbo/discord-moodle-bot) - Get notified about changes on moodle on you favorite platform!
 - [notmarek/BeFake](https://github.com/notmarek/BeFake) - BeReal Python API wrapper
 
@@ -2819,6 +2819,9 @@
 
 ## others 
 
+- [denisbalber/IDESync-VSCode-JetBrains](https://github.com/denisbalber/IDESync-VSCode-JetBrains) - A synchronization system that allows seamless switching between VSCode and JetBrains IDEs while maintaining the current file and cursor position.
+- [jinghaihan/vscode-crosside-sync](https://github.com/jinghaihan/vscode-crosside-sync) - Extension that synchronizes settings, keybindings and extensions across VSCode and its forks.
+- [LexaTang/vscode-forks-sync](https://github.com/LexaTang/vscode-forks-sync) - Extension that synchronizes settings, keybindings and extensions across VSCode and its forks.
 - [textiles-lab/knitout](https://github.com/textiles-lab/knitout) - The "Knitout" (.k) file format specification
 - [RaidOwl/homelab-hub](https://github.com/RaidOwl/homelab-hub) - 
 - [monyarm/nix-winery](https://github.com/monyarm/nix-winery) - This project aims to provide a collection of Nix packages for various compatibility layers, enabling the use of software designed for other operating systems on NixOS. The plan is to support Wine, Dar
@@ -3756,7 +3759,6 @@
 - [mantistmd/xtream_details](https://github.com/mantistmd/xtream_details) - 
 - [Bazsalanszky/Eternity](https://github.com/Bazsalanszky/Eternity) - Mirror of the Eternity (Infinity for Lemmy) repository
 - [tobert/websocket-terminal](https://github.com/tobert/websocket-terminal) - A websocket-based terminal proxy built with Go and term.js
-- [Cyogenus/XTREME-IPTV-PLAYER-by-MY-1](https://github.com/Cyogenus/XTREME-IPTV-PLAYER-by-MY-1) - XTREME IPTV PLAYER by My-1
 - [estrellagus/iptv-tools](https://github.com/estrellagus/iptv-tools) - Set of scripts to learn about iptv services for available providers
 - [sudo-ronmexico/IPTVChecker-BitRate](https://github.com/sudo-ronmexico/IPTVChecker-BitRate) - Script that goes through a playlist to check IPTV channels, now with bit-rate included- Created originally by NewsGuyTor
 - [cygnusx-1-org/Discoverium](https://github.com/cygnusx-1-org/Discoverium) - Android app for discovering open source Android apps
@@ -4747,6 +4749,7 @@
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
 - [lukearran/TvTimeToTrakt](https://github.com/lukearran/TvTimeToTrakt) - A Python script to import TV Time data into Trakt.TV
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
+- [Cyogenus/XTREME-IPTV-PLAYER-by-MY-1](https://github.com/Cyogenus/XTREME-IPTV-PLAYER-by-MY-1) - Legacy IPTV player project. Try the new BLAZIN IPTV Player for Windows on the Microsoft Store.
 - [mhdzumair/MediaFusion](https://github.com/mhdzumair/MediaFusion) - Universal  Add-On for Stremio & Kodi
 - [gookie-dev/StepDaddyLiveHD](https://github.com/gookie-dev/StepDaddyLiveHD) - A self-hosted IPTV proxy for DLHD.
 - [rafatosta/zapzap](https://github.com/rafatosta/zapzap) - WhatsApp desktop application written in PyQt6 + PyQt6-WebEngine.
@@ -5587,6 +5590,7 @@
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
+- [Cyogenus/XTREME-IPTV-PLAYER-by-MY-1](https://github.com/Cyogenus/XTREME-IPTV-PLAYER-by-MY-1) - Legacy IPTV player project. Try the new BLAZIN IPTV Player for Windows on the Microsoft Store.
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [domferr/Linux-PowerToys](https://github.com/domferr/Linux-PowerToys) - Get Microsoft's PowerToys utilities and much more to Linux world!
