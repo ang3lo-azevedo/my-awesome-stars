@@ -837,6 +837,7 @@
 
 ## c 
 
+- [libimobiledevice/libideviceactivation](https://github.com/libimobiledevice/libideviceactivation) - A library to handle the activation process of iOS devices
 - [fumiama/base16384](https://github.com/fumiama/base16384) - Encode binary files to printable utf16be.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -1301,7 +1302,7 @@
 
 ## dotfiles 
 
-- [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
+- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [lucasew/nixcfg](https://github.com/lucasew/nixcfg) - Personal Nix/NixOS configuration files
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
 - [ifd3f/infra](https://github.com/ifd3f/infra) - Personal cloud, dotfiles, and configurations omnirepo
@@ -1429,7 +1430,6 @@
 - [ycngmn/Nobook](https://github.com/ycngmn/Nobook) - Ad-free facebook lite for Android.
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
-- [davidfegyver/facebook-533m](https://github.com/davidfegyver/facebook-533m) - 
 - [ptrpaws/Oculess](https://github.com/ptrpaws/Oculess) - Removes account requirements and telemetry from Oculus Quest devices
 
 ## fastapi 
@@ -1877,7 +1877,7 @@
 - [joel16/NX-Shell](https://github.com/joel16/NX-Shell) - A multi-purpose file manager for the Nintendo Switch.
 - [exelix11/SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) - Create custom themes for the nintendo switch !
 - [J-D-K/JKSV](https://github.com/J-D-K/JKSV) - JK's Save Manager Switch Edition
-- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 
@@ -1951,6 +1951,8 @@
 
 ## ios 
 
+- [tr4m0ryp/tr4mpass](https://github.com/tr4m0ryp/tr4mpass) - Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and ses
+- [libimobiledevice/libideviceactivation](https://github.com/libimobiledevice/libideviceactivation) - A library to handle the activation process of iOS devices
 - [BandarHL/BHTwitter](https://github.com/BandarHL/BHTwitter) - Awesome tweak for Twitter
 - [BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free, open-source music app that lets you stream and download high-quality tracks across all your devices. With a sleek, intuitive UI built for a seamless experience, it supports Android
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
@@ -2182,12 +2184,13 @@
 
 ## library 
 
+- [libimobiledevice/libideviceactivation](https://github.com/libimobiledevice/libideviceactivation) - A library to handle the activation process of iOS devices
 - [kernelwernel/VMAware](https://github.com/kernelwernel/VMAware) - Advanced VM detection library and tool
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
 ## linux 
 
-- [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
+- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [gl0bal01/volatility-toolkit](https://github.com/gl0bal01/volatility-toolkit) - Automated memory forensics for Windows, Linux, and macOS — Volatility 3 toolkit
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
@@ -2383,6 +2386,7 @@
 
 ## lua 
 
+- [xrun1/svp4mpv](https://github.com/xrun1/svp4mpv) - SVP frame interpolation for mpv with built-in settings menu, no official GUI required
 - [htv04/funkin-rewritten](https://github.com/htv04/funkin-rewritten) - Optimized rewrite of Friday Night Funkin' built on LÖVE
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [lunokjod/watch](https://github.com/lunokjod/watch) - lunokWatch (lilygo twatch2020 series)
@@ -2423,7 +2427,7 @@
 - [0xc000022070/zen-browser-flake](https://github.com/0xc000022070/zen-browser-flake) - Community-driven Nix Flake for the Zen browser
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [0xarchit/0xDABmusic](https://github.com/0xarchit/0xDABmusic) - A client for DAB music for download, convert, enjoy your library All in one! First opening might be delayed due to unsigned package detection by defender on windows. Enjoy studio quality music (FLAC) 
-- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
 - [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -2821,6 +2825,8 @@
 
 ## others 
 
+- [Bx7788/Icloud-bypass](https://github.com/Bx7788/Icloud-bypass) - Free set of tools and scripts for unlocking older IOS devices using checkra1n and python
+- [Zibri/ZiPhone](https://github.com/Zibri/ZiPhone) - The best iPhone unlocker.
 - [Vertex-Mods/Search-Engine-Select](https://github.com/Vertex-Mods/Search-Engine-Select) - Adds a floating UI to switch search engines on a search results page.
 - [flantig/Zen-Tab-Wand](https://github.com/flantig/Zen-Tab-Wand) - 
 - [Vertex-Mods/zen-auto-wallpaper](https://github.com/Vertex-Mods/zen-auto-wallpaper) - A mod that switches wallpapers with your workspace.
@@ -2901,7 +2907,6 @@
 - [0xb0bb/0CD](https://github.com/0xb0bb/0CD) - BinaryNinja plugin to introduce some quality of life utilities for obsessive compulsive CTF enthusiasts
 - [carstein/Syscaller](https://github.com/carstein/Syscaller) - Binary Ninja Syscall Annotator
 - [KuLiPai/vitepress-blog](https://github.com/KuLiPai/vitepress-blog) - a nice blog theme use vitepress to build
-- [Mclisterjoeh2o/yellowkey-bitlocker](https://github.com/Mclisterjoeh2o/yellowkey-bitlocker) - yellowkey  bitlocker github vulnerability  bypass  cve-2026-45585 windows 11 security zero day exploit winre recovery mode poc nightmare eclipse chaotic eclipse exploit tool usb attack encryption hack
 - [sweetsky123/YellowKey](https://github.com/sweetsky123/YellowKey) - Bitlocker Bypass Vulnerability
 - [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng) - Another OneDrive public directory listing on Docker / Cloudflare Workers, forked from onedrive-vercel-index.
 - [nix-community/nixGL](https://github.com/nix-community/nixGL) - A wrapper tool for nix OpenGL application [maintainer=@guibou]
@@ -2935,7 +2940,7 @@
 - [JPCERTCC/Windows-Symbol-Tables](https://github.com/JPCERTCC/Windows-Symbol-Tables) - Windows symbol tables for Volatility 3
 - [w8mej/IRKnowledge](https://github.com/w8mej/IRKnowledge) - A curated list of tools for incident response
 - [aelrased/NuvioDesktop](https://github.com/aelrased/NuvioDesktop) - NuvioDesktop - Cross-platform media streaming app (Windows + Linux) with MPV playback, external player support, subtitle delay, and Trakt integration
-- [tedbigham/StremioChannels](https://github.com/tedbigham/StremioChannels) - 
+- [tedbigham/StremioChannels](https://github.com/tedbigham/StremioChannels) - Brings TMDB-powered movie and TV rows to your Android TV home screen or launcher.
 - [angr/nixpkgs](https://github.com/angr/nixpkgs) - angr related nixpkgs
 - [benjamin-luescher/apk-debuggable](https://github.com/benjamin-luescher/apk-debuggable) - Bash toolkit to make Android APKs debuggable and intercept HTTPS traffic. Automatically extracts APKs from a device, patches them to enable debugging and trust user CA certificates, re-signs, reinstal
 - [ozguralp/gmapsapiscanner](https://github.com/ozguralp/gmapsapiscanner) - 
@@ -3128,7 +3133,7 @@
 - [ACreTeam/ac-decomp](https://github.com/ACreTeam/ac-decomp) - Decompilation in progress of Animal Crossing for the Nintendo GameCube.
 - [flyngmt/ACGC-PC-Port](https://github.com/flyngmt/ACGC-PC-Port) - Unofficial PC Port of Animal Crossing Gamecube
 - [elder-plinius/GLOSSOPETRAE](https://github.com/elder-plinius/GLOSSOPETRAE) - LINGUISTIC ENGINE FOR AI
-- [William24hmar/nothing_android_kernel_sm7325](https://github.com/William24hmar/nothing_android_kernel_sm7325) - Branch : Rom-build/Lineage23-Rebase for Rom build , rest are Brickports
+- [William24hmar/nothing_android_kernel_sm7325](https://github.com/William24hmar/nothing_android_kernel_sm7325) - Branch : 'Staging-rom' for Rom build , rest are Brickports
 - [domiriel/peerforum](https://github.com/domiriel/peerforum) - Peergrading for Moodle forums
 - [TheMrKiko/peerforum](https://github.com/TheMrKiko/peerforum) - 
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
@@ -4225,6 +4230,7 @@
 - [K11MCH1/WinlatorTurnipDrivers](https://github.com/K11MCH1/WinlatorTurnipDrivers) - A repository for Winlator Mesa Turnip drivers.
 - [ahmad1abbadi/darkos](https://github.com/ahmad1abbadi/darkos) - small project that allow run pc games on android by wine using box64
 - [pitube08642/aircrack-ng-for-termux](https://github.com/pitube08642/aircrack-ng-for-termux) - 
+- [davidfegyver/facebook-533m](https://github.com/davidfegyver/facebook-533m) - 
 - [red-prig/fpPS4](https://github.com/red-prig/fpPS4) - PS4 compatibility layer (emulator) on Free Pascal
 - [K11MCH1/AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers) - A repository for Skyline, Strato, Vita3K and Yuzu Android compatible Adreno drivers.
 - [netux/grayjay-source-youtube](https://github.com/netux/grayjay-source-youtube) - Fork of https://gitlab.futo.org/videostreaming/plugins/youtube with DeArrow
@@ -4542,7 +4548,7 @@
 - [abusoww/tuxmate](https://github.com/abusoww/tuxmate) - THE MISSING BULK APP INSTALLER FOR LINUX
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured
 - [nikstur/lon](https://github.com/nikstur/lon) - Lock & update Nix dependencies
-- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 - [excalibur1234/pacui](https://github.com/excalibur1234/pacui) - Bash script providing advanced Pacman and Yay/Pikaur/Aurman/Pakku/Trizen/Pacaur/Pamac-cli functionality in a simple UI
@@ -4984,7 +4990,7 @@
 
 ## ruby 
 
-- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
@@ -5602,7 +5608,7 @@
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [samuelngs/apple-emoji-ttf](https://github.com/samuelngs/apple-emoji-ttf) - Brings Apple's vibrant color emojis to Linux, Windows, and the Web
-- [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
+- [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
