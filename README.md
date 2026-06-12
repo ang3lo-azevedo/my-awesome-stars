@@ -524,7 +524,7 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [BobbyESP/Jetispot](https://github.com/BobbyESP/Jetispot) - Unofficial Spotify client for Android built with Jetpack Compose, Material 3 and librespot-java. Fork ahead of Tayson's original repo. Read README!
 - [galaxygoldfish/pineapple](https://github.com/galaxygoldfish/pineapple) - 🍍 Reddit client for Android using Material You
-- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design.
+- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that support material you design.
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
 - [itsmartashub/floristyle](https://github.com/itsmartashub/floristyle) - Dynamic Material You themes for the Florisboard keyboard. Make the Florisboard keyboard's UI more similar to Gboard or Futo
 - [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
@@ -727,7 +727,7 @@
 - [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
 - [sayhiben/awesome-rabbit-r1](https://github.com/sayhiben/awesome-rabbit-r1) - A list of resources for hacking on the Rabbit r1
 - [Psyhackological/AAA](https://github.com/Psyhackological/AAA) - :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!
-- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design.
+- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that support material you design.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [doingodswork/awesome-stremio](https://github.com/doingodswork/awesome-stremio) - A curated list of awesome tools and addons for Stremio
@@ -770,7 +770,7 @@
 - [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) - A curated list of awesome mpv resources.
 - [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
 - [sayhiben/awesome-rabbit-r1](https://github.com/sayhiben/awesome-rabbit-r1) - A list of resources for hacking on the Rabbit r1
-- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design.
+- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that support material you design.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [doingodswork/awesome-stremio](https://github.com/doingodswork/awesome-stremio) - A curated list of awesome tools and addons for Stremio
@@ -2824,6 +2824,8 @@
 
 ## others 
 
+- [MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet) - RoguePlanet Windows Defender Vulnerability
+- [MSNightmare/GreatXML](https://github.com/MSNightmare/GreatXML) - GreatXML bitlocker bypass vulnerability
 - [Team-Juicr/Juicr](https://github.com/Team-Juicr/Juicr) - An Android app for the sources you choose. Browse, save, resume, and play without turning your media setup into a control room.
 - [Karan1155-op/mpv-modernP](https://github.com/Karan1155-op/mpv-modernP) - A highly optimized, battery-friendly OSC and File Browser for MPV player. Built for zero background processing and seamless binging.
 - [nekoxuee/hayase-osc](https://github.com/nekoxuee/hayase-osc) - mpv osc that mimics hayase's player ui
@@ -2948,7 +2950,7 @@
 - [omerbenamram/evtx](https://github.com/omerbenamram/evtx) - A Fast (and safe) parser for the Windows XML Event Log (EVTX) format
 - [JPCERTCC/Windows-Symbol-Tables](https://github.com/JPCERTCC/Windows-Symbol-Tables) - Windows symbol tables for Volatility 3
 - [w8mej/IRKnowledge](https://github.com/w8mej/IRKnowledge) - A curated list of tools for incident response
-- [aelrased/NuvioDesktop](https://github.com/aelrased/NuvioDesktop) - NuvioDesktop - Cross-platform media streaming app (Windows + Linux) with MPV playback, external player support, subtitle delay, and Trakt integration
+- [aelrased/NuvioDesktop-unofficial](https://github.com/aelrased/NuvioDesktop-unofficial) - NuvioDesktop - unofficial-platform media streaming app (Windows + Linux) with MPV playback, external player support, subtitle delay, and Trakt integration
 - [tedbigham/StremioChannels](https://github.com/tedbigham/StremioChannels) - Brings TMDB-powered movie and TV rows to your Android TV home screen or launcher.
 - [angr/nixpkgs](https://github.com/angr/nixpkgs) - angr related nixpkgs
 - [benjamin-luescher/apk-debuggable](https://github.com/benjamin-luescher/apk-debuggable) - Bash toolkit to make Android APKs debuggable and intercept HTTPS traffic. Automatically extracts APKs from a device, patches them to enable debugging and trust user CA certificates, re-signs, reinstal
@@ -2985,7 +2987,6 @@
 - [jittarao/torbox-app](https://github.com/jittarao/torbox-app) - A modern, power-user focused alternative to the default TorBox UI. Built for speed and efficiency.
 - [bashar0151/guides](https://github.com/bashar0151/guides) - User guides for various applicaitons
 - [FrancescoGrazioso/Meld](https://github.com/FrancescoGrazioso/Meld) - YouTube Music client for Android with Spotify integrations
-- [curious-freak/Purrfect](https://github.com/curious-freak/Purrfect) - 
 - [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) - 
 - [L1v1ng0ffTh3L4N/EdgeSavedPasswordsDumper](https://github.com/L1v1ng0ffTh3L4N/EdgeSavedPasswordsDumper) - Proof of concept to show that Edge stores credentials in cleartext
 - [AntonioAlves6/The-Witcher-Interactive-Fiction](https://github.com/AntonioAlves6/The-Witcher-Interactive-Fiction) - 
@@ -5595,6 +5596,7 @@
 
 ## windows 
 
+- [digitalsleuth/WIN-FOR](https://github.com/digitalsleuth/WIN-FOR) - Windows Forensics Environment Builder
 - [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 - [gl0bal01/volatility-toolkit](https://github.com/gl0bal01/volatility-toolkit) - Automated memory forensics for Windows, Linux, and macOS — Volatility 3 toolkit
 - [airbus-cert/regrippy](https://github.com/airbus-cert/regrippy) - A modern Python-3-based alternative to RegRipper
