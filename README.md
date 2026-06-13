@@ -934,7 +934,7 @@
 
 - [teamdfir/sift](https://github.com/teamdfir/sift) - SIFT
 - [niklashigi/apk-mitm](https://github.com/niklashigi/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [bakustarver/rpgmakermlinux-cicpoffs](https://github.com/bakustarver/rpgmakermlinux-cicpoffs) - Run any RPG Maker XP, VX, VX Ace, MV, MZ, TyranoBuilder, Godot, Construct 2/3, Nscripter game on linux natively
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
@@ -2191,6 +2191,7 @@
 
 ## linux 
 
+- [unixerius/XK0-006](https://github.com/unixerius/XK0-006) - Course files for CompTIA Linux+ XK0-005 and XK0-006
 - [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [gl0bal01/volatility-toolkit](https://github.com/gl0bal01/volatility-toolkit) - Automated memory forensics for Windows, Linux, and macOS — Volatility 3 toolkit
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
@@ -2348,7 +2349,7 @@
 - [symgraph/BinAssist](https://github.com/symgraph/BinAssist) - Binary Ninja plugin to provide LLM assistance analyzing binaries.
 - [symgraph/IDAssist](https://github.com/symgraph/IDAssist) - AI-Powered Reverse Engineering Plugin for IDA Pro
 - [OWASP/www-project-top-10-for-large-language-model-applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications) - OWASP Top 10 for Large Language Model Apps (Part of the GenAI Security Project)
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
@@ -2824,6 +2825,10 @@
 
 ## others 
 
+- [ang3lo-azevedo/cnv-exam-hub](https://github.com/ang3lo-azevedo/cnv-exam-hub) - 
+- [AlexanderPro/WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - WindowTextExtractor allows you to get a text from any window of an operating system including asterisk passwords
+- [PacktPublishing/CompTIA-Linux-XK0-006---The-Total-Course](https://github.com/PacktPublishing/CompTIA-Linux-XK0-006---The-Total-Course) - CompTIA Linux+ (XK0-006) - The Total Course,Published by Packt Publishing
+- [AILABS-WORK/Arcus_Challenge](https://github.com/AILABS-WORK/Arcus_Challenge) - 
 - [MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet) - RoguePlanet Windows Defender Vulnerability
 - [MSNightmare/GreatXML](https://github.com/MSNightmare/GreatXML) - GreatXML bitlocker bypass vulnerability
 - [Team-Juicr/Juicr](https://github.com/Team-Juicr/Juicr) - An Android app for the sources you choose. Browse, save, resume, and play without turning your media setup into a control room.
@@ -3175,7 +3180,6 @@
 - [PalisadeResearch/intercode](https://github.com/PalisadeResearch/intercode) - https://arxiv.org/abs/2412.02776
 - [tmylla/Awesome-LLM4Cybersecurity](https://github.com/tmylla/Awesome-LLM4Cybersecurity) - An overview of LLMs for cybersecurity.
 - [ibrahimsaleem/PentestThinkingMCP](https://github.com/ibrahimsaleem/PentestThinkingMCP) - A systematic, AI-powered penetration testing reasoning engine (MCP server) for attack path planning, CTF/HTB solving, and automated pentest workflows. Features Beam Search, MCTS, attack step scoring, 
-- [mkuritsu/helium-flake](https://github.com/mkuritsu/helium-flake) - Helium browser flake
 - [mkuritsu/nixconfig](https://github.com/mkuritsu/nixconfig) - My never complete nixos config
 - [duhenduhen/dGlyphs](https://github.com/duhenduhen/dGlyphs) - Unofficial Glyph implementation for Nothing Phone (1)
 - [rhowardstone/Epstein-research-data](https://github.com/rhowardstone/Epstein-research-data) - Structured data exports from forensic analysis of the 218GB DOJ Epstein file release — knowledge graph, entity extractions, image catalog, EFTA mapping
@@ -3243,7 +3247,7 @@
 - [osm0sis/AnyKernel3](https://github.com/osm0sis/AnyKernel3) - AnyKernel, Evolved
 - [xiaomi-mediatek-devs/android_kernel_xiaomi_mt6877](https://github.com/xiaomi-mediatek-devs/android_kernel_xiaomi_mt6877) - 
 - [LineageOS/android_hardware_xiaomi](https://github.com/LineageOS/android_hardware_xiaomi) - 
-- [Sonicx161/AIOManager](https://github.com/Sonicx161/AIOManager) - One manager to rule them all. Addon management, cross-device sync, and deep metrics for your entire Stremio setup. All without sacrificing your privacy.
+- [Sonicx161/AIOManager](https://github.com/Sonicx161/AIOManager) - One manager to rule them all. Addon management, cross-device sync, and deep metrics for your entire setup. All without sacrificing your privacy.
 - [Asymons/stremio-account-manager](https://github.com/Asymons/stremio-account-manager) - 
 - [Stremio/stremio-history-sync](https://github.com/Stremio/stremio-history-sync) - 
 - [sofoxe1/OyasumiVR](https://github.com/sofoxe1/OyasumiVR) - 🥽 VR Sleeping Utilities
@@ -5008,7 +5012,7 @@
 
 - [MTeaHead/niri-session-manager](https://github.com/MTeaHead/niri-session-manager) - Automatically save and restore windows in the Niri Wayland compositor, with additional configurable options.
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [trailofbits/mquire](https://github.com/trailofbits/mquire) - Zero-dependency Linux memory forensics PoC — leverages kernel-embedded BTF and kallsyms for type-aware memory analysis without external debug info.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
@@ -5286,7 +5290,7 @@
 ## terminal 
 
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -5341,7 +5345,7 @@
 
 ## tui 
 
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 - [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - Forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
