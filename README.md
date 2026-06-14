@@ -411,7 +411,7 @@
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
 - [iamlooper/Android-Enhancer](https://github.com/iamlooper/Android-Enhancer) - Enhances your Android to run smoother and last longer.
 - [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android
-- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user experience possible.
+- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - A third-party client for the Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and o
 - [jpdoshi/dragon-store](https://github.com/jpdoshi/dragon-store) - Dragon Store is your gateway to transparent, libre and free open-source apps.
 - [prirai/nira-browser](https://github.com/prirai/nira-browser) - Android browser with multiple profiles, PWAs, extension and tab groups based on Geckoview
 - [Harish-Srinivas-07/hivefy](https://github.com/Harish-Srinivas-07/hivefy) - Hivefy - Ad-free, offline-ready music streaming app with Spotify-style interface and JioSaavn API.
@@ -2126,7 +2126,7 @@
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 - [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android
-- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user experience possible.
+- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - A third-party client for the Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and o
 - [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [fym35/ZuckApp](https://github.com/fym35/ZuckApp) - Foss whatsapp client for android. Restored from a long hiatus. WIP
 - [ReVanced/revanced-manager-downloaders](https://github.com/ReVanced/revanced-manager-downloaders) - 🔌 ReVanced Manager downloaders
@@ -2825,6 +2825,8 @@
 
 ## others 
 
+- [jesseparot/ode-triunfal](https://github.com/jesseparot/ode-triunfal) - Locked write-up — unlock with the flag
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [ang3lo-azevedo/cnv-exam-hub](https://github.com/ang3lo-azevedo/cnv-exam-hub) - 
 - [AlexanderPro/WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - WindowTextExtractor allows you to get a text from any window of an operating system including asterisk passwords
 - [PacktPublishing/CompTIA-Linux-XK0-006---The-Total-Course](https://github.com/PacktPublishing/CompTIA-Linux-XK0-006---The-Total-Course) - CompTIA Linux+ (XK0-006) - The Total Course,Published by Packt Publishing
@@ -3742,7 +3744,6 @@
 - [F-i-f/soft-brightness](https://github.com/F-i-f/soft-brightness) - Gnome-shell extension to manage your display brightness via an alpha overlay (instead of the backlight).
 - [gonzazoid/Ultimatum](https://github.com/gonzazoid/Ultimatum) - Ultimatum is a chromium fork with webextensions support on Android, anti-detect browser capabilities, web3.0 support and much more
 - [pedrogiroldo/GalaxyControl](https://github.com/pedrogiroldo/GalaxyControl) - GUI to manage the specifc settings of Samsung Galaxy Book's driver for linux.
-- [KarlS0808/GalaxyBook2Linux](https://github.com/KarlS0808/GalaxyBook2Linux) - Issues and possible solutions to the galaxy book 2 NP750XED-KC1SE
 - [CeongyeonKhan/ALSA-Configuration-on-Samsung-GalaxyBook-Flex-in-Manjaro-Linux-System](https://github.com/CeongyeonKhan/ALSA-Configuration-on-Samsung-GalaxyBook-Flex-in-Manjaro-Linux-System) - Realtek ALC298 ALSA Configuration on Samsung GalaxyBook Flex in Manjaro Linux System
 - [tahlonbrahic/Galaxy-Book3-Pro-360-Arch-Linux](https://github.com/tahlonbrahic/Galaxy-Book3-Pro-360-Arch-Linux) - A guide and utilites for running Arch Linux on the Galaxy Book3 Pro 360
 - [joshuagrisham/galaxy-book2-pro-linux](https://github.com/joshuagrisham/galaxy-book2-pro-linux) - Notes and utilities for running Linux on the Samsung Galaxy Book2 Pro
