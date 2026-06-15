@@ -932,6 +932,7 @@
 
 ## cli 
 
+- [fabienjuif/swaytreesave](https://github.com/fabienjuif/swaytreesave) - CLI to save and load your compositors tree/layout
 - [teamdfir/sift](https://github.com/teamdfir/sift) - SIFT
 - [niklashigi/apk-mitm](https://github.com/niklashigi/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
@@ -1482,6 +1483,7 @@
 
 ## flutter 
 
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - An elegant virtual machine manager for the desktop
 - [Nandanrmenon/florid](https://github.com/Nandanrmenon/florid) - F-Droid Client
 - [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [Harish-Srinivas-07/hivefy](https://github.com/Harish-Srinivas-07/hivefy) - Hivefy - Ad-free, offline-ready music streaming app with Spotify-style interface and JioSaavn API.
@@ -1749,6 +1751,7 @@
 
 ## hacktoberfest 
 
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - An elegant virtual machine manager for the desktop
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [SuperAB123/Free-Official-Youtube-Content](https://github.com/SuperAB123/Free-Official-Youtube-Content) - Awesome list of Official YouTube Channels offering Free Official Content like Movies, Anime, Cartoons, Documentaries, TV Shows, Sports, VFX Breakdown
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
@@ -2191,6 +2194,7 @@
 
 ## linux 
 
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - An elegant virtual machine manager for the desktop
 - [unixerius/XK0-006](https://github.com/unixerius/XK0-006) - Course files for CompTIA Linux+ XK0-005 and XK0-006
 - [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [gl0bal01/volatility-toolkit](https://github.com/gl0bal01/volatility-toolkit) - Automated memory forensics for Windows, Linux, and macOS — Volatility 3 toolkit
@@ -2419,6 +2423,7 @@
 
 ## macos 
 
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - An elegant virtual machine manager for the desktop
 - [gl0bal01/volatility-toolkit](https://github.com/gl0bal01/volatility-toolkit) - Automated memory forensics for Windows, Linux, and macOS — Volatility 3 toolkit
 - [BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free, open-source music app that lets you stream and download high-quality tracks across all your devices. With a sleek, intuitive UI built for a seamless experience, it supports Android
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
@@ -2825,6 +2830,10 @@
 
 ## others 
 
+- [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check) - Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.
+- [DissectMalware/XLMMacroDeobfuscator](https://github.com/DissectMalware/XLMMacroDeobfuscator) - Extract and Deobfuscate XLM macros (a.k.a Excel 4.0 Macros)
+- [mandiant/flare-fakenet-ng](https://github.com/mandiant/flare-fakenet-ng) - FakeNet-NG - Next Generation Dynamic Network Analysis Tool
+- [amaanq/nirinit](https://github.com/amaanq/nirinit) - A session manager for Niri, a scrollable-tiling Wayland compositor
 - [jesseparot/ode-triunfal](https://github.com/jesseparot/ode-triunfal) - Locked write-up — unlock with the flag
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [ang3lo-azevedo/cnv-exam-hub](https://github.com/ang3lo-azevedo/cnv-exam-hub) - 
@@ -3506,7 +3515,7 @@
 - [apkunpacker/MagiskDetection](https://github.com/apkunpacker/MagiskDetection) - Collection of Some Publically Available POC Apps to Detect Root/Magisk presence.
 - [reveny/Android-Native-Root-Detector](https://github.com/reveny/Android-Native-Root-Detector) - A tool to detect root on android
 - [mModule/guide_hma](https://github.com/mModule/guide_hma) - This is a quick guide to hopefully make it a little easier for people new to Hide My Applist.
-- [theovilardo/PixelPlayer](https://github.com/theovilardo/PixelPlayer) - privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.
+- [PixelPlayerHQ/PixelPlayer](https://github.com/PixelPlayerHQ/PixelPlayer) - privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.
 - [ThePedroo/ReLSPosed](https://github.com/ThePedroo/ReLSPosed) - LSPosed Framework resuscitated
 - [rt-evil-inc/gira-mais](https://github.com/rt-evil-inc/gira-mais) - Aplicação alternativa para o sistema de bicicletas partilhadas de Lisboa
 - [Myst1cX/spotifuck-userscript](https://github.com/Myst1cX/spotifuck-userscript) - Ports the full Spotifuck 1.4.1 UI hack experience directly to the Spotify Web Player for use in the Firefox mobile browser.
@@ -3806,7 +3815,7 @@
 - [iptux/XCallRecording-xposed](https://github.com/iptux/XCallRecording-xposed) - LOS/CM Call Recording Settings (Xposed Mod)
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
 - [Magisk-Modules-Repo/wirelessFirmware](https://github.com/Magisk-Modules-Repo/wirelessFirmware) - wirelessFirmware
-- [zalexdev/strykerapp](https://github.com/zalexdev/strykerapp) - Magic tool for pentest from your android device! [Archived]
+- [zalexdev/strykerapp](https://github.com/zalexdev/strykerapp) - Magic tool for pentest from your android device!
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [rivenmedia/riven](https://github.com/rivenmedia/riven) - Handle your Media Library with ease!
 - [godver3/cli_debrid](https://github.com/godver3/cli_debrid) - 
@@ -4704,6 +4713,7 @@
 
 ## productivity 
 
+- [AdEx-Partners-DE/OpenNiri-Windows](https://github.com/AdEx-Partners-DE/OpenNiri-Windows) - Scrollable tiling window manager for Windows 10/11 in Rust - Niri-style horizontal workspace, global hotkeys, and multi-monitor support.
 - [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
 - [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's CLI and TUI client -- The ultimate weapon against brainrot
 - [johannesjo/linux-window-session-manager](https://github.com/johannesjo/linux-window-session-manager) - A tool to store and reload open windows and window positions for x11 desktops like unity and gnome.
@@ -5011,6 +5021,7 @@
 
 ## rust 
 
+- [AdEx-Partners-DE/OpenNiri-Windows](https://github.com/AdEx-Partners-DE/OpenNiri-Windows) - Scrollable tiling window manager for Windows 10/11 in Rust - Niri-style horizontal workspace, global hotkeys, and multi-monitor support.
 - [MTeaHead/niri-session-manager](https://github.com/MTeaHead/niri-session-manager) - Automatically save and restore windows in the Niri Wayland compositor, with additional configurable options.
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
@@ -5601,6 +5612,8 @@
 
 ## windows 
 
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - An elegant virtual machine manager for the desktop
+- [AdEx-Partners-DE/OpenNiri-Windows](https://github.com/AdEx-Partners-DE/OpenNiri-Windows) - Scrollable tiling window manager for Windows 10/11 in Rust - Niri-style horizontal workspace, global hotkeys, and multi-monitor support.
 - [digitalsleuth/WIN-FOR](https://github.com/digitalsleuth/WIN-FOR) - Windows Forensics Environment Builder
 - [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 - [gl0bal01/volatility-toolkit](https://github.com/gl0bal01/volatility-toolkit) - Automated memory forensics for Windows, Linux, and macOS — Volatility 3 toolkit
