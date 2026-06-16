@@ -277,7 +277,7 @@
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Safety guardrails for ai coding agents and human terminal commands
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Pioneering open-source coding agent
 
 ## agents 
 
@@ -324,7 +324,7 @@
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - On-device subtitle generation that connects directly to DaVinci Resolve, Premiere, and After Effects.
 - [ruwiss/ai-auto-free](https://github.com/ruwiss/ai-auto-free) - [AI Auto Free]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai, Windsurf Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on th
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Pioneering open-source coding agent
 - [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and then uses AI voice services to create a new dubbed & translated audio track where the speech is synced using the subtitle's t
 
 ## ai-agents 
@@ -932,6 +932,7 @@
 
 ## cli 
 
+- [berberman/nvfetcher](https://github.com/berberman/nvfetcher) - Generate nix sources expr for the latest version of packages
 - [fabienjuif/swaytreesave](https://github.com/fabienjuif/swaytreesave) - CLI to save and load your compositors tree/layout
 - [teamdfir/sift](https://github.com/teamdfir/sift) - SIFT
 - [niklashigi/apk-mitm](https://github.com/niklashigi/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
@@ -965,7 +966,7 @@
 - [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 - [NotAShelf/dotfiles](https://github.com/NotAShelf/dotfiles) - A repository for (mostly) everything that starts with a dot on my Arch Linux systems.
 - [HyDE-Project/Hyde-cli](https://github.com/HyDE-Project/Hyde-cli) - A HyDE CLI, wrapper, tweaks , workarounds, and more!
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Pioneering open-source coding agent
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
@@ -1163,7 +1164,7 @@
 - [flexpilot-ai/vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - Open-Source, Native and a True GitHub Copilot Alternative for VS Code
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Pioneering open-source coding agent
 
 ## development 
 
@@ -2373,7 +2374,6 @@
 - [flexpilot-ai/vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - Open-Source, Native and a True GitHub Copilot Alternative for VS Code
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 
 ## localization 
 
@@ -2764,7 +2764,7 @@
 - [flexpilot-ai/vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - Open-Source, Native and a True GitHub Copilot Alternative for VS Code
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [ferrumc-rs/ferrumc](https://github.com/ferrumc-rs/ferrumc) - A reimplementation of the minecraft server in rust.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Pioneering open-source coding agent
 
 ## openai 
 
@@ -2830,6 +2830,10 @@
 
 ## others 
 
+- [berberman/flakes](https://github.com/berberman/flakes) - Some packages I use on NixOS
+- [xXJSONDeruloXx/Decky-Framegen](https://github.com/xXJSONDeruloXx/Decky-Framegen) - Steam Deck Plugin to apply Framegen mods to games by replacing DLSS DLL with FSR3 DLL
+- [trakt/trakt-android](https://github.com/trakt/trakt-android) - Open source official native Trakt client for Android / Android TV
+- [bennybar/LuliReddit](https://github.com/bennybar/LuliReddit) - 
 - [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check) - Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.
 - [DissectMalware/XLMMacroDeobfuscator](https://github.com/DissectMalware/XLMMacroDeobfuscator) - Extract and Deobfuscate XLM macros (a.k.a Excel 4.0 Macros)
 - [mandiant/flare-fakenet-ng](https://github.com/mandiant/flare-fakenet-ng) - FakeNet-NG - Next Generation Dynamic Network Analysis Tool
@@ -3078,6 +3082,7 @@
 - [Stremio/stremio-linux-shell](https://github.com/Stremio/stremio-linux-shell) - Client for Stremio on Linux
 - [Sirosky/Upscale-Hub](https://github.com/Sirosky/Upscale-Hub) - A repository collecting image and video upscaling resources as well as my own super resolution models.
 - [Artoriuz/ArtCNN](https://github.com/Artoriuz/ArtCNN) - Simple SISR CNNs aimed at anime content
+- [flowerey/flower-mpv-config](https://github.com/flowerey/flower-mpv-config) - flower's configs for mpv. Automated builds are in releases tab.
 - [TheIntroDB/stremio-enhanced-plugin](https://github.com/TheIntroDB/stremio-enhanced-plugin) - Skip segments for shows and movies in Stremio Enhanced using TheIntroDB
 - [Rishabh5321/custom-packages-flake](https://github.com/Rishabh5321/custom-packages-flake) - Just some custom packages I use.
 - [Rishabh5321/playtorrio-flake](https://github.com/Rishabh5321/playtorrio-flake) - 
