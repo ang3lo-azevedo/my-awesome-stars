@@ -277,7 +277,7 @@
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Safety guardrails for ai coding agents and human terminal commands
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Pioneering open-source coding agent
+- [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 
 ## agents 
 
@@ -324,7 +324,7 @@
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - On-device subtitle generation that connects directly to DaVinci Resolve, Premiere, and After Effects.
 - [ruwiss/ai-auto-free](https://github.com/ruwiss/ai-auto-free) - [AI Auto Free]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai, Windsurf Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on th
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Pioneering open-source coding agent
+- [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and then uses AI voice services to create a new dubbed & translated audio track where the speech is synced using the subtitle's t
 
 ## ai-agents 
@@ -375,6 +375,7 @@
 - [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
 - [zenfyrdev/bootloader-unlock-wall-of-shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
 - [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) - An application to write OS images to USB drives, on Android, no root required.
+- [GPLaider/Ventoid](https://github.com/GPLaider/Ventoid) - Android OTG Ventoy-style USB writer - GPL-3.0-only, ad-free, available on F-Droid
 - [ycngmn/Nobook](https://github.com/ycngmn/Nobook) - Ad-free facebook lite for Android.
 - [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram) - 🧘 An updatable, open source Instagram app for Android without distractions.
 - [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring) - Android environment integrity inspection tool for root, hook, bootloader, SELinux, virtualization, and attestation signals
@@ -760,7 +761,7 @@
 - [neitsab/awesome-oracle-cloud-free-tier](https://github.com/neitsab/awesome-oracle-cloud-free-tier) - Curated list of awesome resources to make the best out of Oracle Cloud Infrastructure Free Tier
 - [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) - An Awesome List for getting started with web archiving
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced) - A curated list of all ReVanced resources, patches and projects!
+- [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced) - A curated list of all ReVanced and Morphe resources, patches and projects!
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk/ KernelSu & LSPosed(xposed) modules & rooting guides
@@ -966,7 +967,7 @@
 - [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 - [NotAShelf/dotfiles](https://github.com/NotAShelf/dotfiles) - A repository for (mostly) everything that starts with a dot on my Arch Linux systems.
 - [HyDE-Project/Hyde-cli](https://github.com/HyDE-Project/Hyde-cli) - A HyDE CLI, wrapper, tweaks , workarounds, and more!
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Pioneering open-source coding agent
+- [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
@@ -1164,7 +1165,7 @@
 - [flexpilot-ai/vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - Open-Source, Native and a True GitHub Copilot Alternative for VS Code
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Pioneering open-source coding agent
+- [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 
 ## development 
 
@@ -1670,7 +1671,6 @@
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [jacopone/antigravity-nix](https://github.com/jacopone/antigravity-nix) - Auto-updating Nix package for Google Antigravity agentic IDE. Updates 3x/week. FHS environment with overlay support for NixOS/Home Manager.
-- [tomycisco123/antigravity-nix](https://github.com/tomycisco123/antigravity-nix) - 🚀 Automate and manage Google Antigravity packaging for NixOS with auto-updating features and multi-platform support for seamless user experience.
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [BasGame1/Pixelify-Next](https://github.com/BasGame1/Pixelify-Next) - Magisk /KSU module to enables pixel exclusive features and ui that supports android 16
 - [nextcloud/integration_google](https://github.com/nextcloud/integration_google) - 🇬 Google integration into Nextcloud
@@ -2119,6 +2119,7 @@
 - [vishal2376/snaptick](https://github.com/vishal2376/snaptick) - Snaptick is an MVVM Jetpack Compose app, offering ad-free task management with a built-in pomodoro timer to help you organize your daily plans
 - [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Android feed reader app
 - [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) - An application to write OS images to USB drives, on Android, no root required.
+- [GPLaider/Ventoid](https://github.com/GPLaider/Ventoid) - Android OTG Ventoy-style USB writer - GPL-3.0-only, ad-free, available on F-Droid
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools and mods for Android nerds
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
@@ -2764,7 +2765,7 @@
 - [flexpilot-ai/vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - Open-Source, Native and a True GitHub Copilot Alternative for VS Code
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [ferrumc-rs/ferrumc](https://github.com/ferrumc-rs/ferrumc) - A reimplementation of the minecraft server in rust.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Pioneering open-source coding agent
+- [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 
 ## openai 
 
@@ -2830,6 +2831,7 @@
 
 ## others 
 
+- [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [berberman/flakes](https://github.com/berberman/flakes) - Some packages I use on NixOS
 - [xXJSONDeruloXx/Decky-Framegen](https://github.com/xXJSONDeruloXx/Decky-Framegen) - Steam Deck Plugin to apply Framegen mods to games by replacing DLSS DLL with FSR3 DLL
 - [trakt/trakt-android](https://github.com/trakt/trakt-android) - Open source official native Trakt client for Android / Android TV
@@ -2956,7 +2958,7 @@
 - [mrphrazer/reverser_ai](https://github.com/mrphrazer/reverser_ai) - Provides automated reverse engineering assistance through the use of local large language models (LLMs) on consumer hardware.
 - [HexRaysSA/ida-hcli](https://github.com/HexRaysSA/ida-hcli) - Hex-Rays CLI (HCLI)
 - [HexRaysSA/ida-chat-plugin](https://github.com/HexRaysSA/ida-chat-plugin) - 
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code and codex for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)
 - [ikarus23/kiosk-mode-breakout](https://github.com/ikarus23/kiosk-mode-breakout) - A collection of tips & tricks on how to escape a kiosk mode environment
 - [foreni-packages/hachoir-subfile](https://github.com/foreni-packages/hachoir-subfile) - hachoir-subfile : Find subfile in any binary stream
 - [cdgriffith/puremagic](https://github.com/cdgriffith/puremagic) - Pure python implementation of identifying files based off their magic numbers
@@ -3045,7 +3047,6 @@
 - [Seyud/device_faker](https://github.com/Seyud/device_faker) - 自定义配置Zygisk机型伪装
 - [dchrastil/ScrapedIn](https://github.com/dchrastil/ScrapedIn) - A tool to scrape LinkedIn without API restrictions for data reconnaissance
 - [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search
-- [GPLaider/Ventoid](https://github.com/GPLaider/Ventoid) - Clean Ventoy USB creator app - GPL compliant, ad-free, size optimized
 - [moffatman/chan](https://github.com/moffatman/chan) - Flutter imageboard browser for iOS and Android
 - [Adamantcheese/Kuroba](https://github.com/Adamantcheese/Kuroba) - Kuroba - imageboard browser for Android
 - [wchill/patcheddit](https://github.com/wchill/patcheddit) - Morphe patches for reddit apps
@@ -3186,7 +3187,7 @@
 - [0-Time/INCEPT.sh](https://github.com/0-Time/INCEPT.sh) - Offline Linux command inference engine that runs on low-resource and edge devices with no GPU, no API, and no internet connection required.
 - [ynsmroztas/AndroHunter](https://github.com/ynsmroztas/AndroHunter) - AndroHunter
 - [jthack/cewlai](https://github.com/jthack/cewlai) - ai-based domain name generation
-- [edenaion/EZ-CorridorKey](https://github.com/edenaion/EZ-CorridorKey) - Perfect Green Screen Keys made EZ!
+- [edenaion/EZ-CorridorKey](https://github.com/edenaion/EZ-CorridorKey) - Perfect Chroma Screen Keys made EZ! Brought to you by EZSCAPE
 - [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) - Perfect Green Screen Keys
 - [ptomato/inform7-ide](https://github.com/ptomato/inform7-ide) - A design system for interactive fiction based on natural language.
 - [ExTV/android_kernel_devicetree_nothing_sm7325](https://github.com/ExTV/android_kernel_devicetree_nothing_sm7325) - Nothing Phone 1 (Spacewar) device tree - SM7325/Lahaina
