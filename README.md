@@ -300,6 +300,7 @@
 - [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - runs anywhere. uses anything
 - [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
+- [edenaion/EZ-CorridorKey](https://github.com/edenaion/EZ-CorridorKey) - Perfect Chroma Screen Keys made EZ! Brought to you by EZSCAPE
 - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 - [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) - A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -691,6 +692,7 @@
 
 ## awesome 
 
+- [ligurio/awesome-ttygames](https://github.com/ligurio/awesome-ttygames) - Unix ASCII games
 - [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
 - [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Defund the Police.
 - [niri-wm/awesome-niri](https://github.com/niri-wm/awesome-niri) - An awesome list for niri related projects [Maintainer - @Vortriz]
@@ -1366,6 +1368,7 @@
 
 ## electron 
 
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [hitarth-gg/zenshin](https://github.com/hitarth-gg/zenshin) - 🔖 Web & Electron based Anime Streaming App for 🐈s
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
@@ -1539,6 +1542,7 @@
 
 ## game 
 
+- [ligurio/awesome-ttygames](https://github.com/ligurio/awesome-ttygames) - Unix ASCII games
 - [nix-community/steam-fetcher](https://github.com/nix-community/steam-fetcher) - A Nix fetcher for Steam apps
 - [htv04/funkin-rewritten](https://github.com/htv04/funkin-rewritten) - Optimized rewrite of Friday Night Funkin' built on LÖVE
 - [mtolly/onyx](https://github.com/mtolly/onyx) - Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games
@@ -1568,6 +1572,7 @@
 
 ## gaming 
 
+- [CarrotRub/Fit-Launcher](https://github.com/CarrotRub/Fit-Launcher) - A better version of my previous Fitgirl's Repacks Launcher. Made using Tauri with SolidJS.
 - [ndeadly/MissionControl](https://github.com/ndeadly/MissionControl) - Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. No dongles or other external hardware neccessary.
 - [Ketbome/hytalepanel](https://github.com/Ketbome/hytalepanel) - Docker image for Hytale dedicated server with web panel. Easy setup, auto-download, real-time console.
 - [keenanweaver/nix-config](https://github.com/keenanweaver/nix-config) - NixOS and home-manager config primarily for gaming (mirror)
@@ -1694,6 +1699,7 @@
 - [srinivasr/nirimod](https://github.com/srinivasr/nirimod) - NiriMod – A visual, interactive configuration interface for the niri Wayland compositor.
 - [GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq) - An open-source digital image forensic toolset
 - [XorTroll/Plutonium](https://github.com/XorTroll/Plutonium) - Easy-to-use, SDL2-based UI framework for Nintendo Switch homebrew
+- [edenaion/EZ-CorridorKey](https://github.com/edenaion/EZ-CorridorKey) - Perfect Chroma Screen Keys made EZ! Brought to you by EZSCAPE
 - [andyjsmith/Registry-Spy](https://github.com/andyjsmith/Registry-Spy) - Cross-platform registry browser for raw Windows registry files
 - [fortheusers/hb-appstore](https://github.com/fortheusers/hb-appstore) - Homebrew App Store - GUI for downloading/managing homebrew apps
 - [xob0t/gotohp](https://github.com/xob0t/gotohp) - Unofficial Google Photos Desktop GUI Client
@@ -2196,6 +2202,8 @@
 
 ## linux 
 
+- [garywill/linux-router](https://github.com/garywill/linux-router) - Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers 🛰️
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - An elegant virtual machine manager for the desktop
 - [unixerius/XK0-006](https://github.com/unixerius/XK0-006) - Course files for CompTIA Linux+ XK0-005 and XK0-006
 - [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
@@ -2534,6 +2542,7 @@
 
 ## microsoft 
 
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [abraunegg/onedrive](https://github.com/abraunegg/onedrive) - OneDrive Client for Linux
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
@@ -2831,6 +2840,11 @@
 
 ## others 
 
+- [AodhanHayter/opencode-flake](https://github.com/AodhanHayter/opencode-flake) - 
+- [boxdot/gurk-rs](https://github.com/boxdot/gurk-rs) - Signal Messenger client for terminal
+- [trigg/Discover](https://github.com/trigg/Discover) - Yet another discord overlay for linux
+- [DarkWebInformer/telegram_osint](https://github.com/DarkWebInformer/telegram_osint) - Terminal-based Telegram OSINT toolkit - profile users, analyse channels, enumerate members, and search chats, with JSON/CSV/Markdown export.
+- [ticohq/tico](https://github.com/ticohq/tico) - The first custom emulation frontend for Nintendo Switch. A controller-first interface built for performance and simplicity.
 - [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [berberman/flakes](https://github.com/berberman/flakes) - Some packages I use on NixOS
 - [xXJSONDeruloXx/Decky-Framegen](https://github.com/xXJSONDeruloXx/Decky-Framegen) - Steam Deck Plugin to apply Framegen mods to games by replacing DLSS DLL with FSR3 DLL
@@ -3134,7 +3148,7 @@
 - [verialabs/ctf-agent](https://github.com/verialabs/ctf-agent) - Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026.
 - [zandercodes/Atmosphere-unofficial](https://github.com/zandercodes/Atmosphere-unofficial) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [HamletDuFromage/nx-locale-switcher](https://github.com/HamletDuFromage/nx-locale-switcher) - Changes the locale for specific titles on your Nintendo Switch
-- [sthetix/hekate-ext](https://github.com/sthetix/hekate-ext) - A GUI based Nintendo Switch Bootloader with extended feature
+- [sthetix/Hekatos](https://github.com/sthetix/Hekatos) - A GUI based Nintendo Switch Bootloader with extended feature
 - [sthetix/DowngradeFixer](https://github.com/sthetix/DowngradeFixer) - A  payload designed to fix issues encountered when downgrading Nintendo Switch firmware
 - [exelix11/theme-patches](https://github.com/exelix11/theme-patches) - Qlaunch patches needed for custom themes but hosted on another repo
 - [NexlifyHub/SystemEnhancer](https://github.com/NexlifyHub/SystemEnhancer) - Patches for console system
@@ -3164,7 +3178,7 @@
 - [ACreTeam/ac-decomp](https://github.com/ACreTeam/ac-decomp) - Decompilation in progress of Animal Crossing for the Nintendo GameCube.
 - [flyngmt/ACGC-PC-Port](https://github.com/flyngmt/ACGC-PC-Port) - Unofficial PC Port of Animal Crossing Gamecube
 - [elder-plinius/GLOSSOPETRAE](https://github.com/elder-plinius/GLOSSOPETRAE) - LINGUISTIC ENGINE FOR AI
-- [William24hmar/nothing_android_kernel_sm7325](https://github.com/William24hmar/nothing_android_kernel_sm7325) - Branch : 'Staging-rom' for Rom build , rest are Brickports
+- [William24hmar/nothing_android_kernel_sm7325](https://github.com/William24hmar/nothing_android_kernel_sm7325) - For Rom build, use Branch : A16-ROM / Staging-rom
 - [domiriel/peerforum](https://github.com/domiriel/peerforum) - Peergrading for Moodle forums
 - [TheMrKiko/peerforum](https://github.com/TheMrKiko/peerforum) - 
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
@@ -3187,7 +3201,6 @@
 - [0-Time/INCEPT.sh](https://github.com/0-Time/INCEPT.sh) - Offline Linux command inference engine that runs on low-resource and edge devices with no GPU, no API, and no internet connection required.
 - [ynsmroztas/AndroHunter](https://github.com/ynsmroztas/AndroHunter) - AndroHunter
 - [jthack/cewlai](https://github.com/jthack/cewlai) - ai-based domain name generation
-- [edenaion/EZ-CorridorKey](https://github.com/edenaion/EZ-CorridorKey) - Perfect Chroma Screen Keys made EZ! Brought to you by EZSCAPE
 - [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) - Perfect Green Screen Keys
 - [ptomato/inform7-ide](https://github.com/ptomato/inform7-ide) - A design system for interactive fiction based on natural language.
 - [ExTV/android_kernel_devicetree_nothing_sm7325](https://github.com/ExTV/android_kernel_devicetree_nothing_sm7325) - Nothing Phone 1 (Spacewar) device tree - SM7325/Lahaina
@@ -5027,6 +5040,7 @@
 
 ## rust 
 
+- [CarrotRub/Fit-Launcher](https://github.com/CarrotRub/Fit-Launcher) - A better version of my previous Fitgirl's Repacks Launcher. Made using Tauri with SolidJS.
 - [AdEx-Partners-DE/OpenNiri-Windows](https://github.com/AdEx-Partners-DE/OpenNiri-Windows) - Scrollable tiling window manager for Windows 10/11 in Rust - Niri-style horizontal workspace, global hotkeys, and multi-monitor support.
 - [MTeaHead/niri-session-manager](https://github.com/MTeaHead/niri-session-manager) - Automatically save and restore windows in the Niri Wayland compositor, with additional configurable options.
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
@@ -5307,6 +5321,7 @@
 
 ## terminal 
 
+- [ligurio/awesome-ttygames](https://github.com/ligurio/awesome-ttygames) - Unix ASCII games
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
