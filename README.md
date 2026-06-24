@@ -137,6 +137,7 @@
 - [jetpack-compose](#jetpack-compose)
 - [jquery](#jquery)
 - [js](#js)
+- [jupyter-notebook](#jupyter-notebook)
 - [kali-linux](#kali-linux)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
@@ -355,6 +356,7 @@
 
 ## android 
 
+- [Jipok/website-to-apk](https://github.com/Jipok/website-to-apk) - Easy create Android app for website. Wrapper for WebView with userscripts
 - [kaleedtc/Nitterium](https://github.com/kaleedtc/Nitterium) - A privacy-focused Android app and wrapper for Nitter, allowing you to browse Twitter/X content without an account and subscribe to your favorite user profiles.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) - Check updates for Android apps, Magisk modules and more!
@@ -670,6 +672,7 @@
 
 ## automation 
 
+- [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 - [hovanhoa/cursor-free-vip](https://github.com/hovanhoa/cursor-free-vip) - [Support 0.48.x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accoun
 - [SazumiVicky/cursor-reset-tools](https://github.com/SazumiVicky/cursor-reset-tools) - Cursor IDE tried banning your country? This tool laughs at restrictions - resets Machine IDs, bypasses token limits, unlocks Pro features, and generates disposable emails with auto verification. Becau
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -987,6 +990,7 @@
 
 ## cloud 
 
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [neitsab/awesome-oracle-cloud-free-tier](https://github.com/neitsab/awesome-oracle-cloud-free-tier) - Curated list of awesome resources to make the best out of Oracle Cloud Infrastructure Free Tier
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
@@ -1386,6 +1390,7 @@
 
 ## electron 
 
+- [liriliri/rem](https://github.com/liriliri/rem) - Rclone desktop app
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [hitarth-gg/zenshin](https://github.com/hitarth-gg/zenshin) - 🔖 Web & Electron based Anime Streaming App for 🐈s
@@ -1422,6 +1427,7 @@
 
 ## emulator 
 
+- [0xNikilite/oboromi](https://github.com/0xNikilite/oboromi) - a proof-of-concept project for a possible Nintendo Switch 2 emulator.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [harryjph/android-auto-headunit](https://github.com/harryjph/android-auto-headunit) - Android Auto Headunit Emulator
@@ -1781,6 +1787,7 @@
 
 ## hacktoberfest 
 
+- [biplobsd/OneClickRun](https://github.com/biplobsd/OneClickRun) - Another colab notebook!
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - An elegant virtual machine manager for the desktop
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
@@ -2132,6 +2139,10 @@
 
 - [mohetios/BandersnatchInteractive](https://github.com/mohetios/BandersnatchInteractive) - Bandersnatch Interactive Player (based on html5 video player)
 
+## jupyter-notebook 
+
+- [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.⚡
+
 ## kali-linux 
 
 - [LayeSec006/pentest-mcp-server](https://github.com/LayeSec006/pentest-mcp-server) - MCP server for penetration testing
@@ -2226,6 +2237,10 @@
 
 ## linux 
 
+- [K3vinb5/unyo-app](https://github.com/K3vinb5/unyo-app) - 🐙 Anime streaming and Manga reader desktop app without ads.
+- [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
+- [victordantasdev/waybar](https://github.com/victordantasdev/waybar) - Simple waybar configuration approved by @ThePrimeagen
+- [biplobsd/OneClickRun](https://github.com/biplobsd/OneClickRun) - Another colab notebook!
 - [Y0oshi/Cursor-Trial-Reset](https://github.com/Y0oshi/Cursor-Trial-Reset) - Bypass Cursor IDE trial limits automatically. Updated for Cursor 2.x and 0.45+
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [garywill/linux-router](https://github.com/garywill/linux-router) - Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers 🛰️
@@ -2458,6 +2473,8 @@
 
 ## macos 
 
+- [K3vinb5/unyo-app](https://github.com/K3vinb5/unyo-app) - 🐙 Anime streaming and Manga reader desktop app without ads.
+- [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 - [Y0oshi/Cursor-Trial-Reset](https://github.com/Y0oshi/Cursor-Trial-Reset) - Bypass Cursor IDE trial limits automatically. Updated for Cursor 2.x and 0.45+
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - An elegant virtual machine manager for the desktop
 - [gl0bal01/volatility-toolkit](https://github.com/gl0bal01/volatility-toolkit) - Automated memory forensics for Windows, Linux, and macOS — Volatility 3 toolkit
@@ -2765,6 +2782,7 @@
 
 ## open-source 
 
+- [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [kaleedtc/Nitterium](https://github.com/kaleedtc/Nitterium) - A privacy-focused Android app and wrapper for Nitter, allowing you to browse Twitter/X content without an account and subscribe to your favorite user profiles.
 - [cugu/awesome-forensics](https://github.com/cugu/awesome-forensics) - ⭐️ A curated list of awesome forensic analysis tools and resources
@@ -2869,6 +2887,14 @@
 
 ## others 
 
+- [aelrased/NuvioDesktop](https://github.com/aelrased/NuvioDesktop) - 
+- [martiniano/cpu-cooler](https://github.com/martiniano/cpu-cooler) - 
+- [pazguille/offline-first](https://github.com/pazguille/offline-first) - :electric_plug: Everything you need to know to create offline-first web apps.
+- [cmj2002/warp-docker](https://github.com/cmj2002/warp-docker) - Run Cloudflare WARP in Docker.
+- [prdgmshift/usbliter8](https://github.com/prdgmshift/usbliter8) - An A12/A13 SecureROM exploit
+- [chmouel/nextmeeting](https://github.com/chmouel/nextmeeting) - nextmeeting - Show your google calendar or caldav next meeting in your waybar or polybar
+- [tonikelope/megabasterd](https://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
+- [SeanHaz/stremio-purge](https://github.com/SeanHaz/stremio-purge) - Clears built in stremio continue watching
 - [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [rubiojr/awesome-restic](https://github.com/rubiojr/awesome-restic) - Awesome Restic related projects
 - [Trackflaw/CVE-2023-25203](https://github.com/Trackflaw/CVE-2023-25203) - CVE-2023-25203: Application Vulnerable to SSRF (Server Side Request Forgery) Attacks
@@ -2890,7 +2916,7 @@
 - [ticohq/tico](https://github.com/ticohq/tico) - The first custom emulation frontend for Nintendo Switch. A controller-first interface built for performance and simplicity.
 - [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [berberman/flakes](https://github.com/berberman/flakes) - Some packages I use on NixOS
-- [xXJSONDeruloXx/Decky-Framegen](https://github.com/xXJSONDeruloXx/Decky-Framegen) - Steam Deck Plugin to apply Framegen mods to games by replacing DLSS DLL with FSR3 DLL
+- [xXJSONDeruloXx/Decky-Framegen](https://github.com/xXJSONDeruloXx/Decky-Framegen) - Steam Deck Plugin to apply Optiscaler upscaling and frame gen mods in game mode
 - [trakt/trakt-android](https://github.com/trakt/trakt-android) - Open source official native Trakt client for Android / Android TV
 - [bennybar/LuliReddit](https://github.com/bennybar/LuliReddit) - 
 - [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check) - Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.
@@ -3191,7 +3217,7 @@
 - [verialabs/ctf-agent](https://github.com/verialabs/ctf-agent) - Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026.
 - [zandercodes/Atmosphere-unofficial](https://github.com/zandercodes/Atmosphere-unofficial) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [HamletDuFromage/nx-locale-switcher](https://github.com/HamletDuFromage/nx-locale-switcher) - Changes the locale for specific titles on your Nintendo Switch
-- [sthetix/Hekatos](https://github.com/sthetix/Hekatos) - A GUI based Nintendo Switch Bootloader with extended feature
+- [sthetix/Hekatos](https://github.com/sthetix/Hekatos) - An unofficial Hekate fork
 - [sthetix/DowngradeFixer](https://github.com/sthetix/DowngradeFixer) - A  payload designed to fix issues encountered when downgrading Nintendo Switch firmware
 - [exelix11/theme-patches](https://github.com/exelix11/theme-patches) - Qlaunch patches needed for custom themes but hosted on another repo
 - [NexlifyHub/SystemEnhancer](https://github.com/NexlifyHub/SystemEnhancer) - Patches for console system
@@ -4245,7 +4271,6 @@
 - [hardenedvault/bootkit-samples](https://github.com/hardenedvault/bootkit-samples) - Bootkit sample for firmware attack
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) - 
-- [n0raitor/archlinux-installer](https://github.com/n0raitor/archlinux-installer) - An Arch Linux Bash Script to run in the Arch Linux Live OS to install Arch the Arch way. This Script contains all my personal preferences and is specially adjusted for my purposes. Feel free to take a
 - [wjH-3/Mediarr](https://github.com/wjH-3/Mediarr) - API-driven, all-in-one Windows CLI app for Real-Debrid with integration of IMDb, TVMaze, DMM, PTT, RTN, MPV, TRaSH Guides' HQ Release Groups, SeaDex, AniList & Nyaa
 - [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles) - 
 - [typecraft-dev/dotfiles](https://github.com/typecraft-dev/dotfiles) - 
@@ -4776,6 +4801,7 @@
 
 ## productivity 
 
+- [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 - [AdEx-Partners-DE/OpenNiri-Windows](https://github.com/AdEx-Partners-DE/OpenNiri-Windows) - Scrollable tiling window manager for Windows 10/11 in Rust - Niri-style horizontal workspace, global hotkeys, and multi-monitor support.
 - [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
 - [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's CLI and TUI client -- The ultimate weapon against brainrot
@@ -4817,6 +4843,7 @@
 
 ## python 
 
+- [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 - [fortra/impacket](https://github.com/fortra/impacket) - Impacket is a collection of Python classes for working with network protocols.
 - [p0dalirius/ctfd-parser](https://github.com/p0dalirius/ctfd-parser) - A python script to dump all the challenges locally of a CTFd-based Capture the Flag.
 - [vladko312/SSTImap](https://github.com/vladko312/SSTImap) - Automatic SSTI detection tool with interactive interface
@@ -5553,6 +5580,7 @@
 
 ## userscript 
 
+- [Jipok/website-to-apk](https://github.com/Jipok/website-to-apk) - Easy create Android app for website. Wrapper for WebView with userscripts
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 - [JingMatrix/ChromeXt](https://github.com/JingMatrix/ChromeXt) - UserScript and DevTools supports for Chromium based and WebView based browsers
 - [Batlez/ChatGPT-Jailbreak-Pro](https://github.com/Batlez/ChatGPT-Jailbreak-Pro) - The ultimate ChatGPT Jailbreak Tool with stunning themes, categorized prompts, and a user-friendly interface.
@@ -5687,6 +5715,7 @@
 
 ## website 
 
+- [Jipok/website-to-apk](https://github.com/Jipok/website-to-apk) - Easy create Android app for website. Wrapper for WebView with userscripts
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [Istador/smoo.it](https://github.com/Istador/smoo.it) - Website for Super Mario Odyssey: Online
@@ -5698,6 +5727,7 @@
 
 ## windows 
 
+- [K3vinb5/unyo-app](https://github.com/K3vinb5/unyo-app) - 🐙 Anime streaming and Manga reader desktop app without ads.
 - [Y0oshi/Cursor-Trial-Reset](https://github.com/Y0oshi/Cursor-Trial-Reset) - Bypass Cursor IDE trial limits automatically. Updated for Cursor 2.x and 0.45+
 - [strozfriedberg/sidr](https://github.com/strozfriedberg/sidr) - Search Index Database Reporter
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - An elegant virtual machine manager for the desktop
