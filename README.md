@@ -6,6 +6,7 @@
 ## Contents
 
 - [agent](#agent)
+- [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
@@ -282,6 +283,10 @@
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 
+## agent-skills 
+
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,600+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official
+
 ## agents 
 
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
@@ -356,6 +361,7 @@
 
 ## android 
 
+- [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositorie
 - [Jipok/website-to-apk](https://github.com/Jipok/website-to-apk) - Easy create Android app for website. Wrapper for WebView with userscripts
 - [kaleedtc/Nitterium](https://github.com/kaleedtc/Nitterium) - A privacy-focused Android app and wrapper for Nitter, allowing you to browse Twitter/X content without an account and subscribe to your favorite user profiles.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
@@ -609,6 +615,7 @@
 
 ## archlinux 
 
+- [winesapOS/winesapOS](https://github.com/winesapOS/winesapOS) - winesapOS - Game with Linux anywhere, no installation required!
 - [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
 - [Vonr/parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
 - [savely-krasovsky/waybar-updates](https://github.com/savely-krasovsky/waybar-updates) - Tiny Waybar module to check Arch Linux updates from official repositories and AUR.
@@ -1578,6 +1585,7 @@
 
 ## game 
 
+- [plbrault/youre-the-os](https://github.com/plbrault/youre-the-os) - A game where you are a computer's OS and you have to manage processes, memory and I/O events.
 - [ligurio/awesome-ttygames](https://github.com/ligurio/awesome-ttygames) - Unix ASCII games
 - [nix-community/steam-fetcher](https://github.com/nix-community/steam-fetcher) - A Nix fetcher for Steam apps
 - [htv04/funkin-rewritten](https://github.com/htv04/funkin-rewritten) - Optimized rewrite of Friday Night Funkin' built on LÖVE
@@ -1597,6 +1605,7 @@
 
 ## games 
 
+- [dreamer/boxtron](https://github.com/dreamer/boxtron) - Steam Play compatibility tool to run DOS games using native Linux DOSBox
 - [privateersclub/wiki](https://github.com/privateersclub/wiki) - 🌊 The most comprehensive game piracy wiki on the internet.
 - [Aleks-Levet/better-nothing-music-visualizer](https://github.com/Aleks-Levet/better-nothing-music-visualizer) - An android app that provides better music visualization for the Glyph Interface of Nothing Phones, and that also lets you feel your music through the haptic vibration motor.
 - [Faugus/faugus-launcher](https://github.com/Faugus/faugus-launcher) - A simple and lightweight app for running Windows games using UMU-Launcher
@@ -1608,6 +1617,7 @@
 
 ## gaming 
 
+- [winesapOS/winesapOS](https://github.com/winesapOS/winesapOS) - winesapOS - Game with Linux anywhere, no installation required!
 - [CarrotRub/Fit-Launcher](https://github.com/CarrotRub/Fit-Launcher) - A better version of my previous Fitgirl's Repacks Launcher. Made using Tauri with SolidJS.
 - [ndeadly/MissionControl](https://github.com/ndeadly/MissionControl) - Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. No dongles or other external hardware neccessary.
 - [Ketbome/hytalepanel](https://github.com/Ketbome/hytalepanel) - Docker image for Hytale dedicated server with web panel. Easy setup, auto-download, real-time console.
@@ -2251,6 +2261,7 @@
 
 ## linux 
 
+- [winesapOS/winesapOS](https://github.com/winesapOS/winesapOS) - winesapOS - Game with Linux anywhere, no installation required!
 - [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
 - [SildurFX/Switchdeck](https://github.com/SildurFX/Switchdeck) - Steam ARM64 for the Nintendo Switch 1 (L4T)
 - [dnstt-xyz/dnstt_xyz_app](https://github.com/dnstt-xyz/dnstt_xyz_app) - Multi-platform dnstt client for restricted networks like Iran, China, Russia or maybe your mom firewall
@@ -2271,7 +2282,7 @@
 - [BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free, open-source music app that lets you stream and download high-quality tracks across all your devices. With a sleek, intuitive UI built for a seamless experience, it supports Android
 - [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
 - [yelanxin/hiresTI](https://github.com/yelanxin/hiresTI) - hiresTI is a modern, high-fidelity TIDAL client for Linux, designed for USB passthrough and bit-perfect playback.
-- [trailofbits/mquire](https://github.com/trailofbits/mquire) - Zero-dependency Linux memory forensics PoC — leverages kernel-embedded BTF and kallsyms for type-aware memory analysis without external debug info.
+- [trailofbits/mquire](https://github.com/trailofbits/mquire) - Zero-dependency Linux memory forensics, leveraging kernel-embedded BTF and kallsyms for type-aware memory analysis without external debug info.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [bakustarver/rpgmakermlinux-cicpoffs](https://github.com/bakustarver/rpgmakermlinux-cicpoffs) - Run any RPG Maker XP, VX, VX Ace, MV, MZ, TyranoBuilder, Godot, Construct 2/3, Nscripter game on linux natively
@@ -2474,6 +2485,7 @@
 
 ## mac 
 
+- [winesapOS/winesapOS](https://github.com/winesapOS/winesapOS) - winesapOS - Game with Linux anywhere, no installation required!
 - [ikus060/minarca](https://github.com/ikus060/minarca) - Self-hosted opensource data backup for Linux, Windows and Mac. Git mirror of https://gitlab.com/ikus-soft/minarca
 - [Abyss-W4tcher/volatility3-symbols](https://github.com/Abyss-W4tcher/volatility3-symbols) - Collection of Linux and macOS Volatility3 Intermediate Symbol Files (ISF), suitable for memory analysis 🔍
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
@@ -2491,6 +2503,7 @@
 
 ## macos 
 
+- [winesapOS/winesapOS](https://github.com/winesapOS/winesapOS) - winesapOS - Game with Linux anywhere, no installation required!
 - [dnstt-xyz/dnstt_xyz_app](https://github.com/dnstt-xyz/dnstt_xyz_app) - Multi-platform dnstt client for restricted networks like Iran, China, Russia or maybe your mom firewall
 - [K3vinb5/unyo-app](https://github.com/K3vinb5/unyo-app) - 🐙 Anime streaming and Manga reader desktop app without ads.
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
@@ -2541,6 +2554,8 @@
 
 ## malware 
 
+- [hagezi/dns-servers](https://github.com/hagezi/dns-servers) - HaGeZi DNS: Free, Non-Commercial EU Public DNS Servers
+- [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd blocklist
 - [aw-junaid/Hacking-Tools](https://github.com/aw-junaid/Hacking-Tools) - This Repository is a collection of different ethical hacking tools and malware's for penetration testing and research purpose written in python, ruby, rust, c++, go and c.
 - [DarkWebInformer/Threat-Surface](https://github.com/DarkWebInformer/Threat-Surface) - Threat-Surface helps with daily tracking of exposed servers, open ports, and infrastructure used by threat actors.
 - [mandiant/flare-floss](https://github.com/mandiant/flare-floss) - FLARE Obfuscated String Solver - Automatically extract obfuscated strings from malware.
@@ -2907,6 +2922,19 @@
 
 ## others 
 
+- [harimoradiya/TV-Remote-for-Android-TV](https://github.com/harimoradiya/TV-Remote-for-Android-TV) - TV Remote for Android TV is a fast, secure, and completely free Android application that turns your smartphone into a reliable remote control for Android TV and compatible Smart TVs.
+- [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
+- [eylenburg/linoffice](https://github.com/eylenburg/linoffice) - Microsoft Office Launcher for Linux
+- [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
+- [andyholmes/valent](https://github.com/andyholmes/valent) - Connect, control and sync devices
+- [SaruM4N3/MonkeyLauncher](https://github.com/SaruM4N3/MonkeyLauncher) - 
+- [RisenAU/Waybar-autohide](https://github.com/RisenAU/Waybar-autohide) - A basic script that autohides waybar on hyprland
+- [bethropolis/kcd](https://github.com/bethropolis/kcd) - A lightweight, fully headless KDE Connect daemon written in Go. Perfect for minimal window managers (Sway/Hyprland), and terminal automation.
+- [DarkWebInformer/telegram_delete](https://github.com/DarkWebInformer/telegram_delete) - A Python script that bulk-deletes messages from a Telegram channel you own or administer, using the Telethon library.
+- [tbeezy/ynotv](https://github.com/tbeezy/ynotv) - Modern FOSS Windows IPTV Player w/ Stremio & Nuvio integration
+- [SleepTheGod/pwned-search](https://github.com/SleepTheGod/pwned-search) - 🔍 High-performance REST API for searching archived database leaks. Features parallel scanning, Redis caching, async Celery tasks, rate limiting, and export capabilities. Perfect for security research 
+- [Adrien5902/kdeconnect_waybar](https://github.com/Adrien5902/kdeconnect_waybar) - 📱A KDE Connect module for waybar ⚙️
+- [renniepak/CSPBypass](https://github.com/renniepak/CSPBypass) - CSPBypass.com, a tool designed to help ethical hackers bypass restrictive Content Security Policies (CSP) and exploit XSS (Cross-Site Scripting) vulnerabilities on sites where injections are blocked b
 - [kennylevinsen/greetd](https://github.com/kennylevinsen/greetd) - [mirror] A generic greeter daemon (https://sr.ht/~kennylevinsen/greetd)
 - [AshleyYakeley/NixVirt](https://github.com/AshleyYakeley/NixVirt) - LibVirt domain management for Nix
 - [kodicw/imperative-containment](https://github.com/kodicw/imperative-containment) - 
@@ -3417,6 +3445,7 @@
 - [QuickHasaCat/leetFeedback-extension](https://github.com/QuickHasaCat/leetFeedback-extension) - Chrome Extension for traverse
 - [lqSky7/leetFeedback-extension](https://github.com/lqSky7/leetFeedback-extension) - A fully automated chrome extension integrating all major DSA learning platforms and making learning easier for everyone.                                                   This is a part of Traverse Ec
 - [ang3lo-azevedo/noogle-magisk-playstore](https://github.com/ang3lo-azevedo/noogle-magisk-playstore) - Default noodle-magisk with added modded Play Store
+- [nin0-dev/VendroidEnhanced](https://github.com/nin0-dev/VendroidEnhanced) - VendroidEnhanced is a fork of Vendroid, a custom client for Discord that loads the mobile website and injects Vencord, the cutest client mod.
 - [sunmeplz/xray-3x-ui](https://github.com/sunmeplz/xray-3x-ui) - NixOS module for 3x-ui Xray panel
 - [DaViDev985/device_nothing_Spacewar](https://github.com/DaViDev985/device_nothing_Spacewar) - New DerpFest device tree for Nothing Phone (1) (Spacewar). Forked from LineageOS. ⚠️ Force push warning
 - [rxappdev/MouseTiler](https://github.com/rxappdev/MouseTiler) - The fastest, simplest tiler for KDE Plasma 6+ that gives you full freedom at your fingertip. No need to remember dozens of keyboard shortcuts or be limited by a fixed tile layout.
@@ -4676,6 +4705,7 @@
 
 ## p2p 
 
+- [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 - [FlavioFS/ParsecSoda](https://github.com/FlavioFS/ParsecSoda) - Parsec Soda is a custom open-source game streaming app that integrates with Parsec API and is focused in Host experience.
 - [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is b
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -4775,6 +4805,8 @@
 
 ## privacy 
 
+- [hagezi/dns-servers](https://github.com/hagezi/dns-servers) - HaGeZi DNS: Free, Non-Commercial EU Public DNS Servers
+- [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositorie
 - [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience.
 - [F0rc3Run/F0rc3Run](https://github.com/F0rc3Run/F0rc3Run) - Free VPNs with VMess, VLESS, Shadowsocks & SSTP — powered by V2rayCollector. Bypass censorship, protect your privacy, and enjoy fast, secure, and unrestricted internet access.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
@@ -4878,6 +4910,7 @@
 
 ## python 
 
+- [plbrault/youre-the-os](https://github.com/plbrault/youre-the-os) - A game where you are a computer's OS and you have to manage processes, memory and I/O events.
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 - [fortra/impacket](https://github.com/fortra/impacket) - Impacket is a collection of Python classes for working with network protocols.
 - [p0dalirius/ctfd-parser](https://github.com/p0dalirius/ctfd-parser) - A python script to dump all the challenges locally of a CTFd-based Capture the Flag.
@@ -5169,7 +5202,7 @@
 - [MTeaHead/niri-session-manager](https://github.com/MTeaHead/niri-session-manager) - Automatically save and restore windows in the Niri Wayland compositor, with additional configurable options.
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
-- [trailofbits/mquire](https://github.com/trailofbits/mquire) - Zero-dependency Linux memory forensics PoC — leverages kernel-embedded BTF and kallsyms for type-aware memory analysis without external debug info.
+- [trailofbits/mquire](https://github.com/trailofbits/mquire) - Zero-dependency Linux memory forensics, leveraging kernel-embedded BTF and kallsyms for type-aware memory analysis without external debug info.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
@@ -5213,6 +5246,8 @@
 
 ## security 
 
+- [hagezi/dns-servers](https://github.com/hagezi/dns-servers) - HaGeZi DNS: Free, Non-Commercial EU Public DNS Servers
+- [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositorie
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
@@ -5283,6 +5318,7 @@
 
 ## self-hosted 
 
+- [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -5374,7 +5410,7 @@
 ## sql 
 
 - [binarymaster/3WiFi](https://github.com/binarymaster/3WiFi) - 3WiFi Wireless Database
-- [trailofbits/mquire](https://github.com/trailofbits/mquire) - Zero-dependency Linux memory forensics PoC — leverages kernel-embedded BTF and kallsyms for type-aware memory analysis without external debug info.
+- [trailofbits/mquire](https://github.com/trailofbits/mquire) - Zero-dependency Linux memory forensics, leveraging kernel-embedded BTF and kallsyms for type-aware memory analysis without external debug info.
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
