@@ -393,6 +393,7 @@
 - [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring) - Android environment integrity inspection tool for root, hook, bootloader, SELinux, virtualization, and attestation signals
 - [Xposed-Modules-Repo/ps.reso.instaeclipse](https://github.com/Xposed-Modules-Repo/ps.reso.instaeclipse) - InstaEclipse
 - [teekamsuthar/Mutify](https://github.com/teekamsuthar/Mutify) - An android app built with java to mute Spotify ads.
+- [Coldblackice/ReVancedXposed_Spotify](https://github.com/Coldblackice/ReVancedXposed_Spotify) - ReVanced LSPosed module for Spotify
 - [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator) - Software simulation for Android hardware-backed key pairs with key attestation
 - [dabao1955/kernel_build_action](https://github.com/dabao1955/kernel_build_action) - An github action to build kernel automatically[force push warning!]
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -718,7 +719,7 @@
 - [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Defund the Police.
 - [niri-wm/awesome-niri](https://github.com/niri-wm/awesome-niri) - An awesome list for niri related projects [Maintainer - @Vortriz]
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
-- [miantiao-me/awesome-homelab](https://github.com/miantiao-me/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
+- [AwesomeHomelab/awesome-homelab](https://github.com/AwesomeHomelab/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
 - [pe3zx/my-infosec-awesome](https://github.com/pe3zx/my-infosec-awesome) - My curated list of awesome links, resources and tools on infosec related topics
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
@@ -768,7 +769,7 @@
 - [niri-wm/awesome-niri](https://github.com/niri-wm/awesome-niri) - An awesome list for niri related projects [Maintainer - @Vortriz]
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [ardianta/anime-for-dev](https://github.com/ardianta/anime-for-dev) - A curated list of animes every developer should watch.
-- [miantiao-me/awesome-homelab](https://github.com/miantiao-me/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
+- [AwesomeHomelab/awesome-homelab](https://github.com/AwesomeHomelab/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
 - [pe3zx/my-infosec-awesome](https://github.com/pe3zx/my-infosec-awesome) - My curated list of awesome links, resources and tools on infosec related topics
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
@@ -2681,6 +2682,7 @@
 ## mobile 
 
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
+- [Coldblackice/ReVancedXposed_Spotify](https://github.com/Coldblackice/ReVancedXposed_Spotify) - ReVanced LSPosed module for Spotify
 - [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) - A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites)
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [LeNerd46/beautiful-lyrics-mobile](https://github.com/LeNerd46/beautiful-lyrics-mobile) - A port of beautiful-lyrics by surfbryce to Android
@@ -2945,6 +2947,13 @@
 
 ## others 
 
+- [TuncorReUnion/TLAC-MODERN-LOCAL-ANTI-CHEAT-REUNIONED](https://github.com/TuncorReUnion/TLAC-MODERN-LOCAL-ANTI-CHEAT-REUNIONED) - This Anti-Cheat is local server based and fully open source. it's user space
+- [p2r3/babel-usb](https://github.com/p2r3/babel-usb) - Technically infinite USB drive
+- [sabamdarif/dotfiles](https://github.com/sabamdarif/dotfiles) - 
+- [martinradev/gdb-pt-dump](https://github.com/martinradev/gdb-pt-dump) - 
+- [PNRxA/openposterdb](https://github.com/PNRxA/openposterdb) - A self-hosted, drop-in replacement for RPDB (Rating Poster Database).
+- [UmbraProjects/PostersPlus](https://github.com/UmbraProjects/PostersPlus) - A modern poster overlay
+- [wifi-x-smasher/nuvio-seedbox-addon](https://github.com/wifi-x-smasher/nuvio-seedbox-addon) - 
 - [kebabskal/Cemu](https://github.com/kebabskal/Cemu) - Cemu - Wii U emulator
 - [e-ave/DRM-Downloader](https://github.com/e-ave/DRM-Downloader) - An upgraded version of TPD-Keys that automatically downloads, decrypts, verifies, and merges the mp4 file after grabbing the keys using a local CDM file.
 - [spion/adbfs-rootless](https://github.com/spion/adbfs-rootless) - Mount Android phones on Linux with adb. No root required.
@@ -2959,6 +2968,7 @@
 - [Francesco149/protonfit](https://github.com/Francesco149/protonfit) - automate installing/running fitgirl repacks on linux with proton. can also be used as a steam-less proton launcher
 - [merlinepedra/Linux_Game_Pirates](https://github.com/merlinepedra/Linux_Game_Pirates) - 
 - [klab7/GCamBoost](https://github.com/klab7/GCamBoost) - An LSPosed module that lets you use some newer Pixel exclusive GCam features on some older Pixels.
+- [bikini/exploitarium](https://github.com/bikini/exploitarium) - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed 
 - [dantiicu/wine-nx](https://github.com/dantiicu/wine-nx) - Experimental Wine runtime for Nintendo Switch: AArch64 Windows PE loading, Horizon/libnx integration, win32u USER/GDI bring-up, software framebuffer display, touch input, and early Notepad GUI support
 - [harimoradiya/TV-Remote-for-Android-TV](https://github.com/harimoradiya/TV-Remote-for-Android-TV) - TV Remote for Android TV is a fast, secure, and completely free Android application that turns your smartphone into a reliable remote control for Android TV and compatible Smart TVs.
 - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
@@ -3280,7 +3290,6 @@
 - [ang3lo-azevedo/RVX-Spotify](https://github.com/ang3lo-azevedo/RVX-Spotify) - The goal of this fork is to: - Fix Ad blocking issues, - Fix bugs and compatibility issues, - Keep the project working with newer dependencies, - Improve stability and maintainability, - Continue deve
 - [enzomtpYT/ReVancedXposed_Spotify](https://github.com/enzomtpYT/ReVancedXposed_Spotify) - 
 - [simoabid/RVX-Spotify](https://github.com/simoabid/RVX-Spotify) - The goal of this fork is to: - Fix Ad blocking issues, - Fix bugs and compatibility issues, - Keep the project working with newer dependencies, - Improve stability and maintainability, - Continue deve
-- [Coldblackice/ReVancedXposed_Spotify](https://github.com/Coldblackice/ReVancedXposed_Spotify) - ReVanced LSPosed module by ChsBuffer, for Spotify only
 - [JySzE/SoM-MPV-Config](https://github.com/JySzE/SoM-MPV-Config) - SoM-MPV-Config
 - [timothe/Ace-Pace](https://github.com/timothe/Ace-Pace) - Keep up to date with One Pace releases
 - [DefenderOfHyrule/ldn_mitm](https://github.com/DefenderOfHyrule/ldn_mitm) - Play local wireless supported games online
@@ -4112,7 +4121,7 @@
 - [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
 - [ac3ss0r/MCEEAuthBypass](https://github.com/ac3ss0r/MCEEAuthBypass) - Minecraft education edition auth bypass for Windows 7/8/9 using pointerscanning.
 - [ShivamKumarJha/android_tools](https://github.com/ShivamKumarJha/android_tools) - Bash scripts for ROM development stuff.
-- [MindTheGapps/vendor_gapps](https://github.com/MindTheGapps/vendor_gapps) - Moved to https://gitlab.com/MindTheGapps/vendor_gapps
+- [MindTheGapps/vendor_gapps-old](https://github.com/MindTheGapps/vendor_gapps-old) - Moved to https://gitlab.com/MindTheGapps/vendor_gapps
 - [WiVRn/WiVRn](https://github.com/WiVRn/WiVRn) - The Linux OpenXR streaming application to standalone headsets
 - [Respuit/VRDB](https://github.com/Respuit/VRDB) - 
 - [bazzite-org/kernel-bazzite](https://github.com/bazzite-org/kernel-bazzite) - Home of the Bazzite kernel, containing early fixes for handhelds and new exotic hardware.
@@ -5204,7 +5213,7 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [HanaokaYuzu/Gemini-API](https://github.com/HanaokaYuzu/Gemini-API) - ✨ Reverse-engineered Python API for Google Gemini web app
 - [JonathanSalwan/ROPgadget](https://github.com/JonathanSalwan/ROPgadget) - This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC, MIPS, RISC-V 64, and 
-- [mentebinaria/dz6](https://github.com/mentebinaria/dz6) - Fast Vim-inspired TUI hex editor
+- [mentebinaria/dz6](https://github.com/mentebinaria/dz6) - Fast Vim-inspired hex editor for the terminal
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
 - [xob0t/gotohp](https://github.com/xob0t/gotohp) - Unofficial Google Photos Desktop GUI Client
 - [eset/nimfilt](https://github.com/eset/nimfilt) - A collection of modules and scripts to help with analyzing Nim binaries
@@ -5365,7 +5374,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
-- [miantiao-me/awesome-homelab](https://github.com/miantiao-me/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
+- [AwesomeHomelab/awesome-homelab](https://github.com/AwesomeHomelab/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
 - [pritkr/predirect](https://github.com/pritkr/predirect) - A manifest v3 web extension with minimal permissions to automatically redirect to privacy friendly frontends. ⭐️ Star to support our work!
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [TechSquidTV/Hermes](https://github.com/TechSquidTV/Hermes) - Hermes Video Downloader — Self-hosted video downloader compatible with 1,000+ sites. yt-dlp api.
