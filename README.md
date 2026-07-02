@@ -361,6 +361,7 @@
 
 ## android 
 
+- [alperengozum/Sleepwell](https://github.com/alperengozum/Sleepwell) - React-Native - Expo - Sleep Cycle Calculator
 - [lepras/bankingAOSP](https://github.com/lepras/bankingAOSP) - Run banking apps on Custom Android OS's
 - [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositorie
 - [Jipok/website-to-apk](https://github.com/Jipok/website-to-apk) - Easy create Android app for website. Wrapper for WebView with userscripts
@@ -867,6 +868,7 @@
 
 ## c 
 
+- [hfiref0x/UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
 - [libimobiledevice/libideviceactivation](https://github.com/libimobiledevice/libideviceactivation) - A library to handle the activation process of iOS devices
 - [fumiama/base16384](https://github.com/fumiama/base16384) - Encode binary files to printable utf16be.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
@@ -1229,6 +1231,7 @@
 
 ## discord 
 
+- [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [synzen/MonitoRSS](https://github.com/synzen/MonitoRSS) - MonitoRSS RSS bot (formerly known as Discord.RSS) with customizable feeds. https://monitorss.xyz
 - [itsecgary/CTFBot](https://github.com/itsecgary/CTFBot) - Bot for keeping track of CTFs and points awarded
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
@@ -1279,6 +1282,7 @@
 
 ## docker 
 
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
@@ -1698,6 +1702,7 @@
 
 ## golang 
 
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [calico32/nirilayout](https://github.com/calico32/nirilayout) - niri monitor layout switcher
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
@@ -1826,6 +1831,7 @@
 
 ## hacktoberfest 
 
+- [Criador-Horarios/Criador-Horarios](https://github.com/Criador-Horarios/Criador-Horarios) - Ferramenta para criar horários.
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 - [chocolatey-community/boxstarter](https://github.com/chocolatey-community/boxstarter) - Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages
 - [biplobsd/OneClickRun](https://github.com/biplobsd/OneClickRun) - Another colab notebook!
@@ -2094,6 +2100,7 @@
 
 ## javascript 
 
+- [alperengozum/Sleepwell](https://github.com/alperengozum/Sleepwell) - React-Native - Expo - Sleep Cycle Calculator
 - [JPCERTCC/LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
 - [nehirakbass/anime-filler-checker](https://github.com/nehirakbass/anime-filler-checker) - Browser extension that auto-detects anime filler episodes on any streaming site. Shows FILLER/CANON/MIXED badge directly on the page.
@@ -2252,6 +2259,7 @@
 
 ## kubernetes 
 
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [ifd3f/infra](https://github.com/ifd3f/infra) - Personal cloud, dotfiles, and configurations omnirepo
@@ -2278,6 +2286,7 @@
 
 ## linux 
 
+- [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [AbdelrhmanNile/UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) - A free and open-source game-center for linux. Pre-configured Wine and Native Games for Linux.
 - [AbdelrhmanNile/steal](https://github.com/AbdelrhmanNile/steal) - Free and Open Source game center for Linux, Native and Wine pre-configured games.
 - [allecsc/mpv-qol-scripts](https://github.com/allecsc/mpv-qol-scripts) - A collection of high-quality Lua scripts for the MPV player, designed to automate and enhance the viewing experience with smart skipping, subtitle selection, automatic profiles, and more.
@@ -2947,6 +2956,14 @@
 
 ## others 
 
+- [ubcctf/instanced](https://github.com/ubcctf/instanced) - k8s Operator that Manages Challenge Instances On-Demand
+- [astr0n8t/ctfd-k8s-challenge](https://github.com/astr0n8t/ctfd-k8s-challenge) - A Kubernetes challenge type plugin for CTFd
+- [ang3lo-azevedo/ist-fenix-auto-enroller](https://github.com/ang3lo-azevedo/ist-fenix-auto-enroller) - Desktop Python app for searching, planning, and enrolling in IST courses on FenixEdu. It combines an API client, a Tkinter GUI, and Selenium automation to build schedules and complete enrollment.
+- [Discord-LEIC/almightyDM](https://github.com/Discord-LEIC/almightyDM) - 
+- [ric2b/relative-grades-fenix-IST](https://github.com/ric2b/relative-grades-fenix-IST) - Get relative grades (i.e: Top 20% of people enrolled in the course) from your fenixEdu curriculum
+- [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile) - Official Nuvio Mobile Repository
+- [icedmarina/eden](https://github.com/icedmarina/eden) - 
+- [chainsandbolts/tochen-driver-poc](https://github.com/chainsandbolts/tochen-driver-poc) - regression
 - [TuncorReUnion/TLAC-MODERN-LOCAL-ANTI-CHEAT-REUNIONED](https://github.com/TuncorReUnion/TLAC-MODERN-LOCAL-ANTI-CHEAT-REUNIONED) - This Anti-Cheat is local server based and fully open source. it's user space
 - [p2r3/babel-usb](https://github.com/p2r3/babel-usb) - Technically infinite USB drive
 - [sabamdarif/dotfiles](https://github.com/sabamdarif/dotfiles) - 
@@ -4914,6 +4931,7 @@
 
 ## productivity 
 
+- [alperengozum/Sleepwell](https://github.com/alperengozum/Sleepwell) - React-Native - Expo - Sleep Cycle Calculator
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 - [AdEx-Partners-DE/OpenNiri-Windows](https://github.com/AdEx-Partners-DE/OpenNiri-Windows) - Scrollable tiling window manager for Windows 10/11 in Rust - Niri-style horizontal workspace, global hotkeys, and multi-monitor support.
 - [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
@@ -4956,6 +4974,7 @@
 
 ## python 
 
+- [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [medvm/widevine_keys](https://github.com/medvm/widevine_keys) - This repo created for bypassing Widevine L3 DRM and obtaining keys.
 - [AstraeLabs/VibraVid](https://github.com/AstraeLabs/VibraVid) - Downloader for Movie, Series, Anime, Album + MPD/M3U8/ISM/MP4.
 - [devine-dl/pywidevine](https://github.com/devine-dl/pywidevine) - Python implementation of Google's Widevine DRM CDM (Content Decryption Module)
@@ -5118,6 +5137,7 @@
 
 ## react 
 
+- [Criador-Horarios/Criador-Horarios](https://github.com/Criador-Horarios/Criador-Horarios) - Ferramenta para criar horários.
 - [walterlow/freecut](https://github.com/walterlow/freecut) - FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, re
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -5153,6 +5173,7 @@
 
 ## react-native 
 
+- [alperengozum/Sleepwell](https://github.com/alperengozum/Sleepwell) - React-Native - Expo - Sleep Cycle Calculator
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free, open-source music app that lets you stream and download high-quality tracks across all your devices. With a sleek, intuitive UI built for a seamless experience, it supports Android
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
@@ -5196,6 +5217,7 @@
 
 ## reverse-engineering 
 
+- [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 - [xiosec/Reverse-engineering](https://github.com/xiosec/Reverse-engineering) - Reverse Engineering tools
 - [symgraph/BinAssist](https://github.com/symgraph/BinAssist) - Binary Ninja plugin to provide LLM assistance analyzing binaries.
@@ -5296,6 +5318,7 @@
 
 ## security 
 
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [hagezi/dns-servers](https://github.com/hagezi/dns-servers) - HaGeZi DNS: Free, Non-Commercial EU Public DNS Servers
 - [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositorie
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
@@ -5368,6 +5391,7 @@
 
 ## self-hosted 
 
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
@@ -5627,6 +5651,7 @@
 
 ## typescript 
 
+- [alperengozum/Sleepwell](https://github.com/alperengozum/Sleepwell) - React-Native - Expo - Sleep Cycle Calculator
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - [CyberChef-MCP] Model Context Protocol Server for CyberChef ... exposing GCHQ's "Cyber Swiss Army Knife" as 463+ executable AI agent tools spanning encryption, encoding, compression, and forensic data
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
