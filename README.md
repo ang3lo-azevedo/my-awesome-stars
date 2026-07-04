@@ -41,6 +41,7 @@
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude](#claude)
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [cloud](#cloud)
@@ -967,6 +968,16 @@
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [austencm/youtube-auto-like](https://github.com/austencm/youtube-auto-like) - Chrome extension that automatically likes videos from your subscribed channels.
 - [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - Enable Bing ChatGPT on Chrome and Firefox
+
+## claude 
+
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+- [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
+- [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
+- [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
+- [voideditor/void](https://github.com/voideditor/void) - 
 
 ## claude-code 
 
@@ -2999,6 +3010,7 @@
 
 ## others 
 
+- [VirtCode/hypr-dynamic-cursors](https://github.com/VirtCode/hypr-dynamic-cursors) - a plugin to make your hyprland cursor more realistic, also adds shake to find
 - [AdityaHebballe/harbor-linux-builds](https://github.com/AdityaHebballe/harbor-linux-builds) - 
 - [SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy) - Six Degrees of Domain Admin
 - [trakt/showly](https://github.com/trakt/showly) - Showly is a modern and slick Movies and TV Shows manager.
@@ -3820,7 +3832,6 @@
 - [Trixarian/gamehub-oss](https://github.com/Trixarian/gamehub-oss) - privacy oriented gamehub
 - [Cosm-gedenke/NixOS-configuration](https://github.com/Cosm-gedenke/NixOS-configuration) - entire configuration(currently in development) for all my host computers
 - [rodrig20/Instagram-Grid-Cropper](https://github.com/rodrig20/Instagram-Grid-Cropper) - 
-- [3ct0s/whatsapp_hack](https://github.com/3ct0s/whatsapp_hack) - Leak Public IP from victim caller.
 - [DeathgamerB/OFRP-device_nothing_Spacewar](https://github.com/DeathgamerB/OFRP-device_nothing_Spacewar) - 
 - [gmankab/orangefox_device_nothing_Spacewar](https://github.com/gmankab/orangefox_device_nothing_Spacewar) - forked from https://github.com/DeathgamerB/OFRP-device_nothing_Spacewar
 - [nyxalune/twrp_device_nothing_Spacewar](https://github.com/nyxalune/twrp_device_nothing_Spacewar) - forked from https://github.com/DeathgamerB/OFRP-device_nothing_Spacewar
@@ -3961,7 +3972,6 @@
 - [aref2232/Immich-backup-scripts](https://github.com/aref2232/Immich-backup-scripts) - Scripts to backup/restore immich to rclone remote
 - [newbit1/rootAVD](https://github.com/newbit1/rootAVD) - Script to root AVDs running with QEMU Emulator from Android Studio
 - [r4ph3cks/r4ph3cks.github.io](https://github.com/r4ph3cks/r4ph3cks.github.io) - R3p3cks Blog for CTFs Writeups
-- [diabolino/trakt_enhanced](https://github.com/diabolino/trakt_enhanced) - 
 - [gvenzl/oci-oracle-free](https://github.com/gvenzl/oci-oracle-free) - Build scripts for Oracle AI Database FREE container/docker images
 - [Fitzsimmons/oracle-always-free-vps](https://github.com/Fitzsimmons/oracle-always-free-vps) - 
 - [UdDReX/oracle-vps-script](https://github.com/UdDReX/oracle-vps-script) - 
@@ -5095,7 +5105,6 @@
 - [FreeNetLabs/BugScanX](https://github.com/FreeNetLabs/BugScanX) - bughost scanner
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Webchat to API
 - [HanaokaYuzu/Gemini-API](https://github.com/HanaokaYuzu/Gemini-API) - ✨ Reverse-engineered Python API for Google Gemini web app
-- [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's CLI and TUI client -- The ultimate weapon against brainrot
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
 - [Nokse22/high-tide](https://github.com/Nokse22/high-tide) - Libadwaita TIDAL client for Linux
