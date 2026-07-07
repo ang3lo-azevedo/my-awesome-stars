@@ -1288,7 +1288,7 @@
 - [nvckai/Discord-Web-Auto-Quest-Extension](https://github.com/nvckai/Discord-Web-Auto-Quest-Extension) - A Chrome extension that automatically completes all Discord Quests
 - [4evy/nixcord](https://github.com/4evy/nixcord) - One Nix config for Discord mods, themes, and clients.
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
-- [sparklost/endcord](https://github.com/sparklost/endcord) - Feature rich Discord TUI client.
+- [sparklost/endcord](https://github.com/sparklost/endcord) - The most feature rich Discord TUI client.
 - [hackermondev/discord-active-developer-badge](https://github.com/hackermondev/discord-active-developer-badge) - Simple script you can use to get the new Discord "Active Developer" badge
 - [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!
 - [markterence/discord-quest-completer](https://github.com/markterence/discord-quest-completer) - A Windows desktop application to complete quests on Discord without installing the full actual games.
@@ -1340,7 +1340,7 @@
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [brannondorsey/mitm-router](https://github.com/brannondorsey/mitm-router) - ☠ Man-in-the-middle wireless access point inside a docker container 🐳
 - [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
-- [deinfreu/hytale-server-container](https://github.com/deinfreu/hytale-server-container) - hytale-server-container 📦 56.4MB (Alpine/Liberica) • Non-root • QUIC Enabled • Prod & Debug • Pterodactyl coming
+- [deinfreu/hytale-server-container](https://github.com/deinfreu/hytale-server-container) - Lightweight, user-friendly Hytale server Docker container. 📦 Tiny 61.8MB footprint, native ARM64 support, secure non-root execution, in-game updates, and comprehensive documentation.
 - [ifd3f/infra](https://github.com/ifd3f/infra) - Personal cloud, dotfiles, and configurations omnirepo
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
@@ -1463,6 +1463,7 @@
 
 ## electron 
 
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [liriliri/rem](https://github.com/liriliri/rem) - Rclone desktop app
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
@@ -2041,7 +2042,7 @@
 ## http 
 
 - [DarkWebInformer/FBI_Watchdog](https://github.com/DarkWebInformer/FBI_Watchdog) - FBI Watchdog is a multi-layered domain monitoring tool that detects law enforcement seizures, DNS changes, HTTP fingerprint shifts, WHOIS record mutations, and IP address changes across clearnet domai
-- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)
+- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 
@@ -2355,6 +2356,7 @@
 
 ## linux 
 
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [ZzEdovec/onlinefix-linux](https://github.com/ZzEdovec/onlinefix-linux) - OFLL - Steam/Epic online-fix launcher for Linux. Download, install and play games with online fixes in two clicks
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [AbdelrhmanNile/UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) - A free and open-source game-center for linux. Pre-configured Wine and Native Games for Linux.
@@ -2584,6 +2586,7 @@
 
 ## mac 
 
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [winesapOS/winesapOS](https://github.com/winesapOS/winesapOS) - winesapOS - Game with Linux anywhere, no installation required!
 - [ikus060/minarca](https://github.com/ikus060/minarca) - Self-hosted opensource data backup for Linux, Windows and Mac. Git mirror of https://gitlab.com/ikus-soft/minarca
 - [Abyss-W4tcher/volatility3-symbols](https://github.com/Abyss-W4tcher/volatility3-symbols) - Collection of Linux and macOS Volatility3 Intermediate Symbol Files (ISF), suitable for memory analysis 🔍
@@ -2602,6 +2605,7 @@
 
 ## macos 
 
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [allecsc/mpv-qol-scripts](https://github.com/allecsc/mpv-qol-scripts) - A collection of high-quality Lua scripts for the MPV player, designed to automate and enhance the viewing experience with smart skipping, subtitle selection, automatic profiles, and more.
 - [winesapOS/winesapOS](https://github.com/winesapOS/winesapOS) - winesapOS - Game with Linux anywhere, no installation required!
 - [dnstt-xyz/dnstt_xyz_app](https://github.com/dnstt-xyz/dnstt_xyz_app) - Multi-platform dnstt client for restricted networks like Iran, China, Russia or maybe your mom firewall
@@ -3038,6 +3042,11 @@
 
 ## others 
 
+- [yoruix/nuvio-providers](https://github.com/yoruix/nuvio-providers) - 
+- [tapframe/NuvioStreamsAddon](https://github.com/tapframe/NuvioStreamsAddon) - HTTP Streaming for Stremio
+- [GizDrak/stremio-perfect-setup](https://github.com/GizDrak/stremio-perfect-setup) - Stremio Full & Easy Total Beginner's Guide
+- [blarns/NuvioForLinux](https://github.com/blarns/NuvioForLinux) - Unofficial, community-maintained Linux desktop build of Nuvio — a Kotlin Multiplatform fork of NuvioMobile. Stremio-addon media player with debrid, JS plugins, and resume-across-restart. Vibe-coded.
+- [SleepTheGod/Android_Pins](https://github.com/SleepTheGod/Android_Pins) - Android Most Common Pin List
 - [yesnt10/NuvioMobile-Enhanced](https://github.com/yesnt10/NuvioMobile-Enhanced) - Official Nuvio Mobile Enhanced Repository
 - [Fyne5/Simplerxy](https://github.com/Fyne5/Simplerxy) - Simplerxy - A simple proxy easy-to-use, lightweight
 - [FreeNetLabs/bugscanx-go](https://github.com/FreeNetLabs/bugscanx-go) - Enhanced fork of BugScanner-Go
@@ -3858,7 +3867,7 @@
 - [PixelPlayerHQ/PixelPlayer](https://github.com/PixelPlayerHQ/PixelPlayer) - privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.
 - [ThePedroo/ReLSPosed](https://github.com/ThePedroo/ReLSPosed) - LSPosed Framework resuscitated
 - [rt-evil-inc/gira-mais](https://github.com/rt-evil-inc/gira-mais) - Aplicação alternativa para o sistema de bicicletas partilhadas de Lisboa
-- [Myst1cX/spotifuck-userscript](https://github.com/Myst1cX/spotifuck-userscript) - Ports the full Spotifuck 1.4.1 UI hack experience directly to the Spotify Web Player for use in the Firefox mobile browser.
+- [Myst1cX/spotifuck-userscript](https://github.com/Myst1cX/spotifuck-userscript) - Ports the full Spotifuck 1.6.4 UI hack experience directly to the Spotify Web Player for use in the Firefox mobile browser.
 - [mentalblank/GPhotos-Revanced](https://github.com/mentalblank/GPhotos-Revanced) - ReVanced Google Photos APK Auto-Builds
 - [Aunali321/revanced-downloader-plugins](https://github.com/Aunali321/revanced-downloader-plugins) - 
 - [Aunali321/ReVancedExperiments](https://github.com/Aunali321/ReVancedExperiments) - 
@@ -3930,7 +3939,6 @@
 - [ang3lo-azevedo/iptv-stream-extractor](https://github.com/ang3lo-azevedo/iptv-stream-extractor) - wohoo
 - [Sanket9225/UsenetStreamer](https://github.com/Sanket9225/UsenetStreamer) - UsenetStreamer lets you stream any NZB files directly into Stremio. Bring your own sources, connect Prowlarr or NZBHydra, add indexers via built-in Newznab support, or link your Easynews account using
 - [NP1-Developers/android_device_nothing_spacewar](https://github.com/NP1-Developers/android_device_nothing_spacewar) - Device Source Tree for Nothing Phone (1) (Spacewar)
-- [Doze-off/voltage_a16_treble](https://github.com/Doze-off/voltage_a16_treble) - 
 - [Pixel-Props/sensitive-props](https://github.com/Pixel-Props/sensitive-props) - This Magisk module helps you bypass SafetyNet and Play Integrity on rooted Android devices by modifying system properties and applying device-specific fixes. It aims to improve privacy and grant acces
 - [nook-browser/Nook](https://github.com/nook-browser/Nook) - A new browser, not owned by Atlassian.
 - [piomrox/Roxfi](https://github.com/piomrox/Roxfi) - One shot pin
@@ -5720,7 +5728,7 @@
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - Forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [sparklost/endcord](https://github.com/sparklost/endcord) - Feature rich Discord TUI client.
+- [sparklost/endcord](https://github.com/sparklost/endcord) - The most feature rich Discord TUI client.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [jorcelinojunior/cursor-setup-wizard](https://github.com/jorcelinojunior/cursor-setup-wizard) - 🧙 Automates the installation and updating of the Cursor .AppImage for Linux users, resolving common issues during setup and effortlessly handling configurations, updates, and related tasks.
@@ -5776,7 +5784,7 @@
 - [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - Forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [sparklost/endcord](https://github.com/sparklost/endcord) - Feature rich Discord TUI client.
+- [sparklost/endcord](https://github.com/sparklost/endcord) - The most feature rich Discord TUI client.
 - [Vonr/parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
 - [apognu/tuigreet](https://github.com/apognu/tuigreet) - Graphical console greeter for greetd
 - [Stan-breaks/ytsurf](https://github.com/Stan-breaks/ytsurf) - YouTube in your terminal. Clean and distraction-free.
@@ -6043,6 +6051,7 @@
 
 ## windows 
 
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
 - [HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - 🌸Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources. 🌼🎵
 - [Decimation/SmartImage](https://github.com/Decimation/SmartImage) - Reverse image search tool (SauceNao, IQDB, Ascii2D, trace.moe, and more)
