@@ -1321,12 +1321,15 @@
 
 ## django 
 
+- [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 
 ## docker 
 
+- [ellite/scrob](https://github.com/ellite/scrob) - Scrob - Self-hosted media tracking app. It syncs your libraries from Jellyfin, Plex, and Emby, tracks your watch history, ratings, and personal lists - Your own private Letterboxd + Trakt
+- [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
@@ -1340,7 +1343,7 @@
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [brannondorsey/mitm-router](https://github.com/brannondorsey/mitm-router) - ☠ Man-in-the-middle wireless access point inside a docker container 🐳
 - [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
-- [deinfreu/hytale-server-container](https://github.com/deinfreu/hytale-server-container) - Lightweight, user-friendly Hytale server Docker container. 📦 Tiny 61.8MB footprint, native ARM64 support, secure non-root execution, in-game updates, and comprehensive documentation.
+- [deinfreu/hytale-server-container](https://github.com/deinfreu/hytale-server-container) - Lightweight, user-friendly Hytale server Docker container. 📦 Tiny 61.7MB footprint, ARM64 support, secure non-root execution, in-game updates, and comprehensive documentation.
 - [ifd3f/infra](https://github.com/ifd3f/infra) - Personal cloud, dotfiles, and configurations omnirepo
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
@@ -3042,6 +3045,12 @@
 
 ## others 
 
+- [Klevico/Monet-Launcher](https://github.com/Klevico/Monet-Launcher) - An Android TV launcher with dynamic colors. APK downloads for sideloading on devices the Play Store marks as unsupported.
+- [haaihond/Nuvio-Wiki-Website](https://github.com/haaihond/Nuvio-Wiki-Website) - The repo for the webiste of the Nuvio wiki.
+- [SudoHopeX/KaliGPT](https://github.com/SudoHopeX/KaliGPT) - KaliGPT: an Agentic AI (built with Gemini, ChatGPT, Ollama, OpenRouter Models) fine tuned for ethical hackers & students in offensive security making workflows smarter, faster, and more accessible.
+- [NaGaa95/gdash_nx](https://github.com/NaGaa95/gdash_nx) - Port of Geometry Dash for Switch.
+- [boychongzen18/Bug-Host-All-Operator](https://github.com/boychongzen18/Bug-Host-All-Operator) - 
+- [Simatwa/kofnet](https://github.com/Simatwa/kofnet) - Extract SNI bug host for different ISPs based on country.
 - [yoruix/nuvio-providers](https://github.com/yoruix/nuvio-providers) - 
 - [tapframe/NuvioStreamsAddon](https://github.com/tapframe/NuvioStreamsAddon) - HTTP Streaming for Stremio
 - [GizDrak/stremio-perfect-setup](https://github.com/GizDrak/stremio-perfect-setup) - Stremio Full & Easy Total Beginner's Guide
@@ -3888,6 +3897,7 @@
 - [Trixarian/gamehub-oss](https://github.com/Trixarian/gamehub-oss) - privacy oriented gamehub
 - [Cosm-gedenke/NixOS-configuration](https://github.com/Cosm-gedenke/NixOS-configuration) - entire configuration(currently in development) for all my host computers
 - [rodrig20/Instagram-Grid-Cropper](https://github.com/rodrig20/Instagram-Grid-Cropper) - 
+- [3ct0s/whatsapp_hack](https://github.com/3ct0s/whatsapp_hack) - Leak Public IP from victim caller.
 - [DeathgamerB/OFRP-device_nothing_Spacewar](https://github.com/DeathgamerB/OFRP-device_nothing_Spacewar) - 
 - [gmankab/orangefox_device_nothing_Spacewar](https://github.com/gmankab/orangefox_device_nothing_Spacewar) - forked from https://github.com/DeathgamerB/OFRP-device_nothing_Spacewar
 - [nyxalune/twrp_device_nothing_Spacewar](https://github.com/nyxalune/twrp_device_nothing_Spacewar) - forked from https://github.com/DeathgamerB/OFRP-device_nothing_Spacewar
@@ -4989,6 +4999,7 @@
 
 ## postgresql 
 
+- [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [I-am-PUID-0/DUMB](https://github.com/I-am-PUID-0/DUMB) - Debrid Unlimited Media Bridge
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
@@ -5120,6 +5131,8 @@
 
 ## python 
 
+- [ellite/scrob](https://github.com/ellite/scrob) - Scrob - Self-hosted media tracking app. It syncs your libraries from Jellyfin, Plex, and Emby, tracks your watch history, ratings, and personal lists - Your own private Letterboxd + Trakt
+- [RileyXX/TMDB-Trakt-Syncer](https://github.com/RileyXX/TMDB-Trakt-Syncer) - A python script that syncs user watchlist and ratings for Movies, TV Shows and Episodes both ways between Trakt and TMDB.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [ergrelet/themida-unmutate](https://github.com/ergrelet/themida-unmutate) - Static deobfuscator for Themida, WinLicense and Code Virtualizer 3.x's mutation-based obfuscation.
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
@@ -5545,6 +5558,7 @@
 
 ## self-hosted 
 
+- [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
@@ -5651,6 +5665,7 @@
 
 ## sqlite 
 
+- [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [afoster/kodi2m3u](https://github.com/afoster/kodi2m3u) - Export m3u playlists from a Kodi music video database
@@ -5682,6 +5697,7 @@
 
 ## tailwindcss 
 
+- [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [hitarth-gg/zenshin](https://github.com/hitarth-gg/zenshin) - 🔖 Web & Electron based Anime Streaming App for 🐈s
 - [zeon-studio/hugoplate](https://github.com/zeon-studio/hugoplate) - Hugoplate is a free starter template built with Hugo and Tailwind CSS v4.0 that will save you hours of work.
 - [guyzyl/whatsapp-contact-sync](https://github.com/guyzyl/whatsapp-contact-sync) - Easy way to sync between the contact photos on WhatsApp to Google Contacts
@@ -5895,6 +5911,7 @@
 
 ## userscript 
 
+- [Fenn3c401/Trakt.tv-Userscript-Collection](https://github.com/Fenn3c401/Trakt.tv-Userscript-Collection) - An extensive userscript collection for trakt.tv.
 - [Jipok/website-to-apk](https://github.com/Jipok/website-to-apk) - Easy create Android app for website. Wrapper for WebView with userscripts
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 - [JingMatrix/ChromeXt](https://github.com/JingMatrix/ChromeXt) - UserScript and DevTools supports for Chromium based and WebView based browsers
