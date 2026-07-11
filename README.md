@@ -174,6 +174,7 @@
 - [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
 - [nestjs](#nestjs)
+- [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nim](#nim)
 - [no-code](#no-code)
@@ -290,7 +291,7 @@
 
 ## agent-skills 
 
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - Installable GitHub library of 1,935+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflow
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflow
 
 ## agents 
 
@@ -315,7 +316,7 @@
 - [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - runs anywhere. uses anything
 - [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
-- [edenaion/EZ-CorridorKey](https://github.com/edenaion/EZ-CorridorKey) - Perfect Chroma Screen Keys made EZ! Brought to you by EZSCAPE
+- [edenaion/EZ-CorridorKey](https://github.com/edenaion/EZ-CorridorKey) - Free CorridorKey GUI. Turn Corridor Digital's AI keyer into a full desktop app: real-time viewer, job queue, EXR/ProRes/PNG-alpha export. Windows, macOS, Linux. Built by EZSCAPE.
 - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 - [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) - A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -346,7 +347,7 @@
 ## ai-agents 
 
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - [CyberChef-MCP] Model Context Protocol Server for CyberChef ... exposing GCHQ's "Cyber Swiss Army Knife" as 463+ executable AI agent tools spanning encryption, encoding, compression, and forensic data
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - Installable GitHub library of 1,935+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflow
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflow
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -995,7 +996,7 @@
 
 ## claude-code 
 
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - Installable GitHub library of 1,935+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflow
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflow
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
@@ -1117,6 +1118,7 @@
 
 ## cpp 
 
+- [OpenNMT/CTranslate2](https://github.com/OpenNMT/CTranslate2) - Fast inference engine for Transformer models
 - [NotRequiem/VMAware](https://github.com/NotRequiem/VMAware) - Advanced VM detection library and tool
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [FlavioFS/ParsecSoda](https://github.com/FlavioFS/ParsecSoda) - Parsec Soda is a custom open-source game streaming app that integrates with Parsec API and is focused in Host experience.
@@ -1159,7 +1161,7 @@
 - [ramtinak/InstagramApiSharp](https://github.com/ramtinak/InstagramApiSharp) - A complete Private Instagram API for .NET (C#, VB.NET).
 - [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 - [Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher](https://github.com/Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher) - ⇒ Disable Chrome's Developer Mode Extension Warning Popup & Elision & Manifest V3 webRequestBlocking limitations
-- [bezzad/Downloader](https://github.com/bezzad/Downloader) - Fast, cross-platform and reliable multipart downloader with asynchronous progress events for .NET applications. If you want Downloader Desktop application see this: https://github.com/bezzad/downloade
+- [bezzad/Downloader](https://github.com/bezzad/Downloader) - Fast, cross-platform and reliable multipart downloader with asynchronous progress events for .NET applications.
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [BrianLima/UWPHook](https://github.com/BrianLima/UWPHook) - 🔗 Add your Windows Store or UWP games to Steam
 
@@ -1230,6 +1232,7 @@
 
 ## deep-learning 
 
+- [OpenNMT/CTranslate2](https://github.com/OpenNMT/CTranslate2) - Fast inference engine for Transformer models
 - [Mr-Homeless/waldo](https://github.com/Mr-Homeless/waldo) - Waldo Vision | Cheat detection
 
 ## deno 
@@ -1255,7 +1258,7 @@
 
 ## developer-tools 
 
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - Installable GitHub library of 1,935+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflow
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflow
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [brunos3d/discord-enable-devtools](https://github.com/brunos3d/discord-enable-devtools) - 🚀 zx - Bring your Discord's devtools back to life (again)
 - [robertpsoane/ducker](https://github.com/robertpsoane/ducker) - A slightly quackers Docker TUI based on k9s 🦆
@@ -1452,7 +1455,7 @@
 - [linkfrg/dotfiles](https://github.com/linkfrg/dotfiles) - My Hyprland dotfiles
 - [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
 - [koeqaife/hyprland-material-you](https://github.com/koeqaife/hyprland-material-you) - Dynamic and elegant desktop setup inspired by Material You, featuring auto-generated colors, fluid animations, and customizable user experience.
-- [Nitestack/nix-config](https://github.com/Nitestack/nix-config) - Reproducible system configurations with Nix for NixOS (including WSL) and macOS (with nix-darwin)
+- [Nitestack/nix-config](https://github.com/Nitestack/nix-config) - Personal infrastructure as code: Nix system configs (NixOS/WSL/macOS), a self-hosted homelab, and Cloudflare DNS/edge managed with OpenTofu.
 - [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
@@ -1466,7 +1469,7 @@
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [ramtinak/InstagramApiSharp](https://github.com/ramtinak/InstagramApiSharp) - A complete Private Instagram API for .NET (C#, VB.NET).
-- [bezzad/Downloader](https://github.com/bezzad/Downloader) - Fast, cross-platform and reliable multipart downloader with asynchronous progress events for .NET applications. If you want Downloader Desktop application see this: https://github.com/bezzad/downloade
+- [bezzad/Downloader](https://github.com/bezzad/Downloader) - Fast, cross-platform and reliable multipart downloader with asynchronous progress events for .NET applications.
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 
 ## education 
@@ -1835,7 +1838,7 @@
 - [srinivasr/nirimod](https://github.com/srinivasr/nirimod) - NiriMod – A visual, interactive configuration interface for the niri Wayland compositor.
 - [GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq) - An open-source digital image forensic toolset
 - [XorTroll/Plutonium](https://github.com/XorTroll/Plutonium) - Easy-to-use, SDL2-based UI framework for Nintendo Switch homebrew
-- [edenaion/EZ-CorridorKey](https://github.com/edenaion/EZ-CorridorKey) - Perfect Chroma Screen Keys made EZ! Brought to you by EZSCAPE
+- [edenaion/EZ-CorridorKey](https://github.com/edenaion/EZ-CorridorKey) - Free CorridorKey GUI. Turn Corridor Digital's AI keyer into a full desktop app: real-time viewer, job queue, EXR/ProRes/PNG-alpha export. Windows, macOS, Linux. Built by EZSCAPE.
 - [andyjsmith/Registry-Spy](https://github.com/andyjsmith/Registry-Spy) - Cross-platform registry browser for raw Windows registry files
 - [fortheusers/hb-appstore](https://github.com/fortheusers/hb-appstore) - Homebrew App Store - GUI for downloading/managing homebrew apps
 - [xob0t/gotohp](https://github.com/xob0t/gotohp) - Unofficial Google Photos Desktop GUI Client
@@ -2240,7 +2243,7 @@
 - [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Android feed reader app
 - [ycngmn/Nobook](https://github.com/ycngmn/Nobook) - Ad-free facebook lite for Android.
 - [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools and mods for Android nerds
-- [ArchiveTuneApp/ArchiveTune](https://github.com/ArchiveTuneApp/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
+- [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
 - [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [ZalithLauncher/ZalithLauncher2](https://github.com/ZalithLauncher/ZalithLauncher2) - A Minecraft: Java Edition Launcher for Android
@@ -2300,7 +2303,7 @@
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools and mods for Android nerds
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
-- [ArchiveTuneApp/ArchiveTune](https://github.com/ArchiveTuneApp/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
+- [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
 - [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
 - [jksalcedo/librefind](https://github.com/jksalcedo/librefind) - Discover and replace proprietary apps with FOSS alternatives
 - [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
@@ -2668,6 +2671,7 @@
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [InioX/matugen](https://github.com/InioX/matugen) - A cross-platform material you and base16 color generation tool
+- [Nitestack/nix-config](https://github.com/Nitestack/nix-config) - Personal infrastructure as code: Nix system configs (NixOS/WSL/macOS), a self-hosted homelab, and Cloudflare DNS/edge managed with OpenTofu.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [glaumar/QRookie](https://github.com/glaumar/QRookie) - Download and install Quest games from ROOKIE Public Mirror (like VRP Rookie Sideloader but for Linux and MacOS)
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
@@ -2707,7 +2711,7 @@
 - [kaleedtc/Nitterium](https://github.com/kaleedtc/Nitterium) - A privacy-focused Android app and wrapper for Nitter, allowing you to browse Twitter/X content without an account and subscribe to your favorite user profiles.
 - [EchoMusicApp/Echo-Music](https://github.com/EchoMusicApp/Echo-Music) - A modern Android music app with ad-free streaming, synced lyrics, offline playback, and an intuitive user experience.
 - [MdFarhan0/Self-Attendance](https://github.com/MdFarhan0/Self-Attendance) - A clean Android app to track college attendance with subject-wise targets and smart bunk guidance. Mark attendance, visualize performance, and instantly know whether to attend or skip classes.
-- [ArchiveTuneApp/ArchiveTune](https://github.com/ArchiveTuneApp/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
+- [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
 - [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
 - [Ivorisnoob/Koda](https://github.com/Ivorisnoob/Koda) - A Material Expressive Music app for Android
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
@@ -2733,7 +2737,7 @@
 ## mcp 
 
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - [CyberChef-MCP] Model Context Protocol Server for CyberChef ... exposing GCHQ's "Cyber Swiss Army Knife" as 463+ executable AI agent tools spanning encryption, encoding, compression, and forensic data
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - Installable GitHub library of 1,935+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflow
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflow
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mukul975/cve-mcp-server](https://github.com/mukul975/cve-mcp-server) - Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more.
 - [LayeSec006/pentest-mcp-server](https://github.com/LayeSec006/pentest-mcp-server) - MCP server for penetration testing
@@ -2823,7 +2827,7 @@
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [unchihugo/FluentFlyout](https://github.com/unchihugo/FluentFlyout) - The modern Flyout app for Windows 11, built with Fluent 2 Design principles. Media Flyouts, Taskbar Widgets and more.
 - [toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding) - All things livecoding
-- [ArchiveTuneApp/ArchiveTune](https://github.com/ArchiveTuneApp/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
+- [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
 - [0xarchit/0xDABmusic](https://github.com/0xarchit/0xDABmusic) - A client for DAB music for download, convert, enjoy your library All in one! First opening might be delayed due to unsigned package detection by defender on windows. Enjoy studio quality music (FLAC) 
 - [n-ce/ytify](https://github.com/n-ce/ytify) - Efficient YouTube Audio Streaming, Effortlessly, Anywhere.
 - [NielsMasdorp/Nederadio-Android](https://github.com/NielsMasdorp/Nederadio-Android) - Stream radio stations
@@ -2873,6 +2877,10 @@
 
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+
+## neural-network 
+
+- [edenaion/EZ-CorridorKey](https://github.com/edenaion/EZ-CorridorKey) - Free CorridorKey GUI. Turn Corridor Digital's AI keyer into a full desktop app: real-time viewer, job queue, EXR/ProRes/PNG-alpha export. Windows, macOS, Linux. Built by EZSCAPE.
 
 ## nextjs 
 
@@ -3063,6 +3071,10 @@
 
 ## others 
 
+- [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next) - A full-featured download manager — rebuilt from the ground up
+- [muthukumarse/books](https://github.com/muthukumarse/books) - book list
+- [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
+- [humandecoded/FBI_Watchdog](https://github.com/humandecoded/FBI_Watchdog) - FBI Watchdog is an OSINT tool that monitors domain seizures and DNS record changes in real time, alerting users to law enforcement takedowns and other DNS modifications.
 - [angr/angr-doc](https://github.com/angr/angr-doc) - Documentation for the angr suite
 - [dwarfmaster/arkenfox-nixos](https://github.com/dwarfmaster/arkenfox-nixos) - Utilities to use arkenfox/user.js in NixOS
 - [Bluenight-beta/Spacewar_NOS3.0_Kernel](https://github.com/Bluenight-beta/Spacewar_NOS3.0_Kernel) - Kernel Source for NOTHING Phone(1)
@@ -3454,7 +3466,7 @@
 - [Team-HYDRV/HYDRV](https://github.com/Team-HYDRV/HYDRV) - Android release browsing, kept clean.
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [34306/vphone-aio](https://github.com/34306/vphone-aio) - 1 script run the vphone
-- [ang3lo-azevedo/fun-pace-subs](https://github.com/ang3lo-azevedo/fun-pace-subs) - Unofficial subtitle generator for the One Piece "Fun Pace" project. Providing English subtitles for the Japanese audio tracks of custom filler edits.
+- [ang3lo-azevedo/fun-pace-subs](https://github.com/ang3lo-azevedo/fun-pace-subs) - Moved to ang3lo-azevedo/fun-pace-public-subtitles. Unofficial subtitle generator for the One Piece "Fun Pace" project.
 - [PaRaN01a-hash/ultra-max-addon](https://github.com/PaRaN01a-hash/ultra-max-addon) - Clean Stremio/Nuvio addon with curated catalogs
 - [TorBox-App/torbox-tinfoil-server](https://github.com/TorBox-App/torbox-tinfoil-server) - The TorBox Tinfoil Server allows you to download torrents directly through Tinfoil using TorBox.
 - [ang3lo-azevedo/samsung-galaxy-book-linux-fixes](https://github.com/ang3lo-azevedo/samsung-galaxy-book-linux-fixes) - Linux fixes for Samsung Galaxy Book 3, 4 & 5 — webcam, speakers, microphone, and more
@@ -5640,6 +5652,7 @@
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [dockur/umbrel](https://github.com/dockur/umbrel) - umbrelOS inside a Docker container.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
+- [Nitestack/nix-config](https://github.com/Nitestack/nix-config) - Personal infrastructure as code: Nix system configs (NixOS/WSL/macOS), a self-hosted homelab, and Cloudflare DNS/edge managed with OpenTofu.
 - [tri2820/muer](https://github.com/tri2820/muer) - Self-hosted music player 🐧🎵
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
 - [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sess
@@ -5980,6 +5993,7 @@
 
 - [EdvinNilsson/ffmpeg_encoder_plugin](https://github.com/EdvinNilsson/ffmpeg_encoder_plugin) - FFmpeg Encoder Plugin for DaVinci Resolve Studio
 - [Helandy/Kemonos](https://github.com/Helandy/Kemonos) - Unofficial Android client for kemono and coomer
+- [edenaion/EZ-CorridorKey](https://github.com/edenaion/EZ-CorridorKey) - Free CorridorKey GUI. Turn Corridor Digital's AI keyer into a full desktop app: real-time viewer, job queue, EXR/ProRes/PNG-alpha export. Windows, macOS, Linux. Built by EZSCAPE.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
