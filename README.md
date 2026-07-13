@@ -369,6 +369,7 @@
 
 ## android 
 
+- [rama-io/mako](https://github.com/rama-io/mako) - Minimal, privacy-first Android launcher designed for focus, speed, and simplicity.
 - [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) - A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt
 - [slapperwan/gh4a](https://github.com/slapperwan/gh4a) - Github client for Android
 - [giuliastro/opencode-remote-android](https://github.com/giuliastro/opencode-remote-android) - Android companion app to control and monitor an OpenCode server from phone or desktop
@@ -1005,7 +1006,8 @@
 
 ## cli 
 
-- [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - BG SCAN is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
+- [mhyrzt/xrat](https://github.com/mhyrzt/xrat) - Rust CLI/TUI proxy manager for Xray-core, V2Ray-core, and sing-box: import subscriptions,   test latency, rotate proxies, scan edge IPs, and run managed local proxy sessions.
+- [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - bgscan is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [lem6ns/ddgmail](https://github.com/lem6ns/ddgmail) - An unofficial CLI for DuckDuckGo Email Protection.
@@ -1184,7 +1186,7 @@
 ## cybersecurity 
 
 - [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, tools and other resources
-- [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - BG SCAN is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
+- [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - bgscan is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - [CyberChef-MCP] Model Context Protocol Server for CyberChef ... exposing GCHQ's "Cyber Swiss Army Knife" as 463+ executable AI agent tools spanning encryption, encoding, compression, and forensic data
 - [SuperAB123/Free-Official-Youtube-Content](https://github.com/SuperAB123/Free-Official-Youtube-Content) - Awesome list of Official YouTube Channels offering Free Official Content like Movies, Anime, Cartoons, Documentaries, TV Shows, Sports, VFX Breakdown
@@ -1751,7 +1753,7 @@
 
 ## go 
 
-- [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - BG SCAN is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
+- [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - bgscan is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
@@ -1776,7 +1778,7 @@
 
 ## golang 
 
-- [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - BG SCAN is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
+- [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - bgscan is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [calico32/nirilayout](https://github.com/calico32/nirilayout) - niri monitor layout switcher
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
@@ -2065,14 +2067,14 @@
 
 ## http 
 
-- [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - BG SCAN is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
+- [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - bgscan is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
 - [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 
 ## https 
 
-- [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - BG SCAN is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
+- [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - bgscan is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher](https://github.com/Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher) - ⇒ Disable Chrome's Developer Mode Extension Warning Popup & Elision & Manifest V3 webRequestBlocking limitations
@@ -3080,6 +3082,7 @@
 
 ## others 
 
+- [ashalstrom/osintagram](https://github.com/ashalstrom/osintagram) - 
 - [virtudude/armada](https://github.com/virtudude/armada) - SteamOS-like ARM handheld distro
 - [JJTech0130/TrollRestore](https://github.com/JJTech0130/TrollRestore) - TrollStore installer for iOS 17.0
 - [bablaerrr/bobikA5](https://github.com/bablaerrr/bobikA5) - bobik
@@ -3105,7 +3108,7 @@
 - [NaGaa95/gtasa_nx](https://github.com/NaGaa95/gtasa_nx) - Port of GTA San Andreas for Switch.
 - [NaGaa95/hl2_nx](https://github.com/NaGaa95/hl2_nx) - Port of Half Life 2 for Switch.
 - [NaGaa95/hekate-pro](https://github.com/NaGaa95/hekate-pro) - hekate - A GUI based Nintendo Switch Bootloader
-- [PDFMerger2025/PanGalacticMonkey](https://github.com/PDFMerger2025/PanGalacticMonkey) - PanGalactic Monkey is a full-featured, remote-control-friendly web browser  designed from the ground up for Amazon Fire TV and Android TV devices.
+- [PDFMerger2025/PanGalacticMonkey](https://github.com/PDFMerger2025/PanGalacticMonkey) - PanGalactic Monkey is a full-featured, remote-control-friendly web browser that supports Userscripts and Firefox extensions designed from the ground up for Amazon Fire TV and Android TV devices.
 - [Klevico/Monet-Launcher](https://github.com/Klevico/Monet-Launcher) - An Android TV launcher with dynamic colors. APK downloads for sideloading on devices the Play Store marks as unsupported.
 - [haaihond/Nuvio-Wiki-Website](https://github.com/haaihond/Nuvio-Wiki-Website) - The repo for the webiste of the Nuvio wiki.
 - [SudoHopeX/KaliGPT](https://github.com/SudoHopeX/KaliGPT) - KaliGPT: an Agentic AI (built with Gemini, ChatGPT, Ollama, OpenRouter Models) fine tuned for ethical hackers & students in offensive security making workflows smarter, faster, and more accessible.
@@ -5010,7 +5013,7 @@
 
 ## pentesting 
 
-- [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - BG SCAN is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
+- [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - bgscan is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
 - [blackhillsinfosec/WifiForge](https://github.com/blackhillsinfosec/WifiForge) - WifiForge is a tool developed by Black Hills InfoSec to help train Pentesters on different Wi-Fi attack vectors and Wireless capabilities.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [frankheat/noxen](https://github.com/frankheat/noxen) - Android interception tool for component communication and attack-surface mapping
@@ -5491,6 +5494,7 @@
 
 ## rust 
 
+- [mhyrzt/xrat](https://github.com/mhyrzt/xrat) - Rust CLI/TUI proxy manager for Xray-core, V2Ray-core, and sing-box: import subscriptions,   test latency, rotate proxies, scan edge IPs, and run managed local proxy sessions.
 - [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@hsjobeki]
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
@@ -5603,7 +5607,7 @@
 ## security-tools 
 
 - [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, tools and other resources
-- [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - BG SCAN is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
+- [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - bgscan is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
 - [Ragnt/AngryOxide](https://github.com/Ragnt/AngryOxide) - 802.11 Attack Tool
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - [CyberChef-MCP] Model Context Protocol Server for CyberChef ... exposing GCHQ's "Cyber Swiss Army Knife" as 463+ executable AI agent tools spanning encryption, encoding, compression, and forensic data
@@ -5807,7 +5811,8 @@
 
 ## terminal 
 
-- [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - BG SCAN is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
+- [mhyrzt/xrat](https://github.com/mhyrzt/xrat) - Rust CLI/TUI proxy manager for Xray-core, V2Ray-core, and sing-box: import subscriptions,   test latency, rotate proxies, scan edge IPs, and run managed local proxy sessions.
+- [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - bgscan is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [ligurio/awesome-ttygames](https://github.com/ligurio/awesome-ttygames) - Unix ASCII games
@@ -5868,7 +5873,8 @@
 
 ## tui 
 
-- [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - BG SCAN is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
+- [mhyrzt/xrat](https://github.com/mhyrzt/xrat) - Rust CLI/TUI proxy manager for Xray-core, V2Ray-core, and sing-box: import subscriptions,   test latency, rotate proxies, scan edge IPs, and run managed local proxy sessions.
+- [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - bgscan is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
@@ -5997,6 +6003,7 @@
 
 ## v2ray 
 
+- [mhyrzt/xrat](https://github.com/mhyrzt/xrat) - Rust CLI/TUI proxy manager for Xray-core, V2Ray-core, and sing-box: import subscriptions,   test latency, rotate proxies, scan edge IPs, and run managed local proxy sessions.
 - [dnstt-xyz/dnstt_xyz_app](https://github.com/dnstt-xyz/dnstt_xyz_app) - Multi-platform dnstt client for restricted networks like Iran, China, Russia or maybe your mom firewall
 - [ebrasha/free-v2ray-public-list](https://github.com/ebrasha/free-v2ray-public-list) - A simple and always-updated list of free, working V2Ray servers. including SS, SSR, Trojan, VLESS, VMess, TUIC, and Hysteria2. Just copy, paste, and connect — no signup, no payment, no nonsense. ⏰ Upd
 - [F0rc3Run/F0rc3Run](https://github.com/F0rc3Run/F0rc3Run) - Free VPNs with VMess, VLESS, Shadowsocks & SSTP — powered by V2rayCollector. Bypass censorship, protect your privacy, and enjoy fast, secure, and unrestricted internet access.
