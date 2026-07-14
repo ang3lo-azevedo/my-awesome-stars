@@ -393,7 +393,7 @@
 - [rawnaldclark/Stash](https://github.com/rawnaldclark/Stash) - Your Spotify + YouTube Music library & daily mixes. Stream or download in lossless FLAC. Free and open source forever.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
-- [mubashardev/WaEnhancer](https://github.com/mubashardev/WaEnhancer) - An open-source Xposed/LSPosed toolkit to enhance your WA messaging experience with advanced privacy controls, automation, and UI customization for Android.
+- [mubashardev/WaEnhancer](https://github.com/mubashardev/WaEnhancer) - WhatsApp tools for Android
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [xfqwdsj/IAmNotADeveloper](https://github.com/xfqwdsj/IAmNotADeveloper) - A Xposed module for hiding Android developer-related switches status.
 - [SuperiorOS/manifest](https://github.com/SuperiorOS/manifest) - The Tracker 😎
@@ -1343,6 +1343,7 @@
 
 ## docker 
 
+- [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ All-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
 - [blackhillsinfosec/WifiForge](https://github.com/blackhillsinfosec/WifiForge) - WifiForge is a tool developed by Black Hills InfoSec to help train Pentesters on different Wi-Fi attack vectors and Wireless capabilities.
 - [ellite/scrob](https://github.com/ellite/scrob) - Scrob - Self-hosted media tracking app. It syncs your libraries from Jellyfin, Plex, and Emby, tracks your watch history, ratings, and personal lists - Your own private Letterboxd + Trakt
@@ -2053,6 +2054,7 @@
 
 ## html 
 
+- [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ All-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
 - [fynks/toolz](https://github.com/fynks/toolz) - A collection of personal tools :)
 - [mayswind/AriaNg-Native](https://github.com/mayswind/AriaNg-Native) - A better aria2 desktop frontend than AriaNg, with all features of AriaNg and providing more features for desktop usage.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -2114,7 +2116,6 @@
 - [gyoridavid/short-video-maker](https://github.com/gyoridavid/short-video-maker) - Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using the Model Context Protocol (MCP) and a REST API.
 - [a-legotin/InstaSharper](https://github.com/a-legotin/InstaSharper) - Private Instagram API
 - [ramtinak/InstagramApiSharp](https://github.com/ramtinak/InstagramApiSharp) - A complete Private Instagram API for .NET (C#, VB.NET).
-- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 - [dilame/instagram-private-api](https://github.com/dilame/instagram-private-api) - NodeJS Instagram private API SDK. Written in TypeScript.
 - [ping/instagram_private_api](https://github.com/ping/instagram_private_api) - A Python library to access Instagram's private API.
 - [azusalad/Isosta](https://github.com/azusalad/Isosta) - Anonymous Instagram viewer for Android, powered by Imginn.
@@ -2192,6 +2193,7 @@
 
 ## javascript 
 
+- [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ All-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
 - [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, 
 - [alperengozum/Sleepwell](https://github.com/alperengozum/Sleepwell) - React-Native - Expo - Sleep Cycle Calculator
 - [JPCERTCC/LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
@@ -3076,12 +3078,15 @@
 
 ## osint-tools 
 
+- [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ All-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
 - [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [osintambition/Social-Media-OSINT-Tools-Collection](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection) - A collection of most useful osint tools for SOCINT.
 - [megadose/toutatis](https://github.com/megadose/toutatis) - Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more
 
 ## others 
 
+- [castilho101/CallMe](https://github.com/castilho101/CallMe) - An extension to find callback endpoints in the background while searching the Web
+- [rdillon73/eBreached](https://github.com/rdillon73/eBreached) - A simple CLI tool for detecting breached emails and corresponding passwords.
 - [ashalstrom/osintagram](https://github.com/ashalstrom/osintagram) - 
 - [virtudude/armada](https://github.com/virtudude/armada) - SteamOS-like ARM handheld distro
 - [JJTech0130/TrollRestore](https://github.com/JJTech0130/TrollRestore) - TrollStore installer for iOS 17.0
@@ -3199,7 +3204,7 @@
 - [klab7/GCamBoost](https://github.com/klab7/GCamBoost) - An LSPosed module that lets you use some newer Pixel exclusive GCam features on some older Pixels.
 - [bikini/exploitarium](https://github.com/bikini/exploitarium) - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed 
 - [dantiicu/wine-nx](https://github.com/dantiicu/wine-nx) - Experimental Wine runtime for Nintendo Switch: AArch64 Windows PE loading, Horizon/libnx integration, win32u USER/GDI bring-up, software framebuffer display, touch input, and early Notepad GUI support
-- [harimoradiya/TV-Remote-for-Android-TV](https://github.com/harimoradiya/TV-Remote-for-Android-TV) - TV Remote for Android TV is a fast, secure, and completely free Android application that turns your smartphone into a reliable remote control for Android TV and compatible Smart TVs.
+- [harimoradiya/androidtvremote](https://github.com/harimoradiya/androidtvremote) - TV Remote for Android TV is a fast, secure, and completely free Android application that turns your smartphone into a reliable remote control for Android TV and compatible Smart TVs.
 - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
 - [eylenburg/linoffice](https://github.com/eylenburg/linoffice) - Microsoft Office Launcher for Linux
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
@@ -3375,7 +3380,7 @@
 - [mrphrazer/reverser_ai](https://github.com/mrphrazer/reverser_ai) - Provides automated reverse engineering assistance through the use of local large language models (LLMs) on consumer hardware.
 - [HexRaysSA/ida-hcli](https://github.com/HexRaysSA/ida-hcli) - Hex-Rays CLI (HCLI)
 - [HexRaysSA/ida-chat-plugin](https://github.com/HexRaysSA/ida-chat-plugin) - 
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code and codex for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)
 - [ikarus23/kiosk-mode-breakout](https://github.com/ikarus23/kiosk-mode-breakout) - A collection of tips & tricks on how to escape a kiosk mode environment
 - [foreni-packages/hachoir-subfile](https://github.com/foreni-packages/hachoir-subfile) - hachoir-subfile : Find subfile in any binary stream
 - [cdgriffith/puremagic](https://github.com/cdgriffith/puremagic) - Pure python implementation of identifying files based off their magic numbers
@@ -3412,7 +3417,7 @@
 - [wuplayapp/wuplay-releases](https://github.com/wuplayapp/wuplay-releases) - WuPlay for Android TV — releases and issue tracker
 - [Matroxt/one-pace-to-plex](https://github.com/Matroxt/one-pace-to-plex) - Guide to adapt One Pace releases to a format Plex can use
 - [haaihond/Trakt-Nuvio-Bridge](https://github.com/haaihond/Trakt-Nuvio-Bridge) - A web bridge for syncing Trakt watched history, playback progress, watchlist, and collection data into Nuvio Sync.
-- [ProdigyV21/ARVIO](https://github.com/ProdigyV21/ARVIO) - ARVIO - A media hub application for Android TV with a modern, beautiful interface.
+- [ProdigyV21/ARVIO](https://github.com/ProdigyV21/ARVIO) - ARVIO - A media hub application with a modern, beautiful interface.
 - [ParticularCatch449/Nuvio](https://github.com/ParticularCatch449/Nuvio) - Nuvio account and collections builder based off my TVFlix builder
 - [techuhak/Nuvio-Account-Manager](https://github.com/techuhak/Nuvio-Account-Manager) - 
 - [Inside4ndroid/M3U-XCAPI-EPG-IPTV-Stremio](https://github.com/Inside4ndroid/M3U-XCAPI-EPG-IPTV-Stremio) - A feature‑rich, configurable Stremio addon that ingests IPTV M3U playlists and optional EPG (XMLTV) guide data – with built‑in Xtream Codes API support, encrypted configuration tokens, caching (LRU + 
@@ -3577,7 +3582,7 @@
 - [ACreTeam/ac-decomp](https://github.com/ACreTeam/ac-decomp) - Decompilation in progress of Animal Crossing for the Nintendo GameCube.
 - [flyngmt/ACGC-PC-Port](https://github.com/flyngmt/ACGC-PC-Port) - Unofficial PC Port of Animal Crossing Gamecube
 - [elder-plinius/GLOSSOPETRAE](https://github.com/elder-plinius/GLOSSOPETRAE) - LINGUISTIC ENGINE FOR AI
-- [William24hmar/nothing_android_kernel_sm7325](https://github.com/William24hmar/nothing_android_kernel_sm7325) - For Rom build, use Branch : ROM-16.2 / ROM-16
+- [William24hmar/nothing_android_kernel_sm7325](https://github.com/William24hmar/nothing_android_kernel_sm7325) - For Rom build, use Branch : Lineage24-Rebase / Lineage24-B
 - [domiriel/peerforum](https://github.com/domiriel/peerforum) - Peergrading for Moodle forums
 - [TheMrKiko/peerforum](https://github.com/TheMrKiko/peerforum) - 
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
@@ -3936,7 +3941,7 @@
 - [PixelPlayerHQ/PixelPlayer](https://github.com/PixelPlayerHQ/PixelPlayer) - privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.
 - [ThePedroo/ReLSPosed](https://github.com/ThePedroo/ReLSPosed) - LSPosed Framework resuscitated
 - [rt-evil-inc/gira-mais](https://github.com/rt-evil-inc/gira-mais) - Aplicação alternativa para o sistema de bicicletas partilhadas de Lisboa
-- [Myst1cX/spotifuck-userscript](https://github.com/Myst1cX/spotifuck-userscript) - Ports the full Spotifuck 1.6.4 UI hack experience directly to the Spotify Web Player for use in the Firefox mobile browser.
+- [Myst1cX/spotifuck-userscript](https://github.com/Myst1cX/spotifuck-userscript) - Ports the full Spotifuck 1.6.4 UI hack experience directly to the Spotify Web Player for use in the Quetta/Firefox mobile browser.
 - [mentalblank/GPhotos-Revanced](https://github.com/mentalblank/GPhotos-Revanced) - ReVanced Google Photos APK Auto-Builds
 - [Aunali321/revanced-downloader-plugins](https://github.com/Aunali321/revanced-downloader-plugins) - 
 - [Aunali321/ReVancedExperiments](https://github.com/Aunali321/ReVancedExperiments) - 
@@ -4582,7 +4587,6 @@
 - [ang3lo-azevedo/cursor-limit-reset](https://github.com/ang3lo-azevedo/cursor-limit-reset) - This tool is developed for resetting Cursor editor device IDs to resolve account restrictions when switching accounts or during trial periods.
 - [yx-elite/cursor-limit-reset](https://github.com/yx-elite/cursor-limit-reset) - This tool is developed for resetting Cursor editor device IDs to resolve account restrictions when switching accounts or during trial periods.
 - [daviDarthemis/acclan](https://github.com/daviDarthemis/acclan) - wine focused on running arm64ec on mobile devices
-- [daviDarthemis/Olympus-App](https://github.com/daviDarthemis/Olympus-App) - Olympus App Source - Managed by MCFLY
 - [Torxed/archinstall-aur](https://github.com/Torxed/archinstall-aur) - Archinstall plugin to handle AUR packages
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [kvz/bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
@@ -5092,7 +5096,7 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [kaleedtc/Nitterium](https://github.com/kaleedtc/Nitterium) - A privacy-focused Android app and wrapper for Nitter, allowing you to browse Twitter/X content without an account and subscribe to your favorite user profiles.
 - [Offshore-CAT/Offshore.CAT](https://github.com/Offshore-CAT/Offshore.CAT) - Offshore.CAT provides DMCA-ignored offshore hosting solutions. Built with HTML and CSS, it offers an intuitive interface for seamless interaction and data presentation. The project aims to offer relia
-- [mubashardev/WaEnhancer](https://github.com/mubashardev/WaEnhancer) - An open-source Xposed/LSPosed toolkit to enhance your WA messaging experience with advanced privacy controls, automation, and UI customization for Android.
+- [mubashardev/WaEnhancer](https://github.com/mubashardev/WaEnhancer) - WhatsApp tools for Android
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [pritkr/predirect](https://github.com/pritkr/predirect) - A manifest v3 web extension with minimal permissions to automatically redirect to privacy friendly frontends. ⭐️ Star to support our work!
 - [0xXyc/SwizGuard](https://github.com/0xXyc/SwizGuard) - A self-hosted "Stealth VPN" implementation, forked from xray-core and WireGuard. It makes your traffic look like normal TLS traffic but little does your ISP know there is an entire encrypted WireGuard
@@ -5680,7 +5684,6 @@
 
 ## server 
 
-- [nikzad-avasam/block-torrent-on-server](https://github.com/nikzad-avasam/block-torrent-on-server) - By this script you can block all torrent and p2p traffic on your server or vps .
 - [shishkabob27/cwk-server](https://github.com/shishkabob27/cwk-server) - A reversed-engineered server for Card Wars Kingdom.
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
@@ -5748,6 +5751,7 @@
 
 ## svelte 
 
+- [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ All-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
 - [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Leading Git-based headless CMS. Successor to Netlify/Decap CMS. Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [Raphiiko/OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - 🥽 VR Sleeping Utilities
@@ -5906,6 +5910,7 @@
 
 ## typescript 
 
+- [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ All-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
 - [giuliastro/opencode-remote-android](https://github.com/giuliastro/opencode-remote-android) - Android companion app to control and monitor an OpenCode server from phone or desktop
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [astashov/liftosaur](https://github.com/astashov/liftosaur) - Weightlifting tracker app for coders
@@ -6007,7 +6012,6 @@
 - [dnstt-xyz/dnstt_xyz_app](https://github.com/dnstt-xyz/dnstt_xyz_app) - Multi-platform dnstt client for restricted networks like Iran, China, Russia or maybe your mom firewall
 - [ebrasha/free-v2ray-public-list](https://github.com/ebrasha/free-v2ray-public-list) - A simple and always-updated list of free, working V2Ray servers. including SS, SSR, Trojan, VLESS, VMess, TUIC, and Hysteria2. Just copy, paste, and connect — no signup, no payment, no nonsense. ⏰ Upd
 - [F0rc3Run/F0rc3Run](https://github.com/F0rc3Run/F0rc3Run) - Free VPNs with VMess, VLESS, Shadowsocks & SSTP — powered by V2rayCollector. Bypass censorship, protect your privacy, and enjoy fast, secure, and unrestricted internet access.
-- [nikzad-avasam/block-torrent-on-server](https://github.com/nikzad-avasam/block-torrent-on-server) - By this script you can block all torrent and p2p traffic on your server or vps .
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [barry-far/V2ray-Config](https://github.com/barry-far/V2ray-Config) - Free V2ray Configs, Updating Every 15 minutes. 🚀🌐
 - [HatsuneMikuUwU/MikuBoxForAndroid](https://github.com/HatsuneMikuUwU/MikuBoxForAndroid) - MikuBox is based NekoBox with Miku UI and theme custom
