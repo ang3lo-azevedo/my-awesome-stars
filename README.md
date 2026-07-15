@@ -2116,6 +2116,7 @@
 - [gyoridavid/short-video-maker](https://github.com/gyoridavid/short-video-maker) - Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using the Model Context Protocol (MCP) and a REST API.
 - [a-legotin/InstaSharper](https://github.com/a-legotin/InstaSharper) - Private Instagram API
 - [ramtinak/InstagramApiSharp](https://github.com/ramtinak/InstagramApiSharp) - A complete Private Instagram API for .NET (C#, VB.NET).
+- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 - [dilame/instagram-private-api](https://github.com/dilame/instagram-private-api) - NodeJS Instagram private API SDK. Written in TypeScript.
 - [ping/instagram_private_api](https://github.com/ping/instagram_private_api) - A Python library to access Instagram's private API.
 - [azusalad/Isosta](https://github.com/azusalad/Isosta) - Anonymous Instagram viewer for Android, powered by Imginn.
@@ -3085,6 +3086,8 @@
 
 ## others 
 
+- [Aorimn/dislocker](https://github.com/Aorimn/dislocker) - FUSE driver to read/write Windows' BitLocker-ed volumes under Linux / Mac OSX
+- [elceef/bitlocker](https://github.com/elceef/bitlocker) - Volatility Framework plugin for extracting BitLocker FVEK (Full Volume Encryption Key)
 - [castilho101/CallMe](https://github.com/castilho101/CallMe) - An extension to find callback endpoints in the background while searching the Web
 - [rdillon73/eBreached](https://github.com/rdillon73/eBreached) - A simple CLI tool for detecting breached emails and corresponding passwords.
 - [ashalstrom/osintagram](https://github.com/ashalstrom/osintagram) - 
@@ -3380,7 +3383,7 @@
 - [mrphrazer/reverser_ai](https://github.com/mrphrazer/reverser_ai) - Provides automated reverse engineering assistance through the use of local large language models (LLMs) on consumer hardware.
 - [HexRaysSA/ida-hcli](https://github.com/HexRaysSA/ida-hcli) - Hex-Rays CLI (HCLI)
 - [HexRaysSA/ida-chat-plugin](https://github.com/HexRaysSA/ida-chat-plugin) - 
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free from the terminal, IDE, or you phone like OpenClaw (voice supported)
 - [ikarus23/kiosk-mode-breakout](https://github.com/ikarus23/kiosk-mode-breakout) - A collection of tips & tricks on how to escape a kiosk mode environment
 - [foreni-packages/hachoir-subfile](https://github.com/foreni-packages/hachoir-subfile) - hachoir-subfile : Find subfile in any binary stream
 - [cdgriffith/puremagic](https://github.com/cdgriffith/puremagic) - Pure python implementation of identifying files based off their magic numbers
