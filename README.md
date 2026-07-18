@@ -949,6 +949,7 @@
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
+- [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) - Voyager — an all-in-one enhancement suite for AI Studio, Gemini, Claude & ChatGPT: timelines, folders, prompts, usage tracking, chat export, plugins, and more. / 面向 AI Studio、Gemini、Claude 与 ChatGPT 的
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [yoannchb-pro/MoodleGPT](https://github.com/yoannchb-pro/MoodleGPT) - This extension allows you to hide CHAT-GPT in a Moodle quiz.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
@@ -985,7 +986,7 @@
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
 - [FoxRefire/wvg](https://github.com/FoxRefire/wvg) - Chrome/Firefox extension for pen-testing to retrieve encryption keys of Widevine protected content !DON'T DECRYPT CONTENT UNLESS YOU HAVE THE RIGHT TO DO IT!
 - [DevLARLEY/WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2) - An extension-based proxy for Widevine EME challenges and license messages. Modifies the challenge before it reaches the web player. Bypasses Hashes, one-time-tokens and license wrapping.
-- [Nagi-ovo/gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager) - An all-in-one enhancement suite for Google Gemini & AI Studio - timeline navigation, folder management, prompt library, and chat export in one powerful extension. / Google Gemini & AI Studio 全能增强插件：集成
+- [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) - Voyager — an all-in-one enhancement suite for AI Studio, Gemini, Claude & ChatGPT: timelines, folders, prompts, usage tracking, chat export, plugins, and more. / 面向 AI Studio、Gemini、Claude 与 ChatGPT 的
 - [pritkr/predirect](https://github.com/pritkr/predirect) - A manifest v3 web extension with minimal permissions to automatically redirect to privacy friendly frontends. ⭐️ Star to support our work!
 - [nehirakbass/anime-filler-checker](https://github.com/nehirakbass/anime-filler-checker) - Browser extension that auto-detects anime filler episodes on any streaming site. Shows FILLER/CANON/MIXED badge directly on the page.
 - [RetireJS/retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds.
@@ -1137,6 +1138,7 @@
 
 ## cpp 
 
+- [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 emulator for Windows
 - [OpenNMT/CTranslate2](https://github.com/OpenNMT/CTranslate2) - Fast inference engine for Transformer models
 - [NotRequiem/VMAware](https://github.com/NotRequiem/VMAware) - Advanced VM detection library and tool
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
@@ -1171,6 +1173,7 @@
 
 ## csharp 
 
+- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
 - [GSDragoon/RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Radeon Software Slimmer is a utility to trim down the bloat with Radeon Software for AMD GPUs on Microsoft Windows.
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
@@ -1539,6 +1542,8 @@
 
 ## emulator 
 
+- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
+- [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 emulator for Windows
 - [Jonathan8520/FlashNX](https://github.com/Jonathan8520/FlashNX) - Homebrew Flash player for Nintendo Switch (.nro). Play your .swf games from the SD card. Powered by Ruffle.
 - [0xNikilite/oboromi](https://github.com/0xNikilite/oboromi) - a proof-of-concept project for a possible Nintendo Switch 2 emulator.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
@@ -1615,7 +1620,7 @@
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
-- [betterbrowser/arcfox](https://github.com/betterbrowser/arcfox) - Make your production flow
+- [betterbrowser/arcfox](https://github.com/betterbrowser/arcfox) - Make your production flow.
 - [JarlPenguin/TorBrowserPortable](https://github.com/JarlPenguin/TorBrowserPortable) - Tor Browser Portable is a portablized version of the Tor Browser, which allows for truly anonymous browsing.
 - [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - Enable Bing ChatGPT on Chrome and Firefox
 
@@ -1771,6 +1776,7 @@
 
 ## go 
 
+- [mainlink0435/warpbox](https://github.com/mainlink0435/warpbox) - A high-performance WebDAV proxy for TorBox
 - [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - bgscan is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
@@ -1796,6 +1802,7 @@
 
 ## golang 
 
+- [mainlink0435/warpbox](https://github.com/mainlink0435/warpbox) - A high-performance WebDAV proxy for TorBox
 - [aceberg/unbox](https://github.com/aceberg/unbox) - CLI tool for sing-box: keep alive, auto switch. Convert URLs to sing-box config. Deduplicate. Remove unreachable servers
 - [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - bgscan is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
@@ -1887,6 +1894,7 @@
 
 ## hacking 
 
+- [SleepTheGod/UniversalCasinoExploit](https://github.com/SleepTheGod/UniversalCasinoExploit) - A JavaScript-based security research tool demonstrating client-side vulnerabilities in cryptocurrency casino platforms. The exploit intercepts API calls, manipulates DOM elements, and modifies local s
 - [blackhillsinfosec/WifiForge](https://github.com/blackhillsinfosec/WifiForge) - WifiForge is a tool developed by Black Hills InfoSec to help train Pentesters on different Wi-Fi attack vectors and Wireless capabilities.
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) - Run macOS, Windows and more via a single Nix command, or simple nixosModules
@@ -2275,7 +2283,7 @@
 - [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Android feed reader app
 - [ycngmn/Nobook](https://github.com/ycngmn/Nobook) - Ad-free facebook lite for Android.
 - [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools and mods for Android nerds
-- [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
+- [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - 🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!
 - [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [ZalithLauncher/ZalithLauncher2](https://github.com/ZalithLauncher/ZalithLauncher2) - A Minecraft: Java Edition Launcher for Android
@@ -2335,7 +2343,7 @@
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools and mods for Android nerds
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
-- [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
+- [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - 🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!
 - [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
 - [jksalcedo/librefind](https://github.com/jksalcedo/librefind) - Discover and replace proprietary apps with FOSS alternatives
 - [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
@@ -2410,6 +2418,8 @@
 
 ## linux 
 
+- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
+- [aeroshell-desktop/aerothemeplasma](https://github.com/aeroshell-desktop/aerothemeplasma) - An alternative shell for KDE Plasma that aims to replicate the look and feel of Windows 7.
 - [ChrisDKN/Amethyst-Mod-Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) - A Linux native mod manager for a variety of games
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
@@ -2590,6 +2600,7 @@
 
 ## llm 
 
+- [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu) - Anti-LLM obfuscation via finger counting
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [hovanhoa/cursor-free-vip](https://github.com/hovanhoa/cursor-free-vip) - [Support 0.48.x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accoun
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -2666,6 +2677,7 @@
 
 ## macos 
 
+- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -2750,7 +2762,7 @@
 - [kaleedtc/Nitterium](https://github.com/kaleedtc/Nitterium) - A privacy-focused Android app and wrapper for Nitter, allowing you to browse Twitter/X content without an account and subscribe to your favorite user profiles.
 - [EchoMusicApp/Echo-Music](https://github.com/EchoMusicApp/Echo-Music) - A modern Android music app with ad-free streaming, synced lyrics, offline playback, and an intuitive user experience.
 - [MdFarhan0/Self-Attendance](https://github.com/MdFarhan0/Self-Attendance) - A clean Android app to track college attendance with subject-wise targets and smart bunk guidance. Mark attendance, visualize performance, and instantly know whether to attend or skip classes.
-- [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
+- [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - 🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!
 - [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
 - [Ivorisnoob/Koda](https://github.com/Ivorisnoob/Koda) - A Material Expressive Music app for Android
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
@@ -2866,7 +2878,7 @@
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [unchihugo/FluentFlyout](https://github.com/unchihugo/FluentFlyout) - The modern Flyout app for Windows 11, built with Fluent 2 Design principles. Media Flyouts, Taskbar Widgets and more.
 - [toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding) - All things livecoding
-- [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
+- [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - 🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!
 - [0xarchit/0xDABmusic](https://github.com/0xarchit/0xDABmusic) - A client for DAB music for download, convert, enjoy your library All in one! First opening might be delayed due to unsigned package detection by defender on windows. Enjoy studio quality music (FLAC) 
 - [n-ce/ytify](https://github.com/n-ce/ytify) - Efficient YouTube Audio Streaming, Effortlessly, Anywhere.
 - [NielsMasdorp/Nederadio-Android](https://github.com/NielsMasdorp/Nederadio-Android) - Stream radio stations
@@ -3114,6 +3126,9 @@
 
 ## others 
 
+- [keygenesis/Jackify](https://github.com/keygenesis/Jackify) - Jackify - Simplifying Wabbajack modlist installation and configuration on Linux
+- [KoriaPolis/CrakFiles](https://github.com/KoriaPolis/CrakFiles) - 
+- [jkalasas/torbox-app](https://github.com/jkalasas/torbox-app) - A native desktop client for TorBox. Manage cloud torrents, web downloads, and local transfers without opening a browser.
 - [23fpsz/SpotiDuck-Releases](https://github.com/23fpsz/SpotiDuck-Releases) - 
 - [Midrags/SFF](https://github.com/Midrags/SFF) - SteaMidra - Advanced Steam game setup and management tool featuring manifest handling, Lua integrations, LumaCore deployment, multiplayer fixes, DLC unlocking, backups, game fixes, and an easy-to-use 
 - [WordPress/WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop 
@@ -3478,10 +3493,9 @@
 - [different-name/steam-config-nix](https://github.com/different-name/steam-config-nix) - Manage Steam launch options and compatibility tools declaratively through Home Manager
 - [NuvioMedia/NuvioWeb](https://github.com/NuvioMedia/NuvioWeb) - Official Nuvio WebOS, TizenOS Repository
 - [NuvioMedia/NuvioTV](https://github.com/NuvioMedia/NuvioTV) - Official Nuvio Android TV Repository
-- [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) - Jellyfin Desktop Client
+- [andrewrabert/jellium-desktop](https://github.com/andrewrabert/jellium-desktop) - An unofficial desktop client for Jellyfin
 - [matt1432/nixos-jellyfin](https://github.com/matt1432/nixos-jellyfin) - A NixOS module that extends the jellyfin service to configure its settings.
 - [lostb1t/Gelato](https://github.com/lostb1t/Gelato) - Jellyfin Stremio Integration Plugin
-- [MySelly/vendor_nothing_Spacewar](https://github.com/MySelly/vendor_nothing_Spacewar) - 
 - [kleidione/hardware_dolby](https://github.com/kleidione/hardware_dolby) - 
 - [StudioKeys-Dumps/packages_apps_ParanoidGlyph](https://github.com/StudioKeys-Dumps/packages_apps_ParanoidGlyph) - 
 - [kleidione/vendor_nothing_Spacewar](https://github.com/kleidione/vendor_nothing_Spacewar) - 
@@ -3682,7 +3696,6 @@
 - [mrshmllow/affinity-nix](https://github.com/mrshmllow/affinity-nix) - Affinity v3 & v2 packaged with Nix!
 - [100thCoin/AccuracyCoin](https://github.com/100thCoin/AccuracyCoin) - A large collection of NES accuracy tests on a single NROM cartridge.
 - [spacealtctrl/microg_installer_revived_again](https://github.com/spacealtctrl/microg_installer_revived_again) - Promote microG GmsCore, GsfProxy, Companion/Play Store and MapsV1 to system with privileged permissions
-- [MySelly/kernel_nothing_sm7325](https://github.com/MySelly/kernel_nothing_sm7325) - 
 - [sashs/Ropper](https://github.com/sashs/Ropper) - Display information about files in different file formats and find gadgets to build rop chains for different architectures (x86/x86_64, ARM/ARM64, MIPS, PowerPC, SPARC64). For disassembly ropper uses 
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
 - [jchv/nix-binary-ninja](https://github.com/jchv/nix-binary-ninja) - Unofficial Nix flake for using Binary Ninja on NixOS.
@@ -3706,7 +3719,6 @@
 - [LKDenchin/rsuntk-KernelSU](https://github.com/LKDenchin/rsuntk-KernelSU) - KernelSU with MagicMount, support GKI and Non-GKI. Updates: https://t.me/rsukrnlsu
 - [Pong-Development/packages_apps_ParanoidGlyph](https://github.com/Pong-Development/packages_apps_ParanoidGlyph) - packages/apps/ParanoidGlyph
 - [smrth097/packages_apps_ParanoidGlyph](https://github.com/smrth097/packages_apps_ParanoidGlyph) - packages/apps/ParanoidGlyph
-- [MySelly/device_nothing_spacewar](https://github.com/MySelly/device_nothing_spacewar) - 
 - [smrth097/hardware_dolby](https://github.com/smrth097/hardware_dolby) - 
 - [ang3lo-azevedo/android_device_nothing_Spacewar](https://github.com/ang3lo-azevedo/android_device_nothing_Spacewar) - Device Tree for Nothing Phone (1)
 - [DaViDev985/proprietary_vendor_nothing_camera](https://github.com/DaViDev985/proprietary_vendor_nothing_camera) - 
@@ -5485,6 +5497,7 @@
 
 ## reverse-engineering 
 
+- [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu) - Anti-LLM obfuscation via finger counting
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 - [xiosec/Reverse-engineering](https://github.com/xiosec/Reverse-engineering) - Reverse Engineering tools
@@ -5588,6 +5601,7 @@
 
 ## security 
 
+- [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu) - Anti-LLM obfuscation via finger counting
 - [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, tools and other resources
 - [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
@@ -5666,6 +5680,7 @@
 
 ## self-hosted 
 
+- [mainlink0435/warpbox](https://github.com/mainlink0435/warpbox) - A high-performance WebDAV proxy for TorBox
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
@@ -6195,6 +6210,9 @@
 
 ## windows 
 
+- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
+- [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 emulator for Windows
+- [aeroshell-desktop/aerothemeplasma](https://github.com/aeroshell-desktop/aerothemeplasma) - An alternative shell for KDE Plasma that aims to replicate the look and feel of Windows 7.
 - [GSDragoon/RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Radeon Software Slimmer is a utility to trim down the bloat with Radeon Software for AMD GPUs on Microsoft Windows.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
