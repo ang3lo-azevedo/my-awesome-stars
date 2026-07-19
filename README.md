@@ -299,7 +299,7 @@
 
 ## agent-skills 
 
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflow
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core preview is the local, agent-first control plane for discovering, recommending, validating, and planning exact skill stacks, backed by 1,965+ agentic skills. Includes CLI, local MCP, catalog, 
 
 ## agents 
 
@@ -355,7 +355,7 @@
 ## ai-agents 
 
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - [CyberChef-MCP] Model Context Protocol Server for CyberChef ... exposing GCHQ's "Cyber Swiss Army Knife" as 463+ executable AI agent tools spanning encryption, encoding, compression, and forensic data
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflow
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core preview is the local, agent-first control plane for discovering, recommending, validating, and planning exact skill stacks, backed by 1,965+ agentic skills. Includes CLI, local MCP, catalog, 
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -1015,7 +1015,7 @@
 
 ## claude-code 
 
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflow
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core preview is the local, agent-first control plane for discovering, recommending, validating, and planning exact skill stacks, backed by 1,965+ agentic skills. Includes CLI, local MCP, catalog, 
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
@@ -1281,7 +1281,7 @@
 
 ## developer-tools 
 
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflow
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core preview is the local, agent-first control plane for discovering, recommending, validating, and planning exact skill stacks, backed by 1,965+ agentic skills. Includes CLI, local MCP, catalog, 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [brunos3d/discord-enable-devtools](https://github.com/brunos3d/discord-enable-devtools) - 🚀 zx - Bring your Discord's devtools back to life (again)
 - [robertpsoane/ducker](https://github.com/robertpsoane/ducker) - A slightly quackers Docker TUI based on k9s 🦆
@@ -2788,7 +2788,7 @@
 ## mcp 
 
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - [CyberChef-MCP] Model Context Protocol Server for CyberChef ... exposing GCHQ's "Cyber Swiss Army Knife" as 463+ executable AI agent tools spanning encryption, encoding, compression, and forensic data
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflow
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core preview is the local, agent-first control plane for discovering, recommending, validating, and planning exact skill stacks, backed by 1,965+ agentic skills. Includes CLI, local MCP, catalog, 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mukul975/cve-mcp-server](https://github.com/mukul975/cve-mcp-server) - Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more.
 - [LayeSec006/pentest-mcp-server](https://github.com/LayeSec006/pentest-mcp-server) - MCP server for penetration testing
@@ -3628,7 +3628,7 @@
 - [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) - I have spaghetti, now i just need a kart
 - [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
 - [mariopartyrd/marioparty4](https://github.com/mariopartyrd/marioparty4) - 
-- [ACreTeam/ac-decomp](https://github.com/ACreTeam/ac-decomp) - Decompilation in progress of Animal Crossing for the Nintendo GameCube.
+- [ACreTeam/ac-decomp](https://github.com/ACreTeam/ac-decomp) - Decompilation of Animal Crossing for the Nintendo GameCube.
 - [flyngmt/ACGC-PC-Port](https://github.com/flyngmt/ACGC-PC-Port) - Unofficial PC Port of Animal Crossing Gamecube
 - [elder-plinius/GLOSSOPETRAE](https://github.com/elder-plinius/GLOSSOPETRAE) - LINGUISTIC ENGINE FOR AI
 - [William24hmar/nothing_android_kernel_sm7325](https://github.com/William24hmar/nothing_android_kernel_sm7325) - For Rom build, use Branch : Lineage24-Rebase / Lineage24-B
@@ -3817,7 +3817,7 @@
 - [MySelly/vendor_nothing_camera-spacewar](https://github.com/MySelly/vendor_nothing_camera-spacewar) - 
 - [smrth097/android_hardware_nothing](https://github.com/smrth097/android_hardware_nothing) - 
 - [chandradev28/streamed.app](https://github.com/chandradev28/streamed.app) - The Ultimate ALL-IN-ONE Streaming App (Movies, TV Shows & Hi-Fi Music)
-- [star-emu/star](https://github.com/star-emu/star) - star - An application that lets you run Windows applications via Wine and box64/86 on Android.
+- [winhub-emu/winhub](https://github.com/winhub-emu/winhub) - WinHub - An application that lets you run Windows applications via Wine and box64/86 on Android.
 - [jimzrt/apprenticeVr](https://github.com/jimzrt/apprenticeVr) - designed for managing and sideloading content onto Meta Quest devices
 - [ang3lo-azevedo/nix-proton-cachyos](https://github.com/ang3lo-azevedo/nix-proton-cachyos) - NixOS flake packaging for CachyOS Proton (https://github.com/CachyOS/proton-cachyos), a compatibility tool for Steam Play with CachyOS optimizations
 - [mobile-nixos/mobile-nixos](https://github.com/mobile-nixos/mobile-nixos) - 📱 (rebooting... please wait...)
@@ -4961,7 +4961,7 @@
 - [sleeyax/stremio-discord](https://github.com/sleeyax/stremio-discord) - Local addon that shows the movie or series you're watching in Discord
 - [sungshon/PimpMyStremio](https://github.com/sungshon/PimpMyStremio) - Local add-on manager for Stremio
 - [BurningSands70/stremio-downloader](https://github.com/BurningSands70/stremio-downloader) - An application that allows downloading streams from Stremio.
-- [Stremio-Community/stremio-addons-list](https://github.com/Stremio-Community/stremio-addons-list) - A community curated list of Stremio Addons
+- [stremio-community/stremio-addons-list](https://github.com/stremio-community/stremio-addons-list) - A community curated list of Stremio Addons
 - [KeyPuncher/WiinUPro](https://github.com/KeyPuncher/WiinUPro) - 
 - [LucidVR/opengloves-ui](https://github.com/LucidVR/opengloves-ui) - OpenGloves UI
 - [Philooz/pyambientmixer](https://github.com/Philooz/pyambientmixer) - Python script to download and run ambient files from ambient-mixer.com
