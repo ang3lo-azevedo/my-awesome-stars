@@ -3126,13 +3126,14 @@
 
 ## others 
 
+- [foreni-packages/fcrackzip](https://github.com/foreni-packages/fcrackzip) - fcrackzip -  Fast zip password cracker
 - [keygenesis/Jackify](https://github.com/keygenesis/Jackify) - Jackify - Simplifying Wabbajack modlist installation and configuration on Linux
 - [KoriaPolis/CrakFiles](https://github.com/KoriaPolis/CrakFiles) - 
 - [jkalasas/torbox-app](https://github.com/jkalasas/torbox-app) - A native desktop client for TorBox. Manage cloud torrents, web downloads, and local transfers without opening a browser.
 - [23fpsz/SpotiDuck-Releases](https://github.com/23fpsz/SpotiDuck-Releases) - 
 - [Midrags/SFF](https://github.com/Midrags/SFF) - SteaMidra - Advanced Steam game setup and management tool featuring manifest handling, Lua integrations, LumaCore deployment, multiplayer fixes, DLC unlocking, backups, game fixes, and an easy-to-use 
 - [WordPress/WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop 
-- [lyssadev/Spotilol](https://github.com/lyssadev/Spotilol) - A android app that wraps spotifys web player with built-in ad-blocker
+- [lyssadev/Spotilol](https://github.com/lyssadev/Spotilol) - A android app that wraps Spotify's web player with built-in adblocker
 - [Aorimn/dislocker](https://github.com/Aorimn/dislocker) - FUSE driver to read/write Windows' BitLocker-ed volumes under Linux / Mac OSX
 - [elceef/bitlocker](https://github.com/elceef/bitlocker) - Volatility Framework plugin for extracting BitLocker FVEK (Full Volume Encryption Key)
 - [castilho101/CallMe](https://github.com/castilho101/CallMe) - An extension to find callback endpoints in the background while searching the Web
@@ -5709,7 +5710,7 @@
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [Ketbome/minepanel](https://github.com/Ketbome/minepanel) - A modern Docker-based web panel for managing multiple Minecraft servers with ease.
-- [robiningelbrecht/statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your sports and fitness data
+- [dreeveapp/dreeve](https://github.com/dreeveapp/dreeve) - Self-hosted, open-source dashboard for your sports and fitness data
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [meichthys/foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries) - Free and Open Source Photo Libraries
@@ -5798,7 +5799,7 @@
 
 ## statistics 
 
-- [robiningelbrecht/statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your sports and fitness data
+- [dreeveapp/dreeve](https://github.com/dreeveapp/dreeve) - Self-hosted, open-source dashboard for your sports and fitness data
 
 ## svelte 
 
