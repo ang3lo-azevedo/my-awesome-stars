@@ -308,6 +308,7 @@
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 
 ## ai 
 
@@ -348,6 +349,7 @@
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - On-device subtitle generation that connects directly to DaVinci Resolve, Premiere, and After Effects.
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [ruwiss/ai-auto-free](https://github.com/ruwiss/ai-auto-free) - [AI Auto Free]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai, Windsurf Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on th
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and then uses AI voice services to create a new dubbed & translated audio track where the speech is synced using the subtitle's t
@@ -376,6 +378,8 @@
 
 ## android 
 
+- [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida) - 🔐 Run frida-server on boot with Magisk, always up-to-date
+- [hxreborn/playstore-adblock](https://github.com/hxreborn/playstore-adblock) - Xposed module to remove sponsored listings and ads from the Google Play Store
 - [haoyangtu09-art/Deekseep](https://github.com/haoyangtu09-art/Deekseep) - Unofficial DeepSeek Android Xposed toolkit with libxposed API 102, legacy, test, and diagnostic builds
 - [rama-io/mako](https://github.com/rama-io/mako) - Minimal, privacy-first Android launcher designed for focus, speed, and simplicity.
 - [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) - A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt
@@ -645,6 +649,7 @@
 
 ## archlinux 
 
+- [Wyze3306/BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Run Minecraft Bedrock for Windows seamlessly on Linux.
 - [cryinkfly/Autodesk-Fusion-360-for-Linux](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux) - This is a project, where I give you a way to use Autodesk Fusion 360 on Linux!
 - [winesapOS/winesapOS](https://github.com/winesapOS/winesapOS) - winesapOS - Game with Linux anywhere, no installation required!
 - [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
@@ -742,6 +747,7 @@
 
 ## awesome 
 
+- [nvbangg/awesome-for-morphe](https://github.com/nvbangg/awesome-for-morphe) - Explore all Morphe resources, patches and community projects. Get daily notifications when there are new updates.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [secfigo/Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) - A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Developme
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
@@ -792,6 +798,7 @@
 
 ## awesome-list 
 
+- [nvbangg/awesome-for-morphe](https://github.com/nvbangg/awesome-for-morphe) - Explore all Morphe resources, patches and community projects. Get daily notifications when there are new updates.
 - [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, tools and other resources
 - [secfigo/Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) - A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Developme
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -1019,6 +1026,7 @@
 
 ## cli 
 
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [mhyrzt/xrat](https://github.com/mhyrzt/xrat) - Rust CLI/TUI proxy manager for Xray-core, V2Ray-core, and sing-box: import subscriptions,   test latency, rotate proxies, scan edge IPs, and run managed local proxy sessions.
 - [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - bgscan is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
@@ -1043,7 +1051,7 @@
 - [e-tho/pwmenu](https://github.com/e-tho/pwmenu) - Launcher-driven audio manager for Linux
 - [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's CLI and TUI client -- The ultimate weapon against brainrot
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
 - [DeterminateSystems/fh](https://github.com/DeterminateSystems/fh) - The official CLI for FlakeHub: search for flakes, and add new inputs to your Nix flake.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -1096,6 +1104,7 @@
 
 ## command-line 
 
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [Decimation/SmartImage](https://github.com/Decimation/SmartImage) - Reverse image search tool (SauceNao, IQDB, Ascii2D, trace.moe, and more)
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -1299,7 +1308,7 @@
 
 - [ifd3f/infra](https://github.com/ifd3f/infra) - Personal cloud, dotfiles, and configurations omnirepo
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Safety guardrails for ai coding agents and human terminal commands
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -1384,6 +1393,7 @@
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
 - [Woahai321/list-sync](https://github.com/Woahai321/list-sync) - ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management. https://discord.gg/Dy5xNzEHKw
 - [redpwn/jail](https://github.com/redpwn/jail) - An nsjail Docker image for CTF pwnables. Easily create secure, isolated xinetd/inetd-style services.
 - [m0nad/awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation) - A curated list of awesome privilege escalation
@@ -1712,6 +1722,7 @@
 
 ## games 
 
+- [Wyze3306/BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Run Minecraft Bedrock for Windows seamlessly on Linux.
 - [neodb-social/neodb](https://github.com/neodb-social/neodb) - 🧩 a self-hosted server tracking what you read/watch/listen/play, powering a global distributed community federating via ActivityPub and ATProto.
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 - [dreamer/boxtron](https://github.com/dreamer/boxtron) - Steam Play compatibility tool to run DOS games using native Linux DOSBox
@@ -1752,6 +1763,7 @@
 
 ## git 
 
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
@@ -1783,6 +1795,7 @@
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
 - [5rahim/seanime](https://github.com/5rahim/seanime) - Open-source media server with a web interface and desktop app for anime and manga.
@@ -1812,7 +1825,7 @@
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 - [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
@@ -1936,6 +1949,7 @@
 
 ## hacktoberfest 
 
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 - [Criador-Horarios/Criador-Horarios](https://github.com/Criador-Horarios/Criador-Horarios) - Ferramenta para criar horários.
@@ -2161,7 +2175,6 @@
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
-- [jpdoshi/dragon-store](https://github.com/jpdoshi/dragon-store) - Dragon Store is your gateway to transparent, libre and free open-source apps.
 - [SpotCompiled/SpotveeC](https://github.com/SpotCompiled/SpotveeC) - Compiled EeveeSpotify IPA's.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
@@ -2323,6 +2336,7 @@
 
 ## kotlin 
 
+- [hxreborn/playstore-adblock](https://github.com/hxreborn/playstore-adblock) - Xposed module to remove sponsored listings and ads from the Google Play Store
 - [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) - A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt
 - [GeorgeClensy/Escape-Launcher](https://github.com/GeorgeClensy/Escape-Launcher) - A minimalist android launcher to help you quit your phone addiction
 - [CodeWorksCreativeHub/mLauncher](https://github.com/CodeWorksCreativeHub/mLauncher) - Minimal Launcher app for Android. Customized olauncher as I just started learning kotlin .
@@ -2393,6 +2407,7 @@
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [ifd3f/infra](https://github.com/ifd3f/infra) - Personal cloud, dotfiles, and configurations omnirepo
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
 
 ## language 
 
@@ -2416,6 +2431,7 @@
 
 ## linux 
 
+- [Wyze3306/BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Run Minecraft Bedrock for Windows seamlessly on Linux.
 - [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
 - [aeroshell-desktop/aerothemeplasma](https://github.com/aeroshell-desktop/aerothemeplasma) - An alternative shell for KDE Plasma that aims to replicate the look and feel of Windows 7.
 - [ChrisDKN/Amethyst-Mod-Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) - A Linux native mod manager for a variety of games
@@ -2474,7 +2490,7 @@
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [e-tho/pwmenu](https://github.com/e-tho/pwmenu) - Launcher-driven audio manager for Linux
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
 - [0xc000022070/zen-browser-flake](https://github.com/0xc000022070/zen-browser-flake) - Community-driven Nix Flake for the Zen browser
 - [diogotcorreia/dotfiles](https://github.com/diogotcorreia/dotfiles) - Configuration for my NixOS systems
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
@@ -2501,7 +2517,7 @@
 - [apognu/tuigreet](https://github.com/apognu/tuigreet) - Graphical console greeter for greetd
 - [e-tho/bzmenu](https://github.com/e-tho/bzmenu) - Launcher-driven Bluetooth manager for Linux
 - [e-tho/iwmenu](https://github.com/e-tho/iwmenu) - Launcher-driven Wi-Fi manager for Linux
-- [caelestia-dots/caelestia](https://github.com/caelestia-dots/caelestia) - A fluid, morphing config for your Linux desktop
+- [caelestia-dots/caelestia](https://github.com/caelestia-dots/caelestia) - A fluid, morphing interface to your Linux desktop
 - [regiscaio/fedora-galaxy-book4-ultra](https://github.com/regiscaio/fedora-galaxy-book4-ultra) - Fedora Workstation no Samsung Galaxy Book4 Ultra
 - [jusqua/galaxy-book4-linux](https://github.com/jusqua/galaxy-book4-linux) - This repository merge information about my Linux usage with Samsung Galaxy Book4 (Base model NP750XGJ-KG2BR)
 - [PancakeTAS/lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux
@@ -2692,7 +2708,7 @@
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 - [htv04/funkin-rewritten](https://github.com/htv04/funkin-rewritten) - Optimized rewrite of Friday Night Funkin' built on LÖVE
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
 - [0xc000022070/zen-browser-flake](https://github.com/0xc000022070/zen-browser-flake) - Community-driven Nix Flake for the Zen browser
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [0xarchit/0xDABmusic](https://github.com/0xarchit/0xDABmusic) - A client for DAB music for download, convert, enjoy your library All in one! First opening might be delayed due to unsigned package detection by defender on windows. Enjoy studio quality music (FLAC) 
@@ -2809,6 +2825,7 @@
 
 ## minecraft 
 
+- [Wyze3306/BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Run Minecraft Bedrock for Windows seamlessly on Linux.
 - [EVV1E/waylandcraft](https://github.com/EVV1E/waylandcraft) - Wayland Compositor in Minecraft
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [ChimeraGaming/Chromium-Based-Web-Extensions](https://github.com/ChimeraGaming/Chromium-Based-Web-Extensions) - Building cool stuff for Chrome, Brave, Edge, and friends that I wanted but couldn't find - extensions that actually help.
@@ -2861,6 +2878,7 @@
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [femto-code/Raspberry-Pi-Dashboard](https://github.com/femto-code/Raspberry-Pi-Dashboard) - Web-App Dashboard to monitor Raspberry Pi hardware and software status. Nothing more than Webserver + PHP required.
 
@@ -3042,6 +3060,7 @@
 - [Ketbome/minepanel](https://github.com/Ketbome/minepanel) - A modern Docker-based web panel for managing multiple Minecraft servers with ease.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) - :shield: Take control of your Discord experience with GoofCord – a highly configurable and privacy minded discord client.
+- [dreeveapp/dreeve](https://github.com/dreeveapp/dreeve) - Self-hosted, open-source dashboard for your sports and fitness data
 - [meichthys/foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries) - Free and Open Source Photo Libraries
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [Arturo254/OpenTune](https://github.com/Arturo254/OpenTune) - Un cliente de YouTube Music con Material Design 3, para Android
@@ -3125,6 +3144,10 @@
 
 ## others 
 
+- [Zeecka/AperiSolve](https://github.com/Zeecka/AperiSolve) - Steganalysis web platform
+- [hiz0147/HizSteamButton](https://github.com/hiz0147/HizSteamButton) - HizSearch Steam Button
+- [leludo84/vol3-linux-profiles](https://github.com/leludo84/vol3-linux-profiles) - Volatility3 Linux profiles
+- [solst-ice/gba-hashcat](https://github.com/solst-ice/gba-hashcat) - Password cracker for the GAME BOY Advance, supporting SHA256
 - [tomchop/volatility-autoruns](https://github.com/tomchop/volatility-autoruns) - Autoruns plugin for the Volatility framework
 - [dougburks/so-crates](https://github.com/dougburks/so-crates) - SO-CRATES: Security Onion Containerized Rapid Analysis of Threats, Evil, and Sus!
 - [thcolin/gamepad-media-center-aggregator](https://github.com/thcolin/gamepad-media-center-aggregator) - 🎮 📺 GMCA - A Gamepad (Switch, PS Vita, Linux, PS4) Media Center Aggregator (Plex, Jellyfin, Emby or Stremio)
@@ -4339,7 +4362,6 @@
 - [zacharee/RootActivityLauncher](https://github.com/zacharee/RootActivityLauncher) - 
 - [fmhy/FMHYFilterlist](https://github.com/fmhy/FMHYFilterlist) - FMHY Filterlist
 - [fayaz12g/mk8d-aar](https://github.com/fayaz12g/mk8d-aar) - Mario Kart 8 Deluxe Any Aspect Ratio
-- [KaladinDMP/AGBrowser](https://github.com/KaladinDMP/AGBrowser) - Auto Browser Download with persistent link
 - [pumPCin/HMAL](https://github.com/pumPCin/HMAL) - My changes to Hide My AppList (An Xposed module to intercept applist detections)
 - [osm0sis/PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork) - Fix Play Integrity &lt;A13 verdicts, allowing custom fields and props
 - [Xposed-Modules-Repo/com.close.hook.ads](https://github.com/Xposed-Modules-Repo/com.close.hook.ads) - AdClose
@@ -5508,6 +5530,8 @@
 
 ## reverse-engineering 
 
+- [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida) - 🔐 Run frida-server on boot with Magisk, always up-to-date
+- [hxreborn/playstore-adblock](https://github.com/hxreborn/playstore-adblock) - Xposed module to remove sponsored listings and ads from the Google Play Store
 - [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu) - Anti-LLM obfuscation via finger counting
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
@@ -5557,6 +5581,7 @@
 
 ## rust 
 
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [Jonathan8520/FlashNX](https://github.com/Jonathan8520/FlashNX) - Homebrew Flash player for Nintendo Switch (.nro). Play your .swf games from the SD card. Powered by Ruffle.
 - [mhyrzt/xrat](https://github.com/mhyrzt/xrat) - Rust CLI/TUI proxy manager for Xray-core, V2Ray-core, and sing-box: import subscriptions,   test latency, rotate proxies, scan edge IPs, and run managed local proxy sessions.
 - [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@hsjobeki]
@@ -5612,6 +5637,7 @@
 
 ## security 
 
+- [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida) - 🔐 Run frida-server on boot with Magisk, always up-to-date
 - [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu) - Anti-LLM obfuscation via finger counting
 - [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, tools and other resources
 - [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
@@ -5877,6 +5903,7 @@
 
 ## terminal 
 
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [mhyrzt/xrat](https://github.com/mhyrzt/xrat) - Rust CLI/TUI proxy manager for Xray-core, V2Ray-core, and sing-box: import subscriptions,   test latency, rotate proxies, scan edge IPs, and run managed local proxy sessions.
 - [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - bgscan is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
@@ -5888,6 +5915,7 @@
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - Forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [sparklost/endcord](https://github.com/sparklost/endcord) - The most feature rich Discord TUI client.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
@@ -5947,7 +5975,7 @@
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 - [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - Forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [sparklost/endcord](https://github.com/sparklost/endcord) - The most feature rich Discord TUI client.
 - [Vonr/parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
@@ -6019,6 +6047,7 @@
 
 ## ubuntu 
 
+- [Wyze3306/BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Run Minecraft Bedrock for Windows seamlessly on Linux.
 - [cryinkfly/Autodesk-Fusion-360-for-Linux](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux) - This is a project, where I give you a way to use Autodesk Fusion 360 on Linux!
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [rltvty2/ulli](https://github.com/rltvty2/ulli) - USB-less Linux installer for Linux and Windows. Install Linux without a USB stick.
@@ -6033,6 +6062,7 @@
 
 ## ui 
 
+- [Wyze3306/BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Run Minecraft Bedrock for Windows seamlessly on Linux.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [XorTroll/Plutonium](https://github.com/XorTroll/Plutonium) - Easy-to-use, SDL2-based UI framework for Nintendo Switch homebrew
 - [MdFarhan0/Self-Attendance](https://github.com/MdFarhan0/Self-Attendance) - A clean Android app to track college attendance with subject-wise targets and smart bunk guidance. Mark attendance, visualize performance, and instantly know whether to attend or skip classes.
@@ -6253,7 +6283,7 @@
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [ikus060/minarca](https://github.com/ikus060/minarca) - Self-hosted opensource data backup for Linux, Windows and Mac. Git mirror of https://gitlab.com/ikus-soft/minarca
 - [ltx0101/SlimBrave](https://github.com/ltx0101/SlimBrave) - Debloat Brave for faster performance and smoother browsing.
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [thommyho/win-sispmctl](https://github.com/thommyho/win-sispmctl) - Control software for GEMBIRD USB controlled power strips
 - [0xarchit/0xDABmusic](https://github.com/0xarchit/0xDABmusic) - A client for DAB music for download, convert, enjoy your library All in one! First opening might be delayed due to unsigned package detection by defender on windows. Enjoy studio quality music (FLAC) 
@@ -6280,7 +6310,7 @@
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [uwzis/GPU-Passthrough-Manager](https://github.com/uwzis/GPU-Passthrough-Manager) - GPU passthrough made easy.
 - [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
-- [ElPumpo/TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - The best NVIDIA GPU update checker for Windows power users/gamers. Fully open sourced and lightweight.
+- [HawaiiBeach/TinyNvidiaUpdateChecker](https://github.com/HawaiiBeach/TinyNvidiaUpdateChecker) - The best NVIDIA GPU update checker for Windows power users/gamers. Fully open sourced and lightweight.
 - [AlexSSD7/linsk](https://github.com/AlexSSD7/linsk) - 📂 Access Linux-native file systems (including LVM and LUKS) on Windows and macOS with help of a lightweight Alpine Linux VM. x86/ARM supported.
 - [mesquidar/ForensicsTools](https://github.com/mesquidar/ForensicsTools) - A list of free and open forensics analysis tools and other resources
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
