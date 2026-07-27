@@ -380,7 +380,7 @@
 
 - [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida) - 🔐 Run frida-server on boot with Magisk, always up-to-date
 - [hxreborn/playstore-adblock](https://github.com/hxreborn/playstore-adblock) - Xposed module to remove sponsored listings and ads from the Google Play Store
-- [haoyangtu09-art/Deekseep](https://github.com/haoyangtu09-art/Deekseep) - Deekseep LSPosed is an independent LSPosed/Xposed module adding account, chat, image, interface, and local API tools to DeepSeek Android 2.2.2 mainland and Google Play builds.
+- [lllucccian/Deekseep](https://github.com/lllucccian/Deekseep) - Deekseep LSPosed is an independent LSPosed/Xposed module adding account, chat, image, interface, and local API tools to DeepSeek Android 2.2.2 mainland and Google Play builds.
 - [rama-io/mako](https://github.com/rama-io/mako) - Minimal, privacy-first Android launcher designed for focus, speed, and simplicity.
 - [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) - A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt
 - [slapperwan/gh4a](https://github.com/slapperwan/gh4a) - Github client for Android
@@ -2184,6 +2184,7 @@
 - [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [SpotCompiled/SpotveeC](https://github.com/SpotCompiled/SpotveeC) - Compiled EeveeSpotify IPA's.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) - 📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with Syncplay PC. Fully written in Kotlin and Compose multiplatform.
@@ -2724,6 +2725,7 @@
 - [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [kayozxo/GNOME-macOS-Tahoe](https://github.com/kayozxo/GNOME-macOS-Tahoe) - MacOS Tahoe inspired theme for GNOME
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
@@ -3271,7 +3273,7 @@
 - [Discord-LEIC/almightyDM](https://github.com/Discord-LEIC/almightyDM) - 
 - [ric2b/relative-grades-fenix-IST](https://github.com/ric2b/relative-grades-fenix-IST) - Get relative grades (i.e: Top 20% of people enrolled in the course) from your fenixEdu curriculum
 - [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile) - Official Nuvio Mobile Repository
-- [icedmarina/eden](https://github.com/icedmarina/eden) - 
+- [dejamarina/eden](https://github.com/dejamarina/eden) - 
 - [chainsandbolts/tochen-driver-poc](https://github.com/chainsandbolts/tochen-driver-poc) - regression
 - [TuncorReUnion/TLAC-MODERN-LOCAL-ANTI-CHEAT-REUNIONED](https://github.com/TuncorReUnion/TLAC-MODERN-LOCAL-ANTI-CHEAT-REUNIONED) - This Anti-Cheat is local server based and fully open source. it's user space
 - [p2r3/babel-usb](https://github.com/p2r3/babel-usb) - Technically infinite USB drive
@@ -3385,7 +3387,7 @@
 - [Darsh-A/Quick-Search-Zen-Browser](https://github.com/Darsh-A/Quick-Search-Zen-Browser) - This is a quick search script for zen browser. Allows an user to quickly search a query in a small pop up container thus removing the need to swtich to a whole different tab
 - [YashjitPal/Arc-2.0](https://github.com/YashjitPal/Arc-2.0) - Arc which receives non-chromium updates every 1-2 weeks! (iykyk)
 - [rasyidrafi/zen-always-show-music-bar](https://github.com/rasyidrafi/zen-always-show-music-bar) - A theme extension for Zen Browser and Firefox (with Sine) that enhances the music bar with always-visible controls, custom backgrounds, and improved usability.
-- [RobotoSkunk/ff-better-findbar](https://github.com/RobotoSkunk/ff-better-findbar) - A mod for Sine
+- [RobotoSkunk/ff-better-findbar](https://github.com/RobotoSkunk/ff-better-findbar) - A mod for Firefox-based browsers
 - [Darsh-A/Quick-Tabs](https://github.com/Darsh-A/Quick-Tabs) - Allows you to open links in floating tab containers directly within the Zen browser.
 - [denisbalber/IDESync-VSCode-JetBrains](https://github.com/denisbalber/IDESync-VSCode-JetBrains) - A synchronization system that allows seamless switching between VSCode and JetBrains IDEs while maintaining the current file and cursor position.
 - [jinghaihan/vscode-crosside-sync](https://github.com/jinghaihan/vscode-crosside-sync) - Extension that synchronizes settings, keybindings and extensions across VSCode and its forks.
@@ -4285,7 +4287,6 @@
 - [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
-- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [5ec1cff/KsuWebUIStandalone](https://github.com/5ec1cff/KsuWebUIStandalone) - 
 - [kristofferR/IPTVChecker-Python](https://github.com/kristofferR/IPTVChecker-Python) - Script that goes through a playlist to check IPTV channels
 - [LITUATUI/M3UPT](https://github.com/LITUATUI/M3UPT) - IPTV playlist in M3U format with TV and radio stations in Portuguese. Public and official streams only. Made in 🇵🇹 Portugal.
@@ -5867,6 +5868,7 @@
 
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [alpatiev/airPodsTester](https://github.com/alpatiev/airPodsTester) - (temporary unavailable)
 
 ## swiftui 
@@ -5949,7 +5951,7 @@
 
 ## termux 
 
-- [haoyangtu09-art/Deekseep](https://github.com/haoyangtu09-art/Deekseep) - Deekseep LSPosed is an independent LSPosed/Xposed module adding account, chat, image, interface, and local API tools to DeepSeek Android 2.2.2 mainland and Google Play builds.
+- [lllucccian/Deekseep](https://github.com/lllucccian/Deekseep) - Deekseep LSPosed is an independent LSPosed/Xposed module adding account, chat, image, interface, and local API tools to DeepSeek Android 2.2.2 mainland and Google Play builds.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [offici5l/MiUnlockTool](https://github.com/offici5l/MiUnlockTool) - MiUnlockTool developed to retrieve encryptData(token) for Xiaomi devices for unlocking bootloader, It is compatible with all platforms.
 - [PinNaCode/magiskboot_build](https://github.com/PinNaCode/magiskboot_build) - unofficial magiskboot build system (and port) targeting multi-platform (does not require NDK)
