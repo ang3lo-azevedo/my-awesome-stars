@@ -384,7 +384,7 @@
 - [rama-io/mako](https://github.com/rama-io/mako) - Minimal, privacy-first Android launcher designed for focus, speed, and simplicity.
 - [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) - A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt
 - [slapperwan/gh4a](https://github.com/slapperwan/gh4a) - Github client for Android
-- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode and Oh My Pi (OMP) supported, PI planned
+- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode, PI and Oh My Pi (OMP) supported
 - [frankheat/noxen](https://github.com/frankheat/noxen) - Android interception tool for component communication and attack-surface mapping
 - [HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - 🌸Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources. 🌼🎵
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
@@ -482,7 +482,7 @@
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [apsun/NekoSMS](https://github.com/apsun/NekoSMS) - A pattern-based text message blocker for Android.
 - [LeNerd46/beautiful-lyrics-mobile](https://github.com/LeNerd46/beautiful-lyrics-mobile) - A port of beautiful-lyrics by surfbryce to Android
-- [LeNerd46/SpotifyPlus](https://github.com/LeNerd46/SpotifyPlus) - An Xposed module for adding beautiful lyrics to Spotify
+- [LeNerd46/SpotifyPlus](https://github.com/LeNerd46/SpotifyPlus) - An Xposed module to enhance your Spotify
 - [MMRLApp/MMRL](https://github.com/MMRLApp/MMRL) - A app for managing, sharing, and exploring Magisk modules across repositories
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
@@ -536,7 +536,7 @@
 - [wacko1805/MagiskGapps](https://github.com/wacko1805/MagiskGapps) - Convert a regular GApps package into a Magisk flashable package using a simple website
 - [Pool-Of-Tears/GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.
 - [JingMatrix/Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
-- [offici5l/MiUnlockTool](https://github.com/offici5l/MiUnlockTool) - MiUnlockTool developed to retrieve encryptData(token) for Xiaomi devices for unlocking bootloader, It is compatible with all platforms.
+- [MiForge/MiUnlockTool](https://github.com/MiForge/MiUnlockTool) - MiUnlockTool developed to retrieve encryptData(token) for Xiaomi devices for unlocking bootloader, It is compatible with all platforms.
 - [MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass) - A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.
 - [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
 - [numandev1/react-native-keys](https://github.com/numandev1/react-native-keys) - 🔐 Protected .ENVs variables in React Native 🚀✨
@@ -2865,7 +2865,7 @@
 
 ## mobile 
 
-- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode and Oh My Pi (OMP) supported, PI planned
+- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode, PI and Oh My Pi (OMP) supported
 - [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, 
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [Coldblackice/ReVancedXposed_Spotify](https://github.com/Coldblackice/ReVancedXposed_Spotify) - ReVanced LSPosed module for Spotify
@@ -4286,7 +4286,7 @@
 - [anmol210202/rating-aggregator-](https://github.com/anmol210202/rating-aggregator-) - Ratings aggregator for stremio
 - [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
-- [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
+- [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - decentralized mesh chat
 - [5ec1cff/KsuWebUIStandalone](https://github.com/5ec1cff/KsuWebUIStandalone) - 
 - [kristofferR/IPTVChecker-Python](https://github.com/kristofferR/IPTVChecker-Python) - Script that goes through a playlist to check IPTV channels
 - [LITUATUI/M3UPT](https://github.com/LITUATUI/M3UPT) - IPTV playlist in M3U format with TV and radio stations in Portuguese. Public and official streams only. Made in 🇵🇹 Portugal.
@@ -4567,7 +4567,7 @@
 - [SolidEva/android-auto-stub](https://github.com/SolidEva/android-auto-stub) - Android Auto Stub
 - [sn-00-x/android-auto](https://github.com/sn-00-x/android-auto) - Android Auto as user app with media apps support on GrapheneOS / Android 14
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
-- [xteamlyer/LSPosed-JingMatrix](https://github.com/xteamlyer/LSPosed-JingMatrix) - LSPosed Framework
+- [xteamlyer/Vector](https://github.com/xteamlyer/Vector) - LSPosed Framework
 - [WildKernels/GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS) - GKI2 5.10+ Kernels with Wild KSU & SUSFS
 - [AOSPA/android_kernel_nothing_sm7325](https://github.com/AOSPA/android_kernel_nothing_sm7325) - 
 - [MalBeacon/what-is-this-stealer](https://github.com/MalBeacon/what-is-this-stealer) - A repository of credential stealer formats
@@ -5359,7 +5359,7 @@
 - [DavidoTek/ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) - Install and manage GE-Proton, Luxtorpeda & more for Steam and Wine-GE & more for Lutris with this graphical user interface.
 - [luisbocanegra/kde-material-you-colors](https://github.com/luisbocanegra/kde-material-you-colors) - Automatic color scheme generator from your wallpaper for KDE Plasma powered by Material You
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
-- [offici5l/MiUnlockTool](https://github.com/offici5l/MiUnlockTool) - MiUnlockTool developed to retrieve encryptData(token) for Xiaomi devices for unlocking bootloader, It is compatible with all platforms.
+- [MiForge/MiUnlockTool](https://github.com/MiForge/MiUnlockTool) - MiUnlockTool developed to retrieve encryptData(token) for Xiaomi devices for unlocking bootloader, It is compatible with all platforms.
 - [jasperan/whatsapp-osint](https://github.com/jasperan/whatsapp-osint) - WhatsApp spy - logs online/offline events from ANYONE in the world
 - [remcostoeten/whatsapp-online-status-tracker](https://github.com/remcostoeten/whatsapp-online-status-tracker) - Monitor a WhatsApp user’s online activity with comprehensive reports that include timestamps, duration online, percentage of time spent online, and visual data through charts and graphs. Track statist
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -5399,7 +5399,7 @@
 - [PixulMonk/auto-enrollment-bot-selenium](https://github.com/PixulMonk/auto-enrollment-bot-selenium) - A Python script that automates the enrollment process for a university's enrollment portal
 - [miyurudassanayake/sni-injector](https://github.com/miyurudassanayake/sni-injector) - SNI Injecting tool for free internet (HTTP Injector)
 - [SageTendo/mal-stremio-addon](https://github.com/SageTendo/mal-stremio-addon) - A Stremio addon which allows users to access their anime lists through the MyAnimeList API, directly from within Stremio. With this addon, users can easily keep track of the content they've watched/pl
-- [offici5l/MiUnlockTool](https://github.com/offici5l/MiUnlockTool) - MiUnlockTool developed to retrieve encryptData(token) for Xiaomi devices for unlocking bootloader, It is compatible with all platforms.
+- [MiForge/MiUnlockTool](https://github.com/MiForge/MiUnlockTool) - MiUnlockTool developed to retrieve encryptData(token) for Xiaomi devices for unlocking bootloader, It is compatible with all platforms.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [xyou365/AutoRclone](https://github.com/xyou365/AutoRclone) - AutoRclone: rclone copy/move/sync (automatically) with thousands of service accounts
@@ -5460,7 +5460,7 @@
 
 ## react 
 
-- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode and Oh My Pi (OMP) supported, PI planned
+- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode, PI and Oh My Pi (OMP) supported
 - [Criador-Horarios/Criador-Horarios](https://github.com/Criador-Horarios/Criador-Horarios) - Ferramenta para criar horários.
 - [walterlow/freecut](https://github.com/walterlow/freecut) - FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, re
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
@@ -5953,7 +5953,7 @@
 
 - [lllucccian/Deekseep](https://github.com/lllucccian/Deekseep) - Deekseep LSPosed is an independent LSPosed/Xposed module adding account, chat, image, interface, and local API tools to DeepSeek Android 2.2.2 mainland and Google Play builds.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-- [offici5l/MiUnlockTool](https://github.com/offici5l/MiUnlockTool) - MiUnlockTool developed to retrieve encryptData(token) for Xiaomi devices for unlocking bootloader, It is compatible with all platforms.
+- [MiForge/MiUnlockTool](https://github.com/MiForge/MiUnlockTool) - MiUnlockTool developed to retrieve encryptData(token) for Xiaomi devices for unlocking bootloader, It is compatible with all platforms.
 - [PinNaCode/magiskboot_build](https://github.com/PinNaCode/magiskboot_build) - unofficial magiskboot build system (and port) targeting multi-platform (does not require NDK)
 - [latipun7/dotfiles](https://github.com/latipun7/dotfiles) - 🏡 Home sweet ~/.
 - [bhattsameer/Bombers](https://github.com/bhattsameer/Bombers) - SMS/Email/Whatsapp/Twitter/Instagram bombers Collection :bomb::bomb::bomb: :boom: Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a te
@@ -6020,7 +6020,7 @@
 ## typescript 
 
 - [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ All-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
-- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode and Oh My Pi (OMP) supported, PI planned
+- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode, PI and Oh My Pi (OMP) supported
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [astashov/liftosaur](https://github.com/astashov/liftosaur) - Weightlifting tracker app for coders
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
