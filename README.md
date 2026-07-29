@@ -384,7 +384,7 @@
 - [rama-io/mako](https://github.com/rama-io/mako) - Minimal, privacy-first Android launcher designed for focus, speed, and simplicity.
 - [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) - A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt
 - [slapperwan/gh4a](https://github.com/slapperwan/gh4a) - Github client for Android
-- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode, PI and Oh My Pi (OMP) supported
+- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode, PI, Oh My Pi (OMP) and Claude supported
 - [frankheat/noxen](https://github.com/frankheat/noxen) - Android interception tool for component communication and attack-surface mapping
 - [HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - 🌸Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources. 🌼🎵
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
@@ -747,7 +747,7 @@
 
 ## awesome 
 
-- [nvbangg/awesome-for-morphe](https://github.com/nvbangg/awesome-for-morphe) - Explore all Morphe resources, patches and community projects. Get daily notifications when there are new updates.
+- [nvbangg/awesome-morphe](https://github.com/nvbangg/awesome-morphe) - Explore all Morphe resources, patches and community projects. 🔔 Get notified via the Telegram channel whenever there's a new update.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [secfigo/Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) - A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Developme
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
@@ -798,7 +798,7 @@
 
 ## awesome-list 
 
-- [nvbangg/awesome-for-morphe](https://github.com/nvbangg/awesome-for-morphe) - Explore all Morphe resources, patches and community projects. Get daily notifications when there are new updates.
+- [nvbangg/awesome-morphe](https://github.com/nvbangg/awesome-morphe) - Explore all Morphe resources, patches and community projects. 🔔 Get notified via the Telegram channel whenever there's a new update.
 - [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, tools and other resources
 - [secfigo/Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) - A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Developme
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -990,7 +990,7 @@
 
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
 - [FoxRefire/wvg](https://github.com/FoxRefire/wvg) - Chrome/Firefox extension for pen-testing to retrieve encryption keys of Widevine protected content !DON'T DECRYPT CONTENT UNLESS YOU HAVE THE RIGHT TO DO IT!
-- [DevLARLEY/WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2) - An extension-based proxy for Widevine EME challenges and license messages. Modifies the challenge before it reaches the web player. Bypasses Hashes, one-time-tokens and license wrapping.
+- [DevLARLEY/WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2) - An extension-based proxy for Widevine/ClearKey EME challenges and license messages. Modifies the challenge before it reaches the web player. Bypasses Hashes, one-time-tokens and license wrapping.
 - [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) - Voyager — an all-in-one enhancement suite for AI Studio, Gemini, Claude & ChatGPT: timelines, folders, prompts, usage tracking, chat export, plugins, and more. / 面向 AI Studio、Gemini、Claude 与 ChatGPT 的
 - [pritkr/predirect](https://github.com/pritkr/predirect) - A manifest v3 web extension with minimal permissions to automatically redirect to privacy friendly frontends. ⭐️ Star to support our work!
 - [nehirakbass/anime-filler-checker](https://github.com/nehirakbass/anime-filler-checker) - Browser extension that auto-detects anime filler episodes on any streaming site. Shows FILLER/CANON/MIXED badge directly on the page.
@@ -1383,7 +1383,7 @@
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [google/docker-explorer](https://github.com/google/docker-explorer) - A tool to help forensicate offline docker acquisitions
 - [psyb0t/safe-stremio](https://github.com/psyb0t/safe-stremio) - Safe-Stremio is your gateway to running Stremio Server and Stremio Web within a Docker container, wrapped in layers of security, anonymity, and badassery. This ain't your grandma's streaming setup—thi
-- [I-am-PUID-0/DUMB](https://github.com/I-am-PUID-0/DUMB) - Debrid Unlimited Media Bridge
+- [I-am-PUID-0/DUMB](https://github.com/I-am-PUID-0/DUMB) - Distributed Unlimited Media Bridge (DUMB) is an All-In-One (AIO) Docker image for building and operating a complete automated media stack from one container.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
@@ -2089,7 +2089,7 @@
 - [HamletDuFromage/aio-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater) - Update your CFW, cheat codes, firmwares and more directly from your Nintendo Switch!
 - [ITotalJustice/sphaira](https://github.com/ITotalJustice/sphaira) - A homebrew menu for the Nintendo Switch
 - [fortheusers/hb-appstore](https://github.com/fortheusers/hb-appstore) - Homebrew App Store - GUI for downloading/managing homebrew apps
-- [a1ex4/ownfoil](https://github.com/a1ex4/ownfoil) - Switch library manager, with a self-hosted Tinfoil Shop.
+- [a1ex4/ownfoil](https://github.com/a1ex4/ownfoil) - Nintendo Switch library manager, with automated management tasks, serving your library to multiple supported clients on your Switch, with shop customization and multi user authentication.
 - [XorTroll/Goldleaf](https://github.com/XorTroll/Goldleaf) - 🍂 Multipurpose homebrew tool for Nintendo Switch
 - [joel16/NX-Shell](https://github.com/joel16/NX-Shell) - A multi-purpose file manager for the Nintendo Switch.
 - [exelix11/SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) - Create custom themes for the nintendo switch !
@@ -2865,7 +2865,7 @@
 
 ## mobile 
 
-- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode, PI and Oh My Pi (OMP) supported
+- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode, PI, Oh My Pi (OMP) and Claude supported
 - [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, 
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [Coldblackice/ReVancedXposed_Spotify](https://github.com/Coldblackice/ReVancedXposed_Spotify) - ReVanced LSPosed module for Spotify
@@ -3451,6 +3451,7 @@
 - [Nonta72/nixos-nothing-spacewar](https://github.com/Nonta72/nixos-nothing-spacewar) - NixOS port for Fairphone 5
 - [Ch0pin/iris](https://github.com/Ch0pin/iris) - Intent Runtime Inspection System
 - [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus) - laptop
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [0xb0bb/0CD](https://github.com/0xb0bb/0CD) - BinaryNinja plugin to introduce some quality of life utilities for obsessive compulsive CTF enthusiasts
 - [carstein/Syscaller](https://github.com/carstein/Syscaller) - Binary Ninja Syscall Annotator
 - [KuLiPai/vitepress-blog](https://github.com/KuLiPai/vitepress-blog) - a nice blog theme use vitepress to build
@@ -5159,7 +5160,7 @@
 
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
-- [I-am-PUID-0/DUMB](https://github.com/I-am-PUID-0/DUMB) - Debrid Unlimited Media Bridge
+- [I-am-PUID-0/DUMB](https://github.com/I-am-PUID-0/DUMB) - Distributed Unlimited Media Bridge (DUMB) is an All-In-One (AIO) Docker image for building and operating a complete automated media stack from one container.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
@@ -5460,7 +5461,7 @@
 
 ## react 
 
-- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode, PI and Oh My Pi (OMP) supported
+- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode, PI, Oh My Pi (OMP) and Claude supported
 - [Criador-Horarios/Criador-Horarios](https://github.com/Criador-Horarios/Criador-Horarios) - Ferramenta para criar horários.
 - [walterlow/freecut](https://github.com/walterlow/freecut) - FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, re
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
@@ -5751,7 +5752,7 @@
 - [duyfken/alternative-front-ends](https://github.com/duyfken/alternative-front-ends) - Privacy-respecting front-ends for popular platforms (e.g. YouTube, Reddit, Twitter, etc.)
 - [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
-- [a1ex4/ownfoil](https://github.com/a1ex4/ownfoil) - Switch library manager, with a self-hosted Tinfoil Shop.
+- [a1ex4/ownfoil](https://github.com/a1ex4/ownfoil) - Nintendo Switch library manager, with automated management tasks, serving your library to multiple supported clients on your Switch, with shop customization and multi user authentication.
 - [xhos/discord-quest-watcher](https://github.com/xhos/discord-quest-watcher) - webhook notifications when new discord quests are released, w/ filters
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.
 - [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
@@ -6020,7 +6021,7 @@
 ## typescript 
 
 - [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ All-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
-- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode, PI and Oh My Pi (OMP) supported
+- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode, PI, Oh My Pi (OMP) and Claude supported
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [astashov/liftosaur](https://github.com/astashov/liftosaur) - Weightlifting tracker app for coders
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
