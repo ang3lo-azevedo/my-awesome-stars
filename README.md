@@ -381,7 +381,7 @@
 
 - [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida) - 🔐 Run frida-server on boot with Magisk, always up-to-date
 - [hxreborn/playstore-adblock](https://github.com/hxreborn/playstore-adblock) - Xposed module to remove sponsored listings and ads from the Google Play Store
-- [lllucccian/Deekseep](https://github.com/lllucccian/Deekseep) - Deekseep LSPosed is an independent LSPosed/Xposed module adding account, chat, image, interface, and local API tools to DeepSeek Android 2.2.2 mainland and Google Play builds.
+- [lllucccian/Deekseep](https://github.com/lllucccian/Deekseep) - Deekseep LSPosed: multi-API Xposed module for DeepSeek Android; Mainland 2.2.2/2.3.0 and Google Play 2.2.2.
 - [rama-io/mako](https://github.com/rama-io/mako) - Minimal, privacy-first Android launcher designed for focus, speed, and simplicity.
 - [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) - A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt
 - [slapperwan/gh4a](https://github.com/slapperwan/gh4a) - Github client for Android
@@ -447,7 +447,7 @@
 - [samyak2403/RepoStore](https://github.com/samyak2403/RepoStore) - Explore apps published on GitHub, view release details, and install APKs instantly — all in one place. Developed using pure Kotlin, optimized for modern Android devices.
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
-- [Ivorisnoob/Koda](https://github.com/Ivorisnoob/Koda) - A Material Expressive Music app for Android
+- [Ivorisnoob/Koda](https://github.com/Ivorisnoob/Koda) - A Material Expressive Music appand Video for Android with YT Music Support
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 - [nix-community/nix-on-droid-app](https://github.com/nix-community/nix-on-droid-app) - Run Nix package manager on Android. Based off Termux the terminal emulator, but not Termux the distro. [maintainer=@t184256]
 - [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
@@ -1183,7 +1183,7 @@
 
 ## csharp 
 
-- [Hegxib/SteamTools-Deep-Analyze](https://github.com/Hegxib/SteamTools-Deep-Analyze) - Full Analyze of SteamTools from the top to the bottom of the earth + All files Extracted
+- [Hegxib/SteamTools-Deep-Analyze](https://github.com/Hegxib/SteamTools-Deep-Analyze) - Comprehensive Technical Analysis of SteamTools Architecture + Extracted Artifacts & Decompiled Components
 - [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
 - [GSDragoon/RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Radeon Software Slimmer is a utility to trim down the bloat with Radeon Software for AMD GPUs on Microsoft Windows.
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
@@ -1499,7 +1499,7 @@
 
 ## dotnet 
 
-- [Hegxib/SteamTools-Deep-Analyze](https://github.com/Hegxib/SteamTools-Deep-Analyze) - Full Analyze of SteamTools from the top to the bottom of the earth + All files Extracted
+- [Hegxib/SteamTools-Deep-Analyze](https://github.com/Hegxib/SteamTools-Deep-Analyze) - Comprehensive Technical Analysis of SteamTools Architecture + Extracted Artifacts & Decompiled Components
 - [GSDragoon/RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Radeon Software Slimmer is a utility to trim down the bloat with Radeon Software for AMD GPUs on Microsoft Windows.
 - [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
@@ -1749,7 +1749,7 @@
 - [CarrotRub/Fit-Launcher](https://github.com/CarrotRub/Fit-Launcher) - A better version of my previous Fitgirl's Repacks Launcher. Made using Tauri with SolidJS.
 - [ndeadly/MissionControl](https://github.com/ndeadly/MissionControl) - Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. No dongles or other external hardware neccessary.
 - [Ketbome/hytalepanel](https://github.com/Ketbome/hytalepanel) - Docker image for Hytale dedicated server with web panel. Easy setup, auto-download, real-time console.
-- [keenanweaver/nix-config](https://github.com/keenanweaver/nix-config) - NixOS and home-manager config primarily for gaming (mirror)
+- [keenanweaver/nix-config](https://github.com/keenanweaver/nix-config) - NixOS config primarily for gaming (mirror)
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix
 - [kimjongbing/nix-proton-cachyos](https://github.com/kimjongbing/nix-proton-cachyos) - NixOS flake packaging for CachyOS Proton (https://github.com/CachyOS/proton-cachyos), a compatibility tool for Steam Play with CachyOS optimizations
 - [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
@@ -2791,7 +2791,7 @@
 - [MdFarhan0/Self-Attendance](https://github.com/MdFarhan0/Self-Attendance) - A clean Android app to track college attendance with subject-wise targets and smart bunk guidance. Mark attendance, visualize performance, and instantly know whether to attend or skip classes.
 - [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - 🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!
 - [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
-- [Ivorisnoob/Koda](https://github.com/Ivorisnoob/Koda) - A Material Expressive Music app for Android
+- [Ivorisnoob/Koda](https://github.com/Ivorisnoob/Koda) - A Material Expressive Music appand Video for Android with YT Music Support
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [Pool-Of-Tears/GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.
@@ -3187,7 +3187,7 @@
 - [castilho101/CallMe](https://github.com/castilho101/CallMe) - An extension to find callback endpoints in the background while searching the Web
 - [rdillon73/eBreached](https://github.com/rdillon73/eBreached) - A simple CLI tool for detecting breached emails and corresponding passwords.
 - [ashalstrom/osintagram](https://github.com/ashalstrom/osintagram) - 
-- [virtudude/armada](https://github.com/virtudude/armada) - SteamOS-like ARM handheld distro
+- [armada-os/armada](https://github.com/armada-os/armada) - SteamOS-like ARM handheld distro
 - [JJTech0130/TrollRestore](https://github.com/JJTech0130/TrollRestore) - TrollStore installer for iOS 17.0
 - [bablaerrr/bobikA5](https://github.com/bablaerrr/bobikA5) - bobik
 - [bablaerrr/bobik-A5_Bypass_OSS](https://github.com/bablaerrr/bobik-A5_Bypass_OSS) - modified a5 oss version hosted on bobik servers, may be useful when only bobik server side have exact gestalr for your device
@@ -3478,7 +3478,7 @@
 - [mrphrazer/reverser_ai](https://github.com/mrphrazer/reverser_ai) - Provides automated reverse engineering assistance through the use of local large language models (LLMs) on consumer hardware.
 - [HexRaysSA/ida-hcli](https://github.com/HexRaysSA/ida-hcli) - Hex-Rays CLI (HCLI)
 - [HexRaysSA/ida-chat-plugin](https://github.com/HexRaysSA/ida-chat-plugin) - 
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free from the terminal, IDE, or your phone like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex and Pi for free from your terminal, IDE, and phone like OpenClaw (voice supported)
 - [ikarus23/kiosk-mode-breakout](https://github.com/ikarus23/kiosk-mode-breakout) - A collection of tips & tricks on how to escape a kiosk mode environment
 - [foreni-packages/hachoir-subfile](https://github.com/foreni-packages/hachoir-subfile) - hachoir-subfile : Find subfile in any binary stream
 - [cdgriffith/puremagic](https://github.com/cdgriffith/puremagic) - Pure python implementation of identifying files based off their magic numbers
@@ -3923,7 +3923,7 @@
 - [ph00lt0/blocklist](https://github.com/ph00lt0/blocklist) - Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole. Combine with Hagezi and OISD
 - [rodrig20/moonwake_kernel_xiaomi_ruby](https://github.com/rodrig20/moonwake_kernel_xiaomi_ruby) - [MoonWake] Redmi Note 12 pro 5G (ruby) kernel specify for powersave
 - [SteamNix/SteamNix](https://github.com/SteamNix/SteamNix) - SteamOS but Nix Flavoured.
-- [nix-community/nix4vscode](https://github.com/nix-community/nix4vscode) - 
+- [nix-community/nix4vscode](https://github.com/nix-community/nix4vscode) - Nix overlay for VSCode
 - [OsiPog/nix-firefox-addons](https://github.com/OsiPog/nix-firefox-addons) - Most addons from https://addons.mozilla.org packaged with Nix
 - [cole-h/agenix-cli](https://github.com/cole-h/agenix-cli) - Companion tool to https://github.com/ryantm/agenix
 - [yaxitech/ragenix](https://github.com/yaxitech/ragenix) - age-encrypted secrets for NixOS; drop-in replacement for agenix
@@ -4756,7 +4756,6 @@
 - [SolDoesTech/HyprV2](https://github.com/SolDoesTech/HyprV2) - An improved hyprland deployment - collection of dot config files for hyprland with a simple install script for a fresh Arch linux with yay
 - [MaddieM4/os-prober](https://github.com/MaddieM4/os-prober) - Tool for adding other distros to GRUB. A fork of the original Debian util, but designed to be more distro-agnostic.
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
-- [Chip-Biscuit/Harry-Potter-Quidditch-World-Cup-PC-Fix](https://github.com/Chip-Biscuit/Harry-Potter-Quidditch-World-Cup-PC-Fix) - This is the harry potter Quiditch World Cup d3d9 wrapper.
 - [afeimod/winlator-mod](https://github.com/afeimod/winlator-mod) - Android application for running Windows applications with Wine and Box86/Box64
 - [longjunyu2/winlator](https://github.com/longjunyu2/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [f0enix/motioncam](https://github.com/f0enix/motioncam) - Motion Cam is a camera application for Android that replaces the entire camera pipeline. It consumes RAW images and uses computational photography to combine multiple images to reduce noise.
@@ -5959,7 +5958,7 @@
 
 ## termux 
 
-- [lllucccian/Deekseep](https://github.com/lllucccian/Deekseep) - Deekseep LSPosed is an independent LSPosed/Xposed module adding account, chat, image, interface, and local API tools to DeepSeek Android 2.2.2 mainland and Google Play builds.
+- [lllucccian/Deekseep](https://github.com/lllucccian/Deekseep) - Deekseep LSPosed: multi-API Xposed module for DeepSeek Android; Mainland 2.2.2/2.3.0 and Google Play 2.2.2.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [MiForge/MiUnlockTool](https://github.com/MiForge/MiUnlockTool) - MiUnlockTool developed to retrieve encryptData(token) for Xiaomi devices for unlocking bootloader, It is compatible with all platforms.
 - [PinNaCode/magiskboot_build](https://github.com/PinNaCode/magiskboot_build) - unofficial magiskboot build system (and port) targeting multi-platform (does not require NDK)
@@ -6407,6 +6406,7 @@
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
+- [Ivorisnoob/Koda](https://github.com/Ivorisnoob/Koda) - A Material Expressive Music appand Video for Android with YT Music Support
 - [xlch88/YouTubeTweak](https://github.com/xlch88/YouTubeTweak) - Packed with all the features you want: lock video quality, speed buttons, show commenter names, auto-translate comments, hide distractions, and more.
 - [n-ce/ytify](https://github.com/n-ce/ytify) - Efficient YouTube Audio Streaming, Effortlessly, Anywhere.
 - [Stan-breaks/ytsurf](https://github.com/Stan-breaks/ytsurf) - YouTube in your terminal. Clean and distraction-free.
