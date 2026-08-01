@@ -1148,7 +1148,7 @@
 
 ## cpp 
 
-- [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 emulator for Windows
+- [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 emulator for Windows, Linux and MacOS
 - [OpenNMT/CTranslate2](https://github.com/OpenNMT/CTranslate2) - Fast inference engine for Transformer models
 - [NotRequiem/VMAware](https://github.com/NotRequiem/VMAware) - Advanced VM detection library and tool
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
@@ -1558,7 +1558,7 @@
 ## emulator 
 
 - [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
-- [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 emulator for Windows
+- [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 emulator for Windows, Linux and MacOS
 - [Jonathan8520/FlashNX](https://github.com/Jonathan8520/FlashNX) - Homebrew Flash player for Nintendo Switch (.nro). Play your .swf games from the SD card. Powered by Ruffle.
 - [0xNikilite/oboromi](https://github.com/0xNikilite/oboromi) - a proof-of-concept project for a possible Nintendo Switch 2 emulator.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
@@ -2444,6 +2444,7 @@
 
 - [Wyze3306/BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Run Minecraft Bedrock for Windows seamlessly on Linux.
 - [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
+- [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 emulator for Windows, Linux and MacOS
 - [aeroshell-desktop/aerothemeplasma](https://github.com/aeroshell-desktop/aerothemeplasma) - An alternative shell for KDE Plasma that aims to replicate the look and feel of Windows 7.
 - [ChrisDKN/Amethyst-Mod-Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) - A Linux native mod manager for a variety of games
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
@@ -2704,6 +2705,7 @@
 ## macos 
 
 - [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
+- [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 emulator for Windows, Linux and MacOS
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -3157,6 +3159,8 @@
 
 ## others 
 
+- [zenhosta/9drive](https://github.com/zenhosta/9drive) - 9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files
+- [Alexandre-Ale/Rhythm-Hero-NX](https://github.com/Alexandre-Ale/Rhythm-Hero-NX) - A fan-made rhythm game for Nintendo Switch
 - [simussu9-wq/stremiobrew](https://github.com/simussu9-wq/stremiobrew) - StremioBrew - Homebrew repo for rooted webOS TVs
 - [Kieren-Foenander/kids-channel-stremio-extension](https://github.com/Kieren-Foenander/kids-channel-stremio-extension) - 
 - [GoodmanBCN10/The-Goonies-APP](https://github.com/GoodmanBCN10/The-Goonies-APP) - Instalador de contenido para Nintendo Switch con interfaz SDL2 propia. Para la comunidad Switch ES — The Goonies OS.
@@ -3478,7 +3482,7 @@
 - [mrphrazer/reverser_ai](https://github.com/mrphrazer/reverser_ai) - Provides automated reverse engineering assistance through the use of local large language models (LLMs) on consumer hardware.
 - [HexRaysSA/ida-hcli](https://github.com/HexRaysSA/ida-hcli) - Hex-Rays CLI (HCLI)
 - [HexRaysSA/ida-chat-plugin](https://github.com/HexRaysSA/ida-chat-plugin) - 
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex and Pi for free from your terminal, IDE, and phone like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
 - [ikarus23/kiosk-mode-breakout](https://github.com/ikarus23/kiosk-mode-breakout) - A collection of tips & tricks on how to escape a kiosk mode environment
 - [foreni-packages/hachoir-subfile](https://github.com/foreni-packages/hachoir-subfile) - hachoir-subfile : Find subfile in any binary stream
 - [cdgriffith/puremagic](https://github.com/cdgriffith/puremagic) - Pure python implementation of identifying files based off their magic numbers
@@ -4635,7 +4639,7 @@
 - [Projeto-App-Escuteiros/app](https://github.com/Projeto-App-Escuteiros/app) - 
 - [stremify/stremify](https://github.com/stremify/stremify) - A selfhosted addon for Stremio allowing for streaming from numerous different sources via @movie-web/providers as well as other non-English sources.
 - [pancake3000/stremio-addon-manager](https://github.com/pancake3000/stremio-addon-manager) - Manage your Stremio Addons
-- [g0ldyy/comet](https://github.com/g0ldyy/comet) - Stremio's fastest torrent/debrid search add-on.
+- [g0ldyy/comet](https://github.com/g0ldyy/comet) - Stremio's fastest torrent/debrid/usenet search add-on.
 - [UrloMythus/MammaMia](https://github.com/UrloMythus/MammaMia) - A Stremio Addon for HTTPS Stream in Italian
 - [Arrow420/splash-osc](https://github.com/Arrow420/splash-osc) - Modern OSC interface for mpv player
 - [maoiscat/mpv-dark-box](https://github.com/maoiscat/mpv-dark-box) - This is a mpv osc script
@@ -6277,7 +6281,7 @@
 ## windows 
 
 - [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
-- [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 emulator for Windows
+- [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 emulator for Windows, Linux and MacOS
 - [aeroshell-desktop/aerothemeplasma](https://github.com/aeroshell-desktop/aerothemeplasma) - An alternative shell for KDE Plasma that aims to replicate the look and feel of Windows 7.
 - [GSDragoon/RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Radeon Software Slimmer is a utility to trim down the bloat with Radeon Software for AMD GPUs on Microsoft Windows.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
