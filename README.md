@@ -300,7 +300,7 @@
 
 ## agent-skills 
 
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,987+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,000+ agentic skills. Includes CLI, local MCP, catalo
 
 ## agents 
 
@@ -358,7 +358,7 @@
 ## ai-agents 
 
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - [CyberChef-MCP] Model Context Protocol Server for CyberChef ... exposing GCHQ's "Cyber Swiss Army Knife" as 463+ executable AI agent tools spanning encryption, encoding, compression, and forensic data
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,987+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,000+ agentic skills. Includes CLI, local MCP, catalo
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -435,12 +435,15 @@
 - [zapstore/zapstore](https://github.com/zapstore/zapstore) - The open app store
 - [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools and mods for Android nerds
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
+- [ang3lo-azevedo/local_manifests](https://github.com/ang3lo-azevedo/local_manifests) - Local manifests for building VoltageOS on Nothing Phone (1) (Spacewar). KSU-SUSFS+NetHunter kernel, NGlyphs, Dolby, Nothing Camera.
 - [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smal
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
 - [rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE) - BRENE - A SuSFS/KernelSU module for SuSFS patched kernels
 - [rajmani7584/Payload-Dumper-Android](https://github.com/rajmani7584/Payload-Dumper-Android) - Payload Dumper App for Android. Extract boot.img or any other partitions (images) from OTA.zip or payload.bin without PC
+- [ang3lo-azevedo/android_hardware_nothing](https://github.com/ang3lo-azevedo/android_hardware_nothing) - Hardware abstraction layer for Nothing Phone (1) - NGlyphs (GlyphManager), fingerprint HAL, NtOnlineConfig stub, GlyphAdapter. Based on DaViDev985 with StudioKeys-Dumps NGlyphs.
+- [ang3lo-azevedo/android_kernel_nothing_sm7325](https://github.com/ang3lo-azevedo/android_kernel_nothing_sm7325) - Linux 5.4.302 kernel for Nothing Phone (1) - KSU-SUSFS base with NetHunter, USB gadgets, NoMount, MPTCP, BBGUARD. Syscall tamper KSU, full SUSFS, mac80211, WireGuard.
 - [TheROMMER/core](https://github.com/TheROMMER/core) - A powerful tool designed to customize Android ROM ZIP files without building from source.
 - [Nandanrmenon/florid](https://github.com/Nandanrmenon/florid) - F-Droid Client
 - [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
@@ -1024,7 +1027,7 @@
 
 ## claude-code 
 
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,987+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,000+ agentic skills. Includes CLI, local MCP, catalo
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
@@ -1298,7 +1301,7 @@
 
 ## developer-tools 
 
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,987+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,000+ agentic skills. Includes CLI, local MCP, catalo
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [brunos3d/discord-enable-devtools](https://github.com/brunos3d/discord-enable-devtools) - 🚀 zx - Bring your Discord's devtools back to life (again)
 - [robertpsoane/ducker](https://github.com/robertpsoane/ducker) - A slightly quackers Docker TUI based on k9s 🦆
@@ -2168,6 +2171,7 @@
 - [Xposed-Modules-Repo/ps.reso.instaeclipse](https://github.com/Xposed-Modules-Repo/ps.reso.instaeclipse) - InstaEclipse
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's CLI and TUI client -- The ultimate weapon against brainrot
+- [mamiiblt/instafel](https://github.com/mamiiblt/instafel) - Instafel provides fast & up-to-date Instagram Alpha experience for everyone!
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [gyoridavid/short-video-maker](https://github.com/gyoridavid/short-video-maker) - Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using the Model Context Protocol (MCP) and a REST API.
 - [a-legotin/InstaSharper](https://github.com/a-legotin/InstaSharper) - Private Instagram API
@@ -2826,7 +2830,7 @@
 ## mcp 
 
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - [CyberChef-MCP] Model Context Protocol Server for CyberChef ... exposing GCHQ's "Cyber Swiss Army Knife" as 463+ executable AI agent tools spanning encryption, encoding, compression, and forensic data
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,987+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,000+ agentic skills. Includes CLI, local MCP, catalo
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mukul975/cve-mcp-server](https://github.com/mukul975/cve-mcp-server) - Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more.
 - [LayeSec006/pentest-mcp-server](https://github.com/LayeSec006/pentest-mcp-server) - MCP server for penetration testing
@@ -3171,9 +3175,22 @@
 
 ## others 
 
+- [libxzr/KonaBess](https://github.com/libxzr/KonaBess) - A GPU overclock & undervolt tool for various Snapdragon chips
+- [crdroidandroid/android_vendor_bcr](https://github.com/crdroidandroid/android_vendor_bcr) - 
+- [chenxiaolong/BCR](https://github.com/chenxiaolong/BCR) - A Basic Call Recorder for rooted Android devices
+- [kleidione/vendor_google_GoogleCamera](https://github.com/kleidione/vendor_google_GoogleCamera) - 
+- [nixbuild/nixbuild-action](https://github.com/nixbuild/nixbuild-action) - GitHub Action for using the nixbuild.net service
+- [QCerberusQ/orangefox_device_nothing_Spacewar](https://github.com/QCerberusQ/orangefox_device_nothing_Spacewar) - 
+- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system [maintainers=@dasj,@Ericson2314]
+- [DeFiNiek/blazing-trakt-proxy](https://github.com/DeFiNiek/blazing-trakt-proxy) - Ultra-secure Trakt OAuth proxy server with database persistence and advanced security features
+- [Star-Seven/susfs4ksu](https://github.com/Star-Seven/susfs4ksu) - Imported from https://gitlab.com/simonpunk/susfs4ksu
+- [dev-sm8350/susfs4ksu](https://github.com/dev-sm8350/susfs4ksu) - From: https://gitlab.com/simonpunk/susfs4ksu/
+- [hzzmonetvn/MamboSU](https://github.com/hzzmonetvn/MamboSU) - personal fork, focused on lkm
+- [backslashxx/kernelnosu](https://github.com/backslashxx/kernelnosu) - 
+- [backslashxx/KernelSU](https://github.com/backslashxx/KernelSU) - arm64-v8a, armeabi-v7a. upstream compliant driver for Linux 3.0 to 5.4+. check issues for guides
+- [itsshashanksp/KernelSU](https://github.com/itsshashanksp/KernelSU) - A fork of https://github.com/backslashxx/KernelSU.git by @backslashxx
 - [sheerboy/FemAlloy](https://github.com/sheerboy/FemAlloy) - ChsBuffer's LSPosed module, powered by Morphe, ReVanced, and beyond. (formerly ReVanced Xposed)
 - [Fabito02/ChromaLeon](https://github.com/Fabito02/ChromaLeon) - Change your GNOME Shell and GTK accent colors dynamically based on your wallpaper.
-- [BruxinCore/CalamityKernel-spacewar](https://github.com/BruxinCore/CalamityKernel-spacewar) - CalamityKernel for Nothing Phone 1
 - [FlamingoOS-Devices/hardware_dolby](https://github.com/FlamingoOS-Devices/hardware_dolby) - 
 - [ansemjo/truepolyglot](https://github.com/ansemjo/truepolyglot) - Create polyglot files, which are valid PDF and ZIP simultaneously. See POC||GTFO 07. (forked from git.hackade.org)
 - [Thiasap/oppo-pgem10-ghostlock](https://github.com/Thiasap/oppo-pgem10-ghostlock) - OPPO Find X6 Pro GhostLock (CVE-2026-43499) exploit adaptation
@@ -3794,7 +3811,6 @@
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
 - [jchv/nix-binary-ninja](https://github.com/jchv/nix-binary-ninja) - Unofficial Nix flake for using Binary Ninja on NixOS.
 - [iamlooper/Lumi-AI](https://github.com/iamlooper/Lumi-AI) - A friendly, human-like AI chatbot powered by Gemini.
-- [ang3lo-azevedo/local_manifests](https://github.com/ang3lo-azevedo/local_manifests) - 
 - [signerless/llm-checker](https://github.com/signerless/llm-checker) - Advanced CLI tool that scans your hardware and tells you exactly which LLM or sLLM models you can run locally, with full Ollama integration.
 - [firu11/nothing-glyphtones](https://github.com/firu11/nothing-glyphtones) - Glyphtones - a simple audio-sharing platform for Nothing Phone users
 - [MathieuDvv/Nboard](https://github.com/MathieuDvv/Nboard) - Nothing inspired keyboard for android
@@ -3814,7 +3830,7 @@
 - [Pong-Development/packages_apps_ParanoidGlyph](https://github.com/Pong-Development/packages_apps_ParanoidGlyph) - packages/apps/ParanoidGlyph
 - [smrth097/packages_apps_ParanoidGlyph](https://github.com/smrth097/packages_apps_ParanoidGlyph) - packages/apps/ParanoidGlyph
 - [smrth097/hardware_dolby](https://github.com/smrth097/hardware_dolby) - 
-- [ang3lo-azevedo/android_device_nothing_Spacewar](https://github.com/ang3lo-azevedo/android_device_nothing_Spacewar) - Device Tree for Nothing Phone (1)
+- [ang3lo-azevedo/android_device_nothing_Spacewar](https://github.com/ang3lo-azevedo/android_device_nothing_Spacewar) - Device tree for Nothing Phone (1) (Spacewar) - VoltageOS. Merges kleidione, DaViDev985, smrth097, crDroid, halogenOS improvements. NGlyphs, Nothing Camera, Dolby, DeviceAsWebcam, KSU-SUSFS+NetHunter k
 - [DaViDev985/proprietary_vendor_nothing_camera](https://github.com/DaViDev985/proprietary_vendor_nothing_camera) - 
 - [smrth097/proprietary_vendor_nothing_camera](https://github.com/smrth097/proprietary_vendor_nothing_camera) - 
 - [QCerberusQ/OFRP-device_nothing_Spacewar](https://github.com/QCerberusQ/OFRP-device_nothing_Spacewar) - 
@@ -3875,8 +3891,6 @@
 - [exos/DeHash](https://github.com/exos/DeHash) - Search hashes in various sites
 - [Rares6567/NothingXpert](https://github.com/Rares6567/NothingXpert) - FORCE PUSH CAN HAPPEN
 - [smrth097/kernel_nothing_sm7325](https://github.com/smrth097/kernel_nothing_sm7325) - 
-- [ang3lo-azevedo/android_hardware_nothing](https://github.com/ang3lo-azevedo/android_hardware_nothing) - 
-- [ang3lo-azevedo/android_kernel_nothing_sm7325](https://github.com/ang3lo-azevedo/android_kernel_nothing_sm7325) - 
 - [smrth097/proprietary_vendor_nothing_Spacewar](https://github.com/smrth097/proprietary_vendor_nothing_Spacewar) - Vendor Tree for Nothing Phone (1)
 - [luyanci/Android-Builder](https://github.com/luyanci/Android-Builder) - Automaticcaly build android kernel by github actions.
 - [Mrjam22/vmware-vmmon-vmnet-linux-6.18.x](https://github.com/Mrjam22/vmware-vmmon-vmnet-linux-6.18.x) - VMware Workstation modules patches for Linux kernel 6.18.x
@@ -3928,7 +3942,7 @@
 - [nix-community/nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS. [maintainers=@colemickens, @Artturin]
 - [Scrumplex/nixpkgs](https://github.com/Scrumplex/nixpkgs) - Nix Packages collection
 - [talkol/spiderman](https://github.com/talkol/spiderman) - Spider-Man VR Experience
-- [SpookySkeletons/proton-ge-rtsp](https://github.com/SpookySkeletons/proton-ge-rtsp) - Compatibility tool for Steam Play based on Wine and additional components
+- [SpookySkeletons/proton-rtsp](https://github.com/SpookySkeletons/proton-rtsp) - Compatibility tool for Steam Play based on Wine and additional components
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [kanaodnd/Stellar-Tweaks](https://github.com/kanaodnd/Stellar-Tweaks) - Performance module, focused on making the phone better, with some tweaks specifically for all types of soc. Ai-assisted module, changes modes when playing games
 - [oo8dev/wayvr-dashboard](https://github.com/oo8dev/wayvr-dashboard) - Launch your favorite desktop applications and games seamlessly within your VR environment (wlx-overlay-s addon)
@@ -4087,7 +4101,6 @@
 - [mentalblank/GPhotos-Revanced](https://github.com/mentalblank/GPhotos-Revanced) - ReVanced Google Photos APK Auto-Builds
 - [Aunali321/revanced-downloader-plugins](https://github.com/Aunali321/revanced-downloader-plugins) - 
 - [Aunali321/ReVancedExperiments](https://github.com/Aunali321/ReVancedExperiments) - 
-- [mamiiblt/instafel](https://github.com/mamiiblt/instafel) - Instafel provides fast & up-to-date Instagram Alpha experience for everyone!
 - [8Mi-Tech/LSPatch-ApkFactory](https://github.com/8Mi-Tech/LSPatch-ApkFactory) - 一个基于LSPatch的打包工具，自动为常见应用打LSPatch补丁的仓库，包括各类分支(详见readme)
 - [7723mod/NPatch](https://github.com/7723mod/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 - [vaginessa/NPatch](https://github.com/vaginessa/NPatch) - 
