@@ -3175,6 +3175,10 @@
 
 ## others 
 
+- [nfzerox/VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) - People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode and Terminal to 
+- [crdroidandroid/vendor_nothing_camera-Spacewar](https://github.com/crdroidandroid/vendor_nothing_camera-Spacewar) - 
+- [xxblebleblexx/nomount-installer](https://github.com/xxblebleblexx/nomount-installer) - NoMount is a kernel-based file injection and path redirection framework for Android kernels.
+- [ZQZCC/NoMount](https://github.com/ZQZCC/NoMount) - NoMount is a kernel-based file injection and path redirection framework for Android kernels.
 - [libxzr/KonaBess](https://github.com/libxzr/KonaBess) - A GPU overclock & undervolt tool for various Snapdragon chips
 - [crdroidandroid/android_vendor_bcr](https://github.com/crdroidandroid/android_vendor_bcr) - 
 - [chenxiaolong/BCR](https://github.com/chenxiaolong/BCR) - A Basic Call Recorder for rooted Android devices
@@ -6046,6 +6050,7 @@
 
 ## testing 
 
+- [maxsteeel/nomount](https://github.com/maxsteeel/nomount) - NoMount is a kernel-based file injection and path redirection framework for Android kernels.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 
