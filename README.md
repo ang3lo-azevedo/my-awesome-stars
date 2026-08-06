@@ -313,6 +313,7 @@
 
 ## ai 
 
+- [nunziopostdoctoral988/ats-resume-checker](https://github.com/nunziopostdoctoral988/ats-resume-checker) - Analyze resumes against ATS requirements using a local, transparent tool that runs entirely in your browser.
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent
 - [freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy](https://github.com/freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy) - Java Android Magisk Burp Objection Root Emulator Easy (JAMBOREE)
 - [IAHispano/Applio](https://github.com/IAHispano/Applio) - A simple, high-quality voice conversion tool focused on ease of use and performance.
@@ -379,6 +380,9 @@
 
 ## android 
 
+- [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
+- [Wtrwx/smt878u-ionstack-poc](https://github.com/Wtrwx/smt878u-ionstack-poc) - CVE-2026-43499 (IonStack/GhostLock) pure-C re-root POC for Samsung SM-T878U / gts7l (T878USQS8DXE1)
+- [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel™ phone flashing GUI utility with features.
 - [JoinChang/ghostlock-oneplus](https://github.com/JoinChang/ghostlock-oneplus) - GhostLock (CVE-2026-43499) kernel exploit for OnePlus devices with locked bootloader
 - [jasonwu1994/Gboard-patches](https://github.com/jasonwu1994/Gboard-patches) - Morphe patches for Gboard with practical upgrades for global users and Taiwan-focused enhancements.
 - [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida) - 🔐 Run frida-server on boot with Magisk, always up-to-date
@@ -435,15 +439,15 @@
 - [zapstore/zapstore](https://github.com/zapstore/zapstore) - The open app store
 - [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools and mods for Android nerds
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
-- [ang3lo-azevedo/local_manifests](https://github.com/ang3lo-azevedo/local_manifests) - Local manifests for building VoltageOS on Nothing Phone (1) (Spacewar). KSU-SUSFS+NetHunter kernel, NGlyphs, Dolby, Nothing Camera.
+- [ang3lo-azevedo/local_manifests](https://github.com/ang3lo-azevedo/local_manifests) - Local manifests for VoltageOS on Nothing Phone (1) (Spacewar). DaViDev985 vendor, KSU-SUSFS+NetHunter+NoMount kernel, NGlyphs, Dolby, Google Camera.
 - [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smal
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
 - [rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE) - BRENE - A SuSFS/KernelSU module for SuSFS patched kernels
 - [rajmani7584/Payload-Dumper-Android](https://github.com/rajmani7584/Payload-Dumper-Android) - Payload Dumper App for Android. Extract boot.img or any other partitions (images) from OTA.zip or payload.bin without PC
-- [ang3lo-azevedo/android_hardware_nothing](https://github.com/ang3lo-azevedo/android_hardware_nothing) - Hardware abstraction layer for Nothing Phone (1) - NGlyphs (GlyphManager), fingerprint HAL, NtOnlineConfig stub, GlyphAdapter. Based on DaViDev985 with StudioKeys-Dumps NGlyphs.
-- [ang3lo-azevedo/android_kernel_nothing_sm7325](https://github.com/ang3lo-azevedo/android_kernel_nothing_sm7325) - Linux 5.4.302 kernel for Nothing Phone (1) - KSU-SUSFS base with NetHunter, USB gadgets, NoMount, MPTCP, BBGUARD. Syscall tamper KSU, full SUSFS, mac80211, WireGuard.
+- [ang3lo-azevedo/android_hardware_nothing](https://github.com/ang3lo-azevedo/android_hardware_nothing) - Hardware abstraction for Nothing Phone (1): NGlyphs glyph LED, goodix fingerprint HAL, NtOnlineConfig stub. Based on DaViDev985 + StudioKeys-Dumps + kleidione
+- [ang3lo-azevedo/android_kernel_nothing_sm7325](https://github.com/ang3lo-azevedo/android_kernel_nothing_sm7325) - Linux 5.4.302 kernel for Nothing Phone (1) with KSU-SUSFS, NetHunter, NoMount, MPTCP, USB gadgets
 - [TheROMMER/core](https://github.com/TheROMMER/core) - A powerful tool designed to customize Android ROM ZIP files without building from source.
 - [Nandanrmenon/florid](https://github.com/Nandanrmenon/florid) - F-Droid Client
 - [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
@@ -452,7 +456,7 @@
 - [samyak2403/RepoStore](https://github.com/samyak2403/RepoStore) - Explore apps published on GitHub, view release details, and install APKs instantly — all in one place. Developed using pure Kotlin, optimized for modern Android devices.
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
-- [Ivorisnoob/Koda](https://github.com/Ivorisnoob/Koda) - A Material Expressive Music appand Video for Android with YT Music Support
+- [Ivorisnoob/Koda](https://github.com/Ivorisnoob/Koda) - A Material Expressive Music app and Video for Android with YT Music Support
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 - [nix-community/nix-on-droid-app](https://github.com/nix-community/nix-on-droid-app) - Run Nix package manager on Android. Based off Termux the terminal emulator, but not Termux the distro. [maintainer=@t184256]
 - [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
@@ -618,6 +622,7 @@
 
 ## angular 
 
+- [nunziopostdoctoral988/ats-resume-checker](https://github.com/nunziopostdoctoral988/ats-resume-checker) - Analyze resumes against ATS requirements using a local, transparent tool that runs entirely in your browser.
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [Raphiiko/OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - 🥽 VR Sleeping Utilities
@@ -926,7 +931,7 @@
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [m0nad/Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64)
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
-- [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
+- [wlrfx/swayfx](https://github.com/wlrfx/swayfx) - SwayFX: Sway, but with eye candy!
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
@@ -995,6 +1000,7 @@
 
 ## chrome-extension 
 
+- [nunziopostdoctoral988/ats-resume-checker](https://github.com/nunziopostdoctoral988/ats-resume-checker) - Analyze resumes against ATS requirements using a local, transparent tool that runs entirely in your browser.
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
 - [FoxRefire/wvg](https://github.com/FoxRefire/wvg) - Chrome/Firefox extension for pen-testing to retrieve encryption keys of Widevine protected content !DON'T DECRYPT CONTENT UNLESS YOU HAVE THE RIGHT TO DO IT!
 - [DevLARLEY/WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2) - An extension-based proxy for Widevine/ClearKey EME challenges and license messages. Modifies the challenge before it reaches the web player. Bypasses Hashes, one-time-tokens and license wrapping.
@@ -1410,7 +1416,7 @@
 - [redpwn/jail](https://github.com/redpwn/jail) - An nsjail Docker image for CTF pwnables. Easily create secure, isolated xinetd/inetd-style services.
 - [m0nad/awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation) - A curated list of awesome privilege escalation
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
+- [winboat-org/winboat](https://github.com/winboat-org/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [arabcoders/watchstate](https://github.com/arabcoders/watchstate) - Self-hosted service to sync your plex, jellyfin and emby play state. without relying on 3rd-party external services.
 - [SavageSoftware/portainer-backup](https://github.com/SavageSoftware/portainer-backup) - Portainer Backup Utility
@@ -2254,6 +2260,7 @@
 
 ## javascript 
 
+- [nunziopostdoctoral988/ats-resume-checker](https://github.com/nunziopostdoctoral988/ats-resume-checker) - Analyze resumes against ATS requirements using a local, transparent tool that runs entirely in your browser.
 - [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ All-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
 - [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, 
 - [alperengozum/Sleepwell](https://github.com/alperengozum/Sleepwell) - React-Native - Expo - Sleep Cycle Calculator
@@ -2453,6 +2460,7 @@
 
 ## linux 
 
+- [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel™ phone flashing GUI utility with features.
 - [suominen/ghostlock](https://github.com/suominen/ghostlock) - Tracking GhostLock (CVE-2026-43499), the rtmutex/futex stack use-after-free
 - [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu) - Checkpoint/Restore tool
 - [Wyze3306/BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Run Minecraft Bedrock for Windows seamlessly on Linux.
@@ -2530,7 +2538,7 @@
 - [m0nad/Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64)
 - [face-hh/fuck](https://github.com/face-hh/fuck) - An actually good, heavily opinionated Linux distro.
 - [Abyss-W4tcher/volatility3-symbols](https://github.com/Abyss-W4tcher/volatility3-symbols) - Collection of Linux and macOS Volatility3 Intermediate Symbol Files (ISF), suitable for memory analysis 🔍
-- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
+- [winboat-org/winboat](https://github.com/winboat-org/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [samuelngs/apple-emoji-ttf](https://github.com/samuelngs/apple-emoji-ttf) - Brings Apple's vibrant color emojis to Linux, Windows, and the Web
 - [yrp604/rappel](https://github.com/yrp604/rappel) - A linux-based assembly REPL for x86, amd64, armv7, and armv8
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
@@ -2598,7 +2606,7 @@
 - [tabbeddev/arch-tui-installer](https://github.com/tabbeddev/arch-tui-installer) - An easy-to-use TUI installer for Archlinux for beginners
 - [classy-giraffe/easy-arch](https://github.com/classy-giraffe/easy-arch) - Script for boostrapping Arch Linux with BTRFS, snapshots and LUKS encryption (UEFI only).
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
-- [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
+- [wlrfx/swayfx](https://github.com/wlrfx/swayfx) - SwayFX: Sway, but with eye candy!
 - [NotAShelf/dotfiles](https://github.com/NotAShelf/dotfiles) - A repository for (mostly) everything that starts with a dot on my Arch Linux systems.
 - [wotikama/nvidiafan](https://github.com/wotikama/nvidiafan) - Nvidia fan control for wayland
 - [latipun7/dotfiles](https://github.com/latipun7/dotfiles) - 🏡 Home sweet ~/.
@@ -2611,7 +2619,7 @@
 - [InioX/matugen](https://github.com/InioX/matugen) - A cross-platform material you and base16 color generation tool
 - [koeqaife/hyprland-material-you](https://github.com/koeqaife/hyprland-material-you) - Dynamic and elegant desktop setup inspired by Material You, featuring auto-generated colors, fluid animations, and customizable user experience.
 - [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
-- [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install from a Live ISO or with the Dotfiles Installer app wi
+- [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install for Arch Linux, Fedora and openSuse.
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [glaumar/QRookie](https://github.com/glaumar/QRookie) - Download and install Quest games from ROOKIE Public Mirror (like VRP Rookie Sideloader but for Linux and MacOS)
@@ -2639,6 +2647,7 @@
 
 ## llm 
 
+- [nunziopostdoctoral988/ats-resume-checker](https://github.com/nunziopostdoctoral988/ats-resume-checker) - Analyze resumes against ATS requirements using a local, transparent tool that runs entirely in your browser.
 - [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu) - Anti-LLM obfuscation via finger counting
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [hovanhoa/cursor-free-vip](https://github.com/hovanhoa/cursor-free-vip) - [Support 0.48.x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accoun
@@ -2806,7 +2815,7 @@
 - [MdFarhan0/Self-Attendance](https://github.com/MdFarhan0/Self-Attendance) - A clean Android app to track college attendance with subject-wise targets and smart bunk guidance. Mark attendance, visualize performance, and instantly know whether to attend or skip classes.
 - [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - 🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!
 - [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
-- [Ivorisnoob/Koda](https://github.com/Ivorisnoob/Koda) - A Material Expressive Music appand Video for Android with YT Music Support
+- [Ivorisnoob/Koda](https://github.com/Ivorisnoob/Koda) - A Material Expressive Music app and Video for Android with YT Music Support
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [Pool-Of-Tears/GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.
@@ -3057,6 +3066,7 @@
 
 ## open-source 
 
+- [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [rama-io/mako](https://github.com/rama-io/mako) - Minimal, privacy-first Android launcher designed for focus, speed, and simplicity.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
@@ -3129,7 +3139,7 @@
 - [cryinkfly/Autodesk-Fusion-360-for-Linux](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux) - This is a project, where I give you a way to use Autodesk Fusion 360 on Linux!
 - [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) - Wallpaper Engine backgrounds for Linux!
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
-- [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
+- [wlrfx/swayfx](https://github.com/wlrfx/swayfx) - SwayFX: Sway, but with eye candy!
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 
 ## operating-system 
@@ -3175,6 +3185,27 @@
 
 ## others 
 
+- [explysm/FireXposed](https://github.com/explysm/FireXposed) - FireCord xposed module for discord. (Based on ShiggyXposed)
+- [CakesTwix/Android-CVE-2026-43499](https://github.com/CakesTwix/Android-CVE-2026-43499) - Android version CVE-2026-43499 tester
+- [DNSCrypt/dnscrypt-resolvers](https://github.com/DNSCrypt/dnscrypt-resolvers) - Lists of public DNSCrypt / DoH DNS servers and DNS relays - Actively maintained since 2011.
+- [Ch4t4r/Nebulo](https://github.com/Ch4t4r/Nebulo) - Mirror of https://git.frostnerd.com/PublicAndroidApps/smokescreen. Feel free to contribute here as well.
+- [d3cim/dnscrypt-proxy-android](https://github.com/d3cim/dnscrypt-proxy-android) - Hardened dnscrypt-proxy module for Android.
+- [kurdishhacker2147/ReWaEnhancer-X-Pro-beta](https://github.com/kurdishhacker2147/ReWaEnhancer-X-Pro-beta) - ReWaEnhancer X Pro, WhatsApp'ı gerçek bir premium deneyime dönüştüren en gelişmiş ve güçlü moddur. ReWaEnhancer X Pro, tüm Pro özelliklerinin ücretsiz olarak etkinleştirildiği, tamamen kilitsiz ve lis
+- [darknight1050/quest-bootloader-unlocker](https://github.com/darknight1050/quest-bootloader-unlocker) - 
+- [oopnv70-lab/ghostlock-honor-aak](https://github.com/oopnv70-lab/ghostlock-honor-aak) - GhostLock (CVE-2026-43499) exploit adapted for Honor AAK-AN00 (MagicOS 10, kernel 6.6.89-android15)
+- [jason5545/ghostlock-myron-tw](https://github.com/jason5545/ghostlock-myron-tw) - GhostLock (CVE-2026-43499) kernel exploit port for REDMI K90 Pro Max Taiwan firmware (myron, WPMTWXM) — offsets, build guide, prebuilt binary
+- [starseed12345/QuestStack](https://github.com/starseed12345/QuestStack) - Unlock the Meta Quest 1 bootloader and gain root access using GhostLock + CVE-2021-1931.
+- [NothingFumo/ghostlock-aresin](https://github.com/NothingFumo/ghostlock-aresin) - GhostLock (CVE-2026-43499) exploit for POCO F3 GT (aresin) — MediaTek Dimensity 1200, Linux 4.14.186 ARM64 kernel privilege escalation via futex PI chain manipulation
+- [taoubi1/ghostlock-sm-a155f](https://github.com/taoubi1/ghostlock-sm-a155f) - GhostLock (CVE-2026-43499) kernel exploit for samsung devices with locked bootloader
+- [PeronGH/ghostlock-selinux-disabler](https://github.com/PeronGH/ghostlock-selinux-disabler) - Use CVE-2026-43499 to disable SELinux on Android
+- [p2p3p/GhostLock-for-OnePlus](https://github.com/p2p3p/GhostLock-for-OnePlus) - （CVE-2026-43499）内核漏洞利用程序，适用于未解锁 Bootloader 的一加设备。
+- [alex193a/Root-My-Pixel-Payloads](https://github.com/alex193a/Root-My-Pixel-Payloads) - Exploit payloads for Root My Pixel
+- [alex193a/Root-My-Pixel](https://github.com/alex193a/Root-My-Pixel) - Jailbreak supported Google Pixel phones with CVE-2026-43499
+- [kurdishhacker2147/ReWaEnhancer-X-Pro](https://github.com/kurdishhacker2147/ReWaEnhancer-X-Pro) - ReWaEnhancer X Pro is the most advanced and powerful mod that transforms WhatsApp into a true premium experience. ReWaEnhancer X Pro activates all Pro features for free, completely unlocked and unlice
+- [ang3lo-azevedo/ghostlock-nothing](https://github.com/ang3lo-azevedo/ghostlock-nothing) - GhostLock CVE-2026-43499 exploit for Nothing Phone (1) (Spacewar, SM7325, kernel 5.4). Fork of ghostlock-oneplus.
+- [Qutaiba-Khader/RecentAppsTV](https://github.com/Qutaiba-Khader/RecentAppsTV) - Recent Apps overlay for Android TV / Google TV (Shizuku-powered) — D-pad recents switcher with swipe-to-dismiss, kill-all, context menu, themeable. Jetpack Compose for TV.
+- [Teslow/awesome-shizuku-apps](https://github.com/Teslow/awesome-shizuku-apps) - Curated list of awesome Android apps making use of Shizuku
+- [JingMatrix/LSPlant](https://github.com/JingMatrix/LSPlant) - A hook framework for Android Runtime (ART)
 - [nfzerox/VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) - People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode and Terminal to 
 - [crdroidandroid/vendor_nothing_camera-Spacewar](https://github.com/crdroidandroid/vendor_nothing_camera-Spacewar) - 
 - [xxblebleblexx/nomount-installer](https://github.com/xxblebleblexx/nomount-installer) - NoMount is a kernel-based file injection and path redirection framework for Android kernels.
@@ -3834,7 +3865,7 @@
 - [Pong-Development/packages_apps_ParanoidGlyph](https://github.com/Pong-Development/packages_apps_ParanoidGlyph) - packages/apps/ParanoidGlyph
 - [smrth097/packages_apps_ParanoidGlyph](https://github.com/smrth097/packages_apps_ParanoidGlyph) - packages/apps/ParanoidGlyph
 - [smrth097/hardware_dolby](https://github.com/smrth097/hardware_dolby) - 
-- [ang3lo-azevedo/android_device_nothing_Spacewar](https://github.com/ang3lo-azevedo/android_device_nothing_Spacewar) - Device tree for Nothing Phone (1) (Spacewar) - VoltageOS. Merges kleidione, DaViDev985, smrth097, crDroid, halogenOS improvements. NGlyphs, Nothing Camera, Dolby, DeviceAsWebcam, KSU-SUSFS+NetHunter k
+- [ang3lo-azevedo/android_device_nothing_Spacewar](https://github.com/ang3lo-azevedo/android_device_nothing_Spacewar) - Device tree for Nothing Phone (1) for VoltageOS 5.11. Merges kleidione, DaViDev985, smrth097, crDroid, halogenOS, StudioKeys-Dumps: NGlyphs, Nothing Camera, Google Camera, Dolby, perf init, IRQ balanc
 - [DaViDev985/proprietary_vendor_nothing_camera](https://github.com/DaViDev985/proprietary_vendor_nothing_camera) - 
 - [smrth097/proprietary_vendor_nothing_camera](https://github.com/smrth097/proprietary_vendor_nothing_camera) - 
 - [QCerberusQ/OFRP-device_nothing_Spacewar](https://github.com/QCerberusQ/OFRP-device_nothing_Spacewar) - 
@@ -5360,6 +5391,7 @@
 
 ## python 
 
+- [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel™ phone flashing GUI utility with features.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [0x0be/yesitsme](https://github.com/0x0be/yesitsme) - Simple OSINT script to find Instagram profiles by name and e-mail/phone
 - [vashhdev/onepace](https://github.com/vashhdev/onepace) - I made a script to watch One Pace, efficiently through your terminal with minimalistic TUI. I made it because I didn't want to download the files cause I watch quickly and then remove those files, als
@@ -5668,6 +5700,7 @@
 
 ## rust 
 
+- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
 - [WithSecureLabs/chainsaw](https://github.com/WithSecureLabs/chainsaw) - Rapidly Search and Hunt through Windows Forensic Artefacts
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -5866,6 +5899,7 @@
 
 ## server 
 
+- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [shishkabob27/cwk-server](https://github.com/shishkabob27/cwk-server) - A reversed-engineered server for Card Wars Kingdom.
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
@@ -6101,6 +6135,7 @@
 
 ## typescript 
 
+- [nunziopostdoctoral988/ats-resume-checker](https://github.com/nunziopostdoctoral988/ats-resume-checker) - Analyze resumes against ATS requirements using a local, transparent tool that runs entirely in your browser.
 - [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ All-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
 - [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode, PI, Oh My Pi (OMP) and Claude Code supported
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
@@ -6351,6 +6386,7 @@
 
 ## windows 
 
+- [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel™ phone flashing GUI utility with features.
 - [Psmths/windows-forensic-artifacts](https://github.com/Psmths/windows-forensic-artifacts) - Handbook of windows forensic artifacts across multiple Windows version with interpretation tips and some examples. Work in progress!
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
 - [WithSecureLabs/chainsaw](https://github.com/WithSecureLabs/chainsaw) - Rapidly Search and Hunt through Windows Forensic Artefacts
@@ -6396,7 +6432,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [stuxnet999/MemLabs](https://github.com/stuxnet999/MemLabs) - Educational, CTF-styled labs for individuals interested in Memory Forensics
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
+- [winboat-org/winboat](https://github.com/winboat-org/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [samuelngs/apple-emoji-ttf](https://github.com/samuelngs/apple-emoji-ttf) - Brings Apple's vibrant color emojis to Linux, Windows, and the Web
 - [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
@@ -6484,7 +6520,7 @@
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
-- [Ivorisnoob/Koda](https://github.com/Ivorisnoob/Koda) - A Material Expressive Music appand Video for Android with YT Music Support
+- [Ivorisnoob/Koda](https://github.com/Ivorisnoob/Koda) - A Material Expressive Music app and Video for Android with YT Music Support
 - [xlch88/YouTubeTweak](https://github.com/xlch88/YouTubeTweak) - Packed with all the features you want: lock video quality, speed buttons, show commenter names, auto-translate comments, hide distractions, and more.
 - [n-ce/ytify](https://github.com/n-ce/ytify) - Efficient YouTube Audio Streaming, Effortlessly, Anywhere.
 - [Stan-breaks/ytsurf](https://github.com/Stan-breaks/ytsurf) - YouTube in your terminal. Clean and distraction-free.
