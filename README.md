@@ -300,7 +300,7 @@
 
 ## agent-skills 
 
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,000+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
 
 ## agents 
 
@@ -358,7 +358,7 @@
 ## ai-agents 
 
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - [CyberChef-MCP] Model Context Protocol Server for CyberChef ... exposing GCHQ's "Cyber Swiss Army Knife" as 463+ executable AI agent tools spanning encryption, encoding, compression, and forensic data
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,000+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -379,11 +379,17 @@
 
 ## android 
 
+- [ang3lo-azevedo/detection](https://github.com/ang3lo-azevedo/detection) - Collection of Various Root Detection Apps for Android
+- [solkin/appteka-android](https://github.com/solkin/appteka-android) - 💊 Appteka is an alternative store for Android
+- [skidworks-openengineering/SimpleBoot](https://github.com/skidworks-openengineering/SimpleBoot) - SimpleBoot [BETA] - Turn your rooted Android phone into a bootable USB drive. Mount and boot ISOs via ConfigFS, legacy, or loopback – no PC needed.
+- [matthewdaluz/SimpleBoot](https://github.com/matthewdaluz/SimpleBoot) - Turn your rooted Android phone into a bootable USB drive. Mount and boot ISOs via ConfigFS, legacy, or loopback – no PC needed.
+- [Enginex0/UsbMassStorage](https://github.com/Enginex0/UsbMassStorage) - 💾 Turn your phone into a USB drive · USB Mass Storage gadget controller · KernelSU / Magisk / APatch
 - [fzer0x/ReShift](https://github.com/fzer0x/ReShift) - Inject Frida scripts on Android through Zygisk without a PC. Manage scripts from integrated repositories or load them from local storage.
 - [muhammadrizwan87/frida-bridge](https://github.com/muhammadrizwan87/frida-bridge) - Native JNI bridge to load Frida Gadget — Frida with no root, no APK repacking, containers supported.
 - [A4Alpha/mulch-webview-overlay](https://github.com/A4Alpha/mulch-webview-overlay) - Easily install the security-hardened Mulch SystemWebView from DivestOS
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [Wtrwx/smt878u-ionstack-poc](https://github.com/Wtrwx/smt878u-ionstack-poc) - CVE-2026-43499 (IonStack/GhostLock) pure-C re-root POC for Samsung SM-T878U / gts7l (T878USQS8DXE1)
+- [ang3lo-azevedo/root-my-nothing](https://github.com/ang3lo-azevedo/root-my-nothing) - One-click root for Nothing Phone (1) using CVE-2026-43499 (GhostLock). Gains temporary root and installs KernelSU without unlocking bootloader.
 - [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel™ phone flashing GUI utility with features.
 - [JoinChang/ghostlock-oneplus](https://github.com/JoinChang/ghostlock-oneplus) - GhostLock (CVE-2026-43499) kernel exploit for OnePlus devices with locked bootloader
 - [jasonwu1994/Gboard-patches](https://github.com/jasonwu1994/Gboard-patches) - Morphe patches for Gboard with practical upgrades for global users and Taiwan-focused enhancements.
@@ -391,9 +397,10 @@
 - [hxreborn/playstore-adblock](https://github.com/hxreborn/playstore-adblock) - Xposed module to remove sponsored listings and ads from the Google Play Store
 - [lllucccian/Deekseep](https://github.com/lllucccian/Deekseep) - Deekseep LSPosed: multi-API Xposed module for DeepSeek Android; Mainland 2.2.2/2.3.0 and Google Play 2.2.2.
 - [rama-io/mako](https://github.com/rama-io/mako) - Minimal, privacy-first Android launcher designed for focus, speed, and simplicity.
+- [Riteshp2001/mpvRx](https://github.com/Riteshp2001/mpvRx) - The most Powerful, Efficient + Feature-packed media player fork you’ll find anywhere.
 - [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) - A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt
 - [slapperwan/gh4a](https://github.com/slapperwan/gh4a) - Github client for Android
-- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode, PI, Oh My Pi (OMP) and Claude Code supported
+- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode, PI, Oh My Pi (OMP), Claude Code and Codex CLI supported
 - [frankheat/noxen](https://github.com/frankheat/noxen) - Android interception tool for component communication and attack-surface mapping
 - [HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - 🌸Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources. 🌼🎵
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
@@ -441,7 +448,7 @@
 - [zapstore/zapstore](https://github.com/zapstore/zapstore) - The open app store
 - [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools and mods for Android nerds
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
-- [ang3lo-azevedo/local_manifests](https://github.com/ang3lo-azevedo/local_manifests) - Local manifests for VoltageOS on Nothing Phone (1) (Spacewar). DaViDev985 vendor, KSU-SUSFS+NetHunter+NoMount kernel, NGlyphs, Dolby, Google Camera.
+- [ang3lo-azevedo/voltageos-spacewar](https://github.com/ang3lo-azevedo/voltageos-spacewar) - Local manifest and tutorial for building VoltageOS on Nothing Phone (1) (Spacewar)
 - [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smal
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
@@ -1034,7 +1041,7 @@
 
 ## claude-code 
 
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,000+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
@@ -1095,6 +1102,7 @@
 
 ## cloud 
 
+- [solkin/appteka-android](https://github.com/solkin/appteka-android) - 💊 Appteka is an alternative store for Android
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [neitsab/awesome-oracle-cloud-free-tier](https://github.com/neitsab/awesome-oracle-cloud-free-tier) - Curated list of awesome resources to make the best out of Oracle Cloud Infrastructure Free Tier
@@ -1308,7 +1316,7 @@
 
 ## developer-tools 
 
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,000+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [brunos3d/discord-enable-devtools](https://github.com/brunos3d/discord-enable-devtools) - 🚀 zx - Bring your Discord's devtools back to life (again)
 - [robertpsoane/ducker](https://github.com/robertpsoane/ducker) - A slightly quackers Docker TUI based on k9s 🦆
@@ -2115,7 +2123,6 @@
 - [J-D-K/JKSV](https://github.com/J-D-K/JKSV) - JK's Save Manager Switch Edition
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
-- [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 
 ## html 
 
@@ -2367,6 +2374,7 @@
 ## kotlin 
 
 - [hxreborn/playstore-adblock](https://github.com/hxreborn/playstore-adblock) - Xposed module to remove sponsored listings and ads from the Google Play Store
+- [Riteshp2001/mpvRx](https://github.com/Riteshp2001/mpvRx) - The most Powerful, Efficient + Feature-packed media player fork you’ll find anywhere.
 - [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) - A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt
 - [GeorgeClensy/Escape-Launcher](https://github.com/GeorgeClensy/Escape-Launcher) - A minimalist android launcher to help you quit your phone addiction
 - [CodeWorksCreativeHub/mLauncher](https://github.com/CodeWorksCreativeHub/mLauncher) - Minimal Launcher app for Android. Customized olauncher as I just started learning kotlin .
@@ -2763,7 +2771,6 @@
 - [mesquidar/ForensicsTools](https://github.com/mesquidar/ForensicsTools) - A list of free and open forensics analysis tools and other resources
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
-- [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
 - [PinNaCode/magiskboot_build](https://github.com/PinNaCode/magiskboot_build) - unofficial magiskboot build system (and port) targeting multi-platform (does not require NDK)
@@ -2839,7 +2846,7 @@
 ## mcp 
 
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - [CyberChef-MCP] Model Context Protocol Server for CyberChef ... exposing GCHQ's "Cyber Swiss Army Knife" as 463+ executable AI agent tools spanning encryption, encoding, compression, and forensic data
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,000+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mukul975/cve-mcp-server](https://github.com/mukul975/cve-mcp-server) - Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more.
 - [LayeSec006/pentest-mcp-server](https://github.com/LayeSec006/pentest-mcp-server) - MCP server for penetration testing
@@ -2892,7 +2899,7 @@
 
 ## mobile 
 
-- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode, PI, Oh My Pi (OMP) and Claude Code supported
+- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode, PI, Oh My Pi (OMP), Claude Code and Codex CLI supported
 - [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, 
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [Coldblackice/ReVancedXposed_Spotify](https://github.com/Coldblackice/ReVancedXposed_Spotify) - ReVanced LSPosed module for Spotify
@@ -3116,6 +3123,7 @@
 
 ## openai 
 
+- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode, PI, Oh My Pi (OMP), Claude Code and Codex CLI supported
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [symgraph/BinAssist](https://github.com/symgraph/BinAssist) - Binary Ninja plugin to provide LLM assistance analyzing binaries.
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
@@ -3185,6 +3193,17 @@
 
 ## others 
 
+- [VD171/VD-Infos](https://github.com/VD171/VD-Infos) - The VD Infos app reads several of these details and information to show you an example of what can be captured from your device in use.​ A.k.a VDInfos, VDInfo, VD Info.
+- [capntrips/BootControl](https://github.com/capntrips/BootControl) - Boot Control is an Android app that toggles the active boot slot.
+- [Nonta72/nothing-spacewar](https://github.com/Nonta72/nothing-spacewar) - 
+- [xoreaxeaxeax/REpsych](https://github.com/xoreaxeaxeax/REpsych) - Psychological warfare in reverse engineering
+- [Nonta72/kali-spacewar](https://github.com/Nonta72/kali-spacewar) - Kali Linux Phosh for Nothing Phone (1)
+- [OnyxZygisk/OnyxZygisk](https://github.com/OnyxZygisk/OnyxZygisk) - Zygote injection via ptrace - Zygisk API for APatch/KernelSU/Magisk, with FN (Functional Node) modules and a webroot WebUI
+- [Systemless-DeBloaters/Systemless_DeGoogler](https://github.com/Systemless-DeBloaters/Systemless_DeGoogler) - DeGoogle your phone without any risk and hassle!
+- [ang3lo-azevedo/root-detection-app-collection](https://github.com/ang3lo-azevedo/root-detection-app-collection) - A collection of Android apps that detect root, Xposed, ROM status, bootloader state, SafetyNet, and Play Integrity.
+- [byxiaorun/Ruru](https://github.com/byxiaorun/Ruru) - An android sample app of detecting suspicious apps like magisk manager
+- [unique-error/root-detection-app-collection](https://github.com/unique-error/root-detection-app-collection) - A collection of Android apps that detect root, Xposed, ROM status, bootloader state, SafetyNet, and Play Integrity.
+- [VD171/COPG-VD](https://github.com/VD171/COPG-VD) - COPG-VD is a module designed for global device spoofing. This means even system apps and the whole device will be hooked.
 - [NopeCHALLC/nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension) - Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.
 - [denful/den](https://github.com/denful/den) - Aspect-oriented, context-driven Nix configurations.
 - [NaGaa95/angrybirdsjourney_nx](https://github.com/NaGaa95/angrybirdsjourney_nx) - Port of Angry Birds Journey for Switch.
@@ -3213,7 +3232,6 @@
 - [alex193a/Root-My-Pixel-Payloads](https://github.com/alex193a/Root-My-Pixel-Payloads) - Exploit payloads for Root My Pixel
 - [alex193a/Root-My-Pixel](https://github.com/alex193a/Root-My-Pixel) - Jailbreak supported Google Pixel phones with CVE-2026-43499
 - [kurdishhacker2147/ReWaEnhancer-X-Pro](https://github.com/kurdishhacker2147/ReWaEnhancer-X-Pro) - ReWaEnhancer X Pro is the most advanced and powerful mod that transforms WhatsApp into a true premium experience. ReWaEnhancer X Pro activates all Pro features for free, completely unlocked and unlice
-- [ang3lo-azevedo/ghostlock-nothing](https://github.com/ang3lo-azevedo/ghostlock-nothing) - GhostLock CVE-2026-43499 exploit for Nothing Phone (1) (Spacewar, SM7325, kernel 5.4). Fork of ghostlock-oneplus.
 - [Qutaiba-Khader/RecentAppsTV](https://github.com/Qutaiba-Khader/RecentAppsTV) - Recent Apps overlay for Android TV / Google TV (Shizuku-powered) — D-pad recents switcher with swipe-to-dismiss, kill-all, context menu, themeable. Jetpack Compose for TV.
 - [Teslow/awesome-shizuku-apps](https://github.com/Teslow/awesome-shizuku-apps) - Curated list of awesome Android apps making use of Shizuku
 - [JingMatrix/LSPlant](https://github.com/JingMatrix/LSPlant) - A hook framework for Android Runtime (ART)
@@ -3314,7 +3332,6 @@
 - [amagovpt/autenticacao.gov](https://github.com/amagovpt/autenticacao.gov) - Middleware Oficial de Identificação Eletrónica em Portugal - Cartão de Cidadão, da Chave Móvel Digital e Sistema de Certificação de atributos profissionais
 - [0x8e5afe/pwnsheet](https://github.com/0x8e5afe/pwnsheet) - Smarter pentesting cheatsheets that turn Markdown notes into an interactive workspace with dynamic commands, phase-based workflows, and local progress tracking.
 - [ReversecLabs/damn-vulnerable-llm-agent](https://github.com/ReversecLabs/damn-vulnerable-llm-agent) - 
-- [Riteshp2001/mpvRx](https://github.com/Riteshp2001/mpvRx) - The most Powerful, Efficient + Feature-packed media player fork you’ll find anywhere.
 - [modgames44/HiperVisor-Denuvo](https://github.com/modgames44/HiperVisor-Denuvo) - programa para desactivar y revertir hipervisor denuvo
 - [NaGaa95/bully_nx](https://github.com/NaGaa95/bully_nx) - Nintendo Switch port of https://github.com/TheOfficialFloW/bully_vita
 - [NaGaa95/NX-Pro-Pack](https://github.com/NaGaa95/NX-Pro-Pack) - Complete Homebrew / Tools - distribution for Switch
@@ -3648,7 +3665,7 @@
 - [afsc19/email-resender](https://github.com/afsc19/email-resender) - A Cloudflare Worker script that acts as an email proxy to send emails from your custom domain at ease.
 - [Kikols17/Kutils](https://github.com/Kikols17/Kutils) - 
 - [Siegema/nix-steam](https://github.com/Siegema/nix-steam) - Nix Steam System
-- [different-name/steam-config-nix](https://github.com/different-name/steam-config-nix) - Declaratively manage Steam and its apps through your NixOS or Home Manager config
+- [different-name/steam-config-nix](https://github.com/different-name/steam-config-nix) - Declaratively manage Steam and your apps on NixOS or Home Manager
 - [NuvioMedia/NuvioWeb](https://github.com/NuvioMedia/NuvioWeb) - Official Nuvio WebOS, TizenOS Repository
 - [NuvioMedia/NuvioTV](https://github.com/NuvioMedia/NuvioTV) - Official Nuvio Android TV Repository
 - [andrewrabert/jellium-desktop](https://github.com/andrewrabert/jellium-desktop) - An unofficial desktop client for Jellyfin
@@ -5189,7 +5206,6 @@
 - [nikstur/lon](https://github.com/nikstur/lon) - Lock & update Nix dependencies
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
-- [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 - [excalibur1234/pacui](https://github.com/excalibur1234/pacui) - Bash script providing advanced Pacman and Yay/Pikaur/Aurman/Pakku/Trizen/Pacaur/Pamac-cli functionality in a simple UI
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 
@@ -5575,7 +5591,7 @@
 
 ## react 
 
-- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode, PI, Oh My Pi (OMP) and Claude Code supported
+- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode, PI, Oh My Pi (OMP), Claude Code and Codex CLI supported
 - [Criador-Horarios/Criador-Horarios](https://github.com/Criador-Horarios/Criador-Horarios) - Ferramenta para criar horários.
 - [walterlow/freecut](https://github.com/walterlow/freecut) - FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, re
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
@@ -5712,6 +5728,8 @@
 
 ## rust 
 
+- [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio) - A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
+- [Enginex0/UsbMassStorage](https://github.com/Enginex0/UsbMassStorage) - 💾 Turn your phone into a USB drive · USB Mass Storage gadget controller · KernelSU / Magisk / APatch
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
 - [WithSecureLabs/chainsaw](https://github.com/WithSecureLabs/chainsaw) - Rapidly Search and Hunt through Windows Forensic Artefacts
@@ -5746,7 +5764,6 @@
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [ow-mods/ow-mod-man](https://github.com/ow-mods/ow-mod-man) - The mod manager for the Outer Wilds Mod Loader
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
-- [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Safety guardrails for ai coding agents and human terminal commands
@@ -6149,7 +6166,7 @@
 
 - [nunziopostdoctoral988/ats-resume-checker](https://github.com/nunziopostdoctoral988/ats-resume-checker) - Analyze resumes against ATS requirements using a local, transparent tool that runs entirely in your browser.
 - [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ All-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
-- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode, PI, Oh My Pi (OMP) and Claude Code supported
+- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Companion app to control coding-agent harnesses from phone or desktop — OpenCode, PI, Oh My Pi (OMP), Claude Code and Codex CLI supported
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [astashov/liftosaur](https://github.com/astashov/liftosaur) - Weightlifting tracker app for coders
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
@@ -6265,6 +6282,7 @@
 
 ## video 
 
+- [Riteshp2001/mpvRx](https://github.com/Riteshp2001/mpvRx) - The most Powerful, Efficient + Feature-packed media player fork you’ll find anywhere.
 - [EdvinNilsson/ffmpeg_encoder_plugin](https://github.com/EdvinNilsson/ffmpeg_encoder_plugin) - FFmpeg Encoder Plugin for DaVinci Resolve Studio
 - [Helandy/Kemonos](https://github.com/Helandy/Kemonos) - Unofficial Android client for kemono and coomer
 - [edenaion/EZ-CorridorKey](https://github.com/edenaion/EZ-CorridorKey) - Free CorridorKey GUI. Turn Corridor Digital's AI keyer into a full desktop app: real-time viewer, job queue, EXR/ProRes/PNG-alpha export. Windows, macOS, Linux. Built by EZSCAPE.
