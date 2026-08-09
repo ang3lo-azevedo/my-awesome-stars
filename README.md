@@ -293,7 +293,7 @@
 ## agent 
 
 - [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, 
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Safety guardrails for ai coding agents and human terminal commands
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
@@ -379,6 +379,10 @@
 
 ## android 
 
+- [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) - Morphe Patches
+- [herzhenr/spic-android](https://github.com/herzhenr/spic-android) - A Simple Play Integrity Checker which uses Google Play Integrity API to check the Integrity of the Device
+- [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS) - A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty
+- [LivingWithHippos/unchained-android](https://github.com/LivingWithHippos/unchained-android) - App to interact with real-debrid API
 - [ang3lo-azevedo/detection](https://github.com/ang3lo-azevedo/detection) - Collection of Various Root Detection Apps for Android
 - [solkin/appteka-android](https://github.com/solkin/appteka-android) - 💊 Appteka is an alternative store for Android
 - [skidworks-openengineering/SimpleBoot](https://github.com/skidworks-openengineering/SimpleBoot) - SimpleBoot [BETA] - Turn your rooted Android phone into a bootable USB drive. Mount and boot ISOs via ConfigFS, legacy, or loopback – no PC needed.
@@ -456,7 +460,7 @@
 - [rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE) - BRENE - A SuSFS/KernelSU module for SuSFS patched kernels
 - [rajmani7584/Payload-Dumper-Android](https://github.com/rajmani7584/Payload-Dumper-Android) - Payload Dumper App for Android. Extract boot.img or any other partitions (images) from OTA.zip or payload.bin without PC
 - [ang3lo-azevedo/android_hardware_nothing](https://github.com/ang3lo-azevedo/android_hardware_nothing) - Hardware abstraction for Nothing Phone (1): NGlyphs glyph LED, goodix fingerprint HAL, NtOnlineConfig stub. Based on DaViDev985 + StudioKeys-Dumps + kleidione
-- [ang3lo-azevedo/android_kernel_nothing_sm7325](https://github.com/ang3lo-azevedo/android_kernel_nothing_sm7325) - Linux 5.4.302 kernel for Nothing Phone (1) with KSU-SUSFS, NetHunter, NoMount, MPTCP, USB gadgets
+- [ang3lo-azevedo/android_kernel_nothing_sm7325](https://github.com/ang3lo-azevedo/android_kernel_nothing_sm7325) - Linux 5.4.302 kernel for Nothing Phone (1) with KSU-SUSFS, NetHunter, NoMount, Droidspaces/Docker, MPTCP, full cone NAT
 - [TheROMMER/core](https://github.com/TheROMMER/core) - A powerful tool designed to customize Android ROM ZIP files without building from source.
 - [Nandanrmenon/florid](https://github.com/Nandanrmenon/florid) - F-Droid Client
 - [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
@@ -1115,7 +1119,7 @@
 
 ## cms 
 
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Leading Git-based headless CMS. Successor to Netlify/Decap CMS. Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Leading Git-based headless CMS. Successor to Netlify/Decap CMS. Modern UX, first-class i18n support, mobile support + numerous improvements. Hundreds of real-world examples. Framework-agnostic, open s
 
 ## code-quality 
 
@@ -1238,7 +1242,6 @@
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
 - [otter-sec/rctf](https://github.com/otter-sec/rctf) - rCTF is a platform for hosting cybersecurity capture-the-flag competitions.
 - [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, tools and other resources
-- [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - bgscan is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - [CyberChef-MCP] Model Context Protocol Server for CyberChef ... exposing GCHQ's "Cyber Swiss Army Knife" as 463+ executable AI agent tools spanning encryption, encoding, compression, and forensic data
 - [SuperAB123/Free-Official-Youtube-Content](https://github.com/SuperAB123/Free-Official-Youtube-Content) - Awesome list of Official YouTube Channels offering Free Official Content like Movies, Anime, Cartoons, Documentaries, TV Shows, Sports, VFX Breakdown
@@ -1396,6 +1399,7 @@
 
 ## docker 
 
+- [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS) - A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty
 - [aceberg/unbox](https://github.com/aceberg/unbox) - CLI tool for sing-box: keep alive, auto switch. Convert URLs to sing-box config. Deduplicate. Remove unreachable servers
 - [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ All-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
@@ -1415,6 +1419,7 @@
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [brannondorsey/mitm-router](https://github.com/brannondorsey/mitm-router) - ☠ Man-in-the-middle wireless access point inside a docker container 🐳
 - [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
+- [ang3lo-azevedo/android_kernel_nothing_sm7325](https://github.com/ang3lo-azevedo/android_kernel_nothing_sm7325) - Linux 5.4.302 kernel for Nothing Phone (1) with KSU-SUSFS, NetHunter, NoMount, Droidspaces/Docker, MPTCP, full cone NAT
 - [ifd3f/infra](https://github.com/ifd3f/infra) - Personal cloud, dotfiles, and configurations omnirepo
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
@@ -1439,7 +1444,7 @@
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
 - [tsaridas/stremio-docker](https://github.com/tsaridas/stremio-docker) - Docker files for easy stremio server and client. Images pushed to Dockerhub
 - [TeamPiped/Piped-Backend](https://github.com/TeamPiped/Piped-Backend) - The core component behind Piped, and other alternative frontends!
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -1811,13 +1816,12 @@
 
 ## github-api 
 
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Leading Git-based headless CMS. Successor to Netlify/Decap CMS. Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Leading Git-based headless CMS. Successor to Netlify/Decap CMS. Modern UX, first-class i18n support, mobile support + numerous improvements. Hundreds of real-world examples. Framework-agnostic, open s
 
 ## go 
 
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [mainlink0435/warpbox](https://github.com/mainlink0435/warpbox) - A high-performance WebDAV proxy for TorBox
-- [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - bgscan is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
@@ -1847,7 +1851,6 @@
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [mainlink0435/warpbox](https://github.com/mainlink0435/warpbox) - A high-performance WebDAV proxy for TorBox
 - [aceberg/unbox](https://github.com/aceberg/unbox) - CLI tool for sing-box: keep alive, auto switch. Convert URLs to sing-box config. Deduplicate. Remove unreachable servers
-- [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - bgscan is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [calico32/nirilayout](https://github.com/calico32/nirilayout) - niri monitor layout switcher
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
@@ -1981,6 +1984,7 @@
 
 ## hacktoberfest 
 
+- [LivingWithHippos/unchained-android](https://github.com/LivingWithHippos/unchained-android) - App to interact with real-debrid API
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -2320,6 +2324,7 @@
 
 ## jetpack-compose 
 
+- [herzhenr/spic-android](https://github.com/herzhenr/spic-android) - A Simple Play Integrity Checker which uses Google Play Integrity API to check the Integrity of the Device
 - [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) - A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt
 - [LibreFitOrg/LibreFit](https://github.com/LibreFitOrg/LibreFit) - The free and private workout tracker
 - [GeorgeClensy/Escape-Launcher](https://github.com/GeorgeClensy/Escape-Launcher) - A minimalist android launcher to help you quit your phone addiction
@@ -2373,6 +2378,8 @@
 
 ## kotlin 
 
+- [herzhenr/spic-android](https://github.com/herzhenr/spic-android) - A Simple Play Integrity Checker which uses Google Play Integrity API to check the Integrity of the Device
+- [LivingWithHippos/unchained-android](https://github.com/LivingWithHippos/unchained-android) - App to interact with real-debrid API
 - [hxreborn/playstore-adblock](https://github.com/hxreborn/playstore-adblock) - Xposed module to remove sponsored listings and ads from the Google Play Store
 - [Riteshp2001/mpvRx](https://github.com/Riteshp2001/mpvRx) - The most Powerful, Efficient + Feature-packed media player fork you’ll find anywhere.
 - [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) - A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt
@@ -2588,7 +2595,7 @@
 - [ang3lo-azevedo/dotfiles](https://github.com/ang3lo-azevedo/dotfiles) - My personal dotfiles
 - [calamares/calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
 - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
@@ -3193,6 +3200,19 @@
 
 ## others 
 
+- [ang3lo-azevedo/morphe-patches](https://github.com/ang3lo-azevedo/morphe-patches) - My own version of Morphe Patches - Android app patching framework
+- [srozb/anypwn](https://github.com/srozb/anypwn) - Pwn any Anyconnect (except those patched).
+- [rushiranpise/morphe-patches](https://github.com/rushiranpise/morphe-patches) - Morphe patches I use and maintain in my spare time. Please report bugs and request patches via GitHub.
+- [sixstrings/morphe-builder](https://github.com/sixstrings/morphe-builder) - A Magisk/KernelSU module builder for Morphe modules. Builds also APKs. Updated several times daily.
+- [Avangelista/CarTube](https://github.com/Avangelista/CarTube) - YouTube on CarPlay, supports devices iOS 14.0 - 15.4.1.
+- [jqssun/android-titanium-browser](https://github.com/jqssun/android-titanium-browser) - Secure open-source Android browser with support for extensions
+- [Enginex0/TEESimulator-RS](https://github.com/Enginex0/TEESimulator-RS) - Software simulation for Android hardware-backed key pairs with key attestation | https://t.me/superpowers9
+- [samueldr/mobile-nixos-extra-devices](https://github.com/samueldr/mobile-nixos-extra-devices) - Extra devices for Mobile NixOS — Everything here is experimental, and probably not the best way to use the devices.
+- [vanilla-mobile-nixos/vanilla-mobile-nixos](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos) - Run standard NixOS on your mobile devices!
+- [0xKyran/nixos-mobile](https://github.com/0xKyran/nixos-mobile) - 
+- [liongalahad/nuviotv-morphe-patches](https://github.com/liongalahad/nuviotv-morphe-patches) - Prerelease Morphe patches for the official NuvioTV Android application
+- [ExTV/nethunter-spacewar](https://github.com/ExTV/nethunter-spacewar) - Kali NetHunter Magisk module for Nothing Phone 1 (Spacewar)
+- [roieeedouek/unboxed-android](https://github.com/roieeedouek/unboxed-android) - App to interact with torbox API
 - [VD171/VD-Infos](https://github.com/VD171/VD-Infos) - The VD Infos app reads several of these details and information to show you an example of what can be captured from your device in use.​ A.k.a VDInfos, VDInfo, VD Info.
 - [capntrips/BootControl](https://github.com/capntrips/BootControl) - Boot Control is an Android app that toggles the active boot slot.
 - [Nonta72/nothing-spacewar](https://github.com/Nonta72/nothing-spacewar) - 
@@ -3957,7 +3977,6 @@
 - [smrth097/proprietary_vendor_nothing_Spacewar](https://github.com/smrth097/proprietary_vendor_nothing_Spacewar) - Vendor Tree for Nothing Phone (1)
 - [luyanci/Android-Builder](https://github.com/luyanci/Android-Builder) - Automaticcaly build android kernel by github actions.
 - [Mrjam22/vmware-vmmon-vmnet-linux-6.18.x](https://github.com/Mrjam22/vmware-vmmon-vmnet-linux-6.18.x) - VMware Workstation modules patches for Linux kernel 6.18.x
-- [aarshps/varisankya-android](https://github.com/aarshps/varisankya-android) - [Archived] Merged into the monorepo → github.com/aarshps/varisankya (see android/). History preserved there.
 - [elliotttate/OpenXR-Simulator](https://github.com/elliotttate/OpenXR-Simulator) - A lightweight OpenXR runtime for desktop VR preview without physical headset
 - [VoltageOS/vendor_voltage](https://github.com/VoltageOS/vendor_voltage) - 
 - [smrth097/android_device_nothing_Spacewar](https://github.com/smrth097/android_device_nothing_Spacewar) - Device Tree for Nothing Phone (1)
@@ -3969,7 +3988,7 @@
 - [stefancruz/grayjay-plugin-preservetube](https://github.com/stefancruz/grayjay-plugin-preservetube) - 
 - [webosbrew/webos-homebrew-channel](https://github.com/webosbrew/webos-homebrew-channel) - Unofficial webOS TV homebrew store and root-related tooling
 - [Garfield1002/pico-ducky-3.0](https://github.com/Garfield1002/pico-ducky-3.0) - Create a USB Rubber Ducky 3.0 like device using a Raspberry PI Pico
-- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) - Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  PublicMetaDB, AniList, TMDb, MDBlist, Nuvio, Kodi and more. Keep your movies and shows in sync, no matter where you watch.
+- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) - Synchronize your data across media servers, media agents and trackers. Keep your movies and shows in sync, no matter where you watch.
 - [msanft/ida-pro-overlay](https://github.com/msanft/ida-pro-overlay) - Nix flake for IDA Pro
 - [NixOS/nix-idea](https://github.com/NixOS/nix-idea) - Nix plugin for the IntelliJ IDEA IDE
 - [rodrig20/hyprdots](https://github.com/rodrig20/hyprdots) - Usability-first dotfiles with a corporate-ish-level cleanliness
@@ -5997,7 +6016,7 @@
 ## svelte 
 
 - [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ All-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Leading Git-based headless CMS. Successor to Netlify/Decap CMS. Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Leading Git-based headless CMS. Successor to Netlify/Decap CMS. Modern UX, first-class i18n support, mobile support + numerous improvements. Hundreds of real-world examples. Framework-agnostic, open s
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [Raphiiko/OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - 🥽 VR Sleeping Utilities
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
@@ -6255,6 +6274,7 @@
 
 ## userscript 
 
+- [xob0t/Google-Photos-Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Userscript to filter, search, organize, or delete your Google Photos library
 - [Fenn3c401/Trakt.tv-Userscript-Collection](https://github.com/Fenn3c401/Trakt.tv-Userscript-Collection) - An extensive userscript collection for trakt.tv.
 - [Jipok/website-to-apk](https://github.com/Jipok/website-to-apk) - Easy create Android app for website. Wrapper for WebView with userscripts
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
@@ -6541,6 +6561,7 @@
 
 ## youtube 
 
+- [nullcpy/rvb](https://github.com/nullcpy/rvb) - Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...
 - [SuperAB123/Free-Official-Youtube-Content](https://github.com/SuperAB123/Free-Official-Youtube-Content) - Awesome list of Official YouTube Channels offering Free Official Content like Movies, Anime, Cartoons, Documentaries, TV Shows, Sports, VFX Breakdown
 - [rawnaldclark/Stash](https://github.com/rawnaldclark/Stash) - Your Spotify + YouTube Music library & daily mixes. Stream or download in lossless FLAC. Free and open source forever.
 - [pritkr/predirect](https://github.com/pritkr/predirect) - A manifest v3 web extension with minimal permissions to automatically redirect to privacy friendly frontends. ⭐️ Star to support our work!
