@@ -379,6 +379,7 @@
 
 ## android 
 
+- [xprateek/AOSPGenKeyBox](https://github.com/xprateek/AOSPGenKeyBox) - Generates Android Keystore attestation keyboxes with proper CA hierarchy and ASN.1 KeyDescription extension.   (OID 1.3.6.1.4.1.11129.2.1.17)
 - [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) - Morphe Patches
 - [herzhenr/spic-android](https://github.com/herzhenr/spic-android) - A Simple Play Integrity Checker which uses Google Play Integrity API to check the Integrity of the Device
 - [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS) - A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty
@@ -452,15 +453,15 @@
 - [zapstore/zapstore](https://github.com/zapstore/zapstore) - The open app store
 - [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools and mods for Android nerds
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
-- [ang3lo-azevedo/voltageos-spacewar](https://github.com/ang3lo-azevedo/voltageos-spacewar) - Local manifest and tutorial for building VoltageOS on Nothing Phone (1) (Spacewar)
+- [ang3lo-azevedo/voltageos-spacewar](https://github.com/ang3lo-azevedo/voltageos-spacewar) - Manifest and tutorial for building VoltageOS on Nothing Phone (1) (Spacewar)
 - [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smal
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
 - [rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE) - BRENE - A SuSFS/KernelSU module for SuSFS patched kernels
 - [rajmani7584/Payload-Dumper-Android](https://github.com/rajmani7584/Payload-Dumper-Android) - Payload Dumper App for Android. Extract boot.img or any other partitions (images) from OTA.zip or payload.bin without PC
-- [ang3lo-azevedo/android_hardware_nothing](https://github.com/ang3lo-azevedo/android_hardware_nothing) - Hardware abstraction for Nothing Phone (1): NGlyphs glyph LED, goodix fingerprint HAL, NtOnlineConfig stub. Based on DaViDev985 + StudioKeys-Dumps + kleidione
-- [ang3lo-azevedo/android_kernel_nothing_sm7325](https://github.com/ang3lo-azevedo/android_kernel_nothing_sm7325) - Linux 5.4.302 kernel for Nothing Phone (1) with KSU-SUSFS, NetHunter, NoMount, Droidspaces/Docker, MPTCP, full cone NAT
+- [ang3lo-azevedo/android_hardware_nothing](https://github.com/ang3lo-azevedo/android_hardware_nothing) - Hardware abstraction for Nothing Phone (1): NGlyphs glyph LED, goodix fingerprint HAL, NtOnlineConfig stub
+- [ang3lo-azevedo/android_kernel_nothing_sm7325](https://github.com/ang3lo-azevedo/android_kernel_nothing_sm7325) - Linux 5.4.302 kernel for Nothing Phone (1) with KSU-SUSFS, NetHunter, NoMount, Droidspaces, full cone NAT
 - [TheROMMER/core](https://github.com/TheROMMER/core) - A powerful tool designed to customize Android ROM ZIP files without building from source.
 - [Nandanrmenon/florid](https://github.com/Nandanrmenon/florid) - F-Droid Client
 - [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
@@ -801,7 +802,7 @@
 - [m0nad/awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation) - A curated list of awesome privilege escalation
 - [QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes) - 🐱‍🏍 A curated list of awesome things related to Hugo themes.
 - [neitsab/awesome-oracle-cloud-free-tier](https://github.com/neitsab/awesome-oracle-cloud-free-tier) - Curated list of awesome resources to make the best out of Oracle Cloud Infrastructure Free Tier
-- [ZG089/Re-Malwack](https://github.com/ZG089/Re-Malwack) - A fully-fledged ad-block module. Contains all your needs ✨
+- [ZG089/Re-Malwack](https://github.com/ZG089/Re-Malwack) - A fully-fledged adblock root/no-root suite. Contains all your needs ✨
 - [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) - An Awesome List for getting started with web archiving
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
@@ -1419,7 +1420,7 @@
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [brannondorsey/mitm-router](https://github.com/brannondorsey/mitm-router) - ☠ Man-in-the-middle wireless access point inside a docker container 🐳
 - [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
-- [ang3lo-azevedo/android_kernel_nothing_sm7325](https://github.com/ang3lo-azevedo/android_kernel_nothing_sm7325) - Linux 5.4.302 kernel for Nothing Phone (1) with KSU-SUSFS, NetHunter, NoMount, Droidspaces/Docker, MPTCP, full cone NAT
+- [ang3lo-azevedo/android_kernel_nothing_sm7325](https://github.com/ang3lo-azevedo/android_kernel_nothing_sm7325) - Linux 5.4.302 kernel for Nothing Phone (1) with KSU-SUSFS, NetHunter, NoMount, Droidspaces, full cone NAT
 - [ifd3f/infra](https://github.com/ifd3f/infra) - Personal cloud, dotfiles, and configurations omnirepo
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
@@ -2799,7 +2800,6 @@
 
 ## malware 
 
-- [hagezi/dns-servers](https://github.com/hagezi/dns-servers) - HaGeZi DNS: Free, Non-Commercial EU Public DNS Servers
 - [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd blocklist
 - [aw-junaid/Hacking-Tools](https://github.com/aw-junaid/Hacking-Tools) - This Repository is a collection of different ethical hacking tools and malware's for penetration testing and research purpose written in python, ruby, rust, c++, go and c.
 - [mandiant/flare-floss](https://github.com/mandiant/flare-floss) - FLARE Obfuscated String Solver - Automatically extract obfuscated strings from malware.
@@ -3200,6 +3200,17 @@
 
 ## others 
 
+- [jqssun/android-titanium-extension](https://github.com/jqssun/android-titanium-extension) - Open-source extension for Chromium browsers to support Android download managers, installing from Opera and Edge Addons, and other advanced privacy enhancements
+- [maxsteeel/rvmm-nomount](https://github.com/maxsteeel/rvmm-nomount) - Inject the rvmm (ReVanced) modules using NoMount, eliminating traditional mounts (for revanced-magisk-module).
+- [finix-community/finix](https://github.com/finix-community/finix) - A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space
+- [meridianfresco/morphe-meta-patches](https://github.com/meridianfresco/morphe-meta-patches) - Patches for Morphe Meta apps
+- [facebookincubator/oculus-linux-kernel](https://github.com/facebookincubator/oculus-linux-kernel) - The Linux kernel code for Oculus devices
+- [matthewgage2016-blip/IonStackQuest3](https://github.com/matthewgage2016-blip/IonStackQuest3) - IonStack for Meta Quest3/3S
+- [artemy5729-afk/IonStackQuest3](https://github.com/artemy5729-afk/IonStackQuest3) - IonStack for Meta Quest3/3S
+- [yanoo1222/yanoo1222.github.io](https://github.com/yanoo1222/yanoo1222.github.io) - IonStack-gen for Meta Quest3
+- [thatthundaguy/IonStackQuest2](https://github.com/thatthundaguy/IonStackQuest2) - (THIS WILL BE UPDATED SO IT WORKS PROPERLY)
+- [F-19-F/IonStackQuest3](https://github.com/F-19-F/IonStackQuest3) - IonStack for Meta Quest3/3S
+- [sarabpal-dev/IonStack-S22U](https://github.com/sarabpal-dev/IonStack-S22U) - 
 - [ang3lo-azevedo/morphe-patches](https://github.com/ang3lo-azevedo/morphe-patches) - My own version of Morphe Patches - Android app patching framework
 - [srozb/anypwn](https://github.com/srozb/anypwn) - Pwn any Anyconnect (except those patched).
 - [rushiranpise/morphe-patches](https://github.com/rushiranpise/morphe-patches) - Morphe patches I use and maintain in my spare time. Please report bugs and request patches via GitHub.
@@ -3355,7 +3366,7 @@
 - [modgames44/HiperVisor-Denuvo](https://github.com/modgames44/HiperVisor-Denuvo) - programa para desactivar y revertir hipervisor denuvo
 - [NaGaa95/bully_nx](https://github.com/NaGaa95/bully_nx) - Nintendo Switch port of https://github.com/TheOfficialFloW/bully_vita
 - [NaGaa95/NX-Pro-Pack](https://github.com/NaGaa95/NX-Pro-Pack) - Complete Homebrew / Tools - distribution for Switch
-- [NaGaa95/lswtcs_nx](https://github.com/NaGaa95/lswtcs_nx) - Loader of Lego Star Wars: The Complete Saga Android that allows to run it on a Switch.
+- [NaGaa95/lswtcs_nx](https://github.com/NaGaa95/lswtcs_nx) - Port of Lego Star Wars: The Complete Saga for Switch.
 - [NaGaa95/gtasa_nx](https://github.com/NaGaa95/gtasa_nx) - Port of GTA San Andreas for Switch.
 - [NaGaa95/hl2_nx](https://github.com/NaGaa95/hl2_nx) - Port of Half Life 2 for Switch.
 - [NaGaa95/hekate-pro](https://github.com/NaGaa95/hekate-pro) - hekate - A GUI based Nintendo Switch Bootloader
@@ -3913,7 +3924,7 @@
 - [Pong-Development/packages_apps_ParanoidGlyph](https://github.com/Pong-Development/packages_apps_ParanoidGlyph) - packages/apps/ParanoidGlyph
 - [smrth097/packages_apps_ParanoidGlyph](https://github.com/smrth097/packages_apps_ParanoidGlyph) - packages/apps/ParanoidGlyph
 - [smrth097/hardware_dolby](https://github.com/smrth097/hardware_dolby) - 
-- [ang3lo-azevedo/android_device_nothing_Spacewar](https://github.com/ang3lo-azevedo/android_device_nothing_Spacewar) - Device tree for Nothing Phone (1) for VoltageOS 5.11. Merges kleidione, DaViDev985, smrth097, crDroid, halogenOS, StudioKeys-Dumps: NGlyphs, Nothing Camera, Google Camera, Dolby, perf init, IRQ balanc
+- [ang3lo-azevedo/android_device_nothing_Spacewar](https://github.com/ang3lo-azevedo/android_device_nothing_Spacewar) - Device tree for Nothing Phone (1) for VoltageOS 5.11. Merges kleidione, DaViDev985, smrth097, crDroid, halogenOS, StudioKeys-Dumps: NGlyphs, Nothing Camera, Google Camera, Dolby, KSU-SUSFS kernel
 - [DaViDev985/proprietary_vendor_nothing_camera](https://github.com/DaViDev985/proprietary_vendor_nothing_camera) - 
 - [smrth097/proprietary_vendor_nothing_camera](https://github.com/smrth097/proprietary_vendor_nothing_camera) - 
 - [QCerberusQ/OFRP-device_nothing_Spacewar](https://github.com/QCerberusQ/OFRP-device_nothing_Spacewar) - 
@@ -4808,7 +4819,7 @@
 - [ad-on-is/odin-tv](https://github.com/ad-on-is/odin-tv) - 
 - [madari-media/madari-oss](https://github.com/madari-media/madari-oss) - Open source media manager
 - [debridmediamanager/debrid-media-manager](https://github.com/debridmediamanager/debrid-media-manager) - Curate an inifinite media library
-- [debridmediamanager/zurg-testing](https://github.com/debridmediamanager/zurg-testing) - A self-hosted Real-Debrid webdav server you can use with Infuse. Together with rclone it can mount your Real-Debrid torrent library into your filesystem and load it to Plex or Jellyfin.
+- [debridmediamanager/zurg-public](https://github.com/debridmediamanager/zurg-public) - A self-hosted Real-Debrid webdav server you can use with Infuse. Together with rclone it can mount your Real-Debrid torrent library into your filesystem and load it to Plex or Jellyfin.
 - [H1ddenShadow/Real-Debrid-Media-Manager](https://github.com/H1ddenShadow/Real-Debrid-Media-Manager) - 'Real Debrid Media Manager' is a project created with the intention of streamlining the process of syncing a users 'Trakt' data (movies) with their 'Real-Debrid' account as many such services primaril
 - [pojntfx/multiplex](https://github.com/pojntfx/multiplex) - Watch torrents with your friends.
 - [shobrook/wut](https://github.com/shobrook/wut) - A terminal assistant for the hopelessly confused
@@ -5281,7 +5292,6 @@
 
 ## phishing 
 
-- [hagezi/dns-servers](https://github.com/hagezi/dns-servers) - HaGeZi DNS: Free, Non-Commercial EU Public DNS Servers
 - [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd blocklist
 - [mvondracek/wifimitm](https://github.com/mvondracek/wifimitm) - Wi-Fi Machine-in-the-Middle: Automation of MitM Attack on Wi-Fi Networks
 - [htr-tech/zphisher](https://github.com/htr-tech/zphisher) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
@@ -5329,7 +5339,6 @@
 
 - [fynks/email-aliasing-comparison](https://github.com/fynks/email-aliasing-comparison) - Compare 10+ email alias services by features, pricing, security, privacy, and ease of use.
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
-- [hagezi/dns-servers](https://github.com/hagezi/dns-servers) - HaGeZi DNS: Free, Non-Commercial EU Public DNS Servers
 - [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositorie
 - [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience.
 - [F0rc3Run/F0rc3Run](https://github.com/F0rc3Run/F0rc3Run) - Free VPNs with VMess, VLESS, Shadowsocks & SSTP — powered by V2rayCollector. Bypass censorship, protect your privacy, and enjoy fast, secure, and unrestricted internet access.
@@ -5352,7 +5361,7 @@
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
-- [ZG089/Re-Malwack](https://github.com/ZG089/Re-Malwack) - A fully-fledged ad-block module. Contains all your needs ✨
+- [ZG089/Re-Malwack](https://github.com/ZG089/Re-Malwack) - A fully-fledged adblock root/no-root suite. Contains all your needs ✨
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) - :shield: Take control of your Discord experience with GoofCord – a highly configurable and privacy minded discord client.
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
@@ -5816,7 +5825,6 @@
 - [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, tools and other resources
 - [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
-- [hagezi/dns-servers](https://github.com/hagezi/dns-servers) - HaGeZi DNS: Free, Non-Commercial EU Public DNS Servers
 - [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositorie
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
