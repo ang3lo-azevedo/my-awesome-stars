@@ -379,6 +379,7 @@
 
 ## android 
 
+- [VD171/deadhand](https://github.com/VD171/deadhand) - [CATASTROPHIC] Magisk/KSU module: pressing Power 4x wipes the device (crypto-shred + factory reset). Ships disarmed and in dry-run. Fork of abootloop.
 - [cosmictaserdev-creator/Convx](https://github.com/cosmictaserdev-creator/Convx) - Convx is a free, open-source Android music player that streams from YouTube Music — reimagined with an iOS-inspired "Liquid Glass" interface. Every surface uses real backdrop blur and refraction, pair
 - [xprateek/AOSPGenKeyBox](https://github.com/xprateek/AOSPGenKeyBox) - Generates Android Keystore attestation keyboxes with proper CA hierarchy and ASN.1 KeyDescription extension.   (OID 1.3.6.1.4.1.11129.2.1.17)
 - [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) - Morphe Patches
@@ -400,7 +401,7 @@
 - [JoinChang/ghostlock-oneplus](https://github.com/JoinChang/ghostlock-oneplus) - GhostLock (CVE-2026-43499) kernel exploit for OnePlus devices with locked bootloader
 - [jasonwu1994/Gboard-patches](https://github.com/jasonwu1994/Gboard-patches) - Morphe patches for Gboard with practical upgrades for global users and Taiwan-focused enhancements.
 - [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida) - 🔐 Run frida-server on boot with Magisk, always up-to-date
-- [hxreborn/playstore-adblock](https://github.com/hxreborn/playstore-adblock) - Xposed module to remove sponsored listings and ads from the Google Play Store
+- [hxreborn/playstore-adblock](https://github.com/hxreborn/playstore-adblock) - LSPosed/Xposed module that removes ads, sponsored apps, and promoted recommendations from the Google Play Store
 - [rama-io/mako](https://github.com/rama-io/mako) - Minimal, privacy-first Android launcher designed for focus, speed, and simplicity.
 - [Riteshp2001/mpvRx](https://github.com/Riteshp2001/mpvRx) - The most Powerful, Efficient + Feature-packed media player fork you’ll find anywhere.
 - [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) - A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt
@@ -1015,6 +1016,7 @@
 
 ## chrome-extension 
 
+- [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) - ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展
 - [nunziopostdoctoral988/ats-resume-checker](https://github.com/nunziopostdoctoral988/ats-resume-checker) - Analyze resumes against ATS requirements using a local, transparent tool that runs entirely in your browser.
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
 - [FoxRefire/wvg](https://github.com/FoxRefire/wvg) - Chrome/Firefox extension for pen-testing to retrieve encryption keys of Widevine protected content !DON'T DECRYPT CONTENT UNLESS YOU HAVE THE RIGHT TO DO IT!
@@ -1401,6 +1403,7 @@
 
 ## docker 
 
+- [selmant/foreseerr](https://github.com/selmant/foreseerr) - Foreseerr — Seerr fork with in-app Trakt discovery, watched/rate actions, and multi-source ratings for Jellyfin, Plex, and Emby.
 - [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS) - A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty
 - [aceberg/unbox](https://github.com/aceberg/unbox) - CLI tool for sing-box: keep alive, auto switch. Convert URLs to sing-box config. Deduplicate. Remove unreachable servers
 - [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ All-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
@@ -1479,6 +1482,7 @@
 - [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@hsjobeki]
 - [i3months/eziwiki](https://github.com/i3months/eziwiki) - 🧩 A Markdown wiki generator built on Next.js - graph views, search
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - Free domain registration and practical DNS learning resources for everyone.
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 
@@ -1543,6 +1547,7 @@
 
 - [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
 - [otter-sec/rctf](https://github.com/otter-sec/rctf) - rCTF is a platform for hosting cybersecurity capture-the-flag competitions.
+- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - Free domain registration and practical DNS learning resources for everyone.
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
 
 ## electron 
@@ -1646,6 +1651,7 @@
 
 ## firefox 
 
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [HeitorAugustoLN/betterfox-nix](https://github.com/HeitorAugustoLN/betterfox-nix) - Home-manager module to integrate Betterfox user.js in Firefox
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
 - [petrkozorezov/firefox-addons-nix](https://github.com/petrkozorezov/firefox-addons-nix) - The daily auto updated nix pkgs repository with Firefox add-ons
@@ -2123,7 +2129,7 @@
 - [exelix11/SysDVR](https://github.com/exelix11/SysDVR) - Stream switch games to your PC via USB or network
 - [XorTroll/Plutonium](https://github.com/XorTroll/Plutonium) - Easy-to-use, SDL2-based UI framework for Nintendo Switch homebrew
 - [HamletDuFromage/aio-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater) - Update your CFW, cheat codes, firmwares and more directly from your Nintendo Switch!
-- [ITotalJustice/sphaira](https://github.com/ITotalJustice/sphaira) - A homebrew menu for the Nintendo Switch
+- [NaGaa95/sphaira](https://github.com/NaGaa95/sphaira) - A homebrew menu for the Nintendo Switch
 - [fortheusers/hb-appstore](https://github.com/fortheusers/hb-appstore) - Homebrew App Store - GUI for downloading/managing homebrew apps
 - [a1ex4/ownfoil](https://github.com/a1ex4/ownfoil) - Nintendo Switch library manager, with automated management tasks, serving your library to multiple supported clients on your Switch, with shop customization and multi user authentication.
 - [XorTroll/Goldleaf](https://github.com/XorTroll/Goldleaf) - 🍂 Multipurpose homebrew tool for Nintendo Switch
@@ -2387,7 +2393,7 @@
 - [cosmictaserdev-creator/Convx](https://github.com/cosmictaserdev-creator/Convx) - Convx is a free, open-source Android music player that streams from YouTube Music — reimagined with an iOS-inspired "Liquid Glass" interface. Every surface uses real backdrop blur and refraction, pair
 - [herzhenr/spic-android](https://github.com/herzhenr/spic-android) - A Simple Play Integrity Checker which uses Google Play Integrity API to check the Integrity of the Device
 - [LivingWithHippos/unchained-android](https://github.com/LivingWithHippos/unchained-android) - App to interact with real-debrid API
-- [hxreborn/playstore-adblock](https://github.com/hxreborn/playstore-adblock) - Xposed module to remove sponsored listings and ads from the Google Play Store
+- [hxreborn/playstore-adblock](https://github.com/hxreborn/playstore-adblock) - LSPosed/Xposed module that removes ads, sponsored apps, and promoted recommendations from the Google Play Store
 - [Riteshp2001/mpvRx](https://github.com/Riteshp2001/mpvRx) - The most Powerful, Efficient + Feature-packed media player fork you’ll find anywhere.
 - [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) - A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt
 - [GeorgeClensy/Escape-Launcher](https://github.com/GeorgeClensy/Escape-Launcher) - A minimalist android launcher to help you quit your phone addiction
@@ -3203,6 +3209,24 @@
 
 ## others 
 
+- [VoltageOS-staging/packages_apps_GmsCompat](https://github.com/VoltageOS-staging/packages_apps_GmsCompat) - 
+- [backslashxx/small_module](https://github.com/backslashxx/small_module) - 
+- [RevealedSoulEven/WAPlusXposed](https://github.com/RevealedSoulEven/WAPlusXposed) - WhatsApp Plus Unlocker using Xposed framework at runtime in Android.
+- [rushiranpise/MetaPlusXposed](https://github.com/rushiranpise/MetaPlusXposed) - Meta Plus Unlocker using Xposed framework at runtime in Android.
+- [halogenOS/android_vendor_nothing_Pong](https://github.com/halogenOS/android_vendor_nothing_Pong) - 
+- [halogenOS/android_vendor_nothing_Spacewar](https://github.com/halogenOS/android_vendor_nothing_Spacewar) - 
+- [rushiranpise/apk-download-helper](https://github.com/rushiranpise/apk-download-helper) - Standalone APK download helper for Morphe Manager
+- [shinyquagsire23/Klepton](https://github.com/shinyquagsire23/Klepton) - JIT-less relinker and compatibility layer for running Quest/Android XR APKs on visionOS and macOS
+- [Omni-guides/Tuxborn](https://github.com/Omni-guides/Tuxborn) - A Wabbajack Modlist for Skyrim SE designed with the Steam Deck in mind
+- [ronardnx/ServiceHiderZygisk](https://github.com/ronardnx/ServiceHiderZygisk) - 
+- [BaltiApps/Migrate-OSS](https://github.com/BaltiApps/Migrate-OSS) - 
+- [franticg33k/morphe-patches](https://github.com/franticg33k/morphe-patches) - 
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+- [tunneltodev/tunnelto](https://github.com/tunneltodev/tunnelto) - Expose your local web server to the internet with a public URL.
+- [erosman/firemonkey](https://github.com/erosman/firemonkey) - FireMonkey is a totally new combined user-script and user-style manager
+- [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy) - 
+- [flipphoneguy/DirtySepolicy_Bypass](https://github.com/flipphoneguy/DirtySepolicy_Bypass) - bypass new DirtySepolicy on rooted Android devices to keep apps working
+- [Magisk-Modules-Repo/ssh](https://github.com/Magisk-Modules-Repo/ssh) - ssh
 - [rrr333nnn333/Duck-Detector-Refactoring](https://github.com/rrr333nnn333/Duck-Detector-Refactoring) - Android environment integrity inspection tool for root, hook, bootloader, SELinux, virtualization, and attestation signals
 - [lyramakesmusic/neuralese-leaker](https://github.com/lyramakesmusic/neuralese-leaker) - web app for chatting with llms on openrouter with leaked unabridged reasoning
 - [MSNightmare/ShieldBreak](https://github.com/MSNightmare/ShieldBreak) - Windows Defender 0day vulnerability
@@ -4060,7 +4084,6 @@
 - [Scrumplex/nixpkgs](https://github.com/Scrumplex/nixpkgs) - Nix Packages collection
 - [talkol/spiderman](https://github.com/talkol/spiderman) - Spider-Man VR Experience
 - [SpookySkeletons/proton-rtsp](https://github.com/SpookySkeletons/proton-rtsp) - Compatibility tool for Steam Play based on Wine and additional components
-- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [kanaodnd/Stellar-Tweaks](https://github.com/kanaodnd/Stellar-Tweaks) - Performance module, focused on making the phone better, with some tweaks specifically for all types of soc. Ai-assisted module, changes modes when playing games
 - [oo8dev/wayvr-dashboard](https://github.com/oo8dev/wayvr-dashboard) - Launch your favorite desktop applications and games seamlessly within your VR environment (wlx-overlay-s addon)
 - [chaosmaou/wivrn-guide](https://github.com/chaosmaou/wivrn-guide) - A comprehensive guide to Linux VR on standalone headsets using WiVRn.
@@ -4414,7 +4437,6 @@
 - [zribe/ZMC-Web-Panel-V2](https://github.com/zribe/ZMC-Web-Panel-V2) - Unsecure, do not use.
 - [rcon-web-admin/rcon-web-admin](https://github.com/rcon-web-admin/rcon-web-admin) - Self hosted, online RCON administration tool for your game server.
 - [itzg/docker-rcon-web-admin](https://github.com/itzg/docker-rcon-web-admin) - A Docker image that runs rcon-web-admin
-- [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - AIOStreams consolidates multiple Stremio addons and debrid/usenet services - including its own suite of built-in addons and a native Usenet streaming engine - into a single, highly customisable super-
 - [mik25/OMG-Premium-TV](https://github.com/mik25/OMG-Premium-TV) - OMG Premium TV (Stremio Addon)
 - [etrigan63/wofi-nordvpn](https://github.com/etrigan63/wofi-nordvpn) - Port of rofi-nordvpn to wofi
 - [HarHarLinks/wireguard-rofi-waybar](https://github.com/HarHarLinks/wireguard-rofi-waybar) - Plugin for Waybar and rofi to use NetworkManager's WireGuard capabilities
@@ -5302,6 +5324,7 @@
 - [LayeSec006/pentest-mcp-server](https://github.com/LayeSec006/pentest-mcp-server) - MCP server for penetration testing
 - [DMontgomery40/pentest-mcp](https://github.com/DMontgomery40/pentest-mcp) - NOT for educational purposes: An MCP server for professional penetration testers including STDIO/HTTP/SSE support, nmap, go/dirbuster, nikto, JtR, hashcat, wordlist building, and more.
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
+- [GhostESP-Revival/GhostESP](https://github.com/GhostESP-Revival/GhostESP) - The open-source wireless research platform for ESP32.
 - [ndelphit/apkurlgrep](https://github.com/ndelphit/apkurlgrep) - Extract endpoints from APK files
 - [m0nad/awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation) - A curated list of awesome privilege escalation
 - [m0nad/Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64)
@@ -5731,7 +5754,7 @@
 
 - [muhammadrizwan87/frida-bridge](https://github.com/muhammadrizwan87/frida-bridge) - Native JNI bridge to load Frida Gadget — Frida with no root, no APK repacking, containers supported.
 - [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida) - 🔐 Run frida-server on boot with Magisk, always up-to-date
-- [hxreborn/playstore-adblock](https://github.com/hxreborn/playstore-adblock) - Xposed module to remove sponsored listings and ads from the Google Play Store
+- [hxreborn/playstore-adblock](https://github.com/hxreborn/playstore-adblock) - LSPosed/Xposed module that removes ads, sponsored apps, and promoted recommendations from the Google Play Store
 - [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu) - Anti-LLM obfuscation via finger counting
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
@@ -5841,6 +5864,7 @@
 
 ## security 
 
+- [VD171/deadhand](https://github.com/VD171/deadhand) - [CATASTROPHIC] Magisk/KSU module: pressing Power 4x wipes the device (crypto-shred + factory reset). Ships disarmed and in dry-run. Fork of abootloop.
 - [suominen/ghostlock](https://github.com/suominen/ghostlock) - Tracking GhostLock (CVE-2026-43499), the rtmutex/futex stack use-after-free
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
 - [WithSecureLabs/chainsaw](https://github.com/WithSecureLabs/chainsaw) - Rapidly Search and Hunt through Windows Forensic Artefacts
@@ -5925,6 +5949,7 @@
 
 ## self-hosted 
 
+- [selmant/foreseerr](https://github.com/selmant/foreseerr) - Foreseerr — Seerr fork with in-app Trakt discovery, watched/rate actions, and multi-source ratings for Jellyfin, Plex, and Emby.
 - [mainlink0435/warpbox](https://github.com/mainlink0435/warpbox) - A high-performance WebDAV proxy for TorBox
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
@@ -5954,6 +5979,7 @@
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [Ketbome/minepanel](https://github.com/Ketbome/minepanel) - A modern Docker-based web panel for managing multiple Minecraft servers with ease.
+- [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - AIOStreams consolidates multiple Stremio addons and debrid/usenet services - including its own suite of built-in addons and a native Usenet streaming engine - into a single, highly customisable super-
 - [dreeveapp/dreeve](https://github.com/dreeveapp/dreeve) - Dreeve is a self-hosted, open-source dashboard for your sports and fitness data
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -6306,6 +6332,7 @@
 
 ## userscript 
 
+- [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) - ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展
 - [xob0t/Google-Photos-Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Userscript to filter, search, organize, or delete your Google Photos library
 - [Fenn3c401/Trakt.tv-Userscript-Collection](https://github.com/Fenn3c401/Trakt.tv-Userscript-Collection) - An extensive userscript collection for trakt.tv.
 - [Jipok/website-to-apk](https://github.com/Jipok/website-to-apk) - Easy create Android app for website. Wrapper for WebView with userscripts
@@ -6318,6 +6345,7 @@
 
 ## v2ray 
 
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 - [aceberg/unbox](https://github.com/aceberg/unbox) - CLI tool for sing-box: keep alive, auto switch. Convert URLs to sing-box config. Deduplicate. Remove unreachable servers
 - [mhyrzt/xrat](https://github.com/mhyrzt/xrat) - Rust CLI/TUI proxy manager for Xray-core, V2Ray-core, and sing-box: import subscriptions,   test latency, rotate proxies, scan edge IPs, and run managed local proxy sessions.
 - [dnstt-xyz/dnstt_xyz_app](https://github.com/dnstt-xyz/dnstt_xyz_app) - Multi-platform dnstt client for restricted networks like Iran, China, Russia or maybe your mom firewall
@@ -6468,6 +6496,7 @@
 
 ## windows 
 
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 - [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
 - [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel™ phone flashing GUI utility with features.
 - [Psmths/windows-forensic-artifacts](https://github.com/Psmths/windows-forensic-artifacts) - Handbook of windows forensic artifacts across multiple Windows version with interpretation tips and some examples. Work in progress!
