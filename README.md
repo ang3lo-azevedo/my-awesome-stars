@@ -2486,6 +2486,7 @@
 
 ## linux 
 
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel™ phone flashing GUI utility with features.
 - [suominen/ghostlock](https://github.com/suominen/ghostlock) - Tracking GhostLock (CVE-2026-43499), the rtmutex/futex stack use-after-free
 - [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu) - Checkpoint/Restore tool
@@ -2751,6 +2752,7 @@
 
 ## macos 
 
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
 - [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 emulator for Windows, Linux and MacOS
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
@@ -3156,6 +3158,7 @@
 
 ## opengl 
 
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [cryinkfly/Autodesk-Fusion-360-for-Linux](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux) - This is a project, where I give you a way to use Autodesk Fusion 360 on Linux!
@@ -3208,6 +3211,16 @@
 
 ## others 
 
+- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
+- [LSPosed/Privisolated](https://github.com/LSPosed/Privisolated) - 
+- [1013503897/Vector](https://github.com/1013503897/Vector) - Vector (JingMatrix LSPosed fork) with a traceless KPM hook backend: inline_hooker routed through a KernelPatch module (stealth-poc) with Dobby fallback.
+- [SleepTheGod/Vehicle-OSINT-Collection](https://github.com/SleepTheGod/Vehicle-OSINT-Collection) - A comprehensive list of tools that can be used for finding information related to a specific vehicle.
+- [elementor/elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
+- [Anatdx/YukiSU](https://github.com/Anatdx/YukiSU) - Kernel-based Android Root Solution
+- [VoltageOS-Devices/device_zuk_z2_plus](https://github.com/VoltageOS-Devices/device_zuk_z2_plus) - 
+- [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
+- [Lumince/singularity](https://github.com/Lumince/singularity) - meta horizon aio root app
+- [Lumince/singularity-Magisk](https://github.com/Lumince/singularity-Magisk) - The Magic Mask for Meta Quest
 - [rushiranpise/GmsCore](https://github.com/rushiranpise/GmsCore) - Free implementation of Play Services
 - [VisionR1/KeyAttestation](https://github.com/VisionR1/KeyAttestation) - For more about this fork, including all Features & Contributors, see the Wiki tab.
 - [gewenbo888/awaken-os](https://github.com/gewenbo888/awaken-os) - 
@@ -5812,6 +5825,7 @@
 
 ## rust 
 
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio) - A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 - [Enginex0/UsbMassStorage](https://github.com/Enginex0/UsbMassStorage) - 💾 Turn your phone into a USB drive · USB Mass Storage gadget controller · KernelSU / Magisk / APatch
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
@@ -6149,6 +6163,7 @@
 
 ## terminal 
 
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [mhyrzt/xrat](https://github.com/mhyrzt/xrat) - Rust CLI/TUI proxy manager for Xray-core, V2Ray-core, and sing-box: import subscriptions,   test latency, rotate proxies, scan edge IPs, and run managed local proxy sessions.
@@ -6505,6 +6520,7 @@
 
 ## windows 
 
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 - [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
 - [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel™ phone flashing GUI utility with features.
