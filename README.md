@@ -321,6 +321,7 @@
 - [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
 - [symgraph/BinAssist](https://github.com/symgraph/BinAssist) - Binary Ninja plugin to provide LLM assistance analyzing binaries.
 - [OWASP/www-project-top-10-for-large-language-model-applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications) - OWASP Top 10 for Large Language Model Apps (Part of the GenAI Security Project)
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
@@ -379,6 +380,7 @@
 
 ## android 
 
+- [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Degoogled maps & turn-by-turn navigation for Android - MapLibre + Jetpack Compose, no Google Play Services
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [VD171/deadhand](https://github.com/VD171/deadhand) - [CATASTROPHIC] Magisk/KSU module: pressing Power 4x wipes the device (crypto-shred + factory reset). Ships disarmed and in dry-run. Fork of abootloop.
 - [cosmictaserdev-creator/Convx](https://github.com/cosmictaserdev-creator/Convx) - Convx is a free, open-source Android music player that streams from YouTube Music — reimagined with an iOS-inspired "Liquid Glass" interface. Every surface uses real backdrop blur and refraction, pair
@@ -472,7 +474,7 @@
 - [samyak2403/RepoStore](https://github.com/samyak2403/RepoStore) - Explore apps published on GitHub, view release details, and install APKs instantly — all in one place. Developed using pure Kotlin, optimized for modern Android devices.
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
-- [Ivorisnoob/Koda](https://github.com/Ivorisnoob/Koda) - A Material Expressive Music app and Video for Android with YT Music Support
+- [Ivorisnoob/Koda](https://github.com/Ivorisnoob/Koda) - A Material 3 Expressive Music app and Video for Android with YT Music Support
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 - [nix-community/nix-on-droid-app](https://github.com/nix-community/nix-on-droid-app) - Run Nix package manager on Android. Based off Termux the terminal emulator, but not Termux the distro. [maintainer=@t184256]
 - [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
@@ -1064,7 +1066,7 @@
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [lem6ns/ddgmail](https://github.com/lem6ns/ddgmail) - An unofficial CLI for DuckDuckGo Email Protection.
-- [AstraeLabs/VibraVid](https://github.com/AstraeLabs/VibraVid) - Downloader for Movie, Series, Anime, Album + MPD/M3U8/ISM/MP4.
+- [AstraeLabs/VibraVid](https://github.com/AstraeLabs/VibraVid) - Downloader for Movie, Series, Anime, Album + DASH/HLS/ISM/MP4.
 - [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
@@ -1548,6 +1550,7 @@
 ## dsh-plugin 
 
 - [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) - Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek 
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 
 ## education 
 
@@ -1615,6 +1618,7 @@
 
 ## esp32 
 
+- [dchristl/macless-haystack](https://github.com/dchristl/macless-haystack) - Create your own AirTag with  OpenHaystack, but without the need to own an Apple device
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [lunokjod/watch](https://github.com/lunokjod/watch) - lunokWatch (lilygo twatch2020 series)
 - [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
@@ -1785,7 +1789,6 @@
 
 ## gaming 
 
-- [xodus-gaming/xodus](https://github.com/xodus-gaming/xodus) - The great gaming migration to Linux
 - [AbdelrhmanNile/UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) - A free and open-source game-center for linux. Pre-configured Wine and Native Games for Linux.
 - [winesapOS/winesapOS](https://github.com/winesapOS/winesapOS) - winesapOS - Game with Linux anywhere, no installation required!
 - [CarrotRub/Fit-Launcher](https://github.com/CarrotRub/Fit-Launcher) - A better version of my previous Fitgirl's Repacks Launcher. Made using Tauri with SolidJS.
@@ -1900,6 +1903,7 @@
 
 ## google 
 
+- [alex193a/Root-My-Pixel-Payloads](https://github.com/alex193a/Root-My-Pixel-Payloads) - Exploit payloads for Root My Pixel
 - [alex193a/Root-My-Pixel](https://github.com/alex193a/Root-My-Pixel) - Jailbreak supported Google Pixel phones with CVE-2026-43499
 - [devine-dl/pywidevine](https://github.com/devine-dl/pywidevine) - Python implementation of Google's Widevine DRM CDM (Content Decryption Module)
 - [hyugogirubato/KeyDive](https://github.com/hyugogirubato/KeyDive) - Extract Widevine L3 keys from Android devices effortlessly, spanning multiple Android versions for DRM research and education.
@@ -1927,7 +1931,7 @@
 
 ## gui 
 
-- [AstraeLabs/VibraVid](https://github.com/AstraeLabs/VibraVid) - Downloader for Movie, Series, Anime, Album + MPD/M3U8/ISM/MP4.
+- [AstraeLabs/VibraVid](https://github.com/AstraeLabs/VibraVid) - Downloader for Movie, Series, Anime, Album + DASH/HLS/ISM/MP4.
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
 - [LMLK-seal/Windows2Go](https://github.com/LMLK-seal/Windows2Go) - A professional-grade application for creating portable, bootable Windows To Go installations on USB drives.
 - [srinivasr/nirimod](https://github.com/srinivasr/nirimod) - NiriMod – A visual, interactive configuration interface for the niri Wayland compositor.
@@ -2000,6 +2004,7 @@
 
 ## hacktoberfest 
 
+- [Niek/obs-web](https://github.com/Niek/obs-web) - OBS-web - the easiest way to control OBS remotely
 - [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
 - [LivingWithHippos/unchained-android](https://github.com/LivingWithHippos/unchained-android) - App to interact with real-debrid API
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
@@ -2340,6 +2345,7 @@
 
 ## jetpack-compose 
 
+- [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Degoogled maps & turn-by-turn navigation for Android - MapLibre + Jetpack Compose, no Google Play Services
 - [cosmictaserdev-creator/Convx](https://github.com/cosmictaserdev-creator/Convx) - Convx is a free, open-source Android music player that streams from YouTube Music — reimagined with an iOS-inspired "Liquid Glass" interface. Every surface uses real backdrop blur and refraction, pair
 - [herzhenr/spic-android](https://github.com/herzhenr/spic-android) - A Simple Play Integrity Checker which uses Google Play Integrity API to check the Integrity of the Device
 - [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) - A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt
@@ -2759,6 +2765,7 @@
 
 ## macos 
 
+- [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
 - [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 emulator for Windows, Linux and MacOS
@@ -2847,7 +2854,7 @@
 - [MdFarhan0/Self-Attendance](https://github.com/MdFarhan0/Self-Attendance) - A clean Android app to track college attendance with subject-wise targets and smart bunk guidance. Mark attendance, visualize performance, and instantly know whether to attend or skip classes.
 - [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - 🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!
 - [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
-- [Ivorisnoob/Koda](https://github.com/Ivorisnoob/Koda) - A Material Expressive Music app and Video for Android with YT Music Support
+- [Ivorisnoob/Koda](https://github.com/Ivorisnoob/Koda) - A Material 3 Expressive Music app and Video for Android with YT Music Support
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [Pool-Of-Tears/GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.
@@ -3150,6 +3157,7 @@
 - [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Local-first control plane for AI coding agents. Run and supervise Codex, Claude Code, OpenCode, OMP and PI across your machines.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [symgraph/BinAssist](https://github.com/symgraph/BinAssist) - Binary Ninja plugin to provide LLM assistance analyzing binaries.
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
@@ -3218,6 +3226,19 @@
 
 ## others 
 
+- [3096/switch-time](https://github.com/3096/switch-time) - Change NetworkSystemClock
+- [NextendoNetwork/Prelude-Nro](https://github.com/NextendoNetwork/Prelude-Nro) - Prelude — the Nextendo homebrew for a real Nintendo Switch. Connect an Atmosphere console to Nextendo Network (no Nintendo account).
+- [pix/heystack-nrf5x](https://github.com/pix/heystack-nrf5x) - A openhaystack compatible firmware for NRF51 and NRF52 devices
+- [dakhnod/FakeTag](https://github.com/dakhnod/FakeTag) - firmware for nRF51 chips that is coincidentally compatible with the FindMy (AirTag) ecosystem
+- [biemster/st17h66_FindMy](https://github.com/biemster/st17h66_FindMy) - Firmware for Lenze ST17h66 that advertises to the Apple Find My network
+- [pvvx/ATC_MiThermometer](https://github.com/pvvx/ATC_MiThermometer) - Custom firmware for the Xiaomi Thermometers and Telink Flasher
+- [atc1441/ATC_MiThermometer](https://github.com/atc1441/ATC_MiThermometer) - Custom firmware for the Xiaomi Thermometer LYWSD03MMC and Telink Flasher via USB to Serial converter
+- [biemster/FindMy](https://github.com/biemster/FindMy) - Query Apple's Find My network
+- [acalatrava/openhaystack-firmware](https://github.com/acalatrava/openhaystack-firmware) - Alternative openhaystack firmware
+- [ansisg/hamr](https://github.com/ansisg/hamr) - 
+- [p2r3/ha.mr](https://github.com/p2r3/ha.mr) - Static URL compressor and QR code optimizer
+- [orailnoor/sys-purifier](https://github.com/orailnoor/sys-purifier) - A cross-platform Android debloating tool for macOS and Windows using ADB. Remove unwanted pre-installed apps and system packages without requiring root access.
+- [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [TenSeventy7/libfprint-egismoc-sdcp](https://github.com/TenSeventy7/libfprint-egismoc-sdcp) - SDCP-compliant fork of libfprint for EgisTec fingerprint sensors. Forked from Joshua Grisham's work while it's not yet merged upstream.
 - [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii) - A very very very very very very very long interrupt
 - [FSECDEV/LEAKSFORUMS](https://github.com/FSECDEV/LEAKSFORUMS) - A series of leaks from hacker forums
@@ -3265,6 +3286,7 @@
 - [firelzrd/bore-scheduler](https://github.com/firelzrd/bore-scheduler) - BORE (Burst-Oriented Response Enhancer) CPU Scheduler
 - [n0stal6ic/MStarToKeybox](https://github.com/n0stal6ic/MStarToKeybox) - Extracts MStar/MediaTek Widevine L1 keyboxes and PlayReady passphrases from raw eMMC dumps and firmware images.
 - [sheerboy/Femify](https://github.com/sheerboy/Femify) - ReVanced LSPosed module for Spotify
+- [xodus-gaming/xodus](https://github.com/xodus-gaming/xodus) - The great gaming migration to Linux
 - [DoctorEww/EvilFontTool](https://github.com/DoctorEww/EvilFontTool) - A font-based deception tool for red teaming, security research, and whatever else.
 - [Blueturboguy07/NitroAI](https://github.com/Blueturboguy07/NitroAI) - Free, local-first AI study notes — turn any lecture, PDF, or video into notes, flashcards, quizzes, and a study chat. Runs fully local or with your own API key.
 - [forcequitOS/bad_query](https://github.com/forcequitOS/bad_query) - Sandbox escape PoC for iOS 26 and 27.
@@ -3292,7 +3314,7 @@
 - [sarabpal-dev/IonStack-S22U](https://github.com/sarabpal-dev/IonStack-S22U) - 
 - [ang3lo-azevedo/morphe-patches](https://github.com/ang3lo-azevedo/morphe-patches) - My own version of Morphe Patches - Android app patching framework
 - [srozb/anypwn](https://github.com/srozb/anypwn) - Pwn any Anyconnect (except those patched).
-- [rushiranpise/morphe-patches](https://github.com/rushiranpise/morphe-patches) - Morphe patches I use and maintain in my spare time. Please report bugs and request patches via GitHub.
+- [rushiranpise/morphe-patches](https://github.com/rushiranpise/morphe-patches) - New mask, same task. All patches answer to Doom.
 - [sixstrings/morphe-builder](https://github.com/sixstrings/morphe-builder) - A Magisk/KernelSU module builder for Morphe modules. Builds also APKs. Updated several times daily.
 - [Avangelista/CarTube](https://github.com/Avangelista/CarTube) - YouTube on CarPlay, supports devices iOS 14.0 - 15.4.1.
 - [jqssun/android-titanium-browser](https://github.com/jqssun/android-titanium-browser) - Secure open-source Android browser with support for extensions
@@ -3333,13 +3355,12 @@
 - [d3cim/dnscrypt-proxy-android](https://github.com/d3cim/dnscrypt-proxy-android) - Hardened dnscrypt-proxy module for Android.
 - [kurdishhacker2147/ReWaEnhancer-X-Pro-beta](https://github.com/kurdishhacker2147/ReWaEnhancer-X-Pro-beta) - ReWaEnhancer X Pro, WhatsApp'ı gerçek bir premium deneyime dönüştüren en gelişmiş ve güçlü moddur. ReWaEnhancer X Pro, tüm Pro özelliklerinin ücretsiz olarak etkinleştirildiği, tamamen kilitsiz ve lis
 - [darknight1050/quest-bootloader-unlocker](https://github.com/darknight1050/quest-bootloader-unlocker) - 
-- [oopnv70-lab/ghostlock-honor-aak](https://github.com/oopnv70-lab/ghostlock-honor-aak) - GhostLock (CVE-2026-43499) exploit adapted for Honor AAK-AN00 (MagicOS 10, kernel 6.6.89-android15)
+- [oopnv70-lab/ghostlock-honor-aak](https://github.com/oopnv70-lab/ghostlock-honor-aak) - GhostLock (CVE-2026-43499) exploit adapted for Honor AAK-AN00 (MagicOS 10, kernel 6.6.89-android15) 声明，由于 AI 过于弱智 导致大量 token 被消耗 这导致资金严重不足在短时间内将不会更新 下次更新最早两天后
 - [jason5545/ghostlock-myron-tw](https://github.com/jason5545/ghostlock-myron-tw) - GhostLock (CVE-2026-43499) kernel exploit port for REDMI K90 Pro Max Taiwan firmware (myron, WPMTWXM) — offsets, build guide, prebuilt binary
 - [starseed12345/QuestStack](https://github.com/starseed12345/QuestStack) - Unlock the Meta Quest 1 bootloader and gain root access using GhostLock + CVE-2021-1931.
 - [NothingFumo/ghostlock-aresin](https://github.com/NothingFumo/ghostlock-aresin) - GhostLock (CVE-2026-43499) exploit for POCO F3 GT (aresin) — MediaTek Dimensity 1200, Linux 4.14.186 ARM64 kernel privilege escalation via futex PI chain manipulation
 - [PeronGH/ghostlock-selinux-disabler](https://github.com/PeronGH/ghostlock-selinux-disabler) - Use CVE-2026-43499 to disable SELinux on Android
 - [p2p3p/GhostLock-for-OnePlus](https://github.com/p2p3p/GhostLock-for-OnePlus) - （CVE-2026-43499）内核漏洞利用程序，适用于未解锁 Bootloader 的一加设备。
-- [alex193a/Root-My-Pixel-Payloads](https://github.com/alex193a/Root-My-Pixel-Payloads) - Exploit payloads for Root My Pixel
 - [kurdishhacker2147/ReWaEnhancer-X-Pro](https://github.com/kurdishhacker2147/ReWaEnhancer-X-Pro) - ReWaEnhancer X Pro is the most advanced and powerful mod that transforms WhatsApp into a true premium experience. ReWaEnhancer X Pro activates all Pro features for free, completely unlocked and unlice
 - [Qutaiba-Khader/RecentAppsTV](https://github.com/Qutaiba-Khader/RecentAppsTV) - Recent Apps overlay for Android TV / Google TV (Shizuku-powered) — D-pad recents switcher with swipe-to-dismiss, kill-all, context menu, themeable. Jetpack Compose for TV.
 - [Teslow/awesome-shizuku-apps](https://github.com/Teslow/awesome-shizuku-apps) - Curated list of awesome Android apps making use of Shizuku
@@ -3714,7 +3735,7 @@
 - [mrphrazer/reverser_ai](https://github.com/mrphrazer/reverser_ai) - Provides automated reverse engineering assistance through the use of local large language models (LLMs) on consumer hardware.
 - [HexRaysSA/ida-hcli](https://github.com/HexRaysSA/ida-hcli) - Hex-Rays CLI (HCLI)
 - [HexRaysSA/ida-chat-plugin](https://github.com/HexRaysSA/ida-chat-plugin) - 
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
 - [ikarus23/kiosk-mode-breakout](https://github.com/ikarus23/kiosk-mode-breakout) - A collection of tips & tricks on how to escape a kiosk mode environment
 - [foreni-packages/hachoir-subfile](https://github.com/foreni-packages/hachoir-subfile) - hachoir-subfile : Find subfile in any binary stream
 - [cdgriffith/puremagic](https://github.com/cdgriffith/puremagic) - Pure python implementation of identifying files based off their magic numbers
@@ -3919,7 +3940,6 @@
 - [domiriel/peerforum](https://github.com/domiriel/peerforum) - Peergrading for Moodle forums
 - [TheMrKiko/peerforum](https://github.com/TheMrKiko/peerforum) - 
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
-- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [advanced-security/ghas-to-csv](https://github.com/advanced-security/ghas-to-csv) - Play with GHAS API to provide posture data over time
 - [ambilykk/dependabot-alert-export](https://github.com/ambilykk/dependabot-alert-export) - Export the Dependabot alerts specific to a repo or organization
@@ -4277,7 +4297,7 @@
 - [WindySha/Xpatch](https://github.com/WindySha/Xpatch) - This is a tool to repackage apk file, then the apk can load any xposed modules installed in the device. It is another way to hook an app without root device.
 - [1nikolas/play-integrity-checker-app](https://github.com/1nikolas/play-integrity-checker-app) - Get info about your Device Integrity through the Play Intergrity API
 - [jyotidwi/AntiSplit-M](https://github.com/jyotidwi/AntiSplit-M) - 
-- [JingMatrix/LSPatch](https://github.com/JingMatrix/LSPatch) - A non-root Xposed framework extending from LSPosed
+- [JingMatrix/LSPatch](https://github.com/JingMatrix/LSPatch) - A non-root Xposed framework extending from Vector
 - [LSPosed/LSPatch](https://github.com/LSPosed/LSPatch) - LSPatch: A non-root Xposed framework extending from LSPosed
 - [intruder-io/autoswagger](https://github.com/intruder-io/autoswagger) - Autoswagger by Intruder - detect API auth weaknesses
 - [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) - Explanation and full RCE PoC for CVE-2025-55182
@@ -5416,6 +5436,7 @@
 
 ## privacy 
 
+- [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Degoogled maps & turn-by-turn navigation for Android - MapLibre + Jetpack Compose, no Google Play Services
 - [fynks/email-aliasing-comparison](https://github.com/fynks/email-aliasing-comparison) - Compare 10+ email alias services by features, pricing, security, privacy, and ease of use.
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
 - [hagezi/dns-servers](https://github.com/hagezi/dns-servers) - HaGeZi DNS: Free, Non-Commercial EU Public DNS Servers
@@ -5541,7 +5562,6 @@
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [medvm/widevine_keys](https://github.com/medvm/widevine_keys) - This repo created for bypassing Widevine L3 DRM and obtaining keys.
-- [AstraeLabs/VibraVid](https://github.com/AstraeLabs/VibraVid) - Downloader for Movie, Series, Anime, Album + MPD/M3U8/ISM/MP4.
 - [devine-dl/pywidevine](https://github.com/devine-dl/pywidevine) - Python implementation of Google's Widevine DRM CDM (Content Decryption Module)
 - [hyugogirubato/KeyDive](https://github.com/hyugogirubato/KeyDive) - Extract Widevine L3 keys from Android devices effortlessly, spanning multiple Android versions for DRM research and education.
 - [plbrault/youre-the-os](https://github.com/plbrault/youre-the-os) - A game where you are a computer's OS and you have to manage processes, memory and I/O events.
@@ -5786,6 +5806,8 @@
 
 ## reverse-engineering 
 
+- [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Python APNs and iMessage client
+- [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [muhammadrizwan87/frida-bridge](https://github.com/muhammadrizwan87/frida-bridge) - Native JNI bridge to load Frida Gadget — Frida with no root, no APK repacking, containers supported.
 - [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida) - 🔐 Run frida-server on boot with Magisk, always up-to-date
 - [hxreborn/playstore-adblock](https://github.com/hxreborn/playstore-adblock) - LSPosed/Xposed module that removes ads, sponsored apps, and promoted recommendations from the Google Play Store
@@ -5838,6 +5860,7 @@
 
 ## rust 
 
+- [typst/pdf-writer](https://github.com/typst/pdf-writer) - A step-by-step PDF writer.
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable, lightweight, self-contained virtual machine.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio) - A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
@@ -6112,6 +6135,7 @@
 
 ## svelte 
 
+- [Niek/obs-web](https://github.com/Niek/obs-web) - OBS-web - the easiest way to control OBS remotely
 - [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ All-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
 - [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Leading Git-based headless CMS. Successor to Netlify/Decap CMS. Modern UX, first-class i18n support, mobile support + numerous improvements. Framework-agnostic, open source & free.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -6673,7 +6697,7 @@
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
-- [Ivorisnoob/Koda](https://github.com/Ivorisnoob/Koda) - A Material Expressive Music app and Video for Android with YT Music Support
+- [Ivorisnoob/Koda](https://github.com/Ivorisnoob/Koda) - A Material 3 Expressive Music app and Video for Android with YT Music Support
 - [xlch88/YouTubeTweak](https://github.com/xlch88/YouTubeTweak) - Packed with all the features you want: lock video quality, speed buttons, show commenter names, auto-translate comments, hide distractions, and more.
 - [n-ce/ytify](https://github.com/n-ce/ytify) - Efficient YouTube Audio Streaming, Effortlessly, Anywhere.
 - [Stan-breaks/ytsurf](https://github.com/Stan-breaks/ytsurf) - YouTube in your terminal. Clean and distraction-free.
