@@ -1664,6 +1664,7 @@
 
 ## firefox 
 
+- [Codextor/better-zen](https://github.com/Codextor/better-zen) - Zen Browser (based on Firefox) config for speed, privacy, and security. Inspired from Betterfox.
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [HeitorAugustoLN/betterfox-nix](https://github.com/HeitorAugustoLN/betterfox-nix) - Home-manager module to integrate Betterfox user.js in Firefox
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
@@ -3213,6 +3214,7 @@
 - [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool
 - [khast3x/h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email
 - [osintambition/Social-Media-OSINT-Tools-Collection](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection) - A collection of most useful osint tools for SOCINT.
+- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 - [jasperan/whatsapp-osint](https://github.com/jasperan/whatsapp-osint) - WhatsApp spy - logs online/offline events from ANYONE in the world
 - [remcostoeten/whatsapp-online-status-tracker](https://github.com/remcostoeten/whatsapp-online-status-tracker) - Monitor a WhatsApp user’s online activity with comprehensive reports that include timestamps, duration online, percentage of time spent online, and visual data through charts and graphs. Track statist
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
@@ -3231,6 +3233,7 @@
 
 ## others 
 
+- [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym) - https://github.com/DuarteSantos8/openGym
 - [XiaoTong6666/ZygoteNextProbe](https://github.com/XiaoTong6666/ZygoteNextProbe) - 
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
 - [Gericom/GBARunner2](https://github.com/Gericom/GBARunner2) - A GBA hypervisor for DS. (like nintendont for gc on wii)
@@ -3365,7 +3368,7 @@
 - [d3cim/dnscrypt-proxy-android](https://github.com/d3cim/dnscrypt-proxy-android) - Hardened dnscrypt-proxy module for Android.
 - [kurdishhacker2147/ReWaEnhancer-X-Pro-beta](https://github.com/kurdishhacker2147/ReWaEnhancer-X-Pro-beta) - ReWaEnhancer X Pro, WhatsApp'ı gerçek bir premium deneyime dönüştüren en gelişmiş ve güçlü moddur. ReWaEnhancer X Pro, tüm Pro özelliklerinin ücretsiz olarak etkinleştirildiği, tamamen kilitsiz ve lis
 - [darknight1050/quest-bootloader-unlocker](https://github.com/darknight1050/quest-bootloader-unlocker) - 
-- [oopnv70-lab/ghostlock-honor-aak](https://github.com/oopnv70-lab/ghostlock-honor-aak) - GhostLock (CVE-2026-43499) exploit adapted for Honor AAK-AN00 (MagicOS 10, kernel 6.6.89-android15) 声明，由于 AI 过于弱智 导致大量 token 被消耗 这导致资金严重不足在短时间内将不会更新 下次更新最早两天后
+- [oopnv70-lab/ghostlock-honor-aak](https://github.com/oopnv70-lab/ghostlock-honor-aak) - GhostLock (CVE-2026-43499) exploit adapted for Honor AAK-AN00 (MagicOS 10, kernel 6.6.89-android15)。无限期停止更新。
 - [jason5545/ghostlock-myron-tw](https://github.com/jason5545/ghostlock-myron-tw) - GhostLock (CVE-2026-43499) kernel exploit port for REDMI K90 Pro Max Taiwan firmware (myron, WPMTWXM) — offsets, build guide, prebuilt binary
 - [starseed12345/QuestStack](https://github.com/starseed12345/QuestStack) - Unlock the Meta Quest 1 bootloader and gain root access using GhostLock + CVE-2021-1931.
 - [NothingFumo/ghostlock-aresin](https://github.com/NothingFumo/ghostlock-aresin) - GhostLock (CVE-2026-43499) exploit for POCO F3 GT (aresin) — MediaTek Dimensity 1200, Linux 4.14.186 ARM64 kernel privilege escalation via futex PI chain manipulation
@@ -5281,9 +5284,7 @@
 - [BaltiApps/Pixelify-Google-Photos](https://github.com/BaltiApps/Pixelify-Google-Photos) - Pixelify GPhotos
 - [respecting/NitroPerks](https://github.com/respecting/NitroPerks) - once and for all
 - [intrnl/pc-bdCompat](https://github.com/intrnl/pc-bdCompat) - Compatibility layer for running BetterDiscord plugins in Powercord
-- [josem1942/AirPodsUI](https://github.com/josem1942/AirPodsUI) - AirPods pop up and animation for Windows!
 - [RoundedTB/RoundedTB](https://github.com/RoundedTB/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
-- [Lenovoved/mod-libs-chromatix-ginkgo-willow](https://github.com/Lenovoved/mod-libs-chromatix-ginkgo-willow) - Editable chromatixs are presented in this bucket, I have improved video recording on the Redmi Note 8 device. These chromatics improve video recording at high frames per second. Improved recording #-1
 - [Magisk-Modules-Repo/G-VisualMod](https://github.com/Magisk-Modules-Repo/G-VisualMod) - Systemlessy customize your Android's Visual
 - [maytinhdibo/battery-friendly-pocketmode](https://github.com/maytinhdibo/battery-friendly-pocketmode) - Support me
 - [Lifka/mailtrack-signature-remover](https://github.com/Lifka/mailtrack-signature-remover) - Mailtrack signature remover for Chromium-based browsers
@@ -5321,7 +5322,6 @@
 - [jcldf/digispark-chrome-password-exfiltrate](https://github.com/jcldf/digispark-chrome-password-exfiltrate) - 
 - [KryptonCaptain/Et-Futurum](https://github.com/KryptonCaptain/Et-Futurum) - [Releases] Brings the future to now!
 - [Davidobot/BetterJoy](https://github.com/Davidobot/BetterJoy) - Allows the Nintendo Switch Pro Controller, Joycons and SNES controller to be used with CEMU, Citra, Dolphin, Yuzu and as generic XInput
-- [josem1942/AirPods-for-Windows](https://github.com/josem1942/AirPods-for-Windows) - Adds AirPods support for Windows
 
 ## p2p 
 
@@ -5445,6 +5445,7 @@
 
 ## privacy 
 
+- [Codextor/better-zen](https://github.com/Codextor/better-zen) - Zen Browser (based on Firefox) config for speed, privacy, and security. Inspired from Betterfox.
 - [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Degoogled maps & turn-by-turn navigation for Android - MapLibre + Jetpack Compose, no Google Play Services
 - [fynks/email-aliasing-comparison](https://github.com/fynks/email-aliasing-comparison) - Compare 10+ email alias services by features, pricing, security, privacy, and ease of use.
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
@@ -5932,6 +5933,7 @@
 
 ## security 
 
+- [Codextor/better-zen](https://github.com/Codextor/better-zen) - Zen Browser (based on Firefox) config for speed, privacy, and security. Inspired from Betterfox.
 - [VD171/deadhand](https://github.com/VD171/deadhand) - [CATASTROPHIC] Magisk/KSU module: pressing Power 4x wipes the device (crypto-shred + factory reset). Ships disarmed and in dry-run. Fork of abootloop.
 - [suominen/ghostlock](https://github.com/suominen/ghostlock) - Tracking GhostLock (CVE-2026-43499), the rtmutex/futex stack use-after-free
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
