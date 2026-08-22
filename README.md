@@ -379,6 +379,7 @@
 
 ## android 
 
+- [rushiranpise/sorry-google](https://github.com/rushiranpise/sorry-google) - Minimal stub APKs that block Google from automatically installing or updating unwanted system apps. Each stub declares the same package name as the target app but is signed with a different key, causi
 - [SubhamTyagi/android-ocr](https://github.com/SubhamTyagi/android-ocr) - Tesseract based OCR for android
 - [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Degoogled maps & turn-by-turn navigation for Android - MapLibre + Jetpack Compose, no Google Play Services
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
@@ -725,6 +726,7 @@
 
 ## artificial-intelligence 
 
+- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [blackhillsinfosec/WifiForge](https://github.com/blackhillsinfosec/WifiForge) - WifiForge is a tool developed by Black Hills InfoSec to help train Pentesters on different Wi-Fi attack vectors and Wireless capabilities.
 - [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
 - [aw-junaid/Hacking-Tools](https://github.com/aw-junaid/Hacking-Tools) - This Repository is a collection of different ethical hacking tools and malware's for penetration testing and research purpose written in python, ruby, rust, c++, go and c.
@@ -1068,7 +1070,7 @@
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [lem6ns/ddgmail](https://github.com/lem6ns/ddgmail) - An unofficial CLI for DuckDuckGo Email Protection.
-- [AstraeLabs/VibraVid](https://github.com/AstraeLabs/VibraVid) - Downloader for Movie, Series, Anime, Album + DASH/HLS/ISM/MP4.
+- [AstraeLabs/VibraVid](https://github.com/AstraeLabs/VibraVid) - Downloader for Movie, Series, Anime, Album, Song + DASH/HLS/ISM/MP4.
 - [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
@@ -1182,6 +1184,7 @@
 
 ## cpp 
 
+- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 emulator for Windows, Linux and MacOS
 - [OpenNMT/CTranslate2](https://github.com/OpenNMT/CTranslate2) - Fast inference engine for Transformer models
 - [NotRequiem/VMAware](https://github.com/NotRequiem/VMAware) - Advanced VM detection library and tool
@@ -1211,6 +1214,7 @@
 
 ## cryptography 
 
+- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [RsaCtfTool/RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) - RSA attack tool (mainly for ctf) - retrieve private key from weak public key and/or uncipher data
 - [aw-junaid/Hacking-Tools](https://github.com/aw-junaid/Hacking-Tools) - This Repository is a collection of different ethical hacking tools and malware's for penetration testing and research purpose written in python, ruby, rust, c++, go and c.
 - [weavechain/threshold-sig](https://github.com/weavechain/threshold-sig) - Java Implementation of Threshold Signatures using Ed25519
@@ -1909,6 +1913,7 @@
 
 ## google 
 
+- [rushiranpise/sorry-google](https://github.com/rushiranpise/sorry-google) - Minimal stub APKs that block Google from automatically installing or updating unwanted system apps. Each stub declares the same package name as the target app but is signed with a different key, causi
 - [alex193a/Root-My-Pixel-Payloads](https://github.com/alex193a/Root-My-Pixel-Payloads) - Exploit payloads for Root My Pixel
 - [alex193a/Root-My-Pixel](https://github.com/alex193a/Root-My-Pixel) - Jailbreak supported Google Pixel phones with CVE-2026-43499
 - [devine-dl/pywidevine](https://github.com/devine-dl/pywidevine) - Python implementation of Google's Widevine DRM CDM (Content Decryption Module)
@@ -1937,7 +1942,7 @@
 
 ## gui 
 
-- [AstraeLabs/VibraVid](https://github.com/AstraeLabs/VibraVid) - Downloader for Movie, Series, Anime, Album + DASH/HLS/ISM/MP4.
+- [AstraeLabs/VibraVid](https://github.com/AstraeLabs/VibraVid) - Downloader for Movie, Series, Anime, Album, Song + DASH/HLS/ISM/MP4.
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
 - [LMLK-seal/Windows2Go](https://github.com/LMLK-seal/Windows2Go) - A professional-grade application for creating portable, bootable Windows To Go installations on USB drives.
 - [srinivasr/nirimod](https://github.com/srinivasr/nirimod) - NiriMod – A visual, interactive configuration interface for the niri Wayland compositor.
@@ -1966,6 +1971,7 @@
 
 ## hacking 
 
+- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [SleepTheGod/UniversalCasinoExploit](https://github.com/SleepTheGod/UniversalCasinoExploit) - A JavaScript-based security research tool demonstrating client-side vulnerabilities in cryptocurrency casino platforms. The exploit intercepts API calls, manipulates DOM elements, and modifies local s
 - [blackhillsinfosec/WifiForge](https://github.com/blackhillsinfosec/WifiForge) - WifiForge is a tool developed by Black Hills InfoSec to help train Pentesters on different Wi-Fi attack vectors and Wireless capabilities.
@@ -2011,6 +2017,7 @@
 
 ## hacktoberfest 
 
+- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [Niek/obs-web](https://github.com/Niek/obs-web) - OBS-web - the easiest way to control OBS remotely
 - [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
 - [LivingWithHippos/unchained-android](https://github.com/LivingWithHippos/unchained-android) - App to interact with real-debrid API
@@ -2131,7 +2138,7 @@
 - [hassio-addons/app-vaultwarden](https://github.com/hassio-addons/app-vaultwarden) - Vaultwarden (Bitwarden) - Home Assistant Community App
 - [homeassistant-apps/app-cloudflared](https://github.com/homeassistant-apps/app-cloudflared) - Connect remotely to your Home Assistant instance without opening any ports using Cloudflared.
 - [lmagyar/homeassistant-addon-portainer](https://github.com/lmagyar/homeassistant-addon-portainer) - Makes available the deprecated Portainer add-on https://github.com/hassio-addons/addon-portainer
-- [hassio-addons/addon-nginx-proxy-manager](https://github.com/hassio-addons/addon-nginx-proxy-manager) - Nginx Proxy Manager - Home Assistant Community Add-ons
+- [hassio-addons/app-nginx-proxy-manager](https://github.com/hassio-addons/app-nginx-proxy-manager) - Nginx Proxy Manager - Home Assistant Community Apps
 
 ## homebrew 
 
@@ -2958,6 +2965,7 @@
 
 ## monitoring 
 
+- [nshalabi/SysmonTools](https://github.com/nshalabi/SysmonTools) - Utilities for Sysmon
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
@@ -3008,6 +3016,7 @@
 
 ## natural-language-processing 
 
+- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.
 
 ## neovim 
@@ -3235,6 +3244,18 @@
 
 ## others 
 
+- [hatnetsec/NetworkMiner](https://github.com/hatnetsec/NetworkMiner) - The mirror of NetworkMiner
+- [epinna/tplmap](https://github.com/epinna/tplmap) - Server-Side Template Injection and Code Injection Detection and Exploitation Tool
+- [ECSC2024/ECSC2024-CTF-AD](https://github.com/ECSC2024/ECSC2024-CTF-AD) - Attack/Defense services for #ECSC2024 held in Turin, Italy from 8th to 11th October 2024
+- [ECSC2024/ECSC2024-CTF-Jeopardy](https://github.com/ECSC2024/ECSC2024-CTF-Jeopardy) - Jeopardy challenges for #ECSC2024 held in Turin, Italy from 8th to 11th October 2024
+- [ECSC2024/openECSC-2024](https://github.com/ECSC2024/openECSC-2024) - Source code of the challenges developed for the 2024 edition of openECSC
+- [Attacking-Lab/ecsc2025-ad-wiki](https://github.com/Attacking-Lab/ecsc2025-ad-wiki) - ECSC 2025 A/D Documentation
+- [hawshemi/sni-finder](https://github.com/hawshemi/sni-finder) - SNI Finder
+- [echo-tester/FreeNet](https://github.com/echo-tester/FreeNet) - get free internet connection by bughost via httpcustom or any vpn tunnel app
+- [Liliya2727/AZenith](https://github.com/Liliya2727/AZenith) - Universal perf modules
+- [juanma0511/kknd_Root_Detector](https://github.com/juanma0511/kknd_Root_Detector) - A tool to detect root on Android.
+- [RevealedSoulEven/NothingTweaks](https://github.com/RevealedSoulEven/NothingTweaks) - A customization module for Nothing OS based on Xposed framework.
+- [Xposed-Modules-Repo/com.souleven.nothingos](https://github.com/Xposed-Modules-Repo/com.souleven.nothingos) - Nothing Tweaks
 - [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym) - https://github.com/DuarteSantos8/openGym
 - [XiaoTong6666/ZygoteNextProbe](https://github.com/XiaoTong6666/ZygoteNextProbe) - 
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
@@ -3323,7 +3344,6 @@
 - [facebookincubator/oculus-linux-kernel](https://github.com/facebookincubator/oculus-linux-kernel) - The Linux kernel code for Oculus devices
 - [matthewgage2016-blip/IonStackQuest3](https://github.com/matthewgage2016-blip/IonStackQuest3) - IonStack for Meta Quest3/3S
 - [artemy5729-afk/IonStackQuest3](https://github.com/artemy5729-afk/IonStackQuest3) - IonStack for Meta Quest3/3S
-- [yanoo1222/yanoo1222.github.io](https://github.com/yanoo1222/yanoo1222.github.io) - IonStack-gen for Meta Quest3
 - [thatthundaguy/IonStackQuest2](https://github.com/thatthundaguy/IonStackQuest2) - (THIS WILL BE UPDATED SO IT WORKS PROPERLY)
 - [F-19-F/IonStackQuest3](https://github.com/F-19-F/IonStackQuest3) - IonStack for Meta Quest3/3S
 - [sarabpal-dev/IonStack-S22U](https://github.com/sarabpal-dev/IonStack-S22U) - 
@@ -3810,7 +3830,7 @@
 - [afsc19/email-resender](https://github.com/afsc19/email-resender) - A Cloudflare Worker script that acts as an email proxy to send emails from your custom domain at ease.
 - [Kikols17/Kutils](https://github.com/Kikols17/Kutils) - 
 - [Siegema/nix-steam](https://github.com/Siegema/nix-steam) - Nix Steam System
-- [different-name/steam-config-nix](https://github.com/different-name/steam-config-nix) - Declaratively manage Steam and your apps on NixOS or Home Manager
+- [different-name/steam-config-nix](https://github.com/different-name/steam-config-nix) - Declaratively manage Steam and your library on NixOS or Home Manager
 - [NuvioMedia/NuvioWeb](https://github.com/NuvioMedia/NuvioWeb) - Official Nuvio WebOS, TizenOS Repository
 - [NuvioMedia/NuvioTV](https://github.com/NuvioMedia/NuvioTV) - Official Nuvio Android TV Repository
 - [andrewrabert/jellium-desktop](https://github.com/andrewrabert/jellium-desktop) - An unofficial desktop client for Jellyfin
@@ -3821,7 +3841,6 @@
 - [kleidione/vendor_nothing_Spacewar](https://github.com/kleidione/vendor_nothing_Spacewar) - 
 - [ang3lo-azevedo/TV](https://github.com/ang3lo-azevedo/TV) - 
 - [qwertyuiop8899/SelfStream](https://github.com/qwertyuiop8899/SelfStream) - 
-- [qwertyuiop8899/TV](https://github.com/qwertyuiop8899/TV) - 
 - [vmos-dev/open-vmos-aosp_5.1](https://github.com/vmos-dev/open-vmos-aosp_5.1) - 
 - [goliveira32/flake](https://github.com/goliveira32/flake) - My personal NixOS flake.
 - [Mastermindzh/tidal-hifi](https://github.com/Mastermindzh/tidal-hifi) - The web version of Tidal running in electron with hifi support thanks to widevine.
@@ -5367,6 +5386,7 @@
 
 ## pentesting 
 
+- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - bgscan is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
 - [blackhillsinfosec/WifiForge](https://github.com/blackhillsinfosec/WifiForge) - WifiForge is a tool developed by Black Hills InfoSec to help train Pentesters on different Wi-Fi attack vectors and Wireless capabilities.
@@ -5561,6 +5581,7 @@
 
 ## python 
 
+- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel™ phone flashing GUI utility with features.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
@@ -5936,6 +5957,7 @@
 
 ## security 
 
+- [cliffe/SecGen](https://github.com/cliffe/SecGen) - Create randomly insecure VMs
 - [Codextor/better-zen](https://github.com/Codextor/better-zen) - Zen Browser (based on Firefox) config for speed, privacy, and security. Inspired from Betterfox.
 - [VD171/deadhand](https://github.com/VD171/deadhand) - [CATASTROPHIC] Magisk/KSU module: pressing Power 4x wipes the device (crypto-shred + factory reset). Ships disarmed and in dry-run. Fork of abootloop.
 - [suominen/ghostlock](https://github.com/suominen/ghostlock) - Tracking GhostLock (CVE-2026-43499), the rtmutex/futex stack use-after-free
@@ -6422,6 +6444,7 @@
 
 ## v2ray 
 
+- [meower1/Reality-SNI-Finder](https://github.com/meower1/Reality-SNI-Finder) - Automatically finds the best sni for your reality configuration
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 - [aceberg/unbox](https://github.com/aceberg/unbox) - CLI tool for sing-box: keep alive, auto switch. Convert URLs to sing-box config. Deduplicate. Remove unreachable servers
 - [mhyrzt/xrat](https://github.com/mhyrzt/xrat) - Rust CLI/TUI proxy manager for Xray-core, V2Ray-core, and sing-box: import subscriptions,   test latency, rotate proxies, scan edge IPs, and run managed local proxy sessions.
@@ -6573,6 +6596,7 @@
 
 ## windows 
 
+- [nshalabi/SysmonTools](https://github.com/nshalabi/SysmonTools) - Utilities for Sysmon
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 - [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
