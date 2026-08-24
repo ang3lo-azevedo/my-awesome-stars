@@ -203,6 +203,7 @@
 - [perl](#perl)
 - [phishing](#phishing)
 - [php](#php)
+- [portfolio](#portfolio)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -380,6 +381,9 @@
 
 ## android 
 
+- [reveny/Android-Device-Trust](https://github.com/reveny/Android-Device-Trust) - Android device attestation and fingerprinting tool
+- [rushiranpise/shizuku-modules](https://github.com/rushiranpise/shizuku-modules) - 
+- [DhananjayBhosale/hilight-studio](https://github.com/DhananjayBhosale/hilight-studio) - Experimental Pixel 11 HiLight LED controller for Android 17.
 - [rushiranpise/sorry-google](https://github.com/rushiranpise/sorry-google) - Minimal stub APKs that block Google from automatically installing or updating unwanted system apps. Each stub declares the same package name as the target app but is signed with a different key, causi
 - [SubhamTyagi/android-ocr](https://github.com/SubhamTyagi/android-ocr) - Tesseract based OCR for android
 - [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Degoogled maps & turn-by-turn navigation for Android - MapLibre + Jetpack Compose, no Google Play Services
@@ -923,6 +927,7 @@
 
 ## bot 
 
+- [hfz1337/Eruditus](https://github.com/hfz1337/Eruditus) - Discord CTF helper bot
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [synzen/MonitoRSS](https://github.com/synzen/MonitoRSS) - MonitoRSS RSS bot (formerly known as Discord.RSS) with customizable feeds. https://monitorss.xyz
 - [itsecgary/CTFBot](https://github.com/itsecgary/CTFBot) - Bot for keeping track of CTFs and points awarded
@@ -1068,6 +1073,7 @@
 
 ## cli 
 
+- [gl0bal01/ctfd-warboard](https://github.com/gl0bal01/ctfd-warboard) - A gentle CTFd parser designed to minimize load on CTF platforms. CLI + Discord bot for small-team collaboration, with automatic git sync to private repos.
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [vashhdev/onepace](https://github.com/vashhdev/onepace) - I made a script to watch One Pace, efficiently through your terminal with minimalistic TUI. I made it because I didn't want to download the files cause I watch quickly and then remove those files, als
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
@@ -1367,6 +1373,8 @@
 
 ## discord 
 
+- [hfz1337/Eruditus](https://github.com/hfz1337/Eruditus) - Discord CTF helper bot
+- [NullPxl/NullCTF](https://github.com/NullPxl/NullCTF) - A Discord bot that provides ctf tools for collaboration in Discord servers!
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [synzen/MonitoRSS](https://github.com/synzen/MonitoRSS) - MonitoRSS RSS bot (formerly known as Discord.RSS) with customizable feeds. https://monitorss.xyz
 - [itsecgary/CTFBot](https://github.com/itsecgary/CTFBot) - Bot for keeping track of CTFs and points awarded
@@ -1614,6 +1622,7 @@
 
 ## emulator 
 
+- [reveny/Android-Device-Trust](https://github.com/reveny/Android-Device-Trust) - Android device attestation and fingerprinting tool
 - [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
 - [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 emulator for Windows, Linux and MacOS
 - [Jonathan8520/FlashNX](https://github.com/Jonathan8520/FlashNX) - Homebrew Flash player for Nintendo Switch (.nro). Play your .swf games from the SD card. Powered by Ruffle.
@@ -2024,6 +2033,8 @@
 
 ## hacktoberfest 
 
+- [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
+- [hfz1337/Eruditus](https://github.com/hfz1337/Eruditus) - Discord CTF helper bot
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [Niek/obs-web](https://github.com/Niek/obs-web) - OBS-web - the easiest way to control OBS remotely
 - [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
@@ -3129,6 +3140,7 @@
 
 ## open-source 
 
+- [DhananjayBhosale/hilight-studio](https://github.com/DhananjayBhosale/hilight-studio) - Experimental Pixel 11 HiLight LED controller for Android 17.
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [rama-io/mako](https://github.com/rama-io/mako) - Minimal, privacy-first Android launcher designed for focus, speed, and simplicity.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
@@ -3252,6 +3264,22 @@
 
 ## others 
 
+- [bjornmorten/ctfbridge](https://github.com/bjornmorten/ctfbridge) - A unified Python interface for all major CTF platforms
+- [bjornmorten/ctf-dl](https://github.com/bjornmorten/ctf-dl) - Fast and flexible challenge downloader for all major CTF platforms
+- [UmmItKin/CTF-dlers](https://github.com/UmmItKin/CTF-dlers) - A high-performance CLI tool for downloading challenges from CTFd platforms with concurrent processing.
+- [CTFd/ctfcli](https://github.com/CTFd/ctfcli) - ctfcli is a tool to manage Capture The Flag events and challenges
+- [ang3lo-azevedo/nur-packages](https://github.com/ang3lo-azevedo/nur-packages) - 
+- [nix-community/nur-packages-template](https://github.com/nix-community/nur-packages-template) - A template for NUR repositories: [maintainer=@fgaz]
+- [teambi0s/Harmony](https://github.com/teambi0s/Harmony) - 
+- [Vozec/Discord-CTFD-Parser](https://github.com/Vozec/Discord-CTFD-Parser) - This tools is used to create automatically discord threads by scraping ctfd plateform and collecting name , category , description and points of challenges.
+- [MitruStefan/ctf-sentinel](https://github.com/MitruStefan/ctf-sentinel) - Your go-to Discord Bot for real-time CTF updates and insights powered by CTFtime
+- [mxrch/ecsc_discord_bot](https://github.com/mxrch/ecsc_discord_bot) - Shows the leaderboard of the ECSC.
+- [zteeed/CTFd-discord](https://github.com/zteeed/CTFd-discord) - Discord bot to display events and information about a CTFd instance (https://ctfd.io/)
+- [kgretzky/evilqr](https://github.com/kgretzky/evilqr) - Proof-of-concept to demonstrate dynamic QR swap phishing attacks in practice.
+- [Kindness-Kismet/only_player](https://github.com/Kindness-Kismet/only_player) - 增强的 Android 视频播放器
+- [kaganisildak/androidemualtorvmescape](https://github.com/kaganisildak/androidemualtorvmescape) - 
+- [fvffv/samsung-feature-extension](https://github.com/fvffv/samsung-feature-extension) - LSPosed module that extends Samsung features, including My Files WebDAV, Expert RAW, NFC options, Bixby custom AI access, and One UI launcher icon and label customization.
+- [MocLG/Overlay-Guard](https://github.com/MocLG/Overlay-Guard) - Overlay Guard is a high-performance system utility designed to bring the advanced privacy features of the 2026 Galaxy S26 Ultra to Android 13+ devices.  By leveraging real-time sensor fusion and the W
 - [dcouple/terminal-minceraft](https://github.com/dcouple/terminal-minceraft) - Minecraft inside your terminal.
 - [Willay24/KernelSU](https://github.com/Willay24/KernelSU) - arm64-v8a, armeabi-v7a. no LKM support. upstream compliant driver for Linux 3.0 to 5.4+. check issues for guides
 - [soul-99/SU_IMD](https://github.com/soul-99/SU_IMD) - 
@@ -3359,7 +3387,7 @@
 - [artemy5729-afk/IonStackQuest3](https://github.com/artemy5729-afk/IonStackQuest3) - IonStack for Meta Quest3/3S
 - [thatthundaguy/IonStackQuest2](https://github.com/thatthundaguy/IonStackQuest2) - (THIS WILL BE UPDATED SO IT WORKS PROPERLY)
 - [F-19-F/IonStackQuest3](https://github.com/F-19-F/IonStackQuest3) - IonStack for Meta Quest3/3S
-- [sarabpal-dev/IonStack-S22U](https://github.com/sarabpal-dev/IonStack-S22U) - 
+- [sarabpal-dev/IonStack-S22U](https://github.com/sarabpal-dev/IonStack-S22U) - CVE-2026-43499 full exploit chain for Samsung Galaxy S22 Ultra (Android 5.10 kernel)
 - [ang3lo-azevedo/morphe-patches](https://github.com/ang3lo-azevedo/morphe-patches) - My own version of Morphe Patches - Android app patching framework
 - [srozb/anypwn](https://github.com/srozb/anypwn) - Pwn any Anyconnect (except those patched).
 - [rushiranpise/morphe-patches](https://github.com/rushiranpise/morphe-patches) - New mask, same task.                                                                 All patches answer to Doom.
@@ -3413,7 +3441,7 @@
 - [Qutaiba-Khader/RecentAppsTV](https://github.com/Qutaiba-Khader/RecentAppsTV) - Recent Apps overlay for Android TV / Google TV (Shizuku-powered) — D-pad recents switcher with swipe-to-dismiss, kill-all, context menu, themeable. Jetpack Compose for TV.
 - [Teslow/awesome-shizuku-apps](https://github.com/Teslow/awesome-shizuku-apps) - Curated list of awesome Android apps making use of Shizuku
 - [JingMatrix/LSPlant](https://github.com/JingMatrix/LSPlant) - A hook framework for Android Runtime (ART)
-- [nfzerox/VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) - People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode and Terminal to 
+- [nfzerox/VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) - People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode, Terminal, Final
 - [crdroidandroid/vendor_nothing_camera-Spacewar](https://github.com/crdroidandroid/vendor_nothing_camera-Spacewar) - 
 - [xxblebleblexx/nomount-installer](https://github.com/xxblebleblexx/nomount-installer) - NoMount is a kernel-based file injection and path redirection framework for Android kernels.
 - [ZQZCC/NoMount](https://github.com/ZQZCC/NoMount) - NoMount is a kernel-based file injection and path redirection framework for Android kernels.
@@ -3525,7 +3553,6 @@
 - [Simatwa/kofnet](https://github.com/Simatwa/kofnet) - Extract SNI bug host for different ISPs based on country.
 - [yoruix/nuvio-providers](https://github.com/yoruix/nuvio-providers) - 
 - [tapframe/NuvioStreamsAddon](https://github.com/tapframe/NuvioStreamsAddon) - HTTP Streaming for Stremio
-- [GizDrak/stremio-perfect-setup](https://github.com/GizDrak/stremio-perfect-setup) - Stremio Full & Easy Total Beginner's Guide
 - [blarns/NuvioForLinux](https://github.com/blarns/NuvioForLinux) - Unofficial, community-maintained Linux desktop build of Nuvio — a Kotlin Multiplatform fork of NuvioMobile. Stremio-addon media player with debrid, JS plugins, and resume-across-restart. Vibe-coded.
 - [SleepTheGod/Android_Pins](https://github.com/SleepTheGod/Android_Pins) - Android Most Common Pin List
 - [yesnt10/NuvioMobile-Enhanced](https://github.com/yesnt10/NuvioMobile-Enhanced) - Official Nuvio Mobile Enhanced Repository
@@ -3982,7 +4009,7 @@
 - [ACreTeam/ac-decomp](https://github.com/ACreTeam/ac-decomp) - Decompilation of Animal Crossing for the Nintendo GameCube.
 - [flyngmt/ACGC-PC-Port](https://github.com/flyngmt/ACGC-PC-Port) - Unofficial PC Port of Animal Crossing Gamecube
 - [elder-plinius/GLOSSOPETRAE](https://github.com/elder-plinius/GLOSSOPETRAE) - LINGUISTIC ENGINE FOR AI
-- [Willay24/nothing_android_kernel_sm7325](https://github.com/Willay24/nothing_android_kernel_sm7325) - For Rom build, use Branch : Lineage24-Rebase / Lineage24-B
+- [Willay24/nothing_android_kernel_sm7325](https://github.com/Willay24/nothing_android_kernel_sm7325) - For Rom build, use Branch : Lineage-Rom / Rom-KSU
 - [domiriel/peerforum](https://github.com/domiriel/peerforum) - Peergrading for Moodle forums
 - [TheMrKiko/peerforum](https://github.com/TheMrKiko/peerforum) - 
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
@@ -5455,6 +5482,10 @@
 - [femto-code/Raspberry-Pi-Dashboard](https://github.com/femto-code/Raspberry-Pi-Dashboard) - Web-App Dashboard to monitor Raspberry Pi hardware and software status. Nothing more than Webserver + PHP required.
 - [GoldDominik893/liberatube](https://github.com/GoldDominik893/liberatube) - Liberatube is a Privacy, Feature Rich alternative front end to YouTube.
 
+## portfolio 
+
+- [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
+
 ## postgresql 
 
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
@@ -5696,6 +5727,7 @@
 
 ## python3 
 
+- [Aravindha1234u/DisCTF](https://github.com/Aravindha1234u/DisCTF) - Discord Bot for Realtime Updates from CTFd
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [Y0oshi/Cursor-Trial-Reset](https://github.com/Y0oshi/Cursor-Trial-Reset) - Bypass Cursor IDE trial limits automatically. Updated for Cursor 2.x and 0.45+
 - [fit-project/fit](https://github.com/fit-project/fit) - FIT is a modular suite of Python applications for digital forensic acquisition of online contents such as web pages, emails, social media, and more. Each module can run independently or as part of the
