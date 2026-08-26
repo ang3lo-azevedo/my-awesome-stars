@@ -226,6 +226,7 @@
 - [redteam](#redteam)
 - [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
+- [robotics](#robotics)
 - [ruby](#ruby)
 - [rust](#rust)
 - [sass](#sass)
@@ -307,6 +308,7 @@
 
 ## agents 
 
+- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
@@ -381,6 +383,7 @@
 
 ## android 
 
+- [daboynb/Safetycore-placeholder](https://github.com/daboynb/Safetycore-placeholder) - Placeholder APK to permanently block Google SafetyCore installation and updates
 - [reveny/Android-Device-Trust](https://github.com/reveny/Android-Device-Trust) - Android device attestation and fingerprinting tool
 - [rushiranpise/shizuku-modules](https://github.com/rushiranpise/shizuku-modules) - 
 - [DhananjayBhosale/hilight-studio](https://github.com/DhananjayBhosale/hilight-studio) - Experimental Pixel 11 HiLight LED controller for Android 17.
@@ -887,6 +890,7 @@
 
 ## aws 
 
+- [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [teamdfir/sift](https://github.com/teamdfir/sift) - SIFT
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -1131,6 +1135,7 @@
 
 ## cloud 
 
+- [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [solkin/appteka-android](https://github.com/solkin/appteka-android) - 💊 Appteka is an alternative store for Android
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
@@ -1202,7 +1207,7 @@
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 emulator for Windows, Linux and MacOS
 - [OpenNMT/CTranslate2](https://github.com/OpenNMT/CTranslate2) - Fast inference engine for Transformer models
-- [NotRequiem/VMAware](https://github.com/NotRequiem/VMAware) - Advanced VM detection library and tool
+- [NotRequiem/VMAware](https://github.com/NotRequiem/VMAware) - State-of-the-art virtual machine detection
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [FlavioFS/ParsecSoda](https://github.com/FlavioFS/ParsecSoda) - Parsec Soda is a custom open-source game streaming app that integrates with Parsec API and is focused in Host experience.
 - [praydog/UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4.8 - 5.4)
@@ -1331,6 +1336,7 @@
 
 ## deployment 
 
+- [nix-community/colmena](https://github.com/nix-community/colmena) - A simple, stateless NixOS deployment tool [maintainer=@zhaofengli, @stepbrobd, @NickCao]
 - [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -1366,6 +1372,7 @@
 
 ## devops 
 
+- [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [ifd3f/infra](https://github.com/ifd3f/infra) - Personal cloud, dotfiles, and configurations omnirepo
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
@@ -1931,6 +1938,7 @@
 
 ## google 
 
+- [daboynb/Safetycore-placeholder](https://github.com/daboynb/Safetycore-placeholder) - Placeholder APK to permanently block Google SafetyCore installation and updates
 - [rushiranpise/sorry-google](https://github.com/rushiranpise/sorry-google) - Minimal stub APKs that block Google from automatically installing or updating unwanted system apps. Each stub declares the same package name as the target app but is signed with a different key, causi
 - [alex193a/Root-My-Pixel-Payloads](https://github.com/alex193a/Root-My-Pixel-Payloads) - Exploit payloads for Root My Pixel
 - [alex193a/Root-My-Pixel](https://github.com/alex193a/Root-My-Pixel) - Jailbreak supported Google Pixel phones with CVE-2026-43499
@@ -2530,11 +2538,12 @@
 ## library 
 
 - [libimobiledevice/libideviceactivation](https://github.com/libimobiledevice/libideviceactivation) - A library to handle the activation process of iOS devices
-- [NotRequiem/VMAware](https://github.com/NotRequiem/VMAware) - Advanced VM detection library and tool
+- [NotRequiem/VMAware](https://github.com/NotRequiem/VMAware) - State-of-the-art virtual machine detection
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 
 ## linux 
 
+- [rry0ku/veluna](https://github.com/rry0ku/veluna) - Ad-free desktop music streaming powered by YouTube. Stream millions of songs without subscriptions, bloat, or interruptions.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel™ phone flashing GUI utility with features.
 - [suominen/ghostlock](https://github.com/suominen/ghostlock) - Tracking GhostLock (CVE-2026-43499), the rtmutex/futex stack use-after-free
@@ -3142,6 +3151,7 @@
 
 ## open-source 
 
+- [rry0ku/veluna](https://github.com/rry0ku/veluna) - Ad-free desktop music streaming powered by YouTube. Stream millions of songs without subscriptions, bloat, or interruptions.
 - [DhananjayBhosale/hilight-studio](https://github.com/DhananjayBhosale/hilight-studio) - Experimental Pixel 11 HiLight LED controller for Android 17.
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [rama-io/mako](https://github.com/rama-io/mako) - Minimal, privacy-first Android launcher designed for focus, speed, and simplicity.
@@ -3230,6 +3240,7 @@
 
 ## osint 
 
+- [Faizan-Khanx/TelegramOSINT](https://github.com/Faizan-Khanx/TelegramOSINT) - A curated collection of tools, bots, and resources for Open Source Intelligence (OSINT) investigations on Telegram. Includes chat analysis methods, browser extensions, search engines, and secure pract
 - [Ekultek/WhatBreach](https://github.com/Ekultek/WhatBreach) - OSINT tool to find breached emails, databases, pastes, and relevant information
 - [0x0be/yesitsme](https://github.com/0x0be/yesitsme) - Simple OSINT script to find Instagram profiles by name and e-mail/phone
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
@@ -3266,6 +3277,10 @@
 
 ## others 
 
+- [User0332/rewards-farmer](https://github.com/User0332/rewards-farmer) - Automation for MS Rewards based on https://youtu.be/4qdPcMNaioA
+- [es3n1n/Eruditus](https://github.com/es3n1n/Eruditus) - Discord CTF helper bot
+- [soyeb-jim285/hyprfm](https://github.com/soyeb-jim285/hyprfm) - A lightweight Qt6/QML file manager for Hyprland
+- [Yaahua/vcam](https://github.com/Yaahua/vcam) - Android Virtual Camera — Xposed module replacing real camera feeds with video files
 - [R0rt1z2/fenrir](https://github.com/R0rt1z2/fenrir) - Let's control MediaTek's bootchain
 - [bjornmorten/ctfbridge](https://github.com/bjornmorten/ctfbridge) - A unified Python interface for all major CTF platforms
 - [bjornmorten/ctf-dl](https://github.com/bjornmorten/ctf-dl) - Fast and flexible challenge downloader for all major CTF platforms
@@ -3283,10 +3298,9 @@
 - [kaganisildak/androidemualtorvmescape](https://github.com/kaganisildak/androidemualtorvmescape) - 
 - [fvffv/samsung-feature-extension](https://github.com/fvffv/samsung-feature-extension) - LSPosed module that extends Samsung features, including My Files WebDAV, Expert RAW, NFC options, Bixby custom AI access, and One UI launcher icon and label customization.
 - [MocLG/Overlay-Guard](https://github.com/MocLG/Overlay-Guard) - Overlay Guard is a high-performance system utility designed to bring the advanced privacy features of the 2026 Galaxy S26 Ultra to Android 13+ devices.  By leveraging real-time sensor fusion and the W
-- [dcouple/terminal-minceraft](https://github.com/dcouple/terminal-minceraft) - Minecraft inside your terminal.
 - [Willay24/KernelSU](https://github.com/Willay24/KernelSU) - arm64-v8a, armeabi-v7a. no LKM support. upstream compliant driver for Linux 3.0 to 5.4+. check issues for guides
-- [soul-99/SU_IMD](https://github.com/soul-99/SU_IMD) - 
-- [hmartinez94/TVRelay](https://github.com/hmartinez94/TVRelay) - Identifies the movie's title via TheTVDB or TMDB, and opens it in the user's chosen player instead — Nuvio, Stremio
+- [soul-99/SU_IMD](https://github.com/soul-99/SU_IMD) - Use your blocked apps (banking apps, payment apps...) without turning developer settings, debugging, accessibility services or Shizuku off-on by hand everytime.
+- [hmartinez94/TVRelay](https://github.com/hmartinez94/TVRelay) - Identifies the movie's title via TheTVDB or TMDB, and opens it in the user's chosen player instead — Nuvio, Stremio, Jellyfin, or Wuplay
 - [woheller69/FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
 - [hatnetsec/NetworkMiner](https://github.com/hatnetsec/NetworkMiner) - The mirror of NetworkMiner
 - [epinna/tplmap](https://github.com/epinna/tplmap) - Server-Side Template Injection and Code Injection Detection and Exploitation Tool
@@ -3328,7 +3342,7 @@
 - [1013503897/Vector](https://github.com/1013503897/Vector) - Vector (JingMatrix LSPosed fork) with a traceless KPM hook backend: inline_hooker routed through a KernelPatch module (stealth-poc) with Dobby fallback.
 - [SleepTheGod/Vehicle-OSINT-Collection](https://github.com/SleepTheGod/Vehicle-OSINT-Collection) - A comprehensive list of tools that can be used for finding information related to a specific vehicle.
 - [elementor/elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
-- [Anatdx/YukiSU](https://github.com/Anatdx/YukiSU) - Kernel-based Android Root Solution
+- [Rouyashiki/YukiSU](https://github.com/Rouyashiki/YukiSU) - Kernel-based Android Root Solution
 - [VoltageOS-Devices/device_zuk_z2_plus](https://github.com/VoltageOS-Devices/device_zuk_z2_plus) - 
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [Lumince/singularity](https://github.com/Lumince/singularity) - meta horizon aio root app
@@ -5514,6 +5528,7 @@
 
 ## privacy 
 
+- [daboynb/Safetycore-placeholder](https://github.com/daboynb/Safetycore-placeholder) - Placeholder APK to permanently block Google SafetyCore installation and updates
 - [Codextor/better-zen](https://github.com/Codextor/better-zen) - Zen Browser (based on Firefox) config for speed, privacy, and security. Inspired from Betterfox.
 - [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Degoogled maps & turn-by-turn navigation for Android - MapLibre + Jetpack Compose, no Google Play Services
 - [fynks/email-aliasing-comparison](https://github.com/fynks/email-aliasing-comparison) - Compare 10+ email alias services by features, pricing, security, privacy, and ease of use.
@@ -5627,6 +5642,7 @@
 
 ## python 
 
+- [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel™ phone flashing GUI utility with features.
@@ -5802,6 +5818,7 @@
 
 ## react 
 
+- [rry0ku/veluna](https://github.com/rry0ku/veluna) - Ad-free desktop music streaming powered by YouTube. Stream millions of songs without subscriptions, bloat, or interruptions.
 - [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Local-first control plane for AI coding agents. Run and supervise Codex, Claude Code, OpenCode, OMP and PI across your machines.
 - [Criador-Horarios/Criador-Horarios](https://github.com/Criador-Horarios/Criador-Horarios) - Ferramenta para criar horários.
 - [walterlow/freecut](https://github.com/walterlow/freecut) - FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, re
@@ -5933,6 +5950,10 @@
 - [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
 - [jacopotediosi/GAppsMod](https://github.com/jacopotediosi/GAppsMod) - Tweak Google apps (e.g., Phone and Messages) to unlock hidden features (e.g., available only in some countries or on certain devices). Root is required.
 
+## robotics 
+
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+
 ## ruby 
 
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
@@ -5942,6 +5963,7 @@
 
 ## rust 
 
+- [rry0ku/veluna](https://github.com/rry0ku/veluna) - Ad-free desktop music streaming powered by YouTube. Stream millions of songs without subscriptions, bloat, or interruptions.
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [typst/pdf-writer](https://github.com/typst/pdf-writer) - A step-by-step PDF writer.
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable, lightweight, self-contained virtual machine.
@@ -6263,6 +6285,7 @@
 
 ## telegram 
 
+- [Faizan-Khanx/TelegramOSINT](https://github.com/Faizan-Khanx/TelegramOSINT) - A curated collection of tools, bots, and resources for Open Source Intelligence (OSINT) investigations on Telegram. Includes chat analysis methods, browser extensions, search engines, and secure pract
 - [Nekogram/Nekogram](https://github.com/Nekogram/Nekogram) - Open-source third-party Telegram client with not many but useful modifications.
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [monogram-android/monogram](https://github.com/monogram-android/monogram) - Native Telegram client for Android based on TDLib
@@ -6277,6 +6300,7 @@
 
 ## telegram-bot 
 
+- [Faizan-Khanx/TelegramOSINT](https://github.com/Faizan-Khanx/TelegramOSINT) - A curated collection of tools, bots, and resources for Open Source Intelligence (OSINT) investigations on Telegram. Includes chat analysis methods, browser extensions, search engines, and secure pract
 - [TheCaduceus/WARP-UNLIMITED-ADVANCED](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED) - Get unlimited amount of data in Cloudflare's WARP VPN🔥
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 
@@ -6647,6 +6671,7 @@
 
 ## windows 
 
+- [rry0ku/veluna](https://github.com/rry0ku/veluna) - Ad-free desktop music streaming powered by YouTube. Stream millions of songs without subscriptions, bloat, or interruptions.
 - [nshalabi/SysmonTools](https://github.com/nshalabi/SysmonTools) - Utilities for Sysmon
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
