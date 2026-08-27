@@ -439,7 +439,6 @@
 - [rawnaldclark/Stash](https://github.com/rawnaldclark/Stash) - Your Spotify + YouTube Music library & daily mixes. Free and open source forever.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
-- [mubashardev/WaEnhancer](https://github.com/mubashardev/WaEnhancer) - WhatsApp tools for Android
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [xfqwdsj/IAmNotADeveloper](https://github.com/xfqwdsj/IAmNotADeveloper) - A Xposed module for hiding Android developer-related switches status.
 - [SuperiorOS/manifest](https://github.com/SuperiorOS/manifest) - The Tracker 😎
@@ -2296,7 +2295,6 @@
 
 - [swisskyrepo/HardwareAllTheThings](https://github.com/swisskyrepo/HardwareAllTheThings) - Hardware/IOT Pentesting Wiki
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-- [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
 - [BruceDevices/firmware](https://github.com/BruceDevices/firmware) - Predatory ESP32 Firmware
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
@@ -2853,7 +2851,7 @@
 - [PinNaCode/magiskboot_build](https://github.com/PinNaCode/magiskboot_build) - unofficial magiskboot build system (and port) targeting multi-platform (does not require NDK)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
-- [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
+- [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 9.XX Support and macOS High Sierra ~ macOS Tahoe Support.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [InioX/matugen](https://github.com/InioX/matugen) - A cross-platform material you and base16 color generation tool
@@ -3277,6 +3275,8 @@
 
 ## others 
 
+- [qwq233/OhMyKeymint](https://github.com/qwq233/OhMyKeymint) - 
+- [FCSC-FR/shovel](https://github.com/FCSC-FR/shovel) - Web interface to explore Suricata EVE outputs
 - [User0332/rewards-farmer](https://github.com/User0332/rewards-farmer) - Automation for MS Rewards based on https://youtu.be/4qdPcMNaioA
 - [es3n1n/Eruditus](https://github.com/es3n1n/Eruditus) - Discord CTF helper bot
 - [soyeb-jim285/hyprfm](https://github.com/soyeb-jim285/hyprfm) - A lightweight Qt6/QML file manager for Hyprland
@@ -3299,7 +3299,7 @@
 - [fvffv/samsung-feature-extension](https://github.com/fvffv/samsung-feature-extension) - LSPosed module that extends Samsung features, including My Files WebDAV, Expert RAW, NFC options, Bixby custom AI access, and One UI launcher icon and label customization.
 - [MocLG/Overlay-Guard](https://github.com/MocLG/Overlay-Guard) - Overlay Guard is a high-performance system utility designed to bring the advanced privacy features of the 2026 Galaxy S26 Ultra to Android 13+ devices.  By leveraging real-time sensor fusion and the W
 - [Willay24/KernelSU](https://github.com/Willay24/KernelSU) - arm64-v8a, armeabi-v7a. no LKM support. upstream compliant driver for Linux 3.0 to 5.4+. check issues for guides
-- [soul-99/SU_IMD](https://github.com/soul-99/SU_IMD) - Use your blocked apps (banking apps, payment apps...) without turning developer settings, debugging, accessibility services or Shizuku off-on by hand everytime.
+- [soul-99/SU_IMD](https://github.com/soul-99/SU_IMD) - Use your blocked apps (banking apps, payment apps...) without turning developer settings, debugging, accessibility services, Display over other apps or Shizuku off-on by hand everytime.
 - [hmartinez94/TVRelay](https://github.com/hmartinez94/TVRelay) - Identifies the movie's title via TheTVDB or TMDB, and opens it in the user's chosen player instead — Nuvio, Stremio, Jellyfin, or Wuplay
 - [woheller69/FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
 - [hatnetsec/NetworkMiner](https://github.com/hatnetsec/NetworkMiner) - The mirror of NetworkMiner
@@ -3415,7 +3415,7 @@
 - [samueldr/mobile-nixos-extra-devices](https://github.com/samueldr/mobile-nixos-extra-devices) - Extra devices for Mobile NixOS — Everything here is experimental, and probably not the best way to use the devices.
 - [vanilla-mobile-nixos/vanilla-mobile-nixos](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos) - Run standard NixOS on your mobile devices!
 - [0xKyran/nixos-mobile](https://github.com/0xKyran/nixos-mobile) - 
-- [liongalahad/nuviotv-morphe-patches](https://github.com/liongalahad/nuviotv-morphe-patches) - Prerelease Morphe patches for the official NuvioTV Android application
+- [liongalahad/liongalahad-nuviotv-morphe-patches](https://github.com/liongalahad/liongalahad-nuviotv-morphe-patches) - Prerelease Morphe patches for the official NuvioTV Android application
 - [ExTV/nethunter-spacewar](https://github.com/ExTV/nethunter-spacewar) - Kali NetHunter Magisk module for Nothing Phone 1 (Spacewar)
 - [roieeedouek/unboxed-android](https://github.com/roieeedouek/unboxed-android) - App to interact with torbox API
 - [VD171/VD-Infos](https://github.com/VD171/VD-Infos) - The VD Infos app reads several of these details and information to show you an example of what can be captured from your device in use.​ A.k.a VDInfos, VDInfo, VD Info.
@@ -3462,6 +3462,7 @@
 - [crdroidandroid/vendor_nothing_camera-Spacewar](https://github.com/crdroidandroid/vendor_nothing_camera-Spacewar) - 
 - [xxblebleblexx/nomount-installer](https://github.com/xxblebleblexx/nomount-installer) - NoMount is a kernel-based file injection and path redirection framework for Android kernels.
 - [ZQZCC/NoMount](https://github.com/ZQZCC/NoMount) - NoMount is a kernel-based file injection and path redirection framework for Android kernels.
+- [maxsteeel/nomount](https://github.com/maxsteeel/nomount) - NoMount is a VFS (Virtual File System) path redirection framework for Android kernels.
 - [libxzr/KonaBess](https://github.com/libxzr/KonaBess) - A GPU overclock & undervolt tool for various Snapdragon chips
 - [crdroidandroid/android_vendor_bcr](https://github.com/crdroidandroid/android_vendor_bcr) - 
 - [chenxiaolong/BCR](https://github.com/chenxiaolong/BCR) - A Basic Call Recorder for rooted Android devices
@@ -3826,7 +3827,7 @@
 - [mrphrazer/reverser_ai](https://github.com/mrphrazer/reverser_ai) - Provides automated reverse engineering assistance through the use of local large language models (LLMs) on consumer hardware.
 - [HexRaysSA/ida-hcli](https://github.com/HexRaysSA/ida-hcli) - Hex-Rays CLI (HCLI)
 - [HexRaysSA/ida-chat-plugin](https://github.com/HexRaysSA/ida-chat-plugin) - 
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
 - [ikarus23/kiosk-mode-breakout](https://github.com/ikarus23/kiosk-mode-breakout) - A collection of tips & tricks on how to escape a kiosk mode environment
 - [foreni-packages/hachoir-subfile](https://github.com/foreni-packages/hachoir-subfile) - hachoir-subfile : Find subfile in any binary stream
 - [cdgriffith/puremagic](https://github.com/cdgriffith/puremagic) - Pure python implementation of identifying files based off their magic numbers
@@ -4660,7 +4661,6 @@
 - [cygnusx-1-org/Discoverium](https://github.com/cygnusx-1-org/Discoverium) - Android app for discovering open source Android apps
 - [crimera/piko](https://github.com/crimera/piko) - morphe patches for twitter and instagram
 - [NextAlone/Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
-- [crimera/twitter-apk](https://github.com/crimera/twitter-apk) - Apk builds of piko patches
 - [cygnusx-1-org/continuum](https://github.com/cygnusx-1-org/continuum) - A Reddit client for Android
 - [EdenwareApps/Megacubo](https://github.com/EdenwareApps/Megacubo) - 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes.
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
@@ -5015,7 +5015,6 @@
 - [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine
 - [ang3lo-azevedo/cursor-limit-reset](https://github.com/ang3lo-azevedo/cursor-limit-reset) - This tool is developed for resetting Cursor editor device IDs to resolve account restrictions when switching accounts or during trial periods.
 - [yx-elite/cursor-limit-reset](https://github.com/yx-elite/cursor-limit-reset) - This tool is developed for resetting Cursor editor device IDs to resolve account restrictions when switching accounts or during trial periods.
-- [daviDarthemis/acclan](https://github.com/daviDarthemis/acclan) - wine focused on running arm64ec on mobile devices
 - [Torxed/archinstall-aur](https://github.com/Torxed/archinstall-aur) - Archinstall plugin to handle AUR packages
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [kvz/bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
@@ -5540,7 +5539,6 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [kaleedtc/Nitterium](https://github.com/kaleedtc/Nitterium) - A privacy-focused Android app and wrapper for Nitter, allowing you to browse Twitter/X content without an account and subscribe to your favorite user profiles.
 - [Offshore-CAT/Offshore.CAT](https://github.com/Offshore-CAT/Offshore.CAT) - Offshore.CAT provides DMCA-ignored offshore hosting solutions. Built with HTML and CSS, it offers an intuitive interface for seamless interaction and data presentation. The project aims to offer relia
-- [mubashardev/WaEnhancer](https://github.com/mubashardev/WaEnhancer) - WhatsApp tools for Android
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [pritkr/predirect](https://github.com/pritkr/predirect) - A manifest v3 web extension with minimal permissions to automatically redirect to privacy friendly frontends. ⭐️ Star to support our work!
 - [JakeSwiz/SwizGuard](https://github.com/JakeSwiz/SwizGuard) - A self-hosted "Stealth VPN" implementation, forked from xray-core and WireGuard. It makes your traffic look like normal TLS traffic but little does your ISP know there is an entire encrypted WireGuard
@@ -6363,7 +6361,6 @@
 
 ## testing 
 
-- [maxsteeel/nomount](https://github.com/maxsteeel/nomount) - NoMount is a VFS (Virtual File System) path redirection framework for Android kernels.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 
