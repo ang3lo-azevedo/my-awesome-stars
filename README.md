@@ -308,7 +308,7 @@
 
 ## agents 
 
-- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent
+- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Agentic Development Environment based on OpenCode AI agent
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
@@ -318,7 +318,7 @@
 ## ai 
 
 - [nunziopostdoctoral988/ats-resume-checker](https://github.com/nunziopostdoctoral988/ats-resume-checker) - Analyze resumes against ATS requirements using a local, transparent tool that runs entirely in your browser.
-- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent
+- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Agentic Development Environment based on OpenCode AI agent
 - [freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy](https://github.com/freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy) - Java Android Magisk Burp Objection Root Emulator Easy (JAMBOREE)
 - [IAHispano/Applio](https://github.com/IAHispano/Applio) - A simple, high-quality voice conversion tool focused on ease of use and performance.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -444,7 +444,7 @@
 - [SuperiorOS/manifest](https://github.com/SuperiorOS/manifest) - The Tracker 😎
 - [androguard/androguard](https://github.com/androguard/androguard) - Reverse engineering and pentesting for Android applications
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-- [premnirmal/StockTicker](https://github.com/premnirmal/StockTicker) - A resizable widget that shows your financial portfolio on your android home screen
+- [premnirmal/StockTicker](https://github.com/premnirmal/StockTicker) - A resizable widget that shows your financial portfolio on your iOS or Android home screen
 - [vishal2376/snaptick](https://github.com/vishal2376/snaptick) - Snaptick is an MVVM Jetpack Compose app, offering ad-free task management with a built-in pomodoro timer to help you organize your daily plans
 - [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Android feed reader app
 - [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
@@ -1681,7 +1681,7 @@
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
-- [premnirmal/StockTicker](https://github.com/premnirmal/StockTicker) - A resizable widget that shows your financial portfolio on your android home screen
+- [premnirmal/StockTicker](https://github.com/premnirmal/StockTicker) - A resizable widget that shows your financial portfolio on your iOS or Android home screen
 - [Pool-Of-Tears/GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.
 
 ## firebase 
@@ -2456,7 +2456,7 @@
 - [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) - Check updates for Android apps, Magisk modules and more!
 - [AntarcDev/Kura](https://github.com/AntarcDev/Kura) - 蔵 Kura: A modern, native Android client for Kemono
 - [rawnaldclark/Stash](https://github.com/rawnaldclark/Stash) - Your Spotify + YouTube Music library & daily mixes. Free and open source forever.
-- [premnirmal/StockTicker](https://github.com/premnirmal/StockTicker) - A resizable widget that shows your financial portfolio on your android home screen
+- [premnirmal/StockTicker](https://github.com/premnirmal/StockTicker) - A resizable widget that shows your financial portfolio on your iOS or Android home screen
 - [vishal2376/snaptick](https://github.com/vishal2376/snaptick) - Snaptick is an MVVM Jetpack Compose app, offering ad-free task management with a built-in pomodoro timer to help you organize your daily plans
 - [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Android feed reader app
 - [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) - An application to write OS images to USB drives, on Android, no root required.
@@ -3275,6 +3275,15 @@
 
 ## others 
 
+- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
+- [external-mirrors/bird.makeup](https://github.com/external-mirrors/bird.makeup) - 
+- [willtho89/librarySync](https://github.com/willtho89/librarySync) - Sync between Letterboxd, Trakt, Simkl and more
+- [kopiro/letterboxd-sync](https://github.com/kopiro/letterboxd-sync) - 
+- [FosanzDev/LetterboxdSync](https://github.com/FosanzDev/LetterboxdSync) - WebApp to sync Letterboxd lists between members. Uses web-scraping because dumb rules on letterboxd API usage
+- [Mini0com/SIM-Jacker](https://github.com/Mini0com/SIM-Jacker) - S@T Attack: Vulnerability in simcard can let attacker globally control millions of mobile phones...
+- [wsl-3/psSpeed](https://github.com/wsl-3/psSpeed) - psSpy by WSL3: The ultimate exploit accelerator for the PS5. Bypasses the 40-minute slow brute-force memory search by intelligently intercepting and feeding memory addresses on the fly, reducing the e
+- [alangrainger/immich-person-to-album](https://github.com/alangrainger/immich-person-to-album) - Automatically add people to an album, so you can then share the album with another user.
+- [AndroidPatch/magic_mount](https://github.com/AndroidPatch/magic_mount) - For APatch build-in mount
 - [qwq233/OhMyKeymint](https://github.com/qwq233/OhMyKeymint) - 
 - [FCSC-FR/shovel](https://github.com/FCSC-FR/shovel) - Web interface to explore Suricata EVE outputs
 - [User0332/rewards-farmer](https://github.com/User0332/rewards-farmer) - Automation for MS Rewards based on https://youtu.be/4qdPcMNaioA
@@ -3299,7 +3308,7 @@
 - [fvffv/samsung-feature-extension](https://github.com/fvffv/samsung-feature-extension) - LSPosed module that extends Samsung features, including My Files WebDAV, Expert RAW, NFC options, Bixby custom AI access, and One UI launcher icon and label customization.
 - [MocLG/Overlay-Guard](https://github.com/MocLG/Overlay-Guard) - Overlay Guard is a high-performance system utility designed to bring the advanced privacy features of the 2026 Galaxy S26 Ultra to Android 13+ devices.  By leveraging real-time sensor fusion and the W
 - [Willay24/KernelSU](https://github.com/Willay24/KernelSU) - arm64-v8a, armeabi-v7a. no LKM support. upstream compliant driver for Linux 3.0 to 5.4+. check issues for guides
-- [soul-99/SU_IMD](https://github.com/soul-99/SU_IMD) - Use your blocked apps (banking apps, payment apps...) without turning developer settings, debugging, accessibility services, Display over other apps or Shizuku off-on by hand everytime.
+- [soul-99/SU_IMD](https://github.com/soul-99/SU_IMD) - Upcoming Features: 🌟Autohide and auto unhide functions, 🌟A 'Hide settings' QS toggle.
 - [hmartinez94/TVRelay](https://github.com/hmartinez94/TVRelay) - Identifies the movie's title via TheTVDB or TMDB, and opens it in the user's chosen player instead — Nuvio, Stremio, Jellyfin, or Wuplay
 - [woheller69/FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
 - [hatnetsec/NetworkMiner](https://github.com/hatnetsec/NetworkMiner) - The mirror of NetworkMiner
@@ -3483,7 +3492,7 @@
 - [ansemjo/truepolyglot](https://github.com/ansemjo/truepolyglot) - Create polyglot files, which are valid PDF and ZIP simultaneously. See POC||GTFO 07. (forked from git.hackade.org)
 - [Thiasap/oppo-pgem10-ghostlock](https://github.com/Thiasap/oppo-pgem10-ghostlock) - OPPO Find X6 Pro GhostLock (CVE-2026-43499) exploit adaptation
 - [cuteaplane/GhostLock-for-OnePlus15T](https://github.com/cuteaplane/GhostLock-for-OnePlus15T) - （CVE-2026-43499）内核漏洞利用程序，适用于未解锁 Bootloader 的一加15T.
-- [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app) - GhostLock One-Tap Execution App
+- [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app) - GhostLock One-Tap Execution App (CVE-2026-43499)
 - [pubglite55/oppo-ghostlock](https://github.com/pubglite55/oppo-ghostlock) - OPPO Find N2 GhostLock (CVE-2026-43499) exploit adaptation
 - [Colorful-glassblock/duchamp-root](https://github.com/Colorful-glassblock/duchamp-root) - Xiaomi K70e (duchamp) one-click root via CVE-2026-43499 (IonStack) + KernelSU integration
 - [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia) - PoCs and exploits for CVEs discovered by NebuSec.
@@ -3496,7 +3505,7 @@
 - [PixelPusher247/morphe-patches](https://github.com/PixelPusher247/morphe-patches) - 
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted key
 - [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, 
-- [JJDizz1L/NuvioLinux](https://github.com/JJDizz1L/NuvioLinux) - A Linux-first desktop media app. Browse, organize, and play media from sources you add.
+- [JJDizz1L/NuvioLinux-unofficial](https://github.com/JJDizz1L/NuvioLinux-unofficial) - Arch Linux packaging for Nuvio (NuvioDesktop) — packages built from unmodified upstream source; AUR + signed releases
 - [InoriRus/Kyty](https://github.com/InoriRus/Kyty) - PS4 & PS5 emulator
 - [SleepTheGod/WP-RedTeam-Suite](https://github.com/SleepTheGod/WP-RedTeam-Suite) - WordPress Penetration Testing Suite - Red Team Edition Complete CTF & Security Assessment Tool Includes: 5000+ endpoints, 1000+ plugin checks, backdoor detection, exploit automation.
 - [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads) - Signed device profiles, mobile exploit payloads, and KernelSU artifacts for Root My Galaxy
@@ -3762,7 +3771,7 @@
 - [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [CloudWaddie/LMArenaBridge](https://github.com/CloudWaddie/LMArenaBridge) - LMArena scripts to enable hosting an OpenAI compatible API endpoint that interacts with models on LMArena including experimental support for stealth models.
-- [arg-inescid/hydra-scheduler](https://github.com/arg-inescid/hydra-scheduler) - 
+- [cloudsys-dpss-inescid/hydra-scheduler](https://github.com/cloudsys-dpss-inescid/hydra-scheduler) - 
 - [Dp3seoQne/peeko-releases](https://github.com/Dp3seoQne/peeko-releases) - 
 - [nix-community/nur-combined](https://github.com/nix-community/nur-combined) - A repository of NUR that combines all repositories [maintainer=@Pandapip1]
 - [augustalabs/arcus-artifacts](https://github.com/augustalabs/arcus-artifacts) - Public artifacts for Arcus challenges
@@ -5640,6 +5649,7 @@
 
 ## python 
 
+- [romainrbr/immich-face-to-album](https://github.com/romainrbr/immich-face-to-album) - Tool allowing to sync Immich's user face to a specific album
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
