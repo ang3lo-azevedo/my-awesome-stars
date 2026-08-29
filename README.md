@@ -1967,6 +1967,7 @@
 
 ## gui 
 
+- [crmne/fastpotify](https://github.com/crmne/fastpotify) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [AstraeLabs/VibraVid](https://github.com/AstraeLabs/VibraVid) - Downloader for Movie, Series, Anime, Album, Song + DASH/HLS/ISM/MP4.
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
 - [LMLK-seal/Windows2Go](https://github.com/LMLK-seal/Windows2Go) - A professional-grade application for creating portable, bootable Windows To Go installations on USB drives.
@@ -2541,6 +2542,8 @@
 
 ## linux 
 
+- [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
+- [crmne/fastpotify](https://github.com/crmne/fastpotify) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [rry0ku/veluna](https://github.com/rry0ku/veluna) - Ad-free desktop music streaming powered by YouTube. Stream millions of songs without subscriptions, bloat, or interruptions.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel™ phone flashing GUI utility with features.
@@ -2788,6 +2791,7 @@
 
 ## mac 
 
+- [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [winesapOS/winesapOS](https://github.com/winesapOS/winesapOS) - winesapOS - Game with Linux anywhere, no installation required!
 - [ikus060/minarca](https://github.com/ikus060/minarca) - Self-hosted opensource data backup for Linux, Windows and Mac. Git mirror of https://gitlab.com/ikus-soft/minarca
@@ -2807,6 +2811,7 @@
 
 ## macos 
 
+- [crmne/fastpotify](https://github.com/crmne/fastpotify) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
@@ -3003,6 +3008,7 @@
 
 ## music 
 
+- [crmne/fastpotify](https://github.com/crmne/fastpotify) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - 🌸Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources. 🌼🎵
 - [neodb-social/neodb](https://github.com/neodb-social/neodb) - 🧩 a self-hosted server tracking what you read/watch/listen/play, powering a global distributed community federating via ActivityPub and ATProto.
 - [wotakumoe/wotaku](https://github.com/wotakumoe/wotaku) - An otaku index for everything! ⭐ Star the project if you like it!
@@ -3275,6 +3281,8 @@
 
 ## others 
 
+- [mircowuffwuff/sharpdroid](https://github.com/mircowuffwuff/sharpdroid) - an android app that runs SharpEmu, a PS5 emulator
+- [stappmus/Omarchy-Spotify](https://github.com/stappmus/Omarchy-Spotify) - Spotify in Quickshell—not Chromium. About 60 MB of RAM vs ~950 MB for the desktop client, with Omarchy themes, a built-in mini player, keyboard shortcuts, and Omasing lyrics.
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
 - [external-mirrors/bird.makeup](https://github.com/external-mirrors/bird.makeup) - 
 - [willtho89/librarySync](https://github.com/willtho89/librarySync) - Sync between Letterboxd, Trakt, Simkl and more
@@ -5971,6 +5979,7 @@
 
 ## rust 
 
+- [crmne/fastpotify](https://github.com/crmne/fastpotify) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [rry0ku/veluna](https://github.com/rry0ku/veluna) - Ad-free desktop music streaming powered by YouTube. Stream millions of songs without subscriptions, bloat, or interruptions.
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [typst/pdf-writer](https://github.com/typst/pdf-writer) - A step-by-step PDF writer.
@@ -6598,6 +6607,7 @@
 
 ## vpn 
 
+- [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [dnstt-xyz/dnstt_xyz_app](https://github.com/dnstt-xyz/dnstt_xyz_app) - Multi-platform dnstt client for restricted networks like Iran, China, Russia or maybe your mom firewall
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [JakeSwiz/SwizGuard](https://github.com/JakeSwiz/SwizGuard) - A self-hosted "Stealth VPN" implementation, forked from xray-core and WireGuard. It makes your traffic look like normal TLS traffic but little does your ISP know there is an entire encrypted WireGuard
@@ -6678,6 +6688,8 @@
 
 ## windows 
 
+- [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
+- [crmne/fastpotify](https://github.com/crmne/fastpotify) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [rry0ku/veluna](https://github.com/rry0ku/veluna) - Ad-free desktop music streaming powered by YouTube. Stream millions of songs without subscriptions, bloat, or interruptions.
 - [nshalabi/SysmonTools](https://github.com/nshalabi/SysmonTools) - Utilities for Sysmon
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
