@@ -1077,6 +1077,7 @@
 
 ## cli 
 
+- [openclaw/wacli](https://github.com/openclaw/wacli) - WhatsApp CLI: sync, search, send
 - [gl0bal01/ctfd-warboard](https://github.com/gl0bal01/ctfd-warboard) - A gentle CTFd parser designed to minimize load on CTF platforms. CLI + Discord bot for small-team collaboration, with automatic git sync to private repos.
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [vashhdev/onepace](https://github.com/vashhdev/onepace) - I made a script to watch One Pace, efficiently through your terminal with minimalistic TUI. I made it because I didn't want to download the files cause I watch quickly and then remove those files, als
@@ -1258,6 +1259,8 @@
 
 ## css 
 
+- [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
+- [IT-BAER/proxmorph](https://github.com/IT-BAER/proxmorph) - CSS themes for Proxmox VE, PBS, and PDM - integrates with the native Color Theme selector. Catppuccin, Dracula, Nord, Gruvbox, Solarized, Tokyo Night, UniFi, and more.
 - [fynks/toolz](https://github.com/fynks/toolz) - A collection of personal tools :)
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
@@ -1871,6 +1874,7 @@
 
 ## go 
 
+- [openclaw/wacli](https://github.com/openclaw/wacli) - WhatsApp CLI: sync, search, send
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer)
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [mainlink0435/warpbox](https://github.com/mainlink0435/warpbox) - A high-performance WebDAV proxy for TorBox
@@ -2043,6 +2047,8 @@
 
 ## hacktoberfest 
 
+- [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
+- [Weilbyte/PVEDiscordDark](https://github.com/Weilbyte/PVEDiscordDark) - A Discord-like dark theme for the Proxmox Web UI.
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [hfz1337/Eruditus](https://github.com/hfz1337/Eruditus) - Discord CTF helper bot
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -2209,7 +2215,7 @@
 ## http 
 
 - [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - bgscan is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
-- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)
+- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 
@@ -3281,6 +3287,12 @@
 
 ## others 
 
+- [jprx/darwin-vm](https://github.com/jprx/darwin-vm) - Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
+- [Gageformer/Ember](https://github.com/Gageformer/Ember) - A fast PS1 for PS2 solution
+- [zicochaos/omarchy-nix](https://github.com/zicochaos/omarchy-nix) - NixOS port of basecamp/omarchy (Quattro) — vendored upstream, not rewritten
+- [MSNightmare/GreenSection](https://github.com/MSNightmare/GreenSection) - Nvidia GreenSection Memory Corruption 0day vulnerability
+- [euzu/tuliprox](https://github.com/euzu/tuliprox) - Flexible IPTV playlist processor & proxy in Rust 🦀 - supports M3U, Xtream Codes, HDHomeRun, Plex, Emby & Jellyfin. Filtering, merging, scheduling & web delivery.
+- [MoldyTaint/Cinephage](https://github.com/MoldyTaint/Cinephage) - The AIO solution to your self hosted media gathering needs
 - [mircowuffwuff/sharpdroid](https://github.com/mircowuffwuff/sharpdroid) - an android app that runs SharpEmu, a PS5 emulator
 - [stappmus/Omarchy-Spotify](https://github.com/stappmus/Omarchy-Spotify) - Spotify in Quickshell—not Chromium. About 60 MB of RAM vs ~950 MB for the desktop client, with Omarchy themes, a built-in mini player, keyboard shortcuts, and Omasing lyrics.
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
@@ -4654,7 +4666,7 @@
 - [LITUATUI/M3UPT](https://github.com/LITUATUI/M3UPT) - IPTV playlist in M3U format with TV and radio stations in Portuguese. Public and official streams only. Made in 🇵🇹 Portugal.
 - [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - HyperOS enhancement module - Make HyperOS Great Again!
 - [f0nZ/epg-tv-portuguesa](https://github.com/f0nZ/epg-tv-portuguesa) - Guia de TV da televisão portuguesa para IPTV
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
+- [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [shermand100/PiNodeXMR](https://github.com/shermand100/PiNodeXMR) - Monero Node for Single Board Computers with Web Interface and additional tools pre-configured. Self Installing.
 - [Geocld/XStreamingDesktop](https://github.com/Geocld/XStreamingDesktop) - Xbox streaming application, XStreaming client for windows/macOS/Linux(steamOS).
 - [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern & fast web-based email client
@@ -5025,7 +5037,7 @@
 - [pojntfx/multiplex](https://github.com/pojntfx/multiplex) - Watch torrents with your friends.
 - [shobrook/wut](https://github.com/shobrook/wut) - A terminal assistant for the hopelessly confused
 - [CraftyBoss/SuperMarioOdysseyOnline](https://github.com/CraftyBoss/SuperMarioOdysseyOnline) - Online Multiplayer Mod for Super Mario Odyssey.
-- [zelikos/davincibox](https://github.com/zelikos/davincibox) - Container for DaVinci Resolve installation and runtime dependencies on Linux
+- [zelikos/davincibox](https://github.com/zelikos/davincibox) - Container for DaVinci Resolve installation and runtime dependencies on Linux. Mirrored to https://codeberg.org/zelikos/davincibox
 - [jiangcuo/pxvirt](https://github.com/jiangcuo/pxvirt) - A fork of Proxmox VE for ARM and LoongArch architectures
 - [ang3lo-azevedo/showtime](https://github.com/ang3lo-azevedo/showtime) - Get upcoming schedules from Trakt. Integrate it with your Calendar of choice!
 - [ang3lo-azevedo/Pumpkin](https://github.com/ang3lo-azevedo/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
@@ -5979,6 +5991,7 @@
 
 ## rust 
 
+- [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is a Nix-powered, open source, high-performance build cache and remote execution server, compatible with Bazel, Soong, Pants, Buck2, Reclient, and other RE-compatible build systems. It offe
 - [crmne/fastpotify](https://github.com/crmne/fastpotify) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [rry0ku/veluna](https://github.com/rry0ku/veluna) - Ad-free desktop music streaming powered by YouTube. Stream millions of songs without subscriptions, bloat, or interruptions.
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
