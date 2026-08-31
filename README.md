@@ -361,6 +361,7 @@
 
 ## ai-agents 
 
+- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Native-session control plane for Codex, Claude Code, OpenCode, OMP and PI. Run, resume and hand off coding sessions across your machines.
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - [CyberChef-MCP] Model Context Protocol Server for CyberChef ... exposing GCHQ's "Cyber Swiss Army Knife" as 463+ executable AI agent tools spanning encryption, encoding, compression, and forensic data
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
@@ -418,7 +419,7 @@
 - [Riteshp2001/mpvRx](https://github.com/Riteshp2001/mpvRx) - The most Powerful, Efficient + Feature-packed media player fork you’ll find anywhere.
 - [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) - A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt
 - [slapperwan/gh4a](https://github.com/slapperwan/gh4a) - Github client for Android
-- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Local-first control plane for AI coding agents. Run and supervise Codex, Claude Code, OpenCode, OMP and PI across your machines.
+- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Native-session control plane for Codex, Claude Code, OpenCode, OMP and PI. Run, resume and hand off coding sessions across your machines.
 - [frankheat/noxen](https://github.com/frankheat/noxen) - Android interception tool for component communication and attack-surface mapping
 - [HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - 🌸Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources. 🌼🎵
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
@@ -549,7 +550,7 @@
 - [shmykelsa/extrasforaa-release](https://github.com/shmykelsa/extrasforaa-release) - Repo with just the APKs of Extras For Android Auto. Substratum theme to personalize Android Auto's look.
 - [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides
 - [phstudio2/FreeTV](https://github.com/phstudio2/FreeTV) - Free TV app
-- [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) - 📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with Syncplay PC. Fully written in Kotlin and Compose multiplatform.
+- [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) - 📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with the official Syncplay for PC. Fully written in Kotlin and Compose 
 - [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 - [rushiranpise/detection](https://github.com/rushiranpise/detection) - Collection of Various Root Detection Apps for Android
@@ -588,6 +589,7 @@
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [sidex15/susfs4ksu-module](https://github.com/sidex15/susfs4ksu-module) - An addon root hiding service for KernelSU
 - [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
+- [WildKernels/GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS) - GKI2 5.10+ Kernels built with KernelSU & SUSFS
 - [PinNaCode/magiskboot_build](https://github.com/PinNaCode/magiskboot_build) - unofficial magiskboot build system (and port) targeting multi-platform (does not require NDK)
 - [oxters168/Pluvia](https://github.com/oxters168/Pluvia) - Lightweight unofficial Steam client for Android
 - [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) - GitHub reimagined with Material You
@@ -1067,6 +1069,7 @@
 ## claude-code 
 
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
+- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Native-session control plane for Codex, Claude Code, OpenCode, OMP and PI. Run, resume and hand off coding sessions across your machines.
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
@@ -1077,6 +1080,8 @@
 
 ## cli 
 
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
 - [openclaw/wacli](https://github.com/openclaw/wacli) - WhatsApp CLI: sync, search, send
 - [gl0bal01/ctfd-warboard](https://github.com/gl0bal01/ctfd-warboard) - A gentle CTFd parser designed to minimize load on CTF platforms. CLI + Discord bot for small-team collaboration, with automatic git sync to private repos.
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
@@ -1356,6 +1361,7 @@
 ## developer-tools 
 
 - [Amethyst-szs/smo-lunakit](https://github.com/Amethyst-szs/smo-lunakit) - A Mario Odyssey tool built off Dear ImGui for developers, level builders, glitch hunters, and everyone in-between
+- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Native-session control plane for Codex, Claude Code, OpenCode, OMP and PI. Run, resume and hand off coding sessions across your machines.
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [brunos3d/discord-enable-devtools](https://github.com/brunos3d/discord-enable-devtools) - 🚀 zx - Bring your Discord's devtools back to life (again)
@@ -1384,6 +1390,9 @@
 
 ## discord 
 
+- [SpikeHD/Flooed](https://github.com/SpikeHD/Flooed) - Tiny-ER alternative Discord client with themes, plugins and desktop features, all while using your exising browser installation
+- [Zexolver/Vorion](https://github.com/Zexolver/Vorion) - [LINUX ONLY] Fork of Dorion meant to package with its own WebRTC to allow for voice support without lowering system security.
+- [japandotorg/LemonCord](https://github.com/japandotorg/LemonCord) - A fast & light weight Discord Client made with love using the Rust programming language.
 - [hfz1337/Eruditus](https://github.com/hfz1337/Eruditus) - Discord CTF helper bot
 - [NullPxl/NullCTF](https://github.com/NullPxl/NullCTF) - A Discord bot that provides ctf tools for collaboration in Discord servers!
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
@@ -1439,6 +1448,7 @@
 
 ## docker 
 
+- [zahidcakici/opentainer](https://github.com/zahidcakici/opentainer) - An ultra-lightweight, high-performance desktop container management application
 - [dannyvfilms/Floppy](https://github.com/dannyvfilms/Floppy) - Self-hosted all-in-one media tracker and Trakt alternative for movies, TV, anime, books, games, music, and podcasts.
 - [selmant/foreseerr](https://github.com/selmant/foreseerr) - Foreseerr — Seerr fork with in-app Trakt discovery, watched/rate actions, and multi-source ratings for Jellyfin, Plex, and Emby.
 - [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS) - A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty
@@ -1569,6 +1579,7 @@
 
 ## dotnet 
 
+- [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
 - [Hegxib/SteamTools-Deep-Analyze](https://github.com/Hegxib/SteamTools-Deep-Analyze) - Comprehensive Technical Analysis of SteamTools Architecture + Extracted Artifacts & Decompiled Components
 - [GSDragoon/RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Radeon Software Slimmer is a utility to trim down the bloat with Radeon Software for AMD GPUs on Microsoft Windows.
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
@@ -1903,6 +1914,7 @@
 
 ## golang 
 
+- [Kumneger0/yt-tracks](https://github.com/Kumneger0/yt-tracks) - listen to youtube music in ur terminal
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [mainlink0435/warpbox](https://github.com/mainlink0435/warpbox) - A high-performance WebDAV proxy for TorBox
@@ -1971,6 +1983,7 @@
 
 ## gui 
 
+- [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software mainly based on aircrack-ng tools suite
 - [crmne/fastpotify](https://github.com/crmne/fastpotify) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [AstraeLabs/VibraVid](https://github.com/AstraeLabs/VibraVid) - Downloader for Movie, Series, Anime, Album, Song + DASH/HLS/ISM/MP4.
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
@@ -2164,6 +2177,7 @@
 
 ## home-assistant 
 
+- [FezVrasta/ha-trakt-scrobbler](https://github.com/FezVrasta/ha-trakt-scrobbler) - Scrobble Home Assistant media players to Trakt. Identifies the exact episode from the player's thumbnail, works with the Apple TV.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
@@ -2288,7 +2302,7 @@
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
-- [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) - 📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with Syncplay PC. Fully written in Kotlin and Compose multiplatform.
+- [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) - 📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with the official Syncplay for PC. Fully written in Kotlin and Compose 
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [numandev1/react-native-keys](https://github.com/numandev1/react-native-keys) - 🔐 Protected .ENVs variables in React Native 🚀✨
 - [MuhammedKpln/react-native-chatty](https://github.com/MuhammedKpln/react-native-chatty) - 💬 Full-featured high performance chat UI for React Native
@@ -2326,7 +2340,7 @@
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [arsLan4k1390/Cherrygram](https://github.com/arsLan4k1390/Cherrygram) - 
-- [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) - 📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with Syncplay PC. Fully written in Kotlin and Compose multiplatform.
+- [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) - 📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with the official Syncplay for PC. Fully written in Kotlin and Compose 
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [varunsalian/RealDebrid-Torrent-Stream](https://github.com/varunsalian/RealDebrid-Torrent-Stream) - A simple command line tool to stream movies from torrents via Real-Debrid in VLC media player
@@ -2417,7 +2431,7 @@
 - [IacobIonut01/ReFra](https://github.com/IacobIonut01/ReFra) - Media Gallery app for Android made with Jetpack Compose
 - [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid) - a clean, practical, ad-free IPTV app
 - [egorikftp/RadioTok](https://github.com/egorikftp/RadioTok) - Listen to random radio from the whole world. Build with Compose and Media API, support Android Auto.
-- [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) - 📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with Syncplay PC. Fully written in Kotlin and Compose multiplatform.
+- [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) - 📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with the official Syncplay for PC. Fully written in Kotlin and Compose 
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) - A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune
 - [zt64/Hyperion](https://github.com/zt64/Hyperion) - An alternative YouTube front-end
@@ -2494,7 +2508,7 @@
 - [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid) - a clean, practical, ad-free IPTV app
 - [jkennethcarino/privacy-revanced-patches](https://github.com/jkennethcarino/privacy-revanced-patches) - Privacy Patches for ReVanced to disable ads, trackers and analytics, always open Gboard in incognito mode, and much more!
 - [phstudio2/FreeTV](https://github.com/phstudio2/FreeTV) - Free TV app
-- [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) - 📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with Syncplay PC. Fully written in Kotlin and Compose multiplatform.
+- [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) - 📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with the official Syncplay for PC. Fully written in Kotlin and Compose 
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [Pool-Of-Tears/GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.
 - [zt64/Hyperion](https://github.com/zt64/Hyperion) - An alternative YouTube front-end
@@ -2548,6 +2562,8 @@
 
 ## linux 
 
+- [Zexolver/Vorion](https://github.com/Zexolver/Vorion) - [LINUX ONLY] Fork of Dorion meant to package with its own WebRTC to allow for voice support without lowering system security.
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [crmne/fastpotify](https://github.com/crmne/fastpotify) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [rry0ku/veluna](https://github.com/rry0ku/veluna) - Ad-free desktop music streaming powered by YouTube. Stream millions of songs without subscriptions, bloat, or interruptions.
@@ -2954,6 +2970,8 @@
 
 ## minecraft 
 
+- [FreesmTeam/FreesmLauncher](https://github.com/FreesmTeam/FreesmLauncher) - A Prism Launcher fork aimed to provide a free way to play Minecraft
+- [ElyPrismLauncher/Launcher](https://github.com/ElyPrismLauncher/Launcher) - This fork of Prism Launcher adds integrated support for Ely.by accounts.
 - [Wyze3306/BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Run Minecraft Bedrock for Windows seamlessly on Linux.
 - [EVV1E/waylandcraft](https://github.com/EVV1E/waylandcraft) - Wayland Compositor in Minecraft
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
@@ -2985,14 +3003,14 @@
 
 ## mobile 
 
-- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Local-first control plane for AI coding agents. Run and supervise Codex, Claude Code, OpenCode, OMP and PI across your machines.
+- [jqssun/android-titanium-browser](https://github.com/jqssun/android-titanium-browser) - Secure open-source Android browser with support for extensions
 - [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, 
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [Coldblackice/ReVancedXposed_Spotify](https://github.com/Coldblackice/ReVancedXposed_Spotify) - ReVanced LSPosed module for Spotify
 - [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) - A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites)
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [LeNerd46/beautiful-lyrics-mobile](https://github.com/LeNerd46/beautiful-lyrics-mobile) - A port of beautiful-lyrics by surfbryce to Android
-- [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) - 📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with Syncplay PC. Fully written in Kotlin and Compose multiplatform.
+- [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) - 📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with the official Syncplay for PC. Fully written in Kotlin and Compose 
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 
@@ -3014,6 +3032,8 @@
 
 ## music 
 
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
+- [Kumneger0/yt-tracks](https://github.com/Kumneger0/yt-tracks) - listen to youtube music in ur terminal
 - [crmne/fastpotify](https://github.com/crmne/fastpotify) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - 🌸Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources. 🌼🎵
 - [neodb-social/neodb](https://github.com/neodb-social/neodb) - 🧩 a self-hosted server tracking what you read/watch/listen/play, powering a global distributed community federating via ActivityPub and ATProto.
@@ -3214,7 +3234,6 @@
 
 ## openai 
 
-- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Local-first control plane for AI coding agents. Run and supervise Codex, Claude Code, OpenCode, OMP and PI across your machines.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [symgraph/BinAssist](https://github.com/symgraph/BinAssist) - Binary Ninja plugin to provide LLM assistance analyzing binaries.
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
@@ -3287,6 +3306,11 @@
 
 ## others 
 
+- [daffainfo/vol-rs](https://github.com/daffainfo/vol-rs) - Volatility 3 ported to Rust. Same output, much faster.
+- [Damima3369/PineconeMC](https://github.com/Damima3369/PineconeMC) - Unofficial Nix package for a PineconeMC
+- [steven-ahfu/AndroTainer](https://github.com/steven-ahfu/AndroTainer) - Fork of the original Android app for portainer with container stats monitoring features
+- [dokeraj/AndroTainer](https://github.com/dokeraj/AndroTainer) - Android app for portainer
+- [agreenbhm/Vibetainer](https://github.com/agreenbhm/Vibetainer) - 
 - [jprx/darwin-vm](https://github.com/jprx/darwin-vm) - Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
 - [Gageformer/Ember](https://github.com/Gageformer/Ember) - A fast PS1 for PS2 solution
 - [zicochaos/omarchy-nix](https://github.com/zicochaos/omarchy-nix) - NixOS port of basecamp/omarchy (Quattro) — vendored upstream, not rewritten
@@ -3439,7 +3463,6 @@
 - [rushiranpise/morphe-patches](https://github.com/rushiranpise/morphe-patches) - New mask, same task.                                                                 All patches answer to Doom.
 - [sixstrings/morphe-builder](https://github.com/sixstrings/morphe-builder) - A Magisk/KernelSU module builder for Morphe modules. Builds also APKs. Updated several times daily.
 - [Avangelista/CarTube](https://github.com/Avangelista/CarTube) - YouTube on CarPlay, supports devices iOS 14.0 - 15.4.1.
-- [jqssun/android-titanium-browser](https://github.com/jqssun/android-titanium-browser) - Secure open-source Android browser with support for extensions
 - [Enginex0/TEESimulator-RS](https://github.com/Enginex0/TEESimulator-RS) - Software simulation for Android hardware-backed key pairs with key attestation | https://t.me/superpowers9
 - [samueldr/mobile-nixos-extra-devices](https://github.com/samueldr/mobile-nixos-extra-devices) - Extra devices for Mobile NixOS — Everything here is experimental, and probably not the best way to use the devices.
 - [vanilla-mobile-nixos/vanilla-mobile-nixos](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos) - Run standard NixOS on your mobile devices!
@@ -4941,7 +4964,6 @@
 - [sn-00-x/android-auto](https://github.com/sn-00-x/android-auto) - Android Auto as user app with media apps support on GrapheneOS / Android 14
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [xteamlyer/Vector](https://github.com/xteamlyer/Vector) - LSPosed Framework
-- [WildKernels/GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS) - GKI2 5.10+ Kernels with Wild KSU & SUSFS
 - [AOSPA/android_kernel_nothing_sm7325](https://github.com/AOSPA/android_kernel_nothing_sm7325) - 
 - [MalBeacon/what-is-this-stealer](https://github.com/MalBeacon/what-is-this-stealer) - A repository of credential stealer formats
 - [Fr4nKB/Glyphify-v1](https://github.com/Fr4nKB/Glyphify-v1) - Glyphify is an Android app made for Nothing Phones, it tries to make the Glyph interface more useful.
@@ -5669,6 +5691,7 @@
 
 ## python 
 
+- [Kumneger0/yt-tracks](https://github.com/Kumneger0/yt-tracks) - listen to youtube music in ur terminal
 - [romainrbr/immich-face-to-album](https://github.com/romainrbr/immich-face-to-album) - Tool allowing to sync Immich's user face to a specific album
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -5847,7 +5870,6 @@
 ## react 
 
 - [rry0ku/veluna](https://github.com/rry0ku/veluna) - Ad-free desktop music streaming powered by YouTube. Stream millions of songs without subscriptions, bloat, or interruptions.
-- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Local-first control plane for AI coding agents. Run and supervise Codex, Claude Code, OpenCode, OMP and PI across your machines.
 - [Criador-Horarios/Criador-Horarios](https://github.com/Criador-Horarios/Criador-Horarios) - Ferramenta para criar horários.
 - [walterlow/freecut](https://github.com/walterlow/freecut) - FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, re
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
@@ -5932,6 +5954,7 @@
 
 ## reverse-engineering 
 
+- [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
 - [ang3lo-azevedo/ctfs](https://github.com/ang3lo-azevedo/ctfs) - Personal collection of CTF write-ups, forensics artifacts, challenges, and security tooling.
 - [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Python APNs and iMessage client
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
@@ -5991,6 +6014,10 @@
 
 ## rust 
 
+- [SpikeHD/Flooed](https://github.com/SpikeHD/Flooed) - Tiny-ER alternative Discord client with themes, plugins and desktop features, all while using your exising browser installation
+- [Zexolver/Vorion](https://github.com/Zexolver/Vorion) - [LINUX ONLY] Fork of Dorion meant to package with its own WebRTC to allow for voice support without lowering system security.
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
 - [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is a Nix-powered, open source, high-performance build cache and remote execution server, compatible with Bazel, Soong, Pants, Buck2, Reclient, and other RE-compatible build systems. It offe
 - [crmne/fastpotify](https://github.com/crmne/fastpotify) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [rry0ku/veluna](https://github.com/rry0ku/veluna) - Ad-free desktop music streaming powered by YouTube. Stream millions of songs without subscriptions, bloat, or interruptions.
@@ -6058,6 +6085,8 @@
 
 ## security 
 
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
+- [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software mainly based on aircrack-ng tools suite
 - [cliffe/SecGen](https://github.com/cliffe/SecGen) - Create randomly insecure VMs
 - [Codextor/better-zen](https://github.com/Codextor/better-zen) - Zen Browser (based on Firefox) config for speed, privacy, and security. Inspired from Betterfox.
 - [VD171/deadhand](https://github.com/VD171/deadhand) - [CATASTROPHIC] Magisk/KSU module: pressing Power 4x wipes the device (crypto-shred + factory reset). Ships disarmed and in dry-run. Fork of abootloop.
@@ -6146,6 +6175,7 @@
 
 ## self-hosted 
 
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
 - [dannyvfilms/Floppy](https://github.com/dannyvfilms/Floppy) - Self-hosted all-in-one media tracker and Trakt alternative for movies, TV, anime, books, games, music, and podcasts.
 - [selmant/foreseerr](https://github.com/selmant/foreseerr) - Foreseerr — Seerr fork with in-app Trakt discovery, watched/rate actions, and multi-source ratings for Jellyfin, Plex, and Emby.
 - [mainlink0435/warpbox](https://github.com/mainlink0435/warpbox) - A high-performance WebDAV proxy for TorBox
@@ -6204,6 +6234,7 @@
 
 ## server 
 
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [shishkabob27/cwk-server](https://github.com/shishkabob27/cwk-server) - A reversed-engineered server for Card Wars Kingdom.
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
@@ -6341,6 +6372,8 @@
 
 ## terminal 
 
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer)
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -6409,6 +6442,8 @@
 
 ## tui 
 
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [mhyrzt/xrat](https://github.com/mhyrzt/xrat) - Rust CLI/TUI proxy manager for Xray-core, V2Ray-core, and sing-box: import subscriptions,   test latency, rotate proxies, scan edge IPs, and run managed local proxy sessions.
 - [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - bgscan is Ultra‑fast multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
@@ -6445,7 +6480,6 @@
 
 - [nunziopostdoctoral988/ats-resume-checker](https://github.com/nunziopostdoctoral988/ats-resume-checker) - Analyze resumes against ATS requirements using a local, transparent tool that runs entirely in your browser.
 - [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ All-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
-- [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Local-first control plane for AI coding agents. Run and supervise Codex, Claude Code, OpenCode, OMP and PI across your machines.
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [astashov/liftosaur](https://github.com/astashov/liftosaur) - Weightlifting tracker app for coders
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
@@ -6833,6 +6867,9 @@
 
 ## youtube 
 
+- [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
+- [Kumneger0/yt-tracks](https://github.com/Kumneger0/yt-tracks) - listen to youtube music in ur terminal
 - [nullcpy/rvb](https://github.com/nullcpy/rvb) - Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...
 - [SuperAB123/Free-Official-Youtube-Content](https://github.com/SuperAB123/Free-Official-Youtube-Content) - Awesome list of Official YouTube Channels offering Free Official Content like Movies, Anime, Cartoons, Documentaries, TV Shows, Sports, VFX Breakdown
 - [rawnaldclark/Stash](https://github.com/rawnaldclark/Stash) - Your Spotify + YouTube Music library & daily mixes. Free and open source forever.
