@@ -931,7 +931,7 @@
 
 ## bitcoin 
 
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.
 
 ## bootstrap 
 
@@ -1521,7 +1521,7 @@
 - [coanghel/rclone-docker-automount](https://github.com/coanghel/rclone-docker-automount) - Simple Python script in a Docker container to auto-mount rclone remote storage.
 - [dockur/casa](https://github.com/dockur/casa) - CasaOS inside a Docker container.
 - [dockur/umbrel](https://github.com/dockur/umbrel) - umbrelOS inside a Docker container.
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
@@ -3249,7 +3249,6 @@
 - [dreeveapp/dreeve](https://github.com/dreeveapp/dreeve) - Dreeve is a self-hosted, open-source dashboard for your sports and fitness data
 - [meichthys/foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries) - Free and Open Source Photo Libraries
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
-- [Arturo254/OpenTune](https://github.com/Arturo254/OpenTune) - Un cliente de YouTube Music con Material Design 3, para Android
 - [ImKKingshuk/Awesome-CustomROM](https://github.com/ImKKingshuk/Awesome-CustomROM) - Awesome-CustomROM: Explore the World of Custom Android Experiences! Dive into a collection of the best Custom ROMs, featuring cutting-edge features, enhanced performance, and a vibrant developer commu
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [mesquidar/ForensicsTools](https://github.com/mesquidar/ForensicsTools) - A list of free and open forensics analysis tools and other resources
@@ -3337,6 +3336,7 @@
 
 ## others 
 
+- [radavis/svp-on-ubuntu](https://github.com/radavis/svp-on-ubuntu) - 
 - [Malwation/sogen](https://github.com/Malwation/sogen) - 🪅 Windows & Linux & macOS userspace emulator
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
 - [kernalix7/winpodx](https://github.com/kernalix7/winpodx) - Windows pod system for Linux
@@ -5908,7 +5908,7 @@
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [pimox/pimox7](https://github.com/pimox/pimox7) - Proxmox V7 for Raspberry Pi
 - [worproject/rpi5-uefi](https://github.com/worproject/rpi5-uefi) - EDK2 firmware images for Raspberry Pi 5
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [femto-code/Raspberry-Pi-Dashboard](https://github.com/femto-code/Raspberry-Pi-Dashboard) - Web-App Dashboard to monitor Raspberry Pi hardware and software status. Nothing more than Webserver + PHP required.
 
@@ -6224,7 +6224,6 @@
 
 ## self-hosted 
 
-- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
 - [dannyvfilms/Floppy](https://github.com/dannyvfilms/Floppy) - Self-hosted all-in-one media tracker and Trakt alternative for movies, TV, anime, books, games, music, and podcasts.
 - [selmant/foreseerr](https://github.com/selmant/foreseerr) - Foreseerr — Seerr fork with in-app Trakt discovery, watched/rate actions, and multi-source ratings for Jellyfin, Plex, and Emby.
 - [mainlink0435/warpbox](https://github.com/mainlink0435/warpbox) - A high-performance WebDAV proxy for TorBox
@@ -6274,7 +6273,7 @@
 - [navilg/trakt-year-in-review](https://github.com/navilg/trakt-year-in-review) - Generate year in review from Trakt history
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [dockur/umbrel](https://github.com/dockur/umbrel) - umbrelOS inside a Docker container.
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.
 - [Nitestack/infrastructure](https://github.com/Nitestack/infrastructure) - Personal infrastructure as code: Nix system configs (NixOS/WSL/macOS), a self-hosted homelab, and Cloudflare DNS/edge managed with OpenTofu.
 - [tri2820/muer](https://github.com/tri2820/muer) - Self-hosted music player 🐧🎵
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
