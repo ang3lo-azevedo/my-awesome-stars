@@ -1436,7 +1436,7 @@
 - [terminal-discord/discord-voice-cli](https://github.com/terminal-discord/discord-voice-cli) - A headless Discord Voice client
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
 - [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny native Discord app
-- [fizzexual/FakeDeafenVencord](https://github.com/fizzexual/FakeDeafenVencord) - [ WORKING / 14.03.26 ] Fake deafen on discord. You can listen to the others while they think you are deafen :) Enjoy!
+- [fizzexual/FakeDeafenVencord](https://github.com/fizzexual/FakeDeafenVencord) - [ WORKING / 06.09.26 ] Fake deafen on discord. You can listen to the others while they think you are deafen :) Enjoy!
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
@@ -3344,6 +3344,11 @@
 
 ## others 
 
+- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Convert PS5 executables to run natively on Linux
+- [topjohnwu/samloader-rs](https://github.com/topjohnwu/samloader-rs) - An all-in-one Samsung firmware download and flash tool
+- [novapowers0/DBZ-Budokai-3-HD-Collection](https://github.com/novapowers0/DBZ-Budokai-3-HD-Collection) - Recompilacion estatica (ReXGlue) de Dragon Ball Z: Budokai 3 HD Collection (Xbox 360) para Windows con launcher, sistema de mods y herramientas. No incluye datos del juego.
+- [openbrain19-sudo/voLTE-exynos](https://github.com/openbrain19-sudo/voLTE-exynos) - VoLTE for Samsung Exynos on custom ROMs. Enables phone calls on LineageOS when carriers shut down 2G/3G. PhhIms + mic routing fix.
+- [Cxsmo-ai/NuvioTV-Custom](https://github.com/Cxsmo-ai/NuvioTV-Custom) - Custom NuvioTV Android TV fork with Kurato/BingeCat recommendations and progressive AIOStreams support
 - [Xposed-Modules-Repo/io.github.jqssun.gpssetter](https://github.com/Xposed-Modules-Repo/io.github.jqssun.gpssetter) - GPS Setter
 - [davi-1337/chrome-rce-extension](https://github.com/davi-1337/chrome-rce-extension) - chrome said that this is not a bug (intended behavior)
 - [34306/vphone-web](https://github.com/34306/vphone-web) - vphone-cli but you can use your mac as a host and control it over the web
@@ -6083,7 +6088,7 @@
 - [rry0ku/veluna](https://github.com/rry0ku/veluna) - Ad-free desktop music streaming application powered by YouTube.
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [typst/pdf-writer](https://github.com/typst/pdf-writer) - A step-by-step PDF writer.
-- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable, lightweight, self-contained virtual machine.
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Branchable computing by using a portable, lightweight, self-contained virtual machine
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio) - A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 - [Enginex0/UsbMassStorage](https://github.com/Enginex0/UsbMassStorage) - 💾 Turn your phone into a USB drive · USB Mass Storage gadget controller · KernelSU / Magisk / APatch
@@ -6580,7 +6585,7 @@
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [fizzexual/FakeDeafenVencord](https://github.com/fizzexual/FakeDeafenVencord) - [ WORKING / 14.03.26 ] Fake deafen on discord. You can listen to the others while they think you are deafen :) Enjoy!
+- [fizzexual/FakeDeafenVencord](https://github.com/fizzexual/FakeDeafenVencord) - [ WORKING / 06.09.26 ] Fake deafen on discord. You can listen to the others while they think you are deafen :) Enjoy!
 - [Aylur/ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+Gnim
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's internal API, known as InnerTube.
@@ -6935,7 +6940,7 @@
 
 ## youtube 
 
-- [nolight132/sonora](https://github.com/nolight132/sonora) - A native music streaming client, built with Rust and GPUI
+- [sonorahq/sonora](https://github.com/sonorahq/sonora) - A native music streaming client, built with Rust and GPUI
 - [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
 - [Kumneger0/yt-tracks](https://github.com/Kumneger0/yt-tracks) - listen to youtube music in ur terminal
