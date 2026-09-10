@@ -3369,6 +3369,7 @@
 
 ## others 
 
+- [MSNightmare/ShieldCrash](https://github.com/MSNightmare/ShieldCrash) - Windows Defender 0day Vulnerability
 - [Conan1231/APL_forensic_data_analysis_automation_with_fortrace--](https://github.com/Conan1231/APL_forensic_data_analysis_automation_with_fortrace--) - Automated Image Creation for Forensic Data Analysis with Fortrace++
 - [abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP) - Android Logs Events And Protobuf Parser
 - [sysartifacts/sysartifacts.github.io](https://github.com/sysartifacts/sysartifacts.github.io) - Website for Artifact Evaluation at EuroSys, SOSP, OSDI, ATC
@@ -3476,7 +3477,7 @@
 - [estkme-group/openeuicc](https://github.com/estkme-group/openeuicc) - Mirror of OpenEUICC, a fully open-source LPA implementation for Android
 - [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [LSPosed/Privisolated](https://github.com/LSPosed/Privisolated) - 
-- [1013503897/Vector](https://github.com/1013503897/Vector) - Vector (JingMatrix LSPosed fork) with a traceless KPM hook backend: inline_hooker routed through a KernelPatch module (stealth-poc) with Dobby fallback.
+- [1013503897/Vector](https://github.com/1013503897/Vector) - Zygisk ART hooking framework with a KPM traceless backend (stealth-core) and Dobby fallback
 - [SleepTheGod/Vehicle-OSINT-Collection](https://github.com/SleepTheGod/Vehicle-OSINT-Collection) - A comprehensive list of tools that can be used for finding information related to a specific vehicle.
 - [elementor/elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
 - [Rouyashiki/YukiSU](https://github.com/Rouyashiki/YukiSU) - Kernel-based Android Root Solution
