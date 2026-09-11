@@ -595,7 +595,7 @@
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Official FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
 - [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
-- [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
+- [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client, [mirror] https://codeberg.org/droidify/client
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [sidex15/susfs4ksu-module](https://github.com/sidex15/susfs4ksu-module) - An addon root hiding service for KernelSU
 - [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
@@ -853,6 +853,7 @@
 
 ## awesome-list 
 
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [nvbangg/awesome-morphe](https://github.com/nvbangg/awesome-morphe) - Explore all Morphe resources, patch bundles and community projects.
 - [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, tools and other resources
 - [secfigo/Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) - A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Developme
@@ -1207,6 +1208,7 @@
 
 ## computer-science 
 
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [andre-j3sus/ist-meic-notes](https://github.com/andre-j3sus/ist-meic-notes) - Some notes from the courses of my Master's Degree in Computer Science and Engineering, at IST.
 - [andre-j3sus/isel-leic-notes](https://github.com/andre-j3sus/isel-leic-notes) - Some notes from the courses of my Bachelor's Degree in Computer Science and Engineering, at ISEL.
 
@@ -2558,7 +2560,7 @@
 - [azusalad/Isosta](https://github.com/azusalad/Isosta) - Anonymous Instagram viewer for Android, powered by Imginn.
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
-- [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
+- [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client, [mirror] https://codeberg.org/droidify/client
 - [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) - GitHub reimagined with Material You
 - [FoedusProgramme/Gramophone](https://github.com/FoedusProgramme/Gramophone) - A sane music player built with media3 and material design library that is following android's standard strictly.
 - [Psyhackological/AAA](https://github.com/Psyhackological/AAA) - :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!
@@ -3369,6 +3371,7 @@
 
 ## others 
 
+- [adelmonte/victoria-launcher](https://github.com/adelmonte/victoria-launcher) - An open source alternative to Niagara Launcher — a minimal, list-based Android home screen.
 - [MSNightmare/ShieldCrash](https://github.com/MSNightmare/ShieldCrash) - Windows Defender 0day Vulnerability
 - [Conan1231/APL_forensic_data_analysis_automation_with_fortrace--](https://github.com/Conan1231/APL_forensic_data_analysis_automation_with_fortrace--) - Automated Image Creation for Forensic Data Analysis with Fortrace++
 - [abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP) - Android Logs Events And Protobuf Parser
@@ -3788,7 +3791,7 @@
 - [merlinepedra/Linux_Game_Pirates](https://github.com/merlinepedra/Linux_Game_Pirates) - 
 - [klab7/GCamBoost](https://github.com/klab7/GCamBoost) - An LSPosed module that lets you use some newer Pixel exclusive GCam features on some older Pixels.
 - [bikini/exploitarium](https://github.com/bikini/exploitarium) - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed 
-- [dantiicu/wine-nx](https://github.com/dantiicu/wine-nx) - Experimental Wine runtime for Nintendo Switch: AArch64 Windows PE loading, Horizon/libnx integration, win32u USER/GDI bring-up, software framebuffer display, touch input, and early Notepad GUI support
+- [danfromtico/wine-nx](https://github.com/danfromtico/wine-nx) - Experimental Wine runtime for Nintendo Switch: AArch64 Windows PE loading, Horizon/libnx integration, win32u USER/GDI bring-up, software framebuffer display, touch input, and early Notepad GUI support
 - [harimoradiya/androidtvremote](https://github.com/harimoradiya/androidtvremote) - TV Remote for Android TV is a fast, secure, and completely free Android application that turns your smartphone into a reliable remote control for Android TV and compatible Smart TVs.
 - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
 - [eylenburg/linoffice](https://github.com/eylenburg/linoffice) - Microsoft Office Launcher for Linux
@@ -4848,7 +4851,6 @@
 - [Ronelg/aauto-sdk-1](https://github.com/Ronelg/aauto-sdk-1) - Unofficial Android Auto SDK
 - [martoreto/aauto-sdk](https://github.com/martoreto/aauto-sdk) - Unofficial Android Auto SDK
 - [tomasz-grobelny/AACS](https://github.com/tomasz-grobelny/AACS) - Android Auto Server encapsulates communication with modern car infotainment system
-- [okcar-os/android](https://github.com/okcar-os/android) - An open-source system designed for in-car entertainment. Use the CarPlay protocol to enable audio and video transmission between an Android smartphone and in-car entertainment.
 - [mustafa1dev/TeleVip-LSPosed](https://github.com/mustafa1dev/TeleVip-LSPosed) - TeleVip LSPosed Xposed Module
 - [nisargjhaveri/WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle) - Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi.
 - [i-am-shodan/USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife) - USB Army Knife – the ultimate close access tool for penetration testers and red teamers.
