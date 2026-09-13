@@ -298,6 +298,7 @@
 
 ## agent 
 
+- [MG1937/ASC](https://github.com/MG1937/ASC) - ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
 - [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, 
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
@@ -390,6 +391,10 @@
 
 ## android 
 
+- [jakesgoodapps/DuoLauncher](https://github.com/jakesgoodapps/DuoLauncher) - An experimental Android launcher for foldables, with a right-side dock, native widgets, and overlapping unfolded Home pages.
+- [BareBrowser/bare-browser](https://github.com/BareBrowser/bare-browser) - Bare is a de-Googled Chromium build for Android, built for privacy, control, and freedom on the web. It strips Google tracking, telemetry, and AI integration while keeping browser extensions and uBloc
+- [MG1937/ASC](https://github.com/MG1937/ASC) - ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
+- [Aryan447/mpvium](https://github.com/Aryan447/mpvium) - Sane defaults, pro-level control.  An Android video player powered by mpv and libmpv.
 - [Musaddiq-Sultan/NixDroid](https://github.com/Musaddiq-Sultan/NixDroid) - NixDroid is an x86_64 AOSP emulator for Linux uses virtualization technology via QEMU, allowing it to run directly on hardware with native performance and skip software emulation overhead completely.
 - [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer) - 🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism💫
 - [steven-ahfu/Portwatch](https://github.com/steven-ahfu/Portwatch) - Portainer client for Android — containers and stacks, live CPU/memory stats, threshold notifications, Material 3 Expressive UI. Fork of the original AndroTrainer.
@@ -462,7 +467,7 @@
 - [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) - An application to write OS images to USB drives, on Android, no root required.
 - [GPLaider/Ventoid](https://github.com/GPLaider/Ventoid) - Android OTG Ventoy-style USB writer - GPL-3.0-only, ad-free, available on F-Droid
 - [ycngmn/Nobook](https://github.com/ycngmn/Nobook) - Ad-free facebook lite for Android.
-- [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram) - 🧘 An updatable, open source Instagram app for Android without distractions.
+- [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram) - Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.
 - [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring) - Android environment integrity inspection tool for root, hook, bootloader, SELinux, virtualization, and attestation signals
 - [Xposed-Modules-Repo/ps.reso.instaeclipse](https://github.com/Xposed-Modules-Repo/ps.reso.instaeclipse) - InstaEclipse
 - [monogram-android/monogram](https://github.com/monogram-android/monogram) - Native Telegram client for Android based on TDLib
@@ -1473,6 +1478,7 @@
 
 ## docker 
 
+- [Hackplayers/evil-winrm](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell for hacking/pentesting
 - [zahidcakici/opentainer](https://github.com/zahidcakici/opentainer) - An ultra-lightweight, high-performance desktop container management application
 - [dannyvfilms/Floppy](https://github.com/dannyvfilms/Floppy) - Self-hosted all-in-one media tracker and Trakt alternative for movies, TV, anime, books, games, music, and podcasts.
 - [selmant/foreseerr](https://github.com/selmant/foreseerr) - Foreseerr — Seerr fork with in-app Trakt discovery, watched/rate actions, and multi-source ratings for Jellyfin, Plex, and Emby.
@@ -1671,6 +1677,7 @@
 
 ## emulator 
 
+- [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Apple Silicon device emulator.
 - [MakrSas/Inferno-iOS](https://github.com/MakrSas/Inferno-iOS) - An emulated iPhone 11 running iOS 14, as an app on a real iPhone. Unofficial, built on Inferno.
 - [Musaddiq-Sultan/NixDroid](https://github.com/Musaddiq-Sultan/NixDroid) - NixDroid is an x86_64 AOSP emulator for Linux uses virtualization technology via QEMU, allowing it to run directly on hardware with native performance and skip software emulation overhead completely.
 - [reveny/Android-Device-Trust](https://github.com/reveny/Android-Device-Trust) - Android device attestation and fingerprinting tool
@@ -1736,6 +1743,7 @@
 
 ## firefox 
 
+- [FaFre/WebLibre](https://github.com/FaFre/WebLibre) - A libre Android browser built from scratch on Gecko. Privacy by default, powerful tab containers, and a local-first search engine.
 - [RyanDFIR/hindsight](https://github.com/RyanDFIR/hindsight) - Browser forensics tool for Google Chrome, other Chromium-based browsers, and Mozilla Firefox
 - [Codextor/better-zen](https://github.com/Codextor/better-zen) - Zen Browser (based on Firefox) config for speed, privacy, and security. Inspired from Betterfox.
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
@@ -2049,6 +2057,7 @@
 
 ## hacking 
 
+- [Hackplayers/evil-winrm](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell for hacking/pentesting
 - [TryCatchHCF/DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - "Security Incidents In A Box!"   A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. Easily create custom event chains for Blue- & Red Team 
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
@@ -2309,7 +2318,7 @@
 - [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Track Instagram users' activities, profile changes and capture content with beautiful dashboards and instant notifications
 - [megadose/ignorant](https://github.com/megadose/ignorant) - ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.
 - [MobileFirstLLC/social-media-hacker-list](https://github.com/MobileFirstLLC/social-media-hacker-list) - Growing list of apps and tools for enhancing social media experiences.
-- [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram) - 🧘 An updatable, open source Instagram app for Android without distractions.
+- [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram) - Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.
 - [Xposed-Modules-Repo/ps.reso.instaeclipse](https://github.com/Xposed-Modules-Repo/ps.reso.instaeclipse) - InstaEclipse
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's CLI and TUI client -- The ultimate weapon against brainrot
@@ -2329,6 +2338,7 @@
 
 ## ios 
 
+- [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Apple Silicon device emulator.
 - [MakrSas/Inferno-iOS](https://github.com/MakrSas/Inferno-iOS) - An emulated iPhone 11 running iOS 14, as an app on a real iPhone. Unofficial, built on Inferno.
 - [ByteV0rtex/CVE-2026-65343](https://github.com/ByteV0rtex/CVE-2026-65343) - CVE-2026-65343 PoC — AppleKeyStore OOB read → KASLR defeat (iOS 26.6 / 23G71)
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
@@ -2453,6 +2463,8 @@
 
 ## jetpack-compose 
 
+- [jakesgoodapps/DuoLauncher](https://github.com/jakesgoodapps/DuoLauncher) - An experimental Android launcher for foldables, with a right-side dock, native widgets, and overlapping unfolded Home pages.
+- [Aryan447/mpvium](https://github.com/Aryan447/mpvium) - Sane defaults, pro-level control.  An Android video player powered by mpv and libmpv.
 - [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer) - 🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism💫
 - [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Degoogled maps & turn-by-turn navigation for Android - MapLibre + Jetpack Compose, no Google Play Services
 - [cosmictaserdev-creator/Convx](https://github.com/cosmictaserdev-creator/Convx) - Convx is a free, open-source Android music player that streams from YouTube Music — reimagined with an iOS-inspired "Liquid Glass" interface. Every surface uses real backdrop blur and refraction, pair
@@ -2510,6 +2522,8 @@
 
 ## kotlin 
 
+- [jakesgoodapps/DuoLauncher](https://github.com/jakesgoodapps/DuoLauncher) - An experimental Android launcher for foldables, with a right-side dock, native widgets, and overlapping unfolded Home pages.
+- [Aryan447/mpvium](https://github.com/Aryan447/mpvium) - Sane defaults, pro-level control.  An Android video player powered by mpv and libmpv.
 - [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer) - 🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism💫
 - [cosmictaserdev-creator/Convx](https://github.com/cosmictaserdev-creator/Convx) - Convx is a free, open-source Android music player that streams from YouTube Music — reimagined with an iOS-inspired "Liquid Glass" interface. Every surface uses real backdrop blur and refraction, pair
 - [herzhenr/spic-android](https://github.com/herzhenr/spic-android) - A Simple Play Integrity Checker which uses Google Play Integrity API to check the Integrity of the Device
@@ -3095,6 +3109,7 @@
 
 ## music 
 
+- [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
 - [Kopuz-org/kopuz](https://github.com/Kopuz-org/kopuz) - Your next music player
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
 - [Kumneger0/yt-tracks](https://github.com/Kumneger0/yt-tracks) - listen to youtube music in ur terminal
@@ -3373,6 +3388,14 @@
 
 ## others 
 
+- [idalib-rs/idalib](https://github.com/idalib-rs/idalib) - Idiomatic Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using IDA v9.x’s idalib
+- [TheForgotten69/reshade](https://github.com/TheForgotten69/reshade) - A generic post-processing injector for games and video software.
+- [dmm413777-star/stremio-pt-guides](https://github.com/dmm413777-star/stremio-pt-guides) - Guias de Stremio e Nuvio em português
+- [www222fff/vpn2qr](https://github.com/www222fff/vpn2qr) - 
+- [AlexRed29/GTASymlinkGenerator](https://github.com/AlexRed29/GTASymlinkGenerator) - "GTA Symlink Generator" is a tool to create a GTA installation (III/Vice City/San Andreas) with "Symlinks". Perfect for saving disk space!
+- [malebuffy/XtreamPlayerFree](https://github.com/malebuffy/XtreamPlayerFree) - An Android Auto Media Platform
+- [willfaust/Madeira](https://github.com/willfaust/Madeira) - Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
+- [monkeyscript/heimdall](https://github.com/monkeyscript/heimdall) - A lightweight SMS spam shield for Android.
 - [GrapheneOS/Messaging](https://github.com/GrapheneOS/Messaging) - Messaging app
 - [adelmonte/victoria-launcher](https://github.com/adelmonte/victoria-launcher) - An open source alternative to Niagara Launcher — a minimal, list-based Android home screen.
 - [MSNightmare/ShieldCrash](https://github.com/MSNightmare/ShieldCrash) - Windows Defender 0day Vulnerability
@@ -3688,7 +3711,7 @@
 - [cfw-guide/ios.cfw.guide](https://github.com/cfw-guide/ios.cfw.guide) - A complete iOS modding guide, from stock to jailbroken.
 - [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit) - An all-in-one tool to restore/downgrade, save SHSH blobs, jailbreak legacy iOS devices, and more
 - [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next) - A full-featured download manager — rebuilt from the ground up
-- [muthukumarse/books](https://github.com/muthukumarse/books) - book list
+- [Muthukumar-Selvarasu/books](https://github.com/Muthukumar-Selvarasu/books) - book list
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
 - [humandecoded/FBI_Watchdog](https://github.com/humandecoded/FBI_Watchdog) - FBI Watchdog is an OSINT tool that monitors domain seizures and DNS record changes in real time, alerting users to law enforcement takedowns and other DNS modifications.
 - [angr/angr-doc](https://github.com/angr/angr-doc) - Documentation for the angr suite
@@ -3970,7 +3993,7 @@
 - [mrphrazer/reverser_ai](https://github.com/mrphrazer/reverser_ai) - Provides automated reverse engineering assistance through the use of local large language models (LLMs) on consumer hardware.
 - [HexRaysSA/ida-hcli](https://github.com/HexRaysSA/ida-hcli) - Hex-Rays CLI (HCLI)
 - [HexRaysSA/ida-chat-plugin](https://github.com/HexRaysSA/ida-chat-plugin) - 
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harne
 - [ikarus23/kiosk-mode-breakout](https://github.com/ikarus23/kiosk-mode-breakout) - A collection of tips & tricks on how to escape a kiosk mode environment
 - [foreni-packages/hachoir-subfile](https://github.com/foreni-packages/hachoir-subfile) - hachoir-subfile : Find subfile in any binary stream
 - [cdgriffith/puremagic](https://github.com/cdgriffith/puremagic) - Pure python implementation of identifying files based off their magic numbers
@@ -5581,6 +5604,7 @@
 
 ## pentesting 
 
+- [Hackplayers/evil-winrm](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell for hacking/pentesting
 - [TryCatchHCF/DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - "Security Incidents In A Box!"   A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. Easily create custom event chains for Blue- & Red Team 
 - [NetSPI/AD-PathFinder](https://github.com/NetSPI/AD-PathFinder) - Attack path mapping for Active Directory, ADCS, SCCM, and MSSQL using   BloodHound CE + OpenGraph data.
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -5658,6 +5682,7 @@
 
 ## powershell 
 
+- [Hackplayers/evil-winrm](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell for hacking/pentesting
 - [clong/DetectionLab](https://github.com/clong/DetectionLab) - Automate the creation of a lab environment complete with security tooling and logging best practices
 - [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience.
 - [LETHAL-FORENSICS/MemProcFS-Analyzer](https://github.com/LETHAL-FORENSICS/MemProcFS-Analyzer) - MemProcFS-Analyzer - Automated Forensic Analysis of Windows Memory Dumps for DFIR
@@ -5671,6 +5696,8 @@
 
 ## privacy 
 
+- [FaFre/WebLibre](https://github.com/FaFre/WebLibre) - A libre Android browser built from scratch on Gecko. Privacy by default, powerful tab containers, and a local-first search engine.
+- [BareBrowser/bare-browser](https://github.com/BareBrowser/bare-browser) - Bare is a de-Googled Chromium build for Android, built for privacy, control, and freedom on the web. It strips Google tracking, telemetry, and AI integration while keeping browser extensions and uBloc
 - [daboynb/Safetycore-placeholder](https://github.com/daboynb/Safetycore-placeholder) - Placeholder APK to permanently block Google SafetyCore installation and updates
 - [Codextor/better-zen](https://github.com/Codextor/better-zen) - Zen Browser (based on Firefox) config for speed, privacy, and security. Inspired from Betterfox.
 - [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Degoogled maps & turn-by-turn navigation for Android - MapLibre + Jetpack Compose, no Google Play Services
@@ -6050,6 +6077,7 @@
 
 ## reverse-engineering 
 
+- [MG1937/ASC](https://github.com/MG1937/ASC) - ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
 - [ByteV0rtex/CVE-2026-65343](https://github.com/ByteV0rtex/CVE-2026-65343) - CVE-2026-65343 PoC — AppleKeyStore OOB read → KASLR defeat (iOS 26.6 / 23G71)
 - [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
 - [ang3lo-azevedo/ctfs](https://github.com/ang3lo-azevedo/ctfs) - Personal collection of CTF write-ups, forensics artifacts, challenges, and security tooling.
@@ -6104,6 +6132,7 @@
 
 ## ruby 
 
+- [Hackplayers/evil-winrm](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell for hacking/pentesting
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
@@ -6351,6 +6380,7 @@
 
 ## shell 
 
+- [Hackplayers/evil-winrm](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell for hacking/pentesting
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -6986,6 +7016,7 @@
 
 ## youtube 
 
+- [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
 - [sonorahq/sonora](https://github.com/sonorahq/sonora) - A native music streaming client, built with Rust and GPUI
 - [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
