@@ -415,6 +415,7 @@
 - [herzhenr/spic-android](https://github.com/herzhenr/spic-android) - A Simple Play Integrity Checker which uses Google Play Integrity API to check the Integrity of the Device
 - [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS) - A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty
 - [LivingWithHippos/unchained-android](https://github.com/LivingWithHippos/unchained-android) - App to interact with real-debrid API
+- [VD171/VD-Infos](https://github.com/VD171/VD-Infos) - The VD Infos app reads several of these details and information to show you an example of what can be captured from your device in use.​ A.k.a VDInfos, VDInfo, VD Info.
 - [ang3lo-azevedo/detection](https://github.com/ang3lo-azevedo/detection) - Collection of Various Root Detection Apps for Android
 - [solkin/appteka-android](https://github.com/solkin/appteka-android) - 💊 Appteka is an alternative store for Android
 - [skidworks-openengineering/SimpleBoot](https://github.com/skidworks-openengineering/SimpleBoot) - SimpleBoot [BETA] - Turn your rooted Android phone into a bootable USB drive. Mount and boot ISOs via ConfigFS, legacy, or loopback – no PC needed.
@@ -705,6 +706,7 @@
 
 ## archlinux 
 
+- [omacom/omarchy-mac](https://github.com/omacom/omarchy-mac) - Opinionated Arch/Hyprland Setup for Apple Silicon Macs M1/M2
 - [rry0ku/veluna](https://github.com/rry0ku/veluna) - Ad-free desktop music streaming application powered by YouTube.
 - [Wyze3306/BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Run Minecraft Bedrock for Windows seamlessly on Linux.
 - [cryinkfly/Autodesk-Fusion-360-for-Linux](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux) - This is a project, where I give you a way to use Autodesk Fusion 360 on Linux!
@@ -2531,6 +2533,7 @@
 - [cosmictaserdev-creator/Convx](https://github.com/cosmictaserdev-creator/Convx) - Convx is a free, open-source Android music player that streams from YouTube Music — reimagined with an iOS-inspired "Liquid Glass" interface. Every surface uses real backdrop blur and refraction, pair
 - [herzhenr/spic-android](https://github.com/herzhenr/spic-android) - A Simple Play Integrity Checker which uses Google Play Integrity API to check the Integrity of the Device
 - [LivingWithHippos/unchained-android](https://github.com/LivingWithHippos/unchained-android) - App to interact with real-debrid API
+- [VD171/VD-Infos](https://github.com/VD171/VD-Infos) - The VD Infos app reads several of these details and information to show you an example of what can be captured from your device in use.​ A.k.a VDInfos, VDInfo, VD Info.
 - [hxreborn/playstore-adblock](https://github.com/hxreborn/playstore-adblock) - LSPosed/Xposed module that removes ads, sponsored apps, and promoted recommendations from the Google Play Store
 - [Riteshp2001/mpvRx](https://github.com/Riteshp2001/mpvRx) - The most Powerful, Efficient + Feature-packed media player fork you’ll find anywhere.
 - [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) - A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt
@@ -2630,6 +2633,7 @@
 
 ## linux 
 
+- [crmne/zapfast](https://github.com/crmne/zapfast) - ZapFast: a fast, native WhatsApp client in Rust and egui
 - [ExTV/Podroid](https://github.com/ExTV/Podroid) - A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.
 - [Musaddiq-Sultan/NixDroid](https://github.com/Musaddiq-Sultan/NixDroid) - NixDroid is an x86_64 AOSP emulator for Linux uses virtualization technology via QEMU, allowing it to run directly on hardware with native performance and skip software emulation overhead completely.
 - [dmitriitimoshenko/tpm-keyring-unlock](https://github.com/dmitriitimoshenko/tpm-keyring-unlock) - TPM-sealed auto-unlock for the GNOME login keyring - works with fingerprint login, without weakening the keyring
@@ -2910,6 +2914,7 @@
 
 ## macos 
 
+- [crmne/zapfast](https://github.com/crmne/zapfast) - ZapFast: a fast, native WhatsApp client in Rust and egui
 - [dk8827/ra-port](https://github.com/dk8827/ra-port) - Unofficial working port of Command & Conquer: Red Alert running natively on iOS, Android, Linux and macOS. SDL2 video/audio/input. No game assets included.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
@@ -3395,6 +3400,8 @@
 
 ## others 
 
+- [lorelyai/volatility3-bitlocker](https://github.com/lorelyai/volatility3-bitlocker) - Volatility 3 plugin for extracting BitLocker Full Volume Encryption Keys (FVEK)
+- [NarYuki/Dextop](https://github.com/NarYuki/Dextop) - Unlock the hidden Samsung DeX and desktop capabilities of Android, and run a desktop environment directly on your device.
 - [KillaBoi/BrokenPipe](https://github.com/KillaBoi/BrokenPipe) - Steam Client Service Local Privilege Escalation Vulnerability
 - [NODIX-TECH/DLSS-5-MANAGER](https://github.com/NODIX-TECH/DLSS-5-MANAGER) - THE FIRST DLSS 5 MANAGER
 - [FSECDEV/Threat-Intelligence-Hackers-Forums](https://github.com/FSECDEV/Threat-Intelligence-Hackers-Forums) - A directory of hacker forums
@@ -3596,7 +3603,6 @@
 - [liongalahad/liongalahad-nuviotv-morphe-patches](https://github.com/liongalahad/liongalahad-nuviotv-morphe-patches) - Prerelease Morphe patches for the official NuvioTV Android application
 - [ExTV/nethunter-spacewar](https://github.com/ExTV/nethunter-spacewar) - Kali NetHunter Magisk module for Nothing Phone 1 (Spacewar)
 - [roieeedouek/unboxed-android](https://github.com/roieeedouek/unboxed-android) - App to interact with torbox API
-- [VD171/VD-Infos](https://github.com/VD171/VD-Infos) - The VD Infos app reads several of these details and information to show you an example of what can be captured from your device in use.​ A.k.a VDInfos, VDInfo, VD Info.
 - [capntrips/BootControl](https://github.com/capntrips/BootControl) - Boot Control is an Android app that toggles the active boot slot.
 - [Nonta72/nothing-spacewar](https://github.com/Nonta72/nothing-spacewar) - 
 - [xoreaxeaxeax/REpsych](https://github.com/xoreaxeaxeax/REpsych) - Psychological warfare in reverse engineering
@@ -4122,7 +4128,7 @@
 - [Stremio/libmpv2-rs](https://github.com/Stremio/libmpv2-rs) - A libmpv abstraction written in rust that's easy to use and provides the ability to read next to all video and audio codecs.
 - [Stremio/stremio-linux-shell](https://github.com/Stremio/stremio-linux-shell) - Client for Stremio on Linux
 - [Sirosky/Upscale-Hub](https://github.com/Sirosky/Upscale-Hub) - A repository collecting image and video upscaling resources as well as my own super resolution models.
-- [Artoriuz/ArtCNN](https://github.com/Artoriuz/ArtCNN) - Simple SISR CNNs aimed at anime content
+- [Artoriuz/ArtCNN](https://github.com/Artoriuz/ArtCNN) - Simple CNNs aimed at anime content
 - [flowerey/flower-mpv-config](https://github.com/flowerey/flower-mpv-config) - flower's configs for mpv. Automated builds are in releases tab.
 - [TheIntroDB/stremio-enhanced-plugin](https://github.com/TheIntroDB/stremio-enhanced-plugin) - Skip segments for shows and movies in Stremio Enhanced using TheIntroDB
 - [Rishabh5321/custom-packages-flake](https://github.com/Rishabh5321/custom-packages-flake) - Just some custom packages I use.
@@ -5711,6 +5717,7 @@
 - [daboynb/Safetycore-placeholder](https://github.com/daboynb/Safetycore-placeholder) - Placeholder APK to permanently block Google SafetyCore installation and updates
 - [Codextor/better-zen](https://github.com/Codextor/better-zen) - Zen Browser (based on Firefox) config for speed, privacy, and security. Inspired from Betterfox.
 - [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Degoogled maps & turn-by-turn navigation for Android - MapLibre + Jetpack Compose, no Google Play Services
+- [VD171/VD-Infos](https://github.com/VD171/VD-Infos) - The VD Infos app reads several of these details and information to show you an example of what can be captured from your device in use.​ A.k.a VDInfos, VDInfo, VD Info.
 - [LibreFitOrg/LibreFit](https://github.com/LibreFitOrg/LibreFit) - The free and private workout tracker
 - [fynks/email-aliasing-comparison](https://github.com/fynks/email-aliasing-comparison) - Compare 10+ email alias services by features, pricing, security, privacy, and ease of use.
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
@@ -6095,6 +6102,7 @@
 - [ang3lo-azevedo/ctfs](https://github.com/ang3lo-azevedo/ctfs) - Personal collection of CTF write-ups, forensics artifacts, challenges, and security tooling.
 - [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Python APNs and iMessage client
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
+- [VD171/VD-Infos](https://github.com/VD171/VD-Infos) - The VD Infos app reads several of these details and information to show you an example of what can be captured from your device in use.​ A.k.a VDInfos, VDInfo, VD Info.
 - [muhammadrizwan87/frida-bridge](https://github.com/muhammadrizwan87/frida-bridge) - Native JNI bridge to load Frida Gadget — Frida with no root, no APK repacking, containers supported.
 - [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida) - 🔐 Run frida-server on boot with Magisk, always up-to-date
 - [hxreborn/playstore-adblock](https://github.com/hxreborn/playstore-adblock) - LSPosed/Xposed module that removes ads, sponsored apps, and promoted recommendations from the Google Play Store
@@ -6152,6 +6160,7 @@
 
 ## rust 
 
+- [crmne/zapfast](https://github.com/crmne/zapfast) - ZapFast: a fast, native WhatsApp client in Rust and egui
 - [bl4ckr0ss3/knife](https://github.com/bl4ckr0ss3/knife) - A reverse engineer's binary Swiss-army knife in Rust: triage, disassembly, function/CFG recovery, crypto-constant + YARA scanning for PE/ELF/Mach-O. Installs as 'knife'.
 - [archledger/irlume](https://github.com/archledger/irlume) - Windows Hello-style face and fingerprint login for Linux: secure, TPM-sealed, open
 - [Kopuz-org/kopuz](https://github.com/Kopuz-org/kopuz) - Your next music player
@@ -6236,6 +6245,7 @@
 - [cliffe/SecGen](https://github.com/cliffe/SecGen) - Create randomly insecure VMs
 - [Codextor/better-zen](https://github.com/Codextor/better-zen) - Zen Browser (based on Firefox) config for speed, privacy, and security. Inspired from Betterfox.
 - [VD171/deadhand](https://github.com/VD171/deadhand) - [CATASTROPHIC] Magisk/KSU module: pressing Power 4x wipes the device (crypto-shred + factory reset). Ships disarmed and in dry-run. Fork of abootloop.
+- [VD171/VD-Infos](https://github.com/VD171/VD-Infos) - The VD Infos app reads several of these details and information to show you an example of what can be captured from your device in use.​ A.k.a VDInfos, VDInfo, VD Info.
 - [suominen/ghostlock](https://github.com/suominen/ghostlock) - Tracking GhostLock (CVE-2026-43499), the rtmutex/futex stack use-after-free
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
 - [WithSecureOpenSource/chainsaw](https://github.com/WithSecureOpenSource/chainsaw) - Rapidly Search and Hunt through Windows Forensic Artefacts
@@ -6896,6 +6906,7 @@
 
 ## windows 
 
+- [crmne/zapfast](https://github.com/crmne/zapfast) - ZapFast: a fast, native WhatsApp client in Rust and egui
 - [TheMythologist/GenP](https://github.com/TheMythologist/GenP) - Automatically builds GenP executables from source
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
