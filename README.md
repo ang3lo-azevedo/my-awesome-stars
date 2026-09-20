@@ -1114,7 +1114,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [mhyrzt/xrat](https://github.com/mhyrzt/xrat) - Rust CLI/TUI proxy manager for Xray-core, V2Ray-core, and sing-box: import subscriptions,   test latency, rotate proxies, scan edge IPs, and run managed local proxy sessions.
 - [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - bgscan is multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
-- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [lem6ns/ddgmail](https://github.com/lem6ns/ddgmail) - An unofficial CLI for DuckDuckGo Email Protection.
 - [AstraeLabs/VibraVid](https://github.com/AstraeLabs/VibraVid) - Downloader for Movie, Series, Anime, Album, Song + DASH/HLS/ISM/MP4.
@@ -1310,7 +1310,7 @@
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
 - [otter-sec/rctf](https://github.com/otter-sec/rctf) - rCTF is a platform for hosting cybersecurity capture-the-flag competitions.
 - [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, tools and other resources
-- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - Model Context Protocol server for CyberChef — exposes GCHQ's "Cyber Swiss Army Knife" as AI-agent tools: 504 operations across encryption, encoding, compression and forensics, on MCP protocol revision
 - [SuperAB123/Free-Official-Youtube-Content](https://github.com/SuperAB123/Free-Official-Youtube-Content) - Awesome list of Official YouTube Channels offering Free Official Content like Movies, Anime, Cartoons, Documentaries, TV Shows, Sports, VFX Breakdown
 - [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
@@ -1726,6 +1726,7 @@
 ## fastapi 
 
 - [spoo-me/spoo](https://github.com/spoo-me/spoo) - spoo.me is an open-source & API first link management infra
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Webchat to API
 
 ## finance 
@@ -2108,6 +2109,7 @@
 
 ## hacktoberfest 
 
+- [daffainfo/suricata-rules](https://github.com/daffainfo/suricata-rules) - Suricata rules that can detect a wide range of threats, including malware, exploits, and other malicious activity especially web application attacks
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
@@ -2301,7 +2303,7 @@
 ## information-gathering 
 
 - [ptgm/MEIC-areas](https://github.com/ptgm/MEIC-areas) - IST - ULisboa MEIC specialization areas + enrolment limits
-- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [evyatarmeged/Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning
 - [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
@@ -3276,7 +3278,7 @@
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [rama-io/mako](https://github.com/rama-io/mako) - Minimal, privacy-first Android launcher designed for focus, speed, and simplicity.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [ZzEdovec/onlinefix-linux](https://github.com/ZzEdovec/onlinefix-linux) - OFLL - Steam/Epic online-fix launcher for Linux. Download, install and play games with online fixes in two clicks
 - [LibreFitOrg/LibreFit](https://github.com/LibreFitOrg/LibreFit) - The free and private workout tracker
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
@@ -3362,7 +3364,7 @@
 - [Faizan-Khanx/TelegramOSINT](https://github.com/Faizan-Khanx/TelegramOSINT) - A curated collection of tools, bots, and resources for Open Source Intelligence (OSINT) investigations on Telegram. Includes chat analysis methods, browser extensions, search engines, and secure pract
 - [Ekultek/WhatBreach](https://github.com/Ekultek/WhatBreach) - OSINT tool to find breached emails, databases, pastes, and relevant information
 - [0x0be/yesitsme](https://github.com/0x0be/yesitsme) - Simple OSINT script to find Instagram profiles by name and e-mail/phone
-- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Track Instagram users' activities, profile changes and capture content with beautiful dashboards and instant notifications
@@ -3396,6 +3398,11 @@
 
 ## others 
 
+- [akitaonrails/distrobox-gaming](https://github.com/akitaonrails/distrobox-gaming) - Script to create a gaming focused Distrobox with all emulators pre-configured
+- [fox-it/pcap-broker](https://github.com/fox-it/pcap-broker) - PCAP-over-IP server written in Golang
+- [spq/pkappa2](https://github.com/spq/pkappa2) - Network traffic analysis tool for Attack & Defense CTF's
+- [Attacking-Lab/ecsc2026-ad-wiki](https://github.com/Attacking-Lab/ecsc2026-ad-wiki) - ECSC 2026 A/D Player wiki
+- [OpenAttackDefenseTools/tulip](https://github.com/OpenAttackDefenseTools/tulip) - Network analysis tool for Attack Defence CTF
 - [Acelogic/q1n1](https://github.com/Acelogic/q1n1) - m1n1 retargeted to a Snapdragon laptop: EL2 after ExitBootServices on the ASUS Zenbook A16, serving m1n1's proxy protocol over q1n1's own USB stack
 - [formalsec/radar-dataset](https://github.com/formalsec/radar-dataset) - 
 - [LilithSemi/chock](https://github.com/LilithSemi/chock) - Sandbox first AI coding harness
@@ -3620,7 +3627,6 @@
 - [NaGaa95/ctr2_nx](https://github.com/NaGaa95/ctr2_nx) - Port of Cut the Rope 2 for Switch.
 - [NaGaa95/jetpackjoyride_nx](https://github.com/NaGaa95/jetpackjoyride_nx) - Port of Jetpack Joyride for Switch.
 - [Producdevity/cod-boz-port](https://github.com/Producdevity/cod-boz-port) - Call of Duty - Black Ops Zombies (Android) - Ported to PortMaster Compatible devices
-- [alejandrobellver/pichiwa-patches](https://github.com/alejandrobellver/pichiwa-patches) - PichiWA Patches - parches Morphe para WhatsApp
 - [rushiranpise/morphe-whatsapp-patches](https://github.com/rushiranpise/morphe-whatsapp-patches) - 
 - [rrr333nnn333/BreWheel](https://github.com/rrr333nnn333/BreWheel) - A Treat Wheel Fork - The wheel to reinvent the new light.
 - [rrr333nnn333/BreZygisk](https://github.com/rrr333nnn333/BreZygisk) - A ReZygisk Fork - Transparent implementation of Zygisk.
@@ -4404,7 +4410,6 @@
 - [Scrumplex/nixpkgs](https://github.com/Scrumplex/nixpkgs) - Nix Packages collection
 - [talkol/spiderman](https://github.com/talkol/spiderman) - Spider-Man VR Experience
 - [SpookySkeletons/proton-rtsp](https://github.com/SpookySkeletons/proton-rtsp) - Compatibility tool for Steam Play based on Wine and additional components
-- [kanaodnd/Stellar-Tweaks](https://github.com/kanaodnd/Stellar-Tweaks) - Performance module, focused on making the phone better, with some tweaks specifically for all types of soc. Ai-assisted module, changes modes when playing games
 - [oo8dev/wayvr-dashboard](https://github.com/oo8dev/wayvr-dashboard) - Launch your favorite desktop applications and games seamlessly within your VR environment (wlx-overlay-s addon)
 - [chaosmaou/wivrn-guide](https://github.com/chaosmaou/wivrn-guide) - A comprehensive guide to Linux VR on standalone headsets using WiVRn.
 - [Frogging-Family/community-patches](https://github.com/Frogging-Family/community-patches) - A place to find patches that are maintained by the community before myself
@@ -5626,7 +5631,7 @@
 - [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - bgscan is multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
 - [blackhillsinfosec/WifiForge](https://github.com/blackhillsinfosec/WifiForge) - WifiForge is a tool developed by Black Hills InfoSec to help train Pentesters on different Wi-Fi attack vectors and Wireless capabilities.
-- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [frankheat/noxen](https://github.com/frankheat/noxen) - Android interception tool for component communication and attack-surface mapping
 - [Ragnt/AngryOxide](https://github.com/Ragnt/AngryOxide) - 802.11 Attack Tool
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
@@ -5844,7 +5849,7 @@
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [ellite/scrob](https://github.com/ellite/scrob) - Scrob - Self-hosted media tracking app. It syncs your libraries from Jellyfin, Plex, and Emby, tracks your watch history, ratings, and personal lists - Your own private Letterboxd + Trakt
 - [RileyXX/TMDB-Trakt-Syncer](https://github.com/RileyXX/TMDB-Trakt-Syncer) - A python script that syncs user watchlist and ratings for Movies, TV Shows and Episodes both ways between Trakt and TMDB.
-- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [ergrelet/themida-unmutate](https://github.com/ergrelet/themida-unmutate) - Static deobfuscator for Themida, WinLicense and Code Virtualizer 3.x's mutation-based obfuscation.
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
@@ -5939,7 +5944,7 @@
 ## python3 
 
 - [Aravindha1234u/DisCTF](https://github.com/Aravindha1234u/DisCTF) - Discord Bot for Realtime Updates from CTFd
-- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [Y0oshi/Cursor-Trial-Reset](https://github.com/Y0oshi/Cursor-Trial-Reset) - Bypass Cursor IDE trial limits automatically. Updated for Cursor 2.x and 0.45+
 - [fit-project/fit](https://github.com/fit-project/fit) - FIT is a modular suite of Python applications for digital forensic acquisition of online contents such as web pages, emails, social media, and more. Each module can run independently or as part of the
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
@@ -6076,7 +6081,7 @@
 
 ## redteam 
 
-- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [swisskyrepo/InternalAllTheThings](https://github.com/swisskyrepo/InternalAllTheThings) - Active Directory and Internal Pentest Cheatsheets
@@ -6198,6 +6203,7 @@
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
 - [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - Forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
 - [TheROMMER/core](https://github.com/TheROMMER/core) - A powerful tool designed to customize Android ROM ZIP files without building from source.
+- [kanaodnd/Stellar-Tweaks](https://github.com/kanaodnd/Stellar-Tweaks) - Intelligent Android performance daemon written in Rust. Fast-paced hybrid scheduler and real-time telemetry for Root and Non-Root environments.
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot & Measured Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
