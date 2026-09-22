@@ -1020,7 +1020,7 @@
 
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
-- [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) - Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any websites, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek 
+- [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [yoannchb-pro/MoodleGPT](https://github.com/yoannchb-pro/MoodleGPT) - This extension allows you to hide CHAT-GPT in a Moodle quiz.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
@@ -1061,7 +1061,7 @@
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
 - [FoxRefire/wvg](https://github.com/FoxRefire/wvg) - Chrome/Firefox extension for pen-testing to retrieve encryption keys of Widevine protected content !DON'T DECRYPT CONTENT UNLESS YOU HAVE THE RIGHT TO DO IT!
 - [DevLARLEY/WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2) - An extension-based proxy for Widevine/ClearKey EME challenges and license messages. Modifies the challenge before it reaches the web player. Bypasses Hashes, one-time-tokens and license wrapping.
-- [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) - Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any websites, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek 
+- [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可
 - [pritkr/predirect](https://github.com/pritkr/predirect) - A manifest v3 web extension with minimal permissions to automatically redirect to privacy friendly frontends. ⭐️ Star to support our work!
 - [nehirakbass/anime-filler-checker](https://github.com/nehirakbass/anime-filler-checker) - Browser extension that auto-detects anime filler episodes on any streaming site. Shows FILLER/CANON/MIXED badge directly on the page.
 - [RetireJS/retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds.
@@ -1627,7 +1627,7 @@
 
 ## dsh-plugin 
 
-- [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) - Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any websites, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek 
+- [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 
 ## education 
@@ -3398,6 +3398,7 @@
 
 ## others 
 
+- [formalsec/explode-js](https://github.com/formalsec/explode-js) - Automated Exploit Generation for Node.js Packages
 - [danfromtico/autorun](https://github.com/danfromtico/autorun) - Play Windows PC games on your Nintendo Switch.
 - [patchzyy/Wiicompiled](https://github.com/patchzyy/Wiicompiled) - Wiicompiled
 - [akitaonrails/distrobox-gaming](https://github.com/akitaonrails/distrobox-gaming) - Script to create a gaming focused Distrobox with all emulators pre-configured
