@@ -10,6 +10,7 @@
 - [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
+- [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
 - [algorithmic-trading](#algorithmic-trading)
 - [algorithms](#algorithms)
@@ -365,9 +366,17 @@
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and then uses AI voice services to create a new dubbed & translated audio track where the speech is synced using the subtitle's t
 
+## ai-agent 
+
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
+- [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - runs anywhere. uses anything
+- [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
+
 ## ai-agents 
 
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
 - [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Native-session control plane for Codex, Claude Code, OpenCode, OMP and PI. Run, resume and hand off coding sessions across your machines.
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - Model Context Protocol server for CyberChef — exposes GCHQ's "Cyber Swiss Army Knife" as AI-agent tools: 504 operations across encryption, encoding, compression and forensics, on MCP protocol revision
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,445+ agentic skills. Includes CLI, local MCP, catalo
@@ -620,7 +629,7 @@
 - [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer) - An Android native video player
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [BobbyESP/Jetispot](https://github.com/BobbyESP/Jetispot) - Unofficial Spotify client for Android built with Jetpack Compose, Material 3 and librespot-java. Fork ahead of Tayson's original repo. Read README!
 - [galaxygoldfish/pineapple](https://github.com/galaxygoldfish/pineapple) - 🍍 Reddit client for Android using the Material You design system
 - [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that support material you design.
@@ -819,7 +828,7 @@
 - [AwesomeHomelab/awesome-homelab](https://github.com/AwesomeHomelab/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
 - [pe3zx/my-infosec-awesome](https://github.com/pe3zx/my-infosec-awesome) - My curated list of awesome links, resources and tools on infosec related topics
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources and tools
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
@@ -873,7 +882,7 @@
 - [ardianta/anime-for-dev](https://github.com/ardianta/anime-for-dev) - A curated list of animes every developer should watch.
 - [AwesomeHomelab/awesome-homelab](https://github.com/AwesomeHomelab/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
 - [pe3zx/my-infosec-awesome](https://github.com/pe3zx/my-infosec-awesome) - My curated list of awesome links, resources and tools on infosec related topics
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources and tools
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
@@ -1091,6 +1100,7 @@
 
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
+- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
 - [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Native-session control plane for Codex, Claude Code, OpenCode, OMP and PI. Run, resume and hand off coding sessions across your machines.
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,445+ agentic skills. Includes CLI, local MCP, catalo
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
@@ -1102,13 +1112,14 @@
 
 ## cli 
 
-- [bl4ckr0ss3/knife](https://github.com/bl4ckr0ss3/knife) - A reverse engineer's binary Swiss-army knife in Rust: triage, disassembly, function/CFG recovery, crypto-constant + YARA scanning for PE/ELF/Mach-O. Installs as 'knife'.
+- [bl4ckr0ss3/knife](https://github.com/bl4ckr0ss3/knife) - A terminal-first reverse engineering toolkit in Rust: PE/ELF/Mach-O analysis through CLI, TUI, and MCP. Installs as knife.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
 - [openclaw/wacli](https://github.com/openclaw/wacli) - WhatsApp CLI: sync, search, send
 - [gl0bal01/ctfd-warboard](https://github.com/gl0bal01/ctfd-warboard) - A gentle CTFd parser designed to minimize load on CTF platforms. CLI + Discord bot for small-team collaboration, with automatic git sync to private repos.
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
+- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
 - [vashhdev/onepace](https://github.com/vashhdev/onepace) - I made a script to watch One Pace, efficiently through your terminal with minimalistic TUI. I made it because I didn't want to download the files cause I watch quickly and then remove those files, als
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -1332,6 +1343,7 @@
 - [DefconParrot/DefconGroups](https://github.com/DefconParrot/DefconGroups) - A list of DEF CON groups around the world! Discover and connect with a local DCG near you.
 - [r4ph3cks/ctfs](https://github.com/r4ph3cks/ctfs) - A collection of Capture The Flag (CTF) challenges, writeups, and solutions from various cybersecurity competitions by r4ph3cks, a student CTF team from Portugal.
 - [redcode-labs/RedNixOS](https://github.com/redcode-labs/RedNixOS) - NixOS-based 'distro' for cybersecurity enthusiasts
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.
 
 ## dart 
 
@@ -1390,6 +1402,7 @@
 
 ## developer-tools 
 
+- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
 - [Amethyst-szs/smo-lunakit](https://github.com/Amethyst-szs/smo-lunakit) - A Mario Odyssey tool built off Dear ImGui for developers, level builders, glitch hunters, and everyone in-between
 - [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Native-session control plane for Codex, Claude Code, OpenCode, OMP and PI. Run, resume and hand off coding sessions across your machines.
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,445+ agentic skills. Includes CLI, local MCP, catalo
@@ -1518,6 +1531,7 @@
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [winboat-org/winboat](https://github.com/winboat-org/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.
 - [arabcoders/watchstate](https://github.com/arabcoders/watchstate) - Self-hosted service to sync your plex, jellyfin and emby play state. without relying on 3rd-party external services.
 - [SavageSoftware/portainer-backup](https://github.com/SavageSoftware/portainer-backup) - Portainer Backup Utility
 - [tekgator/docker-mcmyadmin](https://github.com/tekgator/docker-mcmyadmin) - McMyAdmin control pannel for running a Java Minecraft server in all possible variants
@@ -1795,7 +1809,7 @@
 - [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) - A cross platform App for streaming Music
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
 - [Psyhackological/AAA](https://github.com/Psyhackological/AAA) - :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 
 ## flutter-apps 
 
@@ -1931,7 +1945,7 @@
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
 - [openclaw/wacli](https://github.com/openclaw/wacli) - WhatsApp CLI: sync, search, send
-- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer)
+- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [mainlink0435/warpbox](https://github.com/mainlink0435/warpbox) - A high-performance WebDAV proxy for TorBox
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
@@ -1961,6 +1975,7 @@
 
 - [roma-glushko/awesome-distributed-system-projects](https://github.com/roma-glushko/awesome-distributed-system-projects) - 🚀 List of distributed system projects for inspiration and learning to build distributed services from real world examples
 - [Kumneger0/yt-tracks](https://github.com/Kumneger0/yt-tracks) - listen to youtube music in ur terminal
+- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [mainlink0435/warpbox](https://github.com/mainlink0435/warpbox) - A high-performance WebDAV proxy for TorBox
@@ -2607,6 +2622,7 @@
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
 - [ifd3f/infra](https://github.com/ifd3f/infra) - Personal cloud, dotfiles, and configurations omnirepo
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.
 
 ## language 
 
@@ -2651,6 +2667,7 @@
 - [rry0ku/veluna](https://github.com/rry0ku/veluna) - Ad-free desktop music streaming application powered by YouTube.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel™ phone flashing GUI utility with features.
+- [Fabito02/ChromaLeon](https://github.com/Fabito02/ChromaLeon) - Change your GNOME Shell and GTK accent colors dynamically based on your wallpaper.
 - [suominen/ghostlock](https://github.com/suominen/ghostlock) - Tracking GhostLock (CVE-2026-43499), the rtmutex/futex stack use-after-free
 - [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu) - Checkpoint/Restore tool
 - [Wyze3306/BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Run Minecraft Bedrock for Windows seamlessly on Linux.
@@ -2733,7 +2750,6 @@
 - [yrp604/rappel](https://github.com/yrp604/rappel) - A linux-based assembly REPL for x86, amd64, armv7, and armv8
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
 - [exploitoverload/PwNixOS](https://github.com/exploitoverload/PwNixOS) - PwNixOS - A Productivity Focused and Hacking-Oriented NixOS Flake
-- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [Samuobe/Arch-Store](https://github.com/Samuobe/Arch-Store) - Simple store for Arch Linux compatible with Flatpak, Pacman, and AUR (using Yay or Paru)
 - [psygreg/linuxtoys](https://github.com/psygreg/linuxtoys) - For everything Linux.
 - [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for any Wayland compositor
@@ -2810,7 +2826,7 @@
 - [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install for Arch Linux, Fedora and openSuse.
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [glaumar/QRookie](https://github.com/glaumar/QRookie) - Download and install Quest games from ROOKIE Public Mirror (like VRP Rookie Sideloader but for Linux and MacOS)
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
 - [owerdogan/whoami-project](https://github.com/owerdogan/whoami-project) - Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions
@@ -2969,7 +2985,7 @@
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [InioX/matugen](https://github.com/InioX/matugen) - A cross-platform material you and base16 color generation tool
 - [Nitestack/infrastructure](https://github.com/Nitestack/infrastructure) - Personal infrastructure as code: Nix system configs (NixOS/WSL/macOS), a self-hosted homelab, and Cloudflare DNS/edge managed with OpenTofu.
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [glaumar/QRookie](https://github.com/glaumar/QRookie) - Download and install Quest games from ROOKIE Public Mirror (like VRP Rookie Sideloader but for Linux and MacOS)
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
 - [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
@@ -3152,7 +3168,7 @@
 - [tri2820/muer](https://github.com/tri2820/muer) - Self-hosted music player 🐧🎵
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
 - [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [afoster/kodi2m3u](https://github.com/afoster/kodi2m3u) - Export m3u playlists from a Kodi music video database
@@ -3401,14 +3417,17 @@
 
 ## others 
 
+- [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️ OpenCloud is the open source platform for file management, sharing and collaboration. Simple and sovereign.
+- [gfelber/templeos](https://github.com/gfelber/templeos) - 
+- [MasterPS0/fw](https://github.com/MasterPS0/fw) - PS5 Exploitable FW
+- [dgenzer/surify-cli](https://github.com/dgenzer/surify-cli) - 🧙🏼‍♂️Generate suricata-rules from collection of IOCs (JSON, CSV or flags) based on your suricata template.
 - [Uchiha01Shivam/Stremio_CLI](https://github.com/Uchiha01Shivam/Stremio_CLI) - CLI Tool for watching/downloading movie/series/anime
 - [3t3333/Listening-Room](https://github.com/3t3333/Listening-Room) - player for spotify
-- [MSNightmare/BigDiskBuster](https://github.com/MSNightmare/BigDiskBuster) - Windows Defender Update Denial of Service Vulnerability
 - [Tim-Sobolev/Classy](https://github.com/Tim-Sobolev/Classy) - IDA Pro plugin to manage classes
 - [RicBent/Classy](https://github.com/RicBent/Classy) - IDA Pro plugin to manage classes
 - [Indspl0it/gspwn](https://github.com/Indspl0it/gspwn) - An autoresearch agent for the NVIDIA GPU kernel driver and the NVIDIA Container Toolkit. It runs successive rounds of coverage-guided fuzzing until the discovery curve plateaus, and reports verified v
 - [formalsec/explode-js](https://github.com/formalsec/explode-js) - Automated Exploit Generation for Node.js Packages
-- [danfromtico/autorun](https://github.com/danfromtico/autorun) - Play Windows PC games on your Nintendo Switch.
+- [autorunhq/autorun](https://github.com/autorunhq/autorun) - Play Windows PC games on your Nintendo Switch.
 - [patchzyy/Wiicompiled](https://github.com/patchzyy/Wiicompiled) - Wiicompiled
 - [akitaonrails/distrobox-gaming](https://github.com/akitaonrails/distrobox-gaming) - Script to create a gaming focused Distrobox with all emulators pre-configured
 - [fox-it/pcap-broker](https://github.com/fox-it/pcap-broker) - PCAP-over-IP server written in Golang
@@ -3435,7 +3454,6 @@
 - [monkeyscript/heimdall](https://github.com/monkeyscript/heimdall) - A lightweight SMS spam shield for Android.
 - [GrapheneOS/Messaging](https://github.com/GrapheneOS/Messaging) - Messaging app
 - [adelmonte/victoria-launcher](https://github.com/adelmonte/victoria-launcher) - An open source alternative to Niagara Launcher — a minimal, list-based Android home screen.
-- [MSNightmare/ShieldCrash](https://github.com/MSNightmare/ShieldCrash) - Windows Defender 0day Vulnerability
 - [Conan1231/APL_forensic_data_analysis_automation_with_fortrace--](https://github.com/Conan1231/APL_forensic_data_analysis_automation_with_fortrace--) - Automated Image Creation for Forensic Data Analysis with Fortrace++
 - [abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP) - Android Logs Events And Protobuf Parser
 - [sysartifacts/sysartifacts.github.io](https://github.com/sysartifacts/sysartifacts.github.io) - Website for Artifact Evaluation at EuroSys, SOSP, OSDI, ATC
@@ -3449,7 +3467,6 @@
 - [davi-1337/chrome-rce-extension](https://github.com/davi-1337/chrome-rce-extension) - chrome said that this is not a bug (intended behavior)
 - [34306/vphone-web](https://github.com/34306/vphone-web) - vphone-cli but you can use your mac as a host and control it over the web
 - [TheBeardofKnowledge/TBOK-Win11Optimizer](https://github.com/TheBeardofKnowledge/TBOK-Win11Optimizer) - Windows 11 Optimizer that's also safe for business use.   This is how Windows 11 should work OOBE, not what we were given by Microsoft.
-- [MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank) - Crowdstrike Falcon 0day Privilege Escalation Vulnerability
 - [radavis/svp-on-ubuntu](https://github.com/radavis/svp-on-ubuntu) - 
 - [Malwation/sogen](https://github.com/Malwation/sogen) - 🪅 Windows & Linux & macOS userspace emulator
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
@@ -3465,7 +3482,6 @@
 - [jprx/darwin-vm](https://github.com/jprx/darwin-vm) - Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
 - [Gageformer/Ember](https://github.com/Gageformer/Ember) - A fast PS1 for PS2 solution
 - [zicochaos/omarchy-nix](https://github.com/zicochaos/omarchy-nix) - NixOS port of basecamp/omarchy (Quattro) — vendored upstream, not rewritten
-- [MSNightmare/GreenSection](https://github.com/MSNightmare/GreenSection) - Nvidia GreenSection Memory Corruption 0day vulnerability
 - [euzu/tuliprox](https://github.com/euzu/tuliprox) - Flexible IPTV playlist processor & proxy in Rust 🦀 - supports M3U, Xtream Codes, HDHomeRun, Plex, Emby & Jellyfin. Filtering, merging, scheduling & web delivery.
 - [MoldyTaint/Cinephage](https://github.com/MoldyTaint/Cinephage) - The AIO solution to your self hosted media gathering needs
 - [mircowuffwuff/sharpdroid](https://github.com/mircowuffwuff/sharpdroid) - an android app that runs SharpEmu, a PS5 emulator
@@ -3578,7 +3594,6 @@
 - [Magisk-Modules-Repo/ssh](https://github.com/Magisk-Modules-Repo/ssh) - ssh
 - [rrr333nnn333/Duck-Detector-Refactoring](https://github.com/rrr333nnn333/Duck-Detector-Refactoring) - Android environment integrity inspection tool for root, hook, bootloader, SELinux, virtualization, and attestation signals
 - [lyramakesmusic/neuralese-leaker](https://github.com/lyramakesmusic/neuralese-leaker) - web app for chatting with llms on openrouter with leaked unabridged reasoning
-- [MSNightmare/ShieldBreak](https://github.com/MSNightmare/ShieldBreak) - Windows Defender 0day vulnerability
 - [0xjohnnydev/FilzaSlop](https://github.com/0xjohnnydev/FilzaSlop) - FilzaJailedDS fork with container access for iOS 18, iOS 26, and iOS 27 beta 1–4. See README for per-bug status.
 - [rooootdev/mond](https://github.com/rooootdev/mond) - Edit MobileGestalt on iOS 27.0 beta 1 - 4!
 - [firelzrd/bore-scheduler](https://github.com/firelzrd/bore-scheduler) - BORE (Burst-Oriented Response Enhancer) CPU Scheduler
@@ -3680,7 +3695,6 @@
 - [backslashxx/KernelSU](https://github.com/backslashxx/KernelSU) - arm64-v8a, armeabi-v7a. upstream compliant driver for Linux 3.0 to 5.4+. check issues for guides
 - [itsshashanksp/KernelSU](https://github.com/itsshashanksp/KernelSU) - A fork of https://github.com/backslashxx/KernelSU.git by @backslashxx
 - [sheerboy/FemAlloy](https://github.com/sheerboy/FemAlloy) - ChsBuffer's LSPosed module, powered by Morphe, ReVanced, and beyond. (formerly ReVanced Xposed)
-- [Fabito02/ChromaLeon](https://github.com/Fabito02/ChromaLeon) - Change your GNOME Shell and GTK accent colors dynamically based on your wallpaper.
 - [FlamingoOS-Devices/hardware_dolby](https://github.com/FlamingoOS-Devices/hardware_dolby) - 
 - [ansemjo/truepolyglot](https://github.com/ansemjo/truepolyglot) - Create polyglot files, which are valid PDF and ZIP simultaneously. See POC||GTFO 07. (forked from git.hackade.org)
 - [Thiasap/oppo-pgem10-ghostlock](https://github.com/Thiasap/oppo-pgem10-ghostlock) - OPPO Find X6 Pro GhostLock (CVE-2026-43499) exploit adaptation
@@ -3915,8 +3929,6 @@
 - [AlexanderPro/WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - WindowTextExtractor allows you to get a text from any window of an operating system including asterisk passwords
 - [PacktPublishing/CompTIA-Linux-XK0-006---The-Total-Course](https://github.com/PacktPublishing/CompTIA-Linux-XK0-006---The-Total-Course) - CompTIA Linux+ (XK0-006) - The Total Course,Published by Packt Publishing
 - [Jibalmi/Arcus_Challenge](https://github.com/Jibalmi/Arcus_Challenge) - 
-- [MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet) - RoguePlanet Windows Defender Vulnerability
-- [MSNightmare/GreatXML](https://github.com/MSNightmare/GreatXML) - GreatXML bitlocker bypass vulnerability
 - [Team-Juicr/Juicr](https://github.com/Team-Juicr/Juicr) - An Android app for the sources you choose. Browse, save, resume, and play without turning your media setup into a control room.
 - [Karan1155-op/mpv-modernP](https://github.com/Karan1155-op/mpv-modernP) - A highly optimized, battery-friendly OSC and File Browser for MPV player. Built for zero background processing and seamless binging.
 - [nekoxuee/hayase-osc](https://github.com/nekoxuee/hayase-osc) - mpv osc that mimics hayase's player ui
@@ -4526,7 +4538,7 @@
 - [noahclark556/Smart-Watch-OS-for-ESP32-S3-1.69inch-Touch-LCD](https://github.com/noahclark556/Smart-Watch-OS-for-ESP32-S3-1.69inch-Touch-LCD) - A smart watch OS for use on the ESP32-S3-1.69inch-Touch-LCD
 - [panlina/bluewatch](https://github.com/panlina/bluewatch) - Unofficial os for Lilygo t-watch-s3
 - [velijv/LILYGO-T-Watch-S3-ESPHome](https://github.com/velijv/LILYGO-T-Watch-S3-ESPHome) - @LILYGO®  T-Watch S3 feature implementation for @ESPHome
-- [Xinyuan-LilyGO/LilyGoLib](https://github.com/Xinyuan-LilyGO/LilyGoLib) - T-Watch Ultra &  T-LoRa-Pager & T-Watch-S3 & T-Watch-S3-Plus
+- [Xinyuan-LilyGO/LilyGoLib](https://github.com/Xinyuan-LilyGO/LilyGoLib) - T-Deck & T-Watch Ultra &  T-LoRa-Pager & T-Watch-S3 & T-Watch-S3-Plus
 - [BigBobbas/Lilygo-T-watch-S3-ESPHome](https://github.com/BigBobbas/Lilygo-T-watch-S3-ESPHome) - Resources for the Lilygo T-Watch s3 for ESPHome
 - [Bellafaire/Android-Companion-App-For-BLE-Devices](https://github.com/Bellafaire/Android-Companion-App-For-BLE-Devices) - Provides an open source app which can send phone notifications and control phone functions over BLE
 - [Bellafaire/T-Watch-2020-Smartwatch-Port](https://github.com/Bellafaire/T-Watch-2020-Smartwatch-Port) - 
@@ -5006,7 +5018,6 @@
 - [Egosummiki/dotfiles](https://github.com/Egosummiki/dotfiles) - My configuration files (dot files) for my Arch Linux system.
 - [soldeus/calibre-zlibrary-plugin](https://github.com/soldeus/calibre-zlibrary-plugin) - 
 - [software-mansion/react-native-svg](https://github.com/software-mansion/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
-- [KreitinnSoftware/MiceWine](https://github.com/KreitinnSoftware/MiceWine) - MiceWine is a project that aims to run Windows applications and games on Android smartphones. (outdated)
 - [rishav12s/Rain-Dark](https://github.com/rishav12s/Rain-Dark) - Rain Dark theme for HyDE
 - [tharinduxd0/whatsapp-view-once-bypass-chrome-extension](https://github.com/tharinduxd0/whatsapp-view-once-bypass-chrome-extension) - WhatsApp View Once Bypass is a Chrome extension that allows users to view and save photos indefinitely on WhatsApp Web, overriding the app's view once feature.
 - [the-chat-game/the-chat-game](https://github.com/the-chat-game/the-chat-game) - The Chat Game is an innovative platform that brings people together through interactive chat-based challenges. Players participate in various game modes, compete with friends, and enjoy a unique socia
@@ -5022,7 +5033,6 @@
 - [f0e/letterboxd-trakt-sync](https://github.com/f0e/letterboxd-trakt-sync) - Script to sync your Letterboxd ratings to your Trakt account.
 - [bbeesley/trakt-to-letterboxd](https://github.com/bbeesley/trakt-to-letterboxd) - CLI tool for publishing your trakt watched history to your letterboxd account
 - [jamie78/react-native-gifted-chat](https://github.com/jamie78/react-native-gifted-chat) - 
-- [KreitinnSoftware/proton-wine](https://github.com/KreitinnSoftware/proton-wine) - Wine with a bit of extra spice
 - [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 - [K11MCH1/Winlator101](https://github.com/K11MCH1/Winlator101) - Your source for Winlator usage, components and more...
 - [tazMeah/MDMPatcher-Universal](https://github.com/tazMeah/MDMPatcher-Universal) - MDM patch *should* working on iOS 15+...
@@ -5217,11 +5227,9 @@
 - [dappvibe/bash-colors](https://github.com/dappvibe/bash-colors) - The library defines verbal constants and functions for terminal colors.
 - [Tsunami014/Grayjay-plugins](https://github.com/Tsunami014/Grayjay-plugins) - A couple of plugins for Grayjay! Still in development.
 - [ang3lo-azevedo/Grayjay.Desktop](https://github.com/ang3lo-azevedo/Grayjay.Desktop) - Grayjay.Desktop Mirror with Docker support
-- [KreitinnSoftware/MiceWine-RootFS-Generator](https://github.com/KreitinnSoftware/MiceWine-RootFS-Generator) - This repository generate needed files for MiceWine
 - [ang3lo-azevedo/4get-arm64-Dockerimage](https://github.com/ang3lo-azevedo/4get-arm64-Dockerimage) - 
 - [futo-org/Grayjay.Engine](https://github.com/futo-org/Grayjay.Engine) - Grayjay Engine Mirror
 - [futo-org/Grayjay.Desktop](https://github.com/futo-org/Grayjay.Desktop) - Read-only mirror of Grayjay.Desktop repo for issue tracking
-- [KreitinnSoftware/MiceWine-Application](https://github.com/KreitinnSoftware/MiceWine-Application) - MiceWine is a project that aims to run Windows applications and games on Android smartphones.
 - [hardenedvault/bootkit-samples](https://github.com/hardenedvault/bootkit-samples) - Bootkit sample for firmware attack
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) - 
@@ -5727,6 +5735,7 @@
 
 ## privacy 
 
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [FaFre/WebLibre](https://github.com/FaFre/WebLibre) - A libre Android browser built from scratch on Gecko. Privacy by default, powerful tab containers, and a local-first search engine.
 - [BareBrowser/bare-browser](https://github.com/BareBrowser/bare-browser) - Bare is a de-Googled Chromium build for Android, built for privacy, control, and freedom on the web. It strips Google tracking, telemetry, and AI integration while keeping browser extensions and uBloc
 - [daboynb/Safetycore-placeholder](https://github.com/daboynb/Safetycore-placeholder) - Placeholder APK to permanently block Google SafetyCore installation and updates
@@ -6110,7 +6119,7 @@
 
 ## reverse-engineering 
 
-- [bl4ckr0ss3/knife](https://github.com/bl4ckr0ss3/knife) - A reverse engineer's binary Swiss-army knife in Rust: triage, disassembly, function/CFG recovery, crypto-constant + YARA scanning for PE/ELF/Mach-O. Installs as 'knife'.
+- [bl4ckr0ss3/knife](https://github.com/bl4ckr0ss3/knife) - A terminal-first reverse engineering toolkit in Rust: PE/ELF/Mach-O analysis through CLI, TUI, and MCP. Installs as knife.
 - [MG1937/ASC](https://github.com/MG1937/ASC) - ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
 - [ByteV0rtex/CVE-2026-65343](https://github.com/ByteV0rtex/CVE-2026-65343) - CVE-2026-65343 PoC — AppleKeyStore OOB read → KASLR defeat (iOS 26.6 / 23G71)
 - [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
@@ -6175,8 +6184,9 @@
 
 ## rust 
 
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [crmne/zapfast](https://github.com/crmne/zapfast) - ZapFast: a fast, native WhatsApp client in Rust and egui
-- [bl4ckr0ss3/knife](https://github.com/bl4ckr0ss3/knife) - A reverse engineer's binary Swiss-army knife in Rust: triage, disassembly, function/CFG recovery, crypto-constant + YARA scanning for PE/ELF/Mach-O. Installs as 'knife'.
+- [bl4ckr0ss3/knife](https://github.com/bl4ckr0ss3/knife) - A terminal-first reverse engineering toolkit in Rust: PE/ELF/Mach-O analysis through CLI, TUI, and MCP. Installs as knife.
 - [archledger/irlume](https://github.com/archledger/irlume) - Face authentication for Linux: IR cameras in the dark, anti-spoofing on by default, TPM-sealed embeddings, and the password always works.
 - [Kopuz-org/kopuz](https://github.com/Kopuz-org/kopuz) - Your next music player
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
@@ -6210,6 +6220,7 @@
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [trailofbits/mquire](https://github.com/trailofbits/mquire) - Zero-dependency Linux memory forensics, leveraging kernel-embedded BTF and kallsyms for type-aware memory analysis without external debug info.
+- [monogram-android/monogram](https://github.com/monogram-android/monogram) - Native Telegram client for Android
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
@@ -6309,7 +6320,7 @@
 - [stuxnet999/MemLabs](https://github.com/stuxnet999/MemLabs) - Educational, CTF-styled labs for individuals interested in Memory Forensics
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
 - [r4ph3cks/ctfs](https://github.com/r4ph3cks/ctfs) - A collection of Capture The Flag (CTF) challenges, writeups, and solutions from various cybersecurity competitions by r4ph3cks, a student CTF team from Portugal.
-- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [leohearts/AlternativeUnlockXposed](https://github.com/leohearts/AlternativeUnlockXposed) - Unlock your Android phone with an alternative PIN. (Xposed)
 - [rushiranpise/detection](https://github.com/rushiranpise/detection) - Collection of Various Root Detection Apps for Android
@@ -6328,7 +6339,7 @@
 
 ## security-tools 
 
-- [bl4ckr0ss3/knife](https://github.com/bl4ckr0ss3/knife) - A reverse engineer's binary Swiss-army knife in Rust: triage, disassembly, function/CFG recovery, crypto-constant + YARA scanning for PE/ELF/Mach-O. Installs as 'knife'.
+- [bl4ckr0ss3/knife](https://github.com/bl4ckr0ss3/knife) - A terminal-first reverse engineering toolkit in Rust: PE/ELF/Mach-O analysis through CLI, TUI, and MCP. Installs as knife.
 - [TryCatchHCF/DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - "Security Incidents In A Box!"   A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. Easily create custom event chains for Blue- & Red Team 
 - [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, tools and other resources
 - [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - bgscan is multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
@@ -6559,7 +6570,7 @@
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
-- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer)
+- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -6629,6 +6640,7 @@
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
+- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [mhyrzt/xrat](https://github.com/mhyrzt/xrat) - Rust CLI/TUI proxy manager for Xray-core, V2Ray-core, and sing-box: import subscriptions,   test latency, rotate proxies, scan edge IPs, and run managed local proxy sessions.
 - [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - bgscan is multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
@@ -7014,7 +7026,7 @@
 - [latipun7/dotfiles](https://github.com/latipun7/dotfiles) - 🏡 Home sweet ~/.
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [InioX/matugen](https://github.com/InioX/matugen) - A cross-platform material you and base16 color generation tool
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuratio
 - [portapps/whatsapp-portable](https://github.com/portapps/whatsapp-portable) - ⚠️ WhatsApp portable for Windows
@@ -7105,7 +7117,7 @@
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's internal API, known as InnerTube.
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
