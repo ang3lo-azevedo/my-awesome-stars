@@ -309,7 +309,7 @@
 
 ## agent-skills 
 
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,445+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalo
 
 ## agents 
 
@@ -379,7 +379,7 @@
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
 - [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Native-session control plane for Codex, Claude Code, OpenCode, OMP and PI. Run, resume and hand off coding sessions across your machines.
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - Model Context Protocol server for CyberChef — exposes GCHQ's "Cyber Swiss Army Knife" as AI-agent tools: 504 operations across encryption, encoding, compression and forensics, on MCP protocol revision
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,445+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalo
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -1029,7 +1029,7 @@
 
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
-- [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可
+- [voyager-crew/voyager](https://github.com/voyager-crew/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [yoannchb-pro/MoodleGPT](https://github.com/yoannchb-pro/MoodleGPT) - This extension allows you to hide CHAT-GPT in a Moodle quiz.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
@@ -1070,7 +1070,7 @@
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
 - [FoxRefire/wvg](https://github.com/FoxRefire/wvg) - Chrome/Firefox extension for pen-testing to retrieve encryption keys of Widevine protected content !DON'T DECRYPT CONTENT UNLESS YOU HAVE THE RIGHT TO DO IT!
 - [DevLARLEY/WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2) - An extension-based proxy for Widevine/ClearKey EME challenges and license messages. Modifies the challenge before it reaches the web player. Bypasses Hashes, one-time-tokens and license wrapping.
-- [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可
+- [voyager-crew/voyager](https://github.com/voyager-crew/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可
 - [pritkr/predirect](https://github.com/pritkr/predirect) - A manifest v3 web extension with minimal permissions to automatically redirect to privacy friendly frontends. ⭐️ Star to support our work!
 - [nehirakbass/anime-filler-checker](https://github.com/nehirakbass/anime-filler-checker) - Browser extension that auto-detects anime filler episodes on any streaming site. Shows FILLER/CANON/MIXED badge directly on the page.
 - [RetireJS/retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds.
@@ -1102,7 +1102,7 @@
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
 - [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Native-session control plane for Codex, Claude Code, OpenCode, OMP and PI. Run, resume and hand off coding sessions across your machines.
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,445+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalo
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
@@ -1405,7 +1405,7 @@
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
 - [Amethyst-szs/smo-lunakit](https://github.com/Amethyst-szs/smo-lunakit) - A Mario Odyssey tool built off Dear ImGui for developers, level builders, glitch hunters, and everyone in-between
 - [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Native-session control plane for Codex, Claude Code, OpenCode, OMP and PI. Run, resume and hand off coding sessions across your machines.
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,445+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalo
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [brunos3d/discord-enable-devtools](https://github.com/brunos3d/discord-enable-devtools) - 🚀 zx - Bring your Discord's devtools back to life (again)
 - [robertpsoane/ducker](https://github.com/robertpsoane/ducker) - A slightly quackers Docker TUI based on k9s 🦆
@@ -1641,7 +1641,7 @@
 
 ## dsh-plugin 
 
-- [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可
+- [voyager-crew/voyager](https://github.com/voyager-crew/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 
 ## education 
@@ -2126,6 +2126,7 @@
 
 ## hacktoberfest 
 
+- [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
 - [daffainfo/suricata-rules](https://github.com/daffainfo/suricata-rules) - Suricata rules that can detect a wide range of threats, including malware, exploits, and other malicious activity especially web application attacks
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
@@ -3049,7 +3050,7 @@
 ## mcp 
 
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - Model Context Protocol server for CyberChef — exposes GCHQ's "Cyber Swiss Army Knife" as AI-agent tools: 504 operations across encryption, encoding, compression and forensics, on MCP protocol revision
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,445+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalo
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
 - [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
@@ -3372,6 +3373,7 @@
 
 ## operating-system 
 
+- [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
 - [Zeal-Operating-System/ZealOS](https://github.com/Zeal-Operating-System/ZealOS) - The Zeal Operating System is a modernized fork of the 64-bit Temple Operating System, TempleOS.
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [openFyde/overlay-amd64-openfyde](https://github.com/openFyde/overlay-amd64-openfyde) - openFyde supported hardware "x86 PC with Intel HD graphics" build artefacts and pre-built image releases.
@@ -3417,6 +3419,12 @@
 
 ## others 
 
+- [Pwnzer0tt1/exploitfarm](https://github.com/Pwnzer0tt1/exploitfarm) - ExploitFarm is an attacker and flag submitter for A/D CTF
+- [countryside99/ZygiskNextSecurityResearch](https://github.com/countryside99/ZygiskNextSecurityResearch) - Public Research regarding ZygiskNext Closed-Source Software: https://github.com/LSPosed/ZygiskNext
+- [findus/AtakaDashboard](https://github.com/findus/AtakaDashboard) - Grafana Dashboard for Ataka
+- [Nils1729/ataka-grafana-dashboards](https://github.com/Nils1729/ataka-grafana-dashboards) - Grafana Dashboards for Ataka
+- [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse) - Suitable for Android APK reverse engineering analysis
+- [OpenAttackDefenseTools/ataka](https://github.com/OpenAttackDefenseTools/ataka) - Runs exploits, fast.
 - [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️ OpenCloud is the open source platform for file management, sharing and collaboration. Simple and sovereign.
 - [gfelber/templeos](https://github.com/gfelber/templeos) - 
 - [MasterPS0/fw](https://github.com/MasterPS0/fw) - PS5 Exploitable FW
@@ -4039,7 +4047,7 @@
 - [mrphrazer/reverser_ai](https://github.com/mrphrazer/reverser_ai) - Provides automated reverse engineering assistance through the use of local large language models (LLMs) on consumer hardware.
 - [HexRaysSA/ida-hcli](https://github.com/HexRaysSA/ida-hcli) - Hex-Rays CLI (HCLI)
 - [HexRaysSA/ida-chat-plugin](https://github.com/HexRaysSA/ida-chat-plugin) - 
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harne
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (mul
 - [ikarus23/kiosk-mode-breakout](https://github.com/ikarus23/kiosk-mode-breakout) - A collection of tips & tricks on how to escape a kiosk mode environment
 - [foreni-packages/hachoir-subfile](https://github.com/foreni-packages/hachoir-subfile) - hachoir-subfile : Find subfile in any binary stream
 - [cdgriffith/puremagic](https://github.com/cdgriffith/puremagic) - Pure python implementation of identifying files based off their magic numbers
@@ -4339,7 +4347,7 @@
 - [Pong-Development/device_nothing_Pong](https://github.com/Pong-Development/device_nothing_Pong) - About Device tree for Nothing Phone (2)
 - [VoltageOS/vendor_voltage-priv_keys](https://github.com/VoltageOS/vendor_voltage-priv_keys) - 
 - [VoltageOS/voltage_signatures-scripts](https://github.com/VoltageOS/voltage_signatures-scripts) - 
-- [Tam-Taro/SEL-Filtering-and-Sorting](https://github.com/Tam-Taro/SEL-Filtering-and-Sorting) - This page features AIOStreams templates and AIOMetadata configs for your perfect all-in-one stremio setup.
+- [Tam-Taro/SEL-Filtering-and-Sorting](https://github.com/Tam-Taro/SEL-Filtering-and-Sorting) - This page features AIOStreams templates and AIOMetadata configs for your perfect all-in-one streaming setup.
 - [dekusms/DekuSMS-Android](https://github.com/dekusms/DekuSMS-Android) - Android SMS app ~ Featuring E2EE, Cloud Forwarding, RMQ integrations
 - [mflr0/Katoolin3](https://github.com/mflr0/Katoolin3) - Automatically install all Kali linux tools
 - [joanasesinando/gerador-horarios-ist](https://github.com/joanasesinando/gerador-horarios-ist) - 🕓 A schedule generator for Instituto Superior Técnico (IST)'s students.
@@ -5853,6 +5861,7 @@
 
 ## python 
 
+- [C4T-BuT-S4D/S4DFarm](https://github.com/C4T-BuT-S4D/S4DFarm) - Attack & Defense CTF Farm based on DestructiveFarm
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [spoo-me/spoo](https://github.com/spoo-me/spoo) - spoo.me is an open-source & API first link management infra
 - [securo-finance/securo](https://github.com/securo-finance/securo) - Open-source personal finance manager. Self-hosted, privacy-first.
@@ -6264,6 +6273,7 @@
 
 ## security 
 
+- [al0ne/suricata-rules](https://github.com/al0ne/suricata-rules) - Suricata IDS rules 用来检测红队渗透/恶意行为等，支持检测CobaltStrike/MSF/Empire/DNS隧道/Weevely/菜刀/冰蝎/挖矿/反弹shell/ICMP隧道等
 - [jasonish/evebox](https://github.com/jasonish/evebox) - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search
 - [GrapheneOS/AppStore](https://github.com/GrapheneOS/AppStore) - 
 - [ByteV0rtex/CVE-2026-65343](https://github.com/ByteV0rtex/CVE-2026-65343) - CVE-2026-65343 PoC — AppleKeyStore OOB read → KASLR defeat (iOS 26.6 / 23G71)
