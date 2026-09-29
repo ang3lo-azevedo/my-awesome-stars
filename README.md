@@ -1506,6 +1506,7 @@
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
+- [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Track Instagram users' activities, profile changes and capture content with beautiful dashboards and instant notifications
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - Model Context Protocol server for CyberChef — exposes GCHQ's "Cyber Swiss Army Knife" as AI-agent tools: 504 operations across encryption, encoding, compression and forensics, on MCP protocol revision
 - [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
@@ -2543,6 +2544,7 @@
 
 ## kotlin 
 
+- [Clash-Projects/LastWave-Native](https://github.com/Clash-Projects/LastWave-Native) - Next-Gen YouTube Music Client with Liquid Glass UI , Algorithmic Smart Playlist Generator, Real-Time Synced Lyrics & Universal Last.fm Scrobbler for Android.
 - [A-EDev/Flow](https://github.com/A-EDev/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
 - [jakesgoodapps/DuoLauncher](https://github.com/jakesgoodapps/DuoLauncher) - An experimental Android launcher for foldables, with a right-side dock, native widgets, and overlapping unfolded Home pages.
 - [Aryan447/mpvium](https://github.com/Aryan447/mpvium) - Sane defaults, pro-level control.  An Android video player powered by mpv and libmpv.
@@ -3129,6 +3131,7 @@
 
 - [scottchiefbaker/dool](https://github.com/scottchiefbaker/dool) - Linux CLI tool providing real-time system resource monitoring
 - [nshalabi/SysmonTools](https://github.com/nshalabi/SysmonTools) - Utilities for Sysmon
+- [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Track Instagram users' activities, profile changes and capture content with beautiful dashboards and instant notifications
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
@@ -3419,6 +3422,9 @@
 
 ## others 
 
+- [PaleoMenace/NanoCore](https://github.com/PaleoMenace/NanoCore) - Nanocore download for those who want to do malware analysis on it and study it's behavior as well as play around with its features.
+- [wishihab/Android-RATList](https://github.com/wishihab/Android-RATList) - Android - Remote Access Trojan List
+- [th3m1ghtyduck/nur-packages](https://github.com/th3m1ghtyduck/nur-packages) - 
 - [Pwnzer0tt1/exploitfarm](https://github.com/Pwnzer0tt1/exploitfarm) - ExploitFarm is an attacker and flag submitter for A/D CTF
 - [countryside99/ZygiskNextSecurityResearch](https://github.com/countryside99/ZygiskNextSecurityResearch) - Public Research regarding ZygiskNext Closed-Source Software: https://github.com/LSPosed/ZygiskNext
 - [findus/AtakaDashboard](https://github.com/findus/AtakaDashboard) - Grafana Dashboard for Ataka
@@ -3466,7 +3472,7 @@
 - [abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP) - Android Logs Events And Protobuf Parser
 - [sysartifacts/sysartifacts.github.io](https://github.com/sysartifacts/sysartifacts.github.io) - Website for Artifact Evaluation at EuroSys, SOSP, OSDI, ATC
 - [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws) - A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a single window.
-- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Convert PS5 executables to run natively on Linux and Windows
+- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows
 - [topjohnwu/samloader-rs](https://github.com/topjohnwu/samloader-rs) - An all-in-one Samsung firmware download and flash tool
 - [novapowers0/DBZ-Budokai-3-HD-Collection](https://github.com/novapowers0/DBZ-Budokai-3-HD-Collection) - Recompilacion estatica (ReXGlue) de Dragon Ball Z: Budokai 3 HD Collection (Xbox 360) para Windows con launcher, sistema de mods y herramientas. No incluye datos del juego.
 - [zombienerd8000/voLTE-exynos](https://github.com/zombienerd8000/voLTE-exynos) - VoLTE for Samsung Exynos on custom ROMs. Enables phone calls on LineageOS when carriers shut down 2G/3G. PhhIms + mic routing fix.
@@ -3573,11 +3579,8 @@
 - [Rouyashiki/YukiSU](https://github.com/Rouyashiki/YukiSU) - Kernel-based Android Root Solution
 - [VoltageOS-Devices/device_zuk_z2_plus](https://github.com/VoltageOS-Devices/device_zuk_z2_plus) - 
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
-- [Lumince/singularity](https://github.com/Lumince/singularity) - meta horizon aio root app
-- [Lumince/singularity-Magisk](https://github.com/Lumince/singularity-Magisk) - The Magic Mask for Meta Quest
 - [rushiranpise/GmsCore](https://github.com/rushiranpise/GmsCore) - Free implementation of Play Services
 - [VisionR1/KeyAttestation](https://github.com/VisionR1/KeyAttestation) - For more about this fork, including all Features & Contributors, see the Wiki tab.
-- [gewenbo888/awaken-os](https://github.com/gewenbo888/awaken-os) - 
 - [F0x1d/LogFox](https://github.com/F0x1d/LogFox) - Yet another LogCat reader for Android
 - [jayeshmann/symfoamp-releases](https://github.com/jayeshmann/symfoamp-releases) - Releases for SymfoAmp — bit-perfect cross OS audiophile-grade music player.
 - [rushiranpise/Root-My-Galaxy-Payloads](https://github.com/rushiranpise/Root-My-Galaxy-Payloads) - Signed device profiles, mobile exploit payloads, and KernelSU artifacts for Root My Galaxy
@@ -5036,7 +5039,7 @@
 - [REVENGE977/StremioAmoledTheme](https://github.com/REVENGE977/StremioAmoledTheme) - A pitch black theme for stremio-enhanced
 - [REVENGE977/stremio-aniskip](https://github.com/REVENGE977/stremio-aniskip) - A plugin that integrates the AniSkip API into Stremio to automatically skip openings and endings when watching anime.
 - [megadrive/stremio-letterboxd](https://github.com/megadrive/stremio-letterboxd) - 
-- [Ahwxorg/Binternet](https://github.com/Ahwxorg/Binternet) - A custom Pinterest frontend, made in PHP.
+- [Ahwxorg/Binternet](https://github.com/Ahwxorg/Binternet) - A custom Pinterest frontend, made in PHP. Blocking anything flagged as GenAI by default.
 - [V4NT-ORG/Binternet-Revive](https://github.com/V4NT-ORG/Binternet-Revive) - An alternative frontend for Pinterest focused on privacy.
 - [f0e/letterboxd-trakt-sync](https://github.com/f0e/letterboxd-trakt-sync) - Script to sync your Letterboxd ratings to your Trakt account.
 - [bbeesley/trakt-to-letterboxd](https://github.com/bbeesley/trakt-to-letterboxd) - CLI tool for publishing your trakt watched history to your letterboxd account
