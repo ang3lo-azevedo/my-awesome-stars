@@ -961,6 +961,7 @@
 
 ## bot 
 
+- [oxidezap/whatsapp-rust](https://github.com/oxidezap/whatsapp-rust) - Whatsapp client written purely in Rust
 - [hfz1337/Eruditus](https://github.com/hfz1337/Eruditus) - Discord CTF helper bot
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [synzen/MonitoRSS](https://github.com/synzen/MonitoRSS) - MonitoRSS RSS bot (formerly known as Discord.RSS) with customizable feeds. https://monitorss.xyz
@@ -983,6 +984,7 @@
 
 ## c 
 
+- [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [hfiref0x/UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
@@ -1290,7 +1292,7 @@
 - [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
 - [GSDragoon/RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Radeon Software Slimmer is a utility to trim down the bloat with Radeon Software for AMD GPUs on Microsoft Windows.
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
-- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
+- [lively-community/lively](https://github.com/lively-community/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [Amethyst-szs/MoonFlow](https://github.com/Amethyst-szs/MoonFlow) - Modding application for Super Mario Odyssey, specializing in text editing and event flowcharts
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
@@ -1742,7 +1744,6 @@
 ## fastapi 
 
 - [spoo-me/spoo](https://github.com/spoo-me/spoo) - spoo.me is an open-source & API first link management infra
-- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Webchat to API
 
 ## finance 
@@ -1969,6 +1970,7 @@
 
 ## godot 
 
+- [lucasbaizer/GdTool](https://github.com/lucasbaizer/GdTool) - Reverse engineering tools for Godot
 - [bakustarver/rpgmakermlinux-cicpoffs](https://github.com/bakustarver/rpgmakermlinux-cicpoffs) - Run any RPG Maker XP, VX, VX Ace, MV, MZ, TyranoBuilder, Godot, Construct 2/3, Nscripter game on linux natively
 - [Amethyst-szs/MoonFlow](https://github.com/Amethyst-szs/MoonFlow) - Modding application for Super Mario Odyssey, specializing in text editing and event flowcharts
 - [kiinii-pixel/Card-Wars](https://github.com/kiinii-pixel/Card-Wars) - Adventure Time: Card Wars made in Godot
@@ -2128,6 +2130,7 @@
 
 ## hacktoberfest 
 
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
 - [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
 - [daffainfo/suricata-rules](https://github.com/daffainfo/suricata-rules) - Suricata rules that can detect a wide range of threats, including malware, exploits, and other malicious activity especially web application attacks
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
@@ -3422,6 +3425,25 @@
 
 ## others 
 
+- [QubesOS/qubes-video-companion](https://github.com/QubesOS/qubes-video-companion) - 
+- [dougchansan/mk8-recomp](https://github.com/dougchansan/mk8-recomp) - Static recompilation of AArch64 CPU code to native x86-64, on top of suyu's AOT recompiler and HLE stack.
+- [Ammar-Sadaoui/suyu-RECOMP](https://github.com/Ammar-Sadaoui/suyu-RECOMP) - suyu v0.04 release
+- [teddybear082/UGVR_game_profiles](https://github.com/teddybear082/UGVR_game_profiles) - Website to host game config profiles for the Universal Godot VR Injector (UGVR)
+- [teddybear082/UGVR](https://github.com/teddybear082/UGVR) - A mod to transform Godot 4 games from 3D to VR ("Universal Godot Virtual Reality" - "UGVR")
+- [FSECDEV/ThreatActors](https://github.com/FSECDEV/ThreatActors) - Threat intelligence resources
+- [en4rab/SPITkey](https://github.com/en4rab/SPITkey) - Decrypt the bitlocker FVEK for a bitlocker encrypted drive.
+- [NixenBiksen/ctf-nix](https://github.com/NixenBiksen/ctf-nix) - 
+- [GNOME/geary](https://github.com/GNOME/geary) - Read-only mirror of https://gitlab.gnome.org/GNOME/geary
+- [BlackOutedMind/openLogi](https://github.com/BlackOutedMind/openLogi) - Nix Packages collection & NixOS
+- [ofekashery/vertical-stack-in-card](https://github.com/ofekashery/vertical-stack-in-card) - 📐 Home Assistant Card: Group multiple cards into a single sleek card.
+- [MIXIDtheSilly/Refract](https://github.com/MIXIDtheSilly/Refract) - A Quest emulation tool
+- [kuuky29/UniRoot](https://github.com/kuuky29/UniRoot) - 
+- [decoder-it/LocalPotato](https://github.com/decoder-it/LocalPotato) - 
+- [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp) - Godot reverse engineering tools
+- [mrphrazer/msynth](https://github.com/mrphrazer/msynth) - Code deobfuscation framework to simplify Mixed Boolean-Arithmetic (MBA) expressions
+- [icedland/iced](https://github.com/icedland/iced) - Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Python, Lua
+- [valeria-org/bitwright](https://github.com/valeria-org/bitwright) - Bit-vector expression simplifier for binary analysis and deobfuscation
+- [GPUOpen-Drivers/AMDVLK](https://github.com/GPUOpen-Drivers/AMDVLK) - AMD Open Source Driver For Vulkan
 - [berzerk0/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
 - [GComPI-IFPB/openmote-fw](https://github.com/GComPI-IFPB/openmote-fw) - 
 - [Gangwa-Labs/OpenMote](https://github.com/Gangwa-Labs/OpenMote) - Arduino library for the OpenMote Gen 3.3 handheld controller (ESP32-S3)
@@ -4250,6 +4272,7 @@
 - [nooesc/git-mux](https://github.com/nooesc/git-mux) - wip , a terminal UI dashboard for GitHub. Browse your repos, view commit history, PRs, issues, CI status, and contribution stats
 - [davbo/active-cve-check](https://github.com/davbo/active-cve-check) - Script to check an installed packages list against the ubuntu-cve-tracker
 - [ACreTeam/forest](https://github.com/ACreTeam/forest) - PC Port of Animal Crossing
+- [sonicdcer/MarioKart64Recomp](https://github.com/sonicdcer/MarioKart64Recomp) - Mario Kart 64 for PC (Windows/Linux/MacOS)
 - [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) - I have spaghetti, now i just need a kart
 - [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
 - [mariopartyrd/marioparty4](https://github.com/mariopartyrd/marioparty4) - 
@@ -5642,6 +5665,7 @@
 
 ## parsing 
 
+- [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 
 ## penetration-testing 
@@ -6138,6 +6162,7 @@
 
 ## reverse-engineering 
 
+- [lucasbaizer/GdTool](https://github.com/lucasbaizer/GdTool) - Reverse engineering tools for Godot
 - [bl4ckr0ss3/knife](https://github.com/bl4ckr0ss3/knife) - A terminal-first reverse engineering toolkit in Rust: PE/ELF/Mach-O analysis through CLI, TUI, and MCP. Installs as knife.
 - [MG1937/ASC](https://github.com/MG1937/ASC) - ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
 - [ByteV0rtex/CVE-2026-65343](https://github.com/ByteV0rtex/CVE-2026-65343) - CVE-2026-65343 PoC — AppleKeyStore OOB read → KASLR defeat (iOS 26.6 / 23G71)
@@ -6203,6 +6228,9 @@
 
 ## rust 
 
+- [crmne/fastframe](https://github.com/crmne/fastframe) - egui on rails: the shared foundation for native Rust apps built with egui
+- [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
+- [oxidezap/whatsapp-rust](https://github.com/oxidezap/whatsapp-rust) - Whatsapp client written purely in Rust
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [crmne/zapfast](https://github.com/crmne/zapfast) - ZapFast: a fast, native WhatsApp client in Rust and egui
 - [bl4ckr0ss3/knife](https://github.com/bl4ckr0ss3/knife) - A terminal-first reverse engineering toolkit in Rust: PE/ELF/Mach-O analysis through CLI, TUI, and MCP. Installs as knife.
@@ -6283,6 +6311,7 @@
 
 ## security 
 
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
 - [al0ne/suricata-rules](https://github.com/al0ne/suricata-rules) - Suricata IDS rules 用来检测红队渗透/恶意行为等，支持检测CobaltStrike/MSF/Empire/DNS隧道/Weevely/菜刀/冰蝎/挖矿/反弹shell/ICMP隧道等
 - [jasonish/evebox](https://github.com/jasonish/evebox) - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search
 - [GrapheneOS/AppStore](https://github.com/GrapheneOS/AppStore) - 
