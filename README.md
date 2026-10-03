@@ -377,6 +377,7 @@
 
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
+- [NopeCHALLC/nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension) - Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.
 - [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Native-session control plane for Codex, Claude Code, OpenCode, OMP and PI. Run, resume and hand off coding sessions across your machines.
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - Model Context Protocol server for CyberChef — exposes GCHQ's "Cyber Swiss Army Knife" as AI-agent tools: 504 operations across encryption, encoding, compression and forensics, on MCP protocol revision
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalo
@@ -400,6 +401,7 @@
 
 ## android 
 
+- [aleixrodriala/newtube](https://github.com/aleixrodriala/newtube) - SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in.
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube and other services freely.
 - [A-EDev/Flow](https://github.com/A-EDev/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
 - [jakesgoodapps/DuoLauncher](https://github.com/jakesgoodapps/DuoLauncher) - An experimental Android launcher for foldables, with a right-side dock, native widgets, and overlapping unfolded Home pages.
@@ -433,7 +435,7 @@
 - [muhammadrizwan87/frida-bridge](https://github.com/muhammadrizwan87/frida-bridge) - Native JNI bridge to load Frida Gadget — Frida with no root, no APK repacking, containers supported.
 - [A4Alpha/mulch-webview-overlay](https://github.com/A4Alpha/mulch-webview-overlay) - Easily install the security-hardened Mulch SystemWebView from DivestOS
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
-- [Wtrwx/smt878u-ionstack-poc](https://github.com/Wtrwx/smt878u-ionstack-poc) - CVE-2026-43499 (IonStack/GhostLock) pure-C re-root POC for Samsung SM-T878U / gts7l (T878USQS8DXE1)
+- [Wtrwx/smt878u-ionstack-poc](https://github.com/Wtrwx/smt878u-ionstack-poc) - UNFINISHED/WIP - CVE-2026-43499 (IonStack/GhostLock) research POC for Samsung SM-T878U / gts7l. Trigger + geometry verified, NO working root yet.
 - [ang3lo-azevedo/root-my-nothing](https://github.com/ang3lo-azevedo/root-my-nothing) - One-click root for Nothing Phone (1) using CVE-2026-43499 (GhostLock). Gains temporary root and installs KernelSU without unlocking bootloader.
 - [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel™ phone flashing GUI utility with features.
 - [JoinChang/ghostlock-oneplus](https://github.com/JoinChang/ghostlock-oneplus) - GhostLock (CVE-2026-43499) kernel exploit for Android devices with locked bootloader
@@ -511,8 +513,9 @@
 - [Ivorisnoob/Koda](https://github.com/Ivorisnoob/Koda) - A Material 3 Expressive Music and Video app for Android with YT Music Support
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 - [nix-community/nix-on-droid-app](https://github.com/nix-community/nix-on-droid-app) - Run Nix package manager on Android. Based off Termux the terminal emulator, but not Termux the distro. [maintainer=@t184256]
-- [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
+- [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, with Android app or even from your browser!
 - [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
+- [rodrig20/ISOdroid](https://github.com/rodrig20/ISOdroid) - Turn your Android into a bootable USB with .iso & .img images (root required)
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256]
@@ -974,6 +977,7 @@
 
 ## bugbounty 
 
+- [daffainfo/AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty) - All about bug bounty (bypasses, payloads, and etc)
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [aw-junaid/Hacking-Tools](https://github.com/aw-junaid/Hacking-Tools) - This Repository is a collection of different ethical hacking tools and malware's for penetration testing and research purpose written in python, ruby, rust, c++, go and c.
@@ -984,6 +988,8 @@
 
 ## c 
 
+- [toaruos/bim](https://github.com/toaruos/bim) - Extensible terminal text editor with syntax highlighting and plugin support.
+- [klange/toaruos](https://github.com/klange/toaruos) - Complete, independent operating system built by humans.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
@@ -1557,7 +1563,7 @@
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [Woahai321/SeerrBridge](https://github.com/Woahai321/SeerrBridge) - SeerrBridge automates movie torrent fetching by integrating Jellyseer/Overseer with DebridMediaManager. It listens to OverSeerr movie requests via webhook and uses DMM / Real-Debrid for efficient down
-- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 40+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
+- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 80+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
 - [sapk/docker-volume-rclone](https://github.com/sapk/docker-volume-rclone) - Use Rclone as a backend for docker volume (also as a plugin). This permit to easely mount a lot of cloud provider (https://rclone.org/overview).
 - [coanghel/rclone-docker-automount](https://github.com/coanghel/rclone-docker-automount) - Simple Python script in a Docker container to auto-mount rclone remote storage.
 - [dockur/casa](https://github.com/dockur/casa) - CasaOS inside a Docker container.
@@ -2080,6 +2086,7 @@
 
 ## hacking 
 
+- [daffainfo/AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty) - All about bug bounty (bypasses, payloads, and etc)
 - [Hackplayers/evil-winrm](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell for hacking/pentesting
 - [TryCatchHCF/DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - "Security Incidents In A Box!"   A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. Easily create custom event chains for Blue- & Red Team 
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -2657,6 +2664,7 @@
 
 ## linux 
 
+- [toaruos/bim](https://github.com/toaruos/bim) - Extensible terminal text editor with syntax highlighting and plugin support.
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [crmne/zapfast](https://github.com/crmne/zapfast) - ZapFast: a fast, native WhatsApp client in Rust and egui
 - [ExTV/Podroid](https://github.com/ExTV/Podroid) - A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.
@@ -3026,6 +3034,7 @@
 
 ## material-design 
 
+- [aleixrodriala/newtube](https://github.com/aleixrodriala/newtube) - SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in.
 - [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) - A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt
 - [kaleedtc/Nitterium](https://github.com/kaleedtc/Nitterium) - A privacy-focused Android app and wrapper for Nitter, allowing you to browse Twitter/X content without an account and subscribe to your favorite user profiles.
 - [MdFarhan0/Self-Attendance](https://github.com/MdFarhan0/Self-Attendance) - A clean Android app to track college attendance with subject-wise targets and smart bunk guidance. Mark attendance, visualize performance, and instantly know whether to attend or skip classes.
@@ -3297,6 +3306,7 @@
 
 ## open-source 
 
+- [aleixrodriala/newtube](https://github.com/aleixrodriala/newtube) - SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in.
 - [A-EDev/Flow](https://github.com/A-EDev/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
 - [Musaddiq-Sultan/NixDroid](https://github.com/Musaddiq-Sultan/NixDroid) - NixDroid is an x86_64 AOSP emulator for Linux uses virtualization technology via QEMU, allowing it to run directly on hardware with native performance and skip software emulation overhead completely.
 - [rry0ku/veluna](https://github.com/rry0ku/veluna) - Ad-free desktop music streaming application powered by YouTube.
@@ -3379,6 +3389,7 @@
 
 ## operating-system 
 
+- [klange/toaruos](https://github.com/klange/toaruos) - Complete, independent operating system built by humans.
 - [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
 - [Zeal-Operating-System/ZealOS](https://github.com/Zeal-Operating-System/ZealOS) - The Zeal Operating System is a modernized fork of the 64-bit Temple Operating System, TempleOS.
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
@@ -3425,6 +3436,12 @@
 
 ## others 
 
+- [Leviidev/Podium](https://github.com/Leviidev/Podium) - Podium is a Classic iPod Touch Emulator
+- [sailfishos/sailfish-browser](https://github.com/sailfishos/sailfish-browser) - Sailfish Browser
+- [anishathalye/lumen](https://github.com/anishathalye/lumen) - Magic auto brightness based on screen contents 💡
+- [SupraGSX/Forceware-382.69](https://github.com/SupraGSX/Forceware-382.69) - Custom NVIDIA 368.81-based XP 32-bit driver with Maxwell/Pascal desktop additions (excluding GP100/GP107/GP108), improved DP/HDMI handling, restored Customize/DP scaling and topology unlock.
+- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
+- [max-baz/wluma](https://github.com/max-baz/wluma) - Automatic brightness adjustment based on screen contents and ALS
 - [QubesOS/qubes-video-companion](https://github.com/QubesOS/qubes-video-companion) - 
 - [dougchansan/mk8-recomp](https://github.com/dougchansan/mk8-recomp) - Static recompilation of AArch64 CPU code to native x86-64, on top of suyu's AOT recompiler and HLE stack.
 - [Ammar-Sadaoui/suyu-RECOMP](https://github.com/Ammar-Sadaoui/suyu-RECOMP) - suyu v0.04 release
@@ -3638,7 +3655,6 @@
 - [rooootdev/mond](https://github.com/rooootdev/mond) - Edit MobileGestalt on iOS 27.0 beta 1 - 4!
 - [firelzrd/bore-scheduler](https://github.com/firelzrd/bore-scheduler) - BORE (Burst-Oriented Response Enhancer) CPU Scheduler
 - [n0stal6ic/MStarToKeybox](https://github.com/n0stal6ic/MStarToKeybox) - Extracts MStar/MediaTek Widevine L1 keyboxes and PlayReady passphrases from raw eMMC dumps and firmware images.
-- [sheerboy/Femify](https://github.com/sheerboy/Femify) - ReVanced LSPosed module for Spotify
 - [xodus-gaming/xodus](https://github.com/xodus-gaming/xodus) - The great gaming migration to Linux
 - [DoctorEww/EvilFontTool](https://github.com/DoctorEww/EvilFontTool) - A font-based deception tool for red teaming, security research, and whatever else.
 - [Blueturboguy07/NitroAI](https://github.com/Blueturboguy07/NitroAI) - Free, local-first AI study notes — turn any lecture, PDF, or video into notes, flashcards, quizzes, and a study chat. Runs fully local or with your own API key.
@@ -3686,7 +3702,6 @@
 - [byxiaorun/Ruru](https://github.com/byxiaorun/Ruru) - An android sample app of detecting suspicious apps like magisk manager
 - [unique-error/root-detection-app-collection](https://github.com/unique-error/root-detection-app-collection) - A collection of Android apps that detect root, Xposed, ROM status, bootloader state, SafetyNet, and Play Integrity.
 - [VD171/COPG-VD](https://github.com/VD171/COPG-VD) - COPG-VD is a module designed for global device spoofing. This means even system apps and the whole device will be hooked.
-- [NopeCHALLC/nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension) - Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.
 - [fzer0x/ReShift](https://github.com/fzer0x/ReShift) - Inject Frida scripts on Android through Zygisk without a PC. Manage scripts from integrated repositories or load them from local storage.
 - [denful/den](https://github.com/denful/den) - Aspect-oriented, context-driven Nix configurations.
 - [NaGaa95/angrybirdsjourney_nx](https://github.com/NaGaa95/angrybirdsjourney_nx) - Port of Angry Birds Journey for Switch.
@@ -3734,7 +3749,6 @@
 - [backslashxx/kernelnosu](https://github.com/backslashxx/kernelnosu) - 
 - [backslashxx/KernelSU](https://github.com/backslashxx/KernelSU) - arm64-v8a, armeabi-v7a. upstream compliant driver for Linux 3.0 to 5.4+. check issues for guides
 - [itsshashanksp/KernelSU](https://github.com/itsshashanksp/KernelSU) - A fork of https://github.com/backslashxx/KernelSU.git by @backslashxx
-- [sheerboy/FemAlloy](https://github.com/sheerboy/FemAlloy) - ChsBuffer's LSPosed module, powered by Morphe, ReVanced, and beyond. (formerly ReVanced Xposed)
 - [FlamingoOS-Devices/hardware_dolby](https://github.com/FlamingoOS-Devices/hardware_dolby) - 
 - [ansemjo/truepolyglot](https://github.com/ansemjo/truepolyglot) - Create polyglot files, which are valid PDF and ZIP simultaneously. See POC||GTFO 07. (forked from git.hackade.org)
 - [Thiasap/oppo-pgem10-ghostlock](https://github.com/Thiasap/oppo-pgem10-ghostlock) - OPPO Find X6 Pro GhostLock (CVE-2026-43499) exploit adaptation
@@ -3883,7 +3897,7 @@
 - [Discord-LEIC/almightyDM](https://github.com/Discord-LEIC/almightyDM) - 
 - [ric2b/relative-grades-fenix-IST](https://github.com/ric2b/relative-grades-fenix-IST) - Get relative grades (i.e: Top 20% of people enrolled in the course) from your fenixEdu curriculum
 - [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile) - Official Nuvio Mobile Repository
-- [dejamarina/eden](https://github.com/dejamarina/eden) - 
+- [hidingfromkoda/eden](https://github.com/hidingfromkoda/eden) - 
 - [chainsandbolts/tochen-driver-poc](https://github.com/chainsandbolts/tochen-driver-poc) - regression
 - [TuncorReUnion/TLAC-MODERN-LOCAL-ANTI-CHEAT-REUNIONED](https://github.com/TuncorReUnion/TLAC-MODERN-LOCAL-ANTI-CHEAT-REUNIONED) - This Anti-Cheat is local server based and fully open source. it's user space
 - [p2r3/babel-usb](https://github.com/p2r3/babel-usb) - Technically infinite USB drive
@@ -4480,7 +4494,6 @@
 - [Frogging-Family/community-patches](https://github.com/Frogging-Family/community-patches) - A place to find patches that are maintained by the community before myself
 - [wiiznokes/gitnote](https://github.com/wiiznokes/gitnote) - Android note app with real file. Can be sync with git providers such as Github
 - [AbdurazaaqMohammed/InjectDocumentsProvider](https://github.com/AbdurazaaqMohammed/InjectDocumentsProvider) - Access Android/data and all data files of an Android app without any permissions
-- [rodrig20/ISOdroid](https://github.com/rodrig20/ISOdroid) - Turn your Android into a bootable USB with .iso & .img images (root required)
 - [jacopone/code-cursor-nix](https://github.com/jacopone/code-cursor-nix) - Auto-updating Nix package for Cursor AI editor with browser automation (Playwright/Puppeteer/Selenium). Updates 3x/week. Chrome bundled for NixOS testing.
 - [RPISEC/MBE](https://github.com/RPISEC/MBE) - Course materials for Modern Binary Exploitation by RPISEC
 - [MulesGaming/brave-debloatinator](https://github.com/MulesGaming/brave-debloatinator) - Removes unessasary bloat from Brave Browser.
@@ -5670,6 +5683,7 @@
 
 ## penetration-testing 
 
+- [daffainfo/AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty) - All about bug bounty (bypasses, payloads, and etc)
 - [opsdisk/metagoofil](https://github.com/opsdisk/metagoofil) - Search Google and download specific file types
 - [Ragnt/AngryOxide](https://github.com/Ragnt/AngryOxide) - 802.11 Attack Tool
 - [vladko312/SSTImap](https://github.com/vladko312/SSTImap) - Automatic SSTI detection tool with interactive interface
@@ -5829,7 +5843,7 @@
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
-- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 40+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
+- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 80+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
@@ -6228,6 +6242,7 @@
 
 ## rust 
 
+- [MintyDoggo/miri](https://github.com/MintyDoggo/miri) - A niri extension adding optional tiling layouts such as Master Stack. Provides similar experience to hyprland or mangowm.
 - [crmne/fastframe](https://github.com/crmne/fastframe) - egui on rails: the shared foundation for native Rust apps built with egui
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [oxidezap/whatsapp-rust](https://github.com/oxidezap/whatsapp-rust) - Whatsapp client written purely in Rust
@@ -6311,6 +6326,7 @@
 
 ## security 
 
+- [daffainfo/AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty) - All about bug bounty (bypasses, payloads, and etc)
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
 - [al0ne/suricata-rules](https://github.com/al0ne/suricata-rules) - Suricata IDS rules 用来检测红队渗透/恶意行为等，支持检测CobaltStrike/MSF/Empire/DNS隧道/Weevely/菜刀/冰蝎/挖矿/反弹shell/ICMP隧道等
 - [jasonish/evebox](https://github.com/jasonish/evebox) - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search
@@ -7120,6 +7136,7 @@
 
 ## youtube 
 
+- [aleixrodriala/newtube](https://github.com/aleixrodriala/newtube) - SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in.
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube and other services freely.
 - [A-EDev/Flow](https://github.com/A-EDev/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
 - [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
