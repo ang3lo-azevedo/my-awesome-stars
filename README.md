@@ -284,6 +284,7 @@
 - [website](#website)
 - [whatsapp-bot](#whatsapp-bot)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [wordpress](#wordpress)
 - [workflow](#workflow)
 - [xcode](#xcode)
@@ -527,7 +528,7 @@
 - [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Razzula/spotify-controller](https://github.com/Razzula/spotify-controller) - An Android app that uses Spotify's SDK and Web API to fill the current song queue with songs appropriate for the current driving speed
-- [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - 💊 An Android application to use ReVanced, Morphe and AmpleReVanced on that has extra features the official manager doesn't have
+- [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - 💊 Android manager for ReVanced and Morphe with third-party patch bundles, batch and automatic repatching, advanced installers, APK tools, and deep customization.
 - [JingMatrix/LSPatch](https://github.com/JingMatrix/LSPatch) - A rootless Xposed framework that embeds Vector into an app by patching its APK — no root, no Zygisk.
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
@@ -1508,7 +1509,7 @@
 - [selmant/foreseerr](https://github.com/selmant/foreseerr) - Foreseerr — Seerr fork with in-app Trakt discovery, watched/rate actions, and multi-source ratings for Jellyfin, Plex, and Emby.
 - [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS) - A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty
 - [aceberg/unbox](https://github.com/aceberg/unbox) - CLI tool for sing-box: keep alive, auto switch. Convert URLs to sing-box config. Deduplicate. Remove unreachable servers
-- [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ All-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
+- [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ A comprehensive, on-demand all-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
 - [blackhillsinfosec/WifiForge](https://github.com/blackhillsinfosec/WifiForge) - WifiForge is a tool developed by Black Hills InfoSec to help train Pentesters on different Wi-Fi attack vectors and Wireless capabilities.
 - [ellite/scrob](https://github.com/ellite/scrob) - Scrob - Self-hosted media tracking app. It syncs your libraries from Jellyfin, Plex, and Emby, tracks your watch history, ratings, and personal lists - Your own private Letterboxd + Trakt
@@ -2294,7 +2295,7 @@
 
 ## html 
 
-- [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ All-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
+- [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ A comprehensive, on-demand all-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
 - [fynks/toolz](https://github.com/fynks/toolz) - A collection of personal tools :)
 - [mayswind/AriaNg-Native](https://github.com/mayswind/AriaNg-Native) - A better aria2 desktop frontend than AriaNg, with all features of AriaNg and providing more features for desktop usage.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -2444,7 +2445,7 @@
 
 - [nunziopostdoctoral988/ats-resume-checker](https://github.com/nunziopostdoctoral988/ats-resume-checker) - Analyze resumes against ATS requirements using a local, transparent tool that runs entirely in your browser.
 - [rajhodedara/live-sport-plugin](https://github.com/rajhodedara/live-sport-plugin) - A robust live sports scraping and streaming plugin designed for media centers. Aggregates real-time feeds and delivers seamless IPTV playback.
-- [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ All-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
+- [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ A comprehensive, on-demand all-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
 - [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, 
 - [alperengozum/Sleepwell](https://github.com/alperengozum/Sleepwell) - React-Native - Expo - Sleep Cycle Calculator
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - Model Context Protocol server for CyberChef — exposes GCHQ's "Cyber Swiss Army Knife" as AI-agent tools: 504 operations across encryption, encoding, compression and forensics, on MCP protocol revision
@@ -2595,7 +2596,7 @@
 - [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [fym35/ZuckApp](https://github.com/fym35/ZuckApp) - Foss whatsapp client for Android
 - [ReVanced/revanced-manager-downloaders](https://github.com/ReVanced/revanced-manager-downloaders) - 🔌 ReVanced Manager downloaders
-- [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - 💊 An Android application to use ReVanced, Morphe and AmpleReVanced on that has extra features the official manager doesn't have
+- [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - 💊 Android manager for ReVanced and Morphe with third-party patch bundles, batch and automatic repatching, advanced installers, APK tools, and deep customization.
 - [MMRLApp/MMRL](https://github.com/MMRLApp/MMRL) - A app for managing, sharing, and exploring Magisk modules across repositories
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [IacobIonut01/ReFra](https://github.com/IacobIonut01/ReFra) - Media Gallery app for Android made with Jetpack Compose
@@ -3306,6 +3307,7 @@
 
 ## open-source 
 
+- [kalink0/crush-forensics](https://github.com/kalink0/crush-forensics) - Open-source desktop workbench for digital forensic analysis. Inspect ZIP/TAR/7z/UFDR archives, raw disk images/EWF, and iTunes/Android backups. Parse and view ABX, SQLite, SEGB, (B)PLIST, REALM, Proto
 - [aleixrodriala/newtube](https://github.com/aleixrodriala/newtube) - SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in.
 - [A-EDev/Flow](https://github.com/A-EDev/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
 - [Musaddiq-Sultan/NixDroid](https://github.com/Musaddiq-Sultan/NixDroid) - NixDroid is an x86_64 AOSP emulator for Linux uses virtualization technology via QEMU, allowing it to run directly on hardware with native performance and skip software emulation overhead completely.
@@ -3429,17 +3431,20 @@
 ## osint-tools 
 
 - [0x0be/yesitsme](https://github.com/0x0be/yesitsme) - Simple OSINT script to find Instagram profiles by name and e-mail/phone
-- [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ All-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
+- [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ A comprehensive, on-demand all-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
 - [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [osintambition/Social-Media-OSINT-Tools-Collection](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection) - A collection of most useful osint tools for SOCINT.
 - [megadose/toutatis](https://github.com/megadose/toutatis) - Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more
 
 ## others 
 
+- [ntfargo/Relapse-Exploit](https://github.com/ntfargo/Relapse-Exploit) - Exploit chain for PS5 7.00 - 13.60
+- [ElDavoo/PlayIntegrityBreak](https://github.com/ElDavoo/PlayIntegrityBreak) - Fix Play Integrity ... by BREAKING it!
+- [chasmlol/SkyCraft](https://github.com/chasmlol/SkyCraft) - Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).
 - [Leviidev/Podium](https://github.com/Leviidev/Podium) - Podium is a Classic iPod Touch Emulator
 - [sailfishos/sailfish-browser](https://github.com/sailfishos/sailfish-browser) - Sailfish Browser
 - [anishathalye/lumen](https://github.com/anishathalye/lumen) - Magic auto brightness based on screen contents 💡
-- [SupraGSX/Forceware-382.69](https://github.com/SupraGSX/Forceware-382.69) - Custom NVIDIA 368.81-based XP 32-bit driver with Maxwell/Pascal desktop additions (excluding GP100/GP107/GP108), improved DP/HDMI handling, restored Customize/DP scaling and topology unlock.
+- [SupraGSX/Forceware-382.69](https://github.com/SupraGSX/Forceware-382.69) - Custom NVIDIA 368.81-based XP 32-bit driver with Maxwell/Pascal desktop additions, OpenGL fixes, experimental GP107 support, improved DP/HDMI handling, restored Customize/DP scaling and topology unloc
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [max-baz/wluma](https://github.com/max-baz/wluma) - Automatic brightness adjustment based on screen contents and ALS
 - [QubesOS/qubes-video-companion](https://github.com/QubesOS/qubes-video-companion) - 
@@ -3617,7 +3622,6 @@
 - [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii) - A very very very very very very very long interrupt
 - [FSECDEV/LEAKSFORUMS](https://github.com/FSECDEV/LEAKSFORUMS) - A series of leaks from hacker forums
 - [estkme-group/openeuicc](https://github.com/estkme-group/openeuicc) - Mirror of OpenEUICC, a fully open-source LPA implementation for Android
-- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [LSPosed/Privisolated](https://github.com/LSPosed/Privisolated) - 
 - [1013503897/Vector](https://github.com/1013503897/Vector) - Zygisk ART hooking framework with a KPM traceless backend (stealth-core) and Dobby fallback
 - [SleepTheGod/Vehicle-OSINT-Collection](https://github.com/SleepTheGod/Vehicle-OSINT-Collection) - A comprehensive list of tools that can be used for finding information related to a specific vehicle.
@@ -6242,6 +6246,7 @@
 
 ## rust 
 
+- [paper-plane-developers/paper-plane](https://github.com/paper-plane-developers/paper-plane) - Chat over Telegram on a modern and elegant client
 - [MintyDoggo/miri](https://github.com/MintyDoggo/miri) - A niri extension adding optional tiling layouts such as Master Stack. Provides similar experience to hyprland or mangowm.
 - [crmne/fastframe](https://github.com/crmne/fastframe) - egui on rails: the shared foundation for native Rust apps built with egui
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
@@ -6550,6 +6555,7 @@
 
 ## sqlite 
 
+- [kalink0/crush-forensics](https://github.com/kalink0/crush-forensics) - Open-source desktop workbench for digital forensic analysis. Inspect ZIP/TAR/7z/UFDR archives, raw disk images/EWF, and iTunes/Android backups. Parse and view ABX, SQLite, SEGB, (B)PLIST, REALM, Proto
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Mirror of borgmatic: Simple, configuration-driven backup software for servers and workstations
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
@@ -6563,7 +6569,7 @@
 ## svelte 
 
 - [Niek/obs-web](https://github.com/Niek/obs-web) - OBS-web - the easiest way to control OBS remotely
-- [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ All-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
+- [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ A comprehensive, on-demand all-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
 - [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Leading Git-based headless CMS. Successor to Netlify/Decap CMS. Modern UX, first-class i18n support, mobile support + numerous improvements. Framework-agnostic, open source & free.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [Raphiiko/OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - 🥽 VR Sleeping Utilities
@@ -6606,6 +6612,7 @@
 
 ## telegram 
 
+- [paper-plane-developers/paper-plane](https://github.com/paper-plane-developers/paper-plane) - Chat over Telegram on a modern and elegant client
 - [Faizan-Khanx/TelegramOSINT](https://github.com/Faizan-Khanx/TelegramOSINT) - A curated collection of tools, bots, and resources for Open Source Intelligence (OSINT) investigations on Telegram. Includes chat analysis methods, browser extensions, search engines, and secure pract
 - [Nekogram/Nekogram](https://github.com/Nekogram/Nekogram) - Open-source third-party Telegram client with not many but useful modifications.
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
@@ -6742,7 +6749,7 @@
 
 - [bea4dev/ShojiWM](https://github.com/bea4dev/ShojiWM) - The most customizable Wayland compositor with TypeScript(tsx).
 - [nunziopostdoctoral988/ats-resume-checker](https://github.com/nunziopostdoctoral988/ats-resume-checker) - Analyze resumes against ATS requirements using a local, transparent tool that runs entirely in your browser.
-- [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ All-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
+- [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ A comprehensive, on-demand all-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [astashov/liftosaur](https://github.com/astashov/liftosaur) - Weightlifting tracker app for coders
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
@@ -7114,6 +7121,25 @@
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 - [Vhonowslend/StreamFX-Public](https://github.com/Vhonowslend/StreamFX-Public) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here
+
+## windows-11 
+
+- [Psmths/windows-forensic-artifacts](https://github.com/Psmths/windows-forensic-artifacts) - Handbook of windows forensic artifacts across multiple Windows version with interpretation tips and some examples. Work in progress!
+- [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience.
+- [AdEx-Partners-DE/OpenNiri-Windows](https://github.com/AdEx-Partners-DE/OpenNiri-Windows) - Scrollable tiling window manager for Windows 10/11 in Rust - Niri-style horizontal workspace, global hotkeys, and multi-monitor support.
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
+- [unchihugo/FluentFlyout](https://github.com/unchihugo/FluentFlyout) - The modern Flyout app for Windows 11, built with Fluent 2 Design principles. Media Flyouts, Taskbar Widgets and more.
+- [lively-community/lively](https://github.com/lively-community/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
+- [AlexNabokikh/windows-playbook](https://github.com/AlexNabokikh/windows-playbook) - Windows setup and configuration via Ansible.
+- [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
+- [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
+- [yashash-pugalia/win11-svelte](https://github.com/yashash-pugalia/win11-svelte) - Recreating Windows 11 with Svelte.
+- [Simizfo/WSATools](https://github.com/Simizfo/WSATools) - Easy-to-use APK installer and more for Windows Subsystem for Android
+- [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+- [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom) - Spicetify theme inspired by Microsoft's Fluent Design, Always up-to-date!, A Powerful Theme to Calm your Eyes While Listening to Your Favorite Beats
 
 ## wordpress 
 
