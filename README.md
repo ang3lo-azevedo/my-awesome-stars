@@ -302,7 +302,7 @@
 
 - [MG1937/ASC](https://github.com/MG1937/ASC) - ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
-- [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, 
+- [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - A self-hosted command center for OpenCode. Sessions, git, terminal, and schedules in one web app, from your phone or desktop.
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Safety guardrails for ai coding agents and human terminal commands
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
@@ -383,6 +383,7 @@
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - An embeddable, portable, branchable virtual machine to safely run Agents locally.
 - [NopeCHALLC/nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension) - Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.
 - [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Native-session control plane for Codex, Claude Code, OpenCode, OMP and PI. Run, resume and hand off coding sessions across your machines.
+- [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - A self-hosted command center for OpenCode. Sessions, git, terminal, and schedules in one web app, from your phone or desktop.
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - Model Context Protocol server for CyberChef — exposes GCHQ's "Cyber Swiss Army Knife" as AI-agent tools: 504 operations across encryption, encoding, compression and forensics, on MCP protocol revision
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalo
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
@@ -405,6 +406,7 @@
 
 ## android 
 
+- [Leviidev/Husk](https://github.com/Leviidev/Husk) - Android Emulator for iOS
 - [aleixrodriala/newtube](https://github.com/aleixrodriala/newtube) - SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in.
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube and other services freely.
 - [A-EDev/Flow](https://github.com/A-EDev/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
@@ -1419,6 +1421,7 @@
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
 - [Amethyst-szs/smo-lunakit](https://github.com/Amethyst-szs/smo-lunakit) - A Mario Odyssey tool built off Dear ImGui for developers, level builders, glitch hunters, and everyone in-between
 - [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Native-session control plane for Codex, Claude Code, OpenCode, OMP and PI. Run, resume and hand off coding sessions across your machines.
+- [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - A self-hosted command center for OpenCode. Sessions, git, terminal, and schedules in one web app, from your phone or desktop.
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalo
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [brunos3d/discord-enable-devtools](https://github.com/brunos3d/discord-enable-devtools) - 🚀 zx - Bring your Discord's devtools back to life (again)
@@ -1479,7 +1482,7 @@
 - [terminal-discord/discord-voice-cli](https://github.com/terminal-discord/discord-voice-cli) - A headless Discord Voice client
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
 - [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny native Discord app
-- [fizzexual/FakeDeafenVencord](https://github.com/fizzexual/FakeDeafenVencord) - [ WORKING / 06.09.26 ] Fake deafen on discord. You can listen to the others while they think you are deafen :) Enjoy!
+- [fizzexual/FakeDeafenVencord](https://github.com/fizzexual/FakeDeafenVencord) - [ WORKING / 06.09.26 ] Vencord plugin that makes you appear deafened in Discord voice channels while you can still hear everyone. 🍂
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
@@ -1518,6 +1521,7 @@
 - [blackhillsinfosec/WifiForge](https://github.com/blackhillsinfosec/WifiForge) - WifiForge is a tool developed by Black Hills InfoSec to help train Pentesters on different Wi-Fi attack vectors and Wireless capabilities.
 - [ellite/scrob](https://github.com/ellite/scrob) - Scrob - Self-hosted media tracking app. It syncs your libraries from Jellyfin, Plex, and Emby, tracks your watch history, ratings, and personal lists - Your own private Letterboxd + Trakt
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
+- [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - A self-hosted command center for OpenCode. Sessions, git, terminal, and schedules in one web app, from your phone or desktop.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Track Instagram users' activities, profile changes and capture content with beautiful dashboards and instant notifications
@@ -1657,7 +1661,6 @@
 ## dsh-plugin 
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [voyager-crew/voyager](https://github.com/voyager-crew/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 
 ## education 
@@ -1709,6 +1712,7 @@
 
 ## emulator 
 
+- [Leviidev/Husk](https://github.com/Leviidev/Husk) - Android Emulator for iOS
 - [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Apple Silicon device emulator.
 - [MakrSas/Inferno-iOS](https://github.com/MakrSas/Inferno-iOS) - An emulated iPhone 11 running iOS 14, as an app on a real iPhone. Unofficial, built on Inferno.
 - [Musaddiq-Sultan/NixDroid](https://github.com/Musaddiq-Sultan/NixDroid) - NixDroid is an x86_64 AOSP emulator for Linux uses virtualization technology via QEMU, allowing it to run directly on hardware with native performance and skip software emulation overhead completely.
@@ -1936,6 +1940,7 @@
 ## git 
 
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - A self-hosted command center for OpenCode. Sessions, git, terminal, and schedules in one web app, from your phone or desktop.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
@@ -2377,6 +2382,7 @@
 
 ## ios 
 
+- [Leviidev/Husk](https://github.com/Leviidev/Husk) - Android Emulator for iOS
 - [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Apple Silicon device emulator.
 - [MakrSas/Inferno-iOS](https://github.com/MakrSas/Inferno-iOS) - An emulated iPhone 11 running iOS 14, as an app on a real iPhone. Unofficial, built on Inferno.
 - [ByteV0rtex/CVE-2026-65343](https://github.com/ByteV0rtex/CVE-2026-65343) - CVE-2026-65343 PoC — AppleKeyStore OOB read → KASLR defeat (iOS 26.6 / 23G71)
@@ -2451,7 +2457,6 @@
 - [nunziopostdoctoral988/ats-resume-checker](https://github.com/nunziopostdoctoral988/ats-resume-checker) - Analyze resumes against ATS requirements using a local, transparent tool that runs entirely in your browser.
 - [rajhodedara/live-sport-plugin](https://github.com/rajhodedara/live-sport-plugin) - A robust live sports scraping and streaming plugin designed for media centers. Aggregates real-time feeds and delivers seamless IPTV playback.
 - [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ A comprehensive, on-demand, all-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
-- [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, 
 - [alperengozum/Sleepwell](https://github.com/alperengozum/Sleepwell) - React-Native - Expo - Sleep Cycle Calculator
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - Model Context Protocol server for CyberChef — exposes GCHQ's "Cyber Swiss Army Knife" as AI-agent tools: 504 operations across encryption, encoding, compression and forensics, on MCP protocol revision
 - [JPCERTCC/LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
@@ -2877,6 +2882,7 @@
 - [nunziopostdoctoral988/ats-resume-checker](https://github.com/nunziopostdoctoral988/ats-resume-checker) - Analyze resumes against ATS requirements using a local, transparent tool that runs entirely in your browser.
 - [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu) - Anti-LLM obfuscation via finger counting
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+- [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - A self-hosted command center for OpenCode. Sessions, git, terminal, and schedules in one web app, from your phone or desktop.
 - [hovanhoa/cursor-free-vip](https://github.com/hovanhoa/cursor-free-vip) - [Support 0.48.x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accoun
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
@@ -3131,7 +3137,7 @@
 
 - [MG1937/ASC](https://github.com/MG1937/ASC) - ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
 - [jqssun/android-titanium-browser](https://github.com/jqssun/android-titanium-browser) - Secure open-source Android browser with support for extensions
-- [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, 
+- [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - A self-hosted command center for OpenCode. Sessions, git, terminal, and schedules in one web app, from your phone or desktop.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [Coldblackice/ReVancedXposed_Spotify](https://github.com/Coldblackice/ReVancedXposed_Spotify) - ReVanced LSPosed module for Spotify
 - [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) - A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites)
@@ -3445,6 +3451,11 @@
 
 ## others 
 
+- [p2r3/Arachnidium](https://github.com/p2r3/Arachnidium) - Self-hosted HTTP optimization/compression proxy
+- [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord) - BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music
+- [dz-root/Root-me-diff](https://github.com/dz-root/Root-me-diff) - Compare two Root-me users.
+- [Wack0/bitlocker-attacks](https://github.com/Wack0/bitlocker-attacks) - A list of public attacks on BitLocker
+- [Whiteh4tWolf/GreatXML](https://github.com/Whiteh4tWolf/GreatXML) - 
 - [Mak5er/AirCard](https://github.com/Mak5er/AirCard) - Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 - [pablostanley/yoinks](https://github.com/pablostanley/yoinks) - yoink any video from your terminal. no shady ads.
 - [noahdunnagan/mcopt](https://github.com/noahdunnagan/mcopt) - mcopt, a Minecraft mod: a native Metal renderer for Minecraft: Java Edition on Apple Silicon Macs (alpha)
@@ -3457,7 +3468,7 @@
 - [Leviidev/Podium](https://github.com/Leviidev/Podium) - Podium is a Classic iPod Touch Emulator
 - [sailfishos/sailfish-browser](https://github.com/sailfishos/sailfish-browser) - Sailfish Browser
 - [anishathalye/lumen](https://github.com/anishathalye/lumen) - Magic auto brightness based on screen contents 💡
-- [SupraGSX/Forceware-382.69](https://github.com/SupraGSX/Forceware-382.69) - Custom NVIDIA 368.81-based XP 32-bit driver with Maxwell/Pascal desktop additions, OpenGL fixes, experimental GP107 support, improved DP/HDMI handling, restored Customize/DP scaling and topology unloc
+- [SupraGSX/Forceware-382.69](https://github.com/SupraGSX/Forceware-382.69) - Custom NVIDIA 368.81-based XP 32-bit driver with Maxwell/Pascal desktop additions, OpenGL and CUDA/OpenCL/GPU PhysX fixes, improved DP/HDMI handling, Customize and topology unlock. Excludes GP100/GP10
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [max-baz/wluma](https://github.com/max-baz/wluma) - Automatic brightness adjustment based on screen contents and ALS
 - [QubesOS/qubes-video-companion](https://github.com/QubesOS/qubes-video-companion) - 
@@ -3635,6 +3646,7 @@
 - [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii) - A very very very very very very very long interrupt
 - [FSECDEV/LEAKSFORUMS](https://github.com/FSECDEV/LEAKSFORUMS) - A series of leaks from hacker forums
 - [estkme-group/openeuicc](https://github.com/estkme-group/openeuicc) - Mirror of OpenEUICC, a fully open-source LPA implementation for Android
+- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [LSPosed/Privisolated](https://github.com/LSPosed/Privisolated) - 
 - [1013503897/Vector](https://github.com/1013503897/Vector) - Zygisk ART hooking framework with a KPM traceless backend (stealth-core) and Dobby fallback
 - [SleepTheGod/Vehicle-OSINT-Collection](https://github.com/SleepTheGod/Vehicle-OSINT-Collection) - A comprehensive list of tools that can be used for finding information related to a specific vehicle.
@@ -3644,6 +3656,7 @@
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [rushiranpise/GmsCore](https://github.com/rushiranpise/GmsCore) - Free implementation of Play Services
 - [VisionR1/KeyAttestation](https://github.com/VisionR1/KeyAttestation) - For more about this fork, including all Features & Contributors, see the Wiki tab.
+- [gewenbo888/awaken-os](https://github.com/gewenbo888/awaken-os) - 
 - [F0x1d/LogFox](https://github.com/F0x1d/LogFox) - Yet another LogCat reader for Android
 - [jayeshmann/symfoamp-releases](https://github.com/jayeshmann/symfoamp-releases) - Releases for SymfoAmp — bit-perfect cross OS audiophile-grade music player.
 - [rushiranpise/Root-My-Galaxy-Payloads](https://github.com/rushiranpise/Root-My-Galaxy-Payloads) - Signed device profiles, mobile exploit payloads, and KernelSU artifacts for Root My Galaxy
@@ -3657,7 +3670,6 @@
 - [rushiranpise/helper-for-morphe](https://github.com/rushiranpise/helper-for-morphe) - Standalone APK download helper for Morphe Manager
 - [shinyquagsire23/Klepton](https://github.com/shinyquagsire23/Klepton) - JIT-less relinker and compatibility layer for running Quest/Android XR APKs on visionOS and macOS
 - [Omni-guides/Tuxborn](https://github.com/Omni-guides/Tuxborn) - A Wabbajack Modlist for Skyrim SE designed with the Steam Deck in mind
-- [ronardnx/ServiceHiderZygisk](https://github.com/ronardnx/ServiceHiderZygisk) - 
 - [BaltiApps/Migrate-OSS](https://github.com/BaltiApps/Migrate-OSS) - 
 - [franticg33k/morphe-patches](https://github.com/franticg33k/morphe-patches) - 
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
@@ -4459,6 +4471,7 @@
 - [smrth097/proprietary_vendor_nothing_Spacewar](https://github.com/smrth097/proprietary_vendor_nothing_Spacewar) - Vendor Tree for Nothing Phone (1)
 - [luyanci/Android-Builder](https://github.com/luyanci/Android-Builder) - Automaticcaly build android kernel by github actions.
 - [Mrjam22/vmware-vmmon-vmnet-linux-6.18.x](https://github.com/Mrjam22/vmware-vmmon-vmnet-linux-6.18.x) - VMware Workstation modules patches for Linux kernel 6.18.x
+- [aarshps/varisankya-android](https://github.com/aarshps/varisankya-android) - [Archived] Merged into the monorepo → github.com/aarshps/varisankya (see android/). History preserved there.
 - [elliotttate/OpenXR-Simulator](https://github.com/elliotttate/OpenXR-Simulator) - A lightweight OpenXR runtime for desktop VR preview without physical headset
 - [VoltageOS/vendor_voltage](https://github.com/VoltageOS/vendor_voltage) - 
 - [smrth097/android_device_nothing_Spacewar](https://github.com/smrth097/android_device_nothing_Spacewar) - Device Tree for Nothing Phone (1)
@@ -5918,6 +5931,7 @@
 
 ## pwa 
 
+- [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - A self-hosted command center for OpenCode. Sessions, git, terminal, and schedules in one web app, from your phone or desktop.
 - [astashov/liftosaur](https://github.com/astashov/liftosaur) - Weightlifting tracker app for coders
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
 - [n-ce/ytify](https://github.com/n-ce/ytify) - Efficient YouTube Audio Streaming, Effortlessly, Anywhere.
@@ -6110,6 +6124,7 @@
 
 ## react 
 
+- [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - A self-hosted command center for OpenCode. Sessions, git, terminal, and schedules in one web app, from your phone or desktop.
 - [Criador-Horarios/Criador-Horarios](https://github.com/Criador-Horarios/Criador-Horarios) - Ferramenta para criar horários.
 - [walterlow/freecut](https://github.com/walterlow/freecut) - FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, re
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
@@ -6260,6 +6275,7 @@
 
 ## rust 
 
+- [storytold/photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 - [paper-plane-developers/paper-plane](https://github.com/paper-plane-developers/paper-plane) - Chat over Telegram on a modern and elegant client
 - [MintyDoggo/miri](https://github.com/MintyDoggo/miri) - A niri extension adding optional tiling layouts such as Master Stack. Provides similar experience to hyprland or mangowm.
 - [crmne/fastframe](https://github.com/crmne/fastframe) - egui on rails: the shared foundation for native Rust apps built with egui
@@ -6450,6 +6466,7 @@
 - [mainlink0435/warpbox](https://github.com/mainlink0435/warpbox) - A high-performance WebDAV proxy for TorBox
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
+- [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - A self-hosted command center for OpenCode. Sessions, git, terminal, and schedules in one web app, from your phone or desktop.
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
@@ -6662,6 +6679,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [mhyrzt/xrat](https://github.com/mhyrzt/xrat) - Rust CLI/TUI proxy manager for Xray-core, V2Ray-core, and sing-box: import subscriptions,   test latency, rotate proxies, scan edge IPs, and run managed local proxy sessions.
 - [MohsenBg/bgscan](https://github.com/MohsenBg/bgscan) - bgscan is multi‑protocol scanner with a modular chained engine and interactive BubbleTea terminal UI.
+- [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - A self-hosted command center for OpenCode. Sessions, git, terminal, and schedules in one web app, from your phone or desktop.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [ligurio/awesome-ttygames](https://github.com/ligurio/awesome-ttygames) - Unix ASCII games
@@ -6764,6 +6782,7 @@
 - [bea4dev/ShojiWM](https://github.com/bea4dev/ShojiWM) - The most customizable Wayland compositor with TypeScript(tsx).
 - [nunziopostdoctoral988/ats-resume-checker](https://github.com/nunziopostdoctoral988/ats-resume-checker) - Analyze resumes against ATS requirements using a local, transparent tool that runs entirely in your browser.
 - [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ A comprehensive, on-demand, all-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
+- [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - A self-hosted command center for OpenCode. Sessions, git, terminal, and schedules in one web app, from your phone or desktop.
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [astashov/liftosaur](https://github.com/astashov/liftosaur) - Weightlifting tracker app for coders
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
@@ -6798,7 +6817,7 @@
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [fizzexual/FakeDeafenVencord](https://github.com/fizzexual/FakeDeafenVencord) - [ WORKING / 06.09.26 ] Fake deafen on discord. You can listen to the others while they think you are deafen :) Enjoy!
+- [fizzexual/FakeDeafenVencord](https://github.com/fizzexual/FakeDeafenVencord) - [ WORKING / 06.09.26 ] Vencord plugin that makes you appear deafened in Discord voice channels while you can still hear everyone. 🍂
 - [Aylur/ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+Gnim
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's internal API, known as InnerTube.
@@ -6976,7 +6995,7 @@
 ## web 
 
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
-- [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, 
+- [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - A self-hosted command center for OpenCode. Sessions, git, terminal, and schedules in one web app, from your phone or desktop.
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [duyfken/alternative-front-ends](https://github.com/duyfken/alternative-front-ends) - Privacy-respecting front-ends for popular platforms (e.g. YouTube, Reddit, Twitter, etc.)
