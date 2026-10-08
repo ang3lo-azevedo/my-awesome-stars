@@ -406,6 +406,7 @@
 
 ## android 
 
+- [Victor-root/Omnify](https://github.com/Victor-root/Omnify) - Beyond F-Droid: install and auto-update apps straight from GitHub, GitLab, Codeberg and self-hosted forges.
 - [Leviidev/Husk](https://github.com/Leviidev/Husk) - Android Emulator for iOS
 - [aleixrodriala/newtube](https://github.com/aleixrodriala/newtube) - SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in.
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube and other services freely.
@@ -1423,6 +1424,7 @@
 - [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Native-session control plane for Codex, Claude Code, OpenCode, OMP and PI. Run, resume and hand off coding sessions across your machines.
 - [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - A self-hosted command center for OpenCode. Sessions, git, terminal, and schedules in one web app, from your phone or desktop.
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalo
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [brunos3d/discord-enable-devtools](https://github.com/brunos3d/discord-enable-devtools) - 🚀 zx - Bring your Discord's devtools back to life (again)
 - [robertpsoane/ducker](https://github.com/robertpsoane/ducker) - A slightly quackers Docker TUI based on k9s 🦆
@@ -1527,7 +1529,7 @@
 - [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Track Instagram users' activities, profile changes and capture content with beautiful dashboards and instant notifications
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - Model Context Protocol server for CyberChef — exposes GCHQ's "Cyber Swiss Army Knife" as AI-agent tools: 504 operations across encryption, encoding, compression and forensics, on MCP protocol revision
 - [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
 - [google/docker-explorer](https://github.com/google/docker-explorer) - A tool to help forensicate offline docker acquisitions
 - [psyb0t/safe-stremio](https://github.com/psyb0t/safe-stremio) - Safe-Stremio is your gateway to running Stremio Server and Stremio Web within a Docker container, wrapped in layers of security, anonymity, and badassery. This ain't your grandma's streaming setup—thi
 - [I-am-PUID-0/DUMB](https://github.com/I-am-PUID-0/DUMB) - Distributed Unlimited Media Bridge (DUMB) is an All-In-One (AIO) Docker image for building and operating a complete automated media stack from one container.
@@ -1673,6 +1675,7 @@
 
 ## electron 
 
+- [sipbuu/lokal](https://github.com/sipbuu/lokal) - Local-first music player built w/ Electron and React. Designed for people with large local music libraries who'd like a modern listening experience w/o the burdens of streaming subscriptions.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [liriliri/rem](https://github.com/liriliri/rem) - Rclone desktop app
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
@@ -1913,6 +1916,7 @@
 ## gaming 
 
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
+- [TheBeardofKnowledge/TBOK-Win11Optimizer](https://github.com/TheBeardofKnowledge/TBOK-Win11Optimizer) - Windows 11 Optimizer that's also safe for business use.   This is how Windows 11 should work OOBE, not what we were given by Microsoft.
 - [AbdelrhmanNile/UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) - A free and open-source game-center for linux. Pre-configured Wine and Native Games for Linux.
 - [winesapOS/winesapOS](https://github.com/winesapOS/winesapOS) - winesapOS - Game with Linux anywhere, no installation required!
 - [CarrotRub/Fit-Launcher](https://github.com/CarrotRub/Fit-Launcher) - A better version of my previous Fitgirl's Repacks Launcher. Made using Tauri with SolidJS.
@@ -2507,6 +2511,7 @@
 
 ## jetpack-compose 
 
+- [Victor-root/Omnify](https://github.com/Victor-root/Omnify) - Beyond F-Droid: install and auto-update apps straight from GitHub, GitLab, Codeberg and self-hosted forges.
 - [jakesgoodapps/DuoLauncher](https://github.com/jakesgoodapps/DuoLauncher) - An experimental Android launcher for foldables, with a right-side dock, native widgets, and overlapping unfolded Home pages.
 - [Aryan447/mpvium](https://github.com/Aryan447/mpvium) - Sane defaults, pro-level control.  An Android video player powered by mpv and libmpv.
 - [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer) - 🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism💫
@@ -2566,6 +2571,7 @@
 
 ## kotlin 
 
+- [Victor-root/Omnify](https://github.com/Victor-root/Omnify) - Beyond F-Droid: install and auto-update apps straight from GitHub, GitLab, Codeberg and self-hosted forges.
 - [Clash-Projects/LastWave-Native](https://github.com/Clash-Projects/LastWave-Native) - Next-Gen YouTube Music Client with Liquid Glass UI , Algorithmic Smart Playlist Generator, Real-Time Synced Lyrics & Universal Last.fm Scrobbler for Android.
 - [A-EDev/Flow](https://github.com/A-EDev/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
 - [jakesgoodapps/DuoLauncher](https://github.com/jakesgoodapps/DuoLauncher) - An experimental Android launcher for foldables, with a right-side dock, native widgets, and overlapping unfolded Home pages.
@@ -2675,6 +2681,7 @@
 
 ## linux 
 
+- [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
 - [toaruos/bim](https://github.com/toaruos/bim) - Extensible terminal text editor with syntax highlighting and plugin support.
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [crmne/zapfast](https://github.com/crmne/zapfast) - ZapFast: a fast, native WhatsApp client in Rust and egui
@@ -2959,6 +2966,8 @@
 
 ## macos 
 
+- [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
+- [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
 - [crmne/zapfast](https://github.com/crmne/zapfast) - ZapFast: a fast, native WhatsApp client in Rust and egui
 - [dk8827/ra-port](https://github.com/dk8827/ra-port) - Unofficial working port of Command & Conquer: Red Alert running natively on iOS, Android, Linux and macOS. SDL2 video/audio/input. No game assets included.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
@@ -3451,6 +3460,12 @@
 
 ## others 
 
+- [ctrl-mietze/Veyra](https://github.com/ctrl-mietze/Veyra) - Veyra
+- [Seb3thehacker/gearslip](https://github.com/Seb3thehacker/gearslip) - An Android Auto alternative built for everyone
+- [zer0days-op/OpenGoldHEN](https://github.com/zer0days-op/OpenGoldHEN) - 
+- [robbietilton/Compositor](https://github.com/robbietilton/Compositor) - The Photoshop alternative for Mac
+- [Vasik96/gtav-sourcecode-build-guide](https://github.com/Vasik96/gtav-sourcecode-build-guide) - Downloaded from Internet Archive (https://web.archive.org/web/20240520203629/https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide)
+- [felipevc13/questports](https://github.com/felipevc13/questports) - 
 - [p2r3/Arachnidium](https://github.com/p2r3/Arachnidium) - Self-hosted HTTP optimization/compression proxy
 - [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord) - BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music
 - [dz-root/Root-me-diff](https://github.com/dz-root/Root-me-diff) - Compare two Root-me users.
@@ -3555,7 +3570,6 @@
 - [Xposed-Modules-Repo/io.github.jqssun.gpssetter](https://github.com/Xposed-Modules-Repo/io.github.jqssun.gpssetter) - GPS Setter
 - [davi-1337/chrome-rce-extension](https://github.com/davi-1337/chrome-rce-extension) - chrome said that this is not a bug (intended behavior)
 - [34306/vphone-web](https://github.com/34306/vphone-web) - vphone-cli but you can use your mac as a host and control it over the web
-- [TheBeardofKnowledge/TBOK-Win11Optimizer](https://github.com/TheBeardofKnowledge/TBOK-Win11Optimizer) - Windows 11 Optimizer that's also safe for business use.   This is how Windows 11 should work OOBE, not what we were given by Microsoft.
 - [radavis/svp-on-ubuntu](https://github.com/radavis/svp-on-ubuntu) - 
 - [Malwation/sogen](https://github.com/Malwation/sogen) - 🪅 Windows & Linux & macOS userspace emulator
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
@@ -3630,7 +3644,7 @@
 - [Gericom/GBARunner3](https://github.com/Gericom/GBARunner3) - 
 - [xerpi/vita2hos](https://github.com/xerpi/vita2hos) - [WIP] PlayStation Vita to Horizon OS (Nintendo Switch OS) translation layer
 - [3096/switch-time](https://github.com/3096/switch-time) - Change NetworkSystemClock
-- [NextendoNetwork/Prelude-Nro](https://github.com/NextendoNetwork/Prelude-Nro) - Prelude: the Nextendo homebrew for a real Nintendo Switch. Connect an Atmosphere console to Nextendo Network (no Nintendo account required).
+- [NextendoNetwork/Prelude-Nextendo](https://github.com/NextendoNetwork/Prelude-Nextendo) - Prelude: the Nextendo homebrew for a real Nintendo Switch. Connect an Atmosphere console to Nextendo Network (no Nintendo account required).
 - [pix/heystack-nrf5x](https://github.com/pix/heystack-nrf5x) - A openhaystack compatible firmware for NRF51 and NRF52 devices
 - [dakhnod/FakeTag](https://github.com/dakhnod/FakeTag) - firmware for nRF51 chips that is coincidentally compatible with the FindMy (AirTag) ecosystem
 - [biemster/st17h66_FindMy](https://github.com/biemster/st17h66_FindMy) - Firmware for Lenze ST17h66 that advertises to the Apple Find My network
@@ -4672,7 +4686,6 @@
 - [rt-evil-inc/gira-mais](https://github.com/rt-evil-inc/gira-mais) - Aplicação alternativa para o sistema de bicicletas partilhadas de Lisboa
 - [Myst1cX/spotifuck-userscript](https://github.com/Myst1cX/spotifuck-userscript) - Ports the full Spotifuck 1.6.4 UI hack experience directly to the Spotify Web Player for use in the Quetta/Firefox mobile browser.
 - [mentalblank/GPhotos-Revanced](https://github.com/mentalblank/GPhotos-Revanced) - ReVanced Google Photos APK Auto-Builds
-- [Aunali321/revanced-downloader-plugins](https://github.com/Aunali321/revanced-downloader-plugins) - 
 - [Aunali321/ReVancedExperiments](https://github.com/Aunali321/ReVancedExperiments) - 
 - [8Mi-Tech/LSPatch-ApkFactory](https://github.com/8Mi-Tech/LSPatch-ApkFactory) - 一个基于LSPatch的打包工具，自动为常见应用打LSPatch补丁的仓库，包括各类分支(详见readme)
 - [7723mod/NPatch](https://github.com/7723mod/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
@@ -5807,6 +5820,7 @@
 
 ## powershell 
 
+- [agadiffe/WindowsMize](https://github.com/agadiffe/WindowsMize) - :pushpin: PowerShell scripts to automate and customize the configuration of Windows. Easy to use and extensive: Debloat, minimize telemetry, apps installation, general settings, and more.
 - [Hackplayers/evil-winrm](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell for hacking/pentesting
 - [clong/DetectionLab](https://github.com/clong/DetectionLab) - Automate the creation of a lab environment complete with security tooling and logging best practices
 - [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience.
@@ -5821,6 +5835,7 @@
 
 ## privacy 
 
+- [agadiffe/WindowsMize](https://github.com/agadiffe/WindowsMize) - :pushpin: PowerShell scripts to automate and customize the configuration of Windows. Easy to use and extensive: Debloat, minimize telemetry, apps installation, general settings, and more.
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [FaFre/WebLibre](https://github.com/FaFre/WebLibre) - A libre Android browser built from scratch on Gecko. Privacy by default, powerful tab containers, and a local-first search engine.
 - [BareBrowser/bare-browser](https://github.com/BareBrowser/bare-browser) - Bare is a de-Googled Chromium build for Android, built for privacy, control, and freedom on the web. It strips Google tracking, telemetry, and AI integration while keeping browser extensions and uBloc
@@ -6124,6 +6139,7 @@
 
 ## react 
 
+- [sipbuu/lokal](https://github.com/sipbuu/lokal) - Local-first music player built w/ Electron and React. Designed for people with large local music libraries who'd like a modern listening experience w/o the burdens of streaming subscriptions.
 - [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - A self-hosted command center for OpenCode. Sessions, git, terminal, and schedules in one web app, from your phone or desktop.
 - [Criador-Horarios/Criador-Horarios](https://github.com/Criador-Horarios/Criador-Horarios) - Ferramenta para criar horários.
 - [walterlow/freecut](https://github.com/walterlow/freecut) - FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, re
@@ -6208,6 +6224,7 @@
 
 ## reverse-engineering 
 
+- [gaasedelen/lighthouse](https://github.com/gaasedelen/lighthouse) - A Coverage Explorer for Reverse Engineers
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [lucasbaizer/GdTool](https://github.com/lucasbaizer/GdTool) - Reverse engineering tools for Godot
 - [bl4ckr0ss3/knife](https://github.com/bl4ckr0ss3/knife) - A terminal-first reverse engineering toolkit in Rust: PE/ELF/Mach-O analysis through CLI, TUI, and MCP. Installs as knife.
@@ -6275,6 +6292,8 @@
 
 ## rust 
 
+- [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
+- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [storytold/photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 - [paper-plane-developers/paper-plane](https://github.com/paper-plane-developers/paper-plane) - Chat over Telegram on a modern and elegant client
 - [MintyDoggo/miri](https://github.com/MintyDoggo/miri) - A niri extension adding optional tiling layouts such as Master Stack. Provides similar experience to hyprland or mangowm.
@@ -6361,6 +6380,7 @@
 
 ## security 
 
+- [agadiffe/WindowsMize](https://github.com/agadiffe/WindowsMize) - :pushpin: PowerShell scripts to automate and customize the configuration of Windows. Easy to use and extensive: Debloat, minimize telemetry, apps installation, general settings, and more.
 - [daffainfo/AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty) - All about bug bounty (bypasses, payloads, and etc)
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
 - [al0ne/suricata-rules](https://github.com/al0ne/suricata-rules) - Suricata IDS rules 用来检测红队渗透/恶意行为等，支持检测CobaltStrike/MSF/Empire/DNS隧道/Weevely/菜刀/冰蝎/挖矿/反弹shell/ICMP隧道等
@@ -6461,6 +6481,7 @@
 
 ## self-hosted 
 
+- [Victor-root/Omnify](https://github.com/Victor-root/Omnify) - Beyond F-Droid: install and auto-update apps straight from GitHub, GitLab, Codeberg and self-hosted forges.
 - [dannyvfilms/Floppy](https://github.com/dannyvfilms/Floppy) - Self-hosted all-in-one media tracker and Trakt alternative for movies, TV, anime, books, games, music, and podcasts.
 - [selmant/foreseerr](https://github.com/selmant/foreseerr) - Foreseerr — Seerr fork with in-app Trakt discovery, watched/rate actions, and multi-source ratings for Jellyfin, Plex, and Emby.
 - [mainlink0435/warpbox](https://github.com/mainlink0435/warpbox) - A high-performance WebDAV proxy for TorBox
@@ -6472,7 +6493,7 @@
 - [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
@@ -6683,7 +6704,8 @@
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [ligurio/awesome-ttygames](https://github.com/ligurio/awesome-ttygames) - Unix ASCII games
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -6934,6 +6956,7 @@
 
 ## virtual-reality 
 
+- [tinsarfal/Qualyx](https://github.com/tinsarfal/Qualyx) - Native standalone Half-Life: Alyx for Meta Quest headsets.
 - [HadesVR/HadesVR](https://github.com/HadesVR/HadesVR) - The "DIY" SteamVR compatible VR setup made for tinkerers.
 - [Raicuparta/uuvr](https://github.com/Raicuparta/uuvr) - Universal VR mod for Unity games
 - [praydog/UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4.8 - 5.4)
@@ -7040,9 +7063,14 @@
 
 ## windows 
 
+- [agadiffe/WindowsMize](https://github.com/agadiffe/WindowsMize) - :pushpin: PowerShell scripts to automate and customize the configuration of Windows. Easy to use and extensive: Debloat, minimize telemetry, apps installation, general settings, and more.
+- [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
+- [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
+- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [crmne/zapfast](https://github.com/crmne/zapfast) - ZapFast: a fast, native WhatsApp client in Rust and egui
 - [TheMythologist/GenP](https://github.com/TheMythologist/GenP) - Automatically builds GenP executables from source
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+- [TheBeardofKnowledge/TBOK-Win11Optimizer](https://github.com/TheBeardofKnowledge/TBOK-Win11Optimizer) - Windows 11 Optimizer that's also safe for business use.   This is how Windows 11 should work OOBE, not what we were given by Microsoft.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
@@ -7157,6 +7185,8 @@
 
 ## windows-11 
 
+- [agadiffe/WindowsMize](https://github.com/agadiffe/WindowsMize) - :pushpin: PowerShell scripts to automate and customize the configuration of Windows. Easy to use and extensive: Debloat, minimize telemetry, apps installation, general settings, and more.
+- [TheBeardofKnowledge/TBOK-Win11Optimizer](https://github.com/TheBeardofKnowledge/TBOK-Win11Optimizer) - Windows 11 Optimizer that's also safe for business use.   This is how Windows 11 should work OOBE, not what we were given by Microsoft.
 - [Psmths/windows-forensic-artifacts](https://github.com/Psmths/windows-forensic-artifacts) - Handbook of windows forensic artifacts across multiple Windows version with interpretation tips and some examples. Work in progress!
 - [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience.
 - [AdEx-Partners-DE/OpenNiri-Windows](https://github.com/AdEx-Partners-DE/OpenNiri-Windows) - Scrollable tiling window manager for Windows 10/11 in Rust - Niri-style horizontal workspace, global hotkeys, and multi-monitor support.
