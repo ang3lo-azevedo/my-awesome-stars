@@ -360,7 +360,7 @@
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Safety guardrails for ai coding agents and human terminal commands
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - On-device subtitle generation that connects directly to DaVinci Resolve, Premiere, and After Effects.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -999,7 +999,7 @@
 - [toaruos/bim](https://github.com/toaruos/bim) - Extensible terminal text editor with syntax highlighting and plugin support.
 - [klange/toaruos](https://github.com/klange/toaruos) - Complete, independent operating system built by humans.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
-- [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
+- [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C polymorphic obfuscation (tcc, win x86/x64)
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [hfiref0x/UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
 - [libimobiledevice/libideviceactivation](https://github.com/libimobiledevice/libideviceactivation) - A library to handle the activation process of iOS devices
@@ -1122,7 +1122,7 @@
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalo
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 
 ## claude-skills 
 
@@ -1416,7 +1416,7 @@
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [flixlix/shadcn-date-picker](https://github.com/flixlix/shadcn-date-picker) - Advanced date picker with range selection, year and month selection, and more.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [NotAShelf/dotfiles](https://github.com/NotAShelf/dotfiles) - A repository for (mostly) everything that starts with a dot on my Arch Linux systems.
 
 ## developer-tools 
@@ -1487,7 +1487,7 @@
 - [terminal-discord/discord-voice-cli](https://github.com/terminal-discord/discord-voice-cli) - A headless Discord Voice client
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
 - [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny native Discord app
-- [fizzexual/FakeDeafenVencord](https://github.com/fizzexual/FakeDeafenVencord) - [ WORKING / 06.09.26 ] Vencord plugin that makes you appear deafened in Discord voice channels while you can still hear everyone. 🍂
+- [fizzexual/DeafenVencord](https://github.com/fizzexual/DeafenVencord) - [ WORKING / 06.09.26 ] Vencord plugin that makes you appear deafened in Discord voice channels while you can still hear everyone. 🍂
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
@@ -1671,7 +1671,7 @@
 ## education 
 
 - [ptgm/MEIC-areas](https://github.com/ptgm/MEIC-areas) - IST - ULisboa MEIC specialization areas + enrolment limits
-- [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
+- [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C polymorphic obfuscation (tcc, win x86/x64)
 - [otter-sec/rctf](https://github.com/otter-sec/rctf) - rCTF is a platform for hosting cybersecurity capture-the-flag competitions.
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - Free domain registration and practical DNS learning resources for everyone.
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
@@ -1866,7 +1866,7 @@
 - [fym35/ZuckApp](https://github.com/fym35/ZuckApp) - Foss whatsapp client for Android
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
@@ -2165,7 +2165,7 @@
 - [hfz1337/Eruditus](https://github.com/hfz1337/Eruditus) - Discord CTF helper bot
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [Niek/obs-web](https://github.com/Niek/obs-web) - OBS-web - the easiest way to control OBS remotely
-- [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
+- [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C polymorphic obfuscation (tcc, win x86/x64)
 - [LivingWithHippos/unchained-android](https://github.com/LivingWithHippos/unchained-android) - App to interact with real-debrid API
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
@@ -3180,6 +3180,7 @@
 
 ## music 
 
+- [Seb3thehacker/Gearslip](https://github.com/Seb3thehacker/Gearslip) - An Android Auto alternative built for everyone
 - [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
 - [Kopuz-org/kopuz](https://github.com/Kopuz-org/kopuz) - Your next music player
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
@@ -3263,7 +3264,7 @@
 - [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [vercel/nextgram](https://github.com/vercel/nextgram) - A sample Next.js app showing dynamic routing with modals as a route.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [whatk233/ddg-email-panel](https://github.com/whatk233/ddg-email-panel) - DDG Email Panel is the open source unofficial DuckDuckGo Email Protection panel.
@@ -3464,12 +3465,13 @@
 
 ## others 
 
+- [Austin-Holdheide/searxng-ai-summary-plugin](https://github.com/Austin-Holdheide/searxng-ai-summary-plugin) - Adds an AI-generated summary box above search results using any OpenAI-compatible endpoint (LM Studio, Ollama, OpenAI, Groq, etc.) — just like Google's AI Overview
+- [Mikec78660/searxng-ai_summaries](https://github.com/Mikec78660/searxng-ai_summaries) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [bearinmindcat/morphe-patches](https://github.com/bearinmindcat/morphe-patches) - Morphe android app patches (for apps that I use) - stable releases
 - [x86rc/vmp-lazy-unpack](https://github.com/x86rc/vmp-lazy-unpack) - 
 - [shilapi/xcertplay](https://github.com/shilapi/xcertplay) - Carplay on Android head unit using onboard mfi chip or via CH341.
 - [BeepIsla/cs2-egg-checker-server](https://github.com/BeepIsla/cs2-egg-checker-server) - Join and check your console for your pet information
 - [ctrl-mietze/Veyra](https://github.com/ctrl-mietze/Veyra) - Veyra
-- [Seb3thehacker/gearslip](https://github.com/Seb3thehacker/gearslip) - An Android Auto alternative built for everyone
 - [zer0days-op/OpenGoldHEN](https://github.com/zer0days-op/OpenGoldHEN) - 
 - [robbietilton/Compositor](https://github.com/robbietilton/Compositor) - The Photoshop alternative for Mac
 - [Vasik96/gtav-sourcecode-build-guide](https://github.com/Vasik96/gtav-sourcecode-build-guide) - Downloaded from Internet Archive (https://web.archive.org/web/20240520203629/https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide)
@@ -3505,7 +3507,7 @@
 - [GNOME/geary](https://github.com/GNOME/geary) - Read-only mirror of https://gitlab.gnome.org/GNOME/geary
 - [BlackOutedMind/openLogi](https://github.com/BlackOutedMind/openLogi) - Nix Packages collection & NixOS
 - [ofekashery/vertical-stack-in-card](https://github.com/ofekashery/vertical-stack-in-card) - 📐 Home Assistant Card: Group multiple cards into a single sleek card.
-- [MIXIDtheSilly/Refract](https://github.com/MIXIDtheSilly/Refract) - A Quest emulation tool
+- [MIXIDtheSilly/Refract](https://github.com/MIXIDtheSilly/Refract) - Quest Translation Tool
 - [kuuky29/UniRoot](https://github.com/kuuky29/UniRoot) - 
 - [decoder-it/LocalPotato](https://github.com/decoder-it/LocalPotato) - 
 - [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp) - Godot reverse engineering tools
@@ -3580,7 +3582,7 @@
 - [34306/vphone-web](https://github.com/34306/vphone-web) - vphone-cli but you can use your mac as a host and control it over the web
 - [radavis/svp-on-ubuntu](https://github.com/radavis/svp-on-ubuntu) - 
 - [Malwation/sogen](https://github.com/Malwation/sogen) - 🪅 Windows & Linux & macOS userspace emulator
-- [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
+- [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - Run a virtual iPhone on an Apple Silicon Mac.
 - [kernalix7/winpodx](https://github.com/kernalix7/winpodx) - Windows pod system for Linux
 - [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for 
 - [jlrouzies-fr/DLSS5-Feeder](https://github.com/jlrouzies-fr/DLSS5-Feeder) - DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.
@@ -3668,7 +3670,6 @@
 - [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii) - A very very very very very very very long interrupt
 - [FSECDEV/LEAKSFORUMS](https://github.com/FSECDEV/LEAKSFORUMS) - A series of leaks from hacker forums
 - [estkme-group/openeuicc](https://github.com/estkme-group/openeuicc) - Mirror of OpenEUICC, a fully open-source LPA implementation for Android
-- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [LSPosed/Privisolated](https://github.com/LSPosed/Privisolated) - 
 - [1013503897/Vector](https://github.com/1013503897/Vector) - Zygisk ART hooking framework with a KPM traceless backend (stealth-core) and Dobby fallback
 - [SleepTheGod/Vehicle-OSINT-Collection](https://github.com/SleepTheGod/Vehicle-OSINT-Collection) - A comprehensive list of tools that can be used for finding information related to a specific vehicle.
@@ -3706,7 +3707,7 @@
 - [rooootdev/mond](https://github.com/rooootdev/mond) - Edit MobileGestalt on iOS 27.0 beta 1 - 4!
 - [firelzrd/bore-scheduler](https://github.com/firelzrd/bore-scheduler) - BORE (Burst-Oriented Response Enhancer) CPU Scheduler
 - [n0stal6ic/MStarToKeybox](https://github.com/n0stal6ic/MStarToKeybox) - Extracts MStar/MediaTek Widevine L1 keyboxes and PlayReady passphrases from raw eMMC dumps and firmware images.
-- [xodus-gaming/xodus](https://github.com/xodus-gaming/xodus) - The great gaming migration to Linux
+- [xodus-gaming/xodus](https://github.com/xodus-gaming/xodus) - The great gaming migration to Linux and macOS
 - [DoctorEww/EvilFontTool](https://github.com/DoctorEww/EvilFontTool) - A font-based deception tool for red teaming, security research, and whatever else.
 - [Blueturboguy07/NitroAI](https://github.com/Blueturboguy07/NitroAI) - Free, local-first AI study notes — turn any lecture, PDF, or video into notes, flashcards, quizzes, and a study chat. Runs fully local or with your own API key.
 - [forcequitOS/bad_query](https://github.com/forcequitOS/bad_query) - Sandbox escape PoC for iOS 26 and 27.
@@ -3805,7 +3806,7 @@
 - [Thiasap/oppo-pgem10-ghostlock](https://github.com/Thiasap/oppo-pgem10-ghostlock) - OPPO Find X6 Pro GhostLock (CVE-2026-43499) exploit adaptation
 - [cuteaplane/GhostLock-for-OnePlus15T](https://github.com/cuteaplane/GhostLock-for-OnePlus15T) - （CVE-2026-43499）内核漏洞利用程序，适用于未解锁 Bootloader 的一加15T.
 - [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app) - GhostLock One-Tap Execution App (CVE-2026-43499)
-- [pubglite55/oppo-ghostlock](https://github.com/pubglite55/oppo-ghostlock) - OPPO Find N2 GhostLock (CVE-2026-43499) exploit adaptation
+- [pubglite55/oppofindN2-ghostlock](https://github.com/pubglite55/oppofindN2-ghostlock) - OPPO Find N2 GhostLock (CVE-2026-43499) exploit adaptation
 - [Colorful-glassblock/duchamp-root](https://github.com/Colorful-glassblock/duchamp-root) - Xiaomi K70e (duchamp) one-click root via CVE-2026-43499 (IonStack) + KernelSU integration
 - [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia) - PoCs and exploits for CVEs discovered by NebuSec.
 - [datfooldive/ghostlock-emerald](https://github.com/datfooldive/ghostlock-emerald) - GhostLock (CVE-2026-43499) kernel exploit for Poco M6 Pro (emerald) with locked bootloader
@@ -6027,7 +6028,7 @@
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
 - [Nokse22/high-tide](https://github.com/Nokse22/high-tide) - Libadwaita TIDAL client for Linux
-- [Jman-Github/ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) - Automatically aggregates alternative ReVanced & Morphe patch bundles into JSON files to import into the ReVanced & Morphe Managers.
+- [Jman-Github/Patch-Bundle-Registry](https://github.com/Jman-Github/Patch-Bundle-Registry) - An automated registry for ReVanced, Morphe, and ReSeam patch bundles, featuring searchable patch metadata, multi-runtime support, JSON feeds, a web interface, and REST/GraphQL APIs.
 - [Woahai321/list-sync](https://github.com/Woahai321/list-sync) - ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management. https://discord.gg/Dy5xNzEHKw
 - [jensb89/trakt---letterboxd-import](https://github.com/jensb89/trakt---letterboxd-import) - Import Letterboxd movie list (diary) into trakt.tv
 - [volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility 3.0 development
@@ -6175,7 +6176,7 @@
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [whatk233/ddg-email-panel](https://github.com/whatk233/ddg-email-panel) - DDG Email Panel is the open source unofficial DuckDuckGo Email Protection panel.
@@ -6667,7 +6668,7 @@
 - [guyzyl/whatsapp-contact-sync](https://github.com/guyzyl/whatsapp-contact-sync) - Easy way to sync between the contact photos on WhatsApp to Google Contacts
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
 - [cheers-li/cheers-li-app](https://github.com/cheers-li/cheers-li-app) - If Beer With Me and BeReal had a child
@@ -6846,10 +6847,10 @@
 - [MarsHeer/offtiktok](https://github.com/MarsHeer/offtiktok) - Open source alternative Tiktok client
 - [WillKirkmanM/mantine-t3-template](https://github.com/WillKirkmanM/mantine-t3-template) - 🎈 Mantine + T3 Stack Starter Kit
 - [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [fizzexual/FakeDeafenVencord](https://github.com/fizzexual/FakeDeafenVencord) - [ WORKING / 06.09.26 ] Vencord plugin that makes you appear deafened in Discord voice channels while you can still hear everyone. 🍂
+- [fizzexual/DeafenVencord](https://github.com/fizzexual/DeafenVencord) - [ WORKING / 06.09.26 ] Vencord plugin that makes you appear deafened in Discord voice channels while you can still hear everyone. 🍂
 - [Aylur/ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+Gnim
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's internal API, known as InnerTube.
@@ -6882,7 +6883,7 @@
 - [mayswind/AriaNg-Native](https://github.com/mayswind/AriaNg-Native) - A better aria2 desktop frontend than AriaNg, with all features of AriaNg and providing more features for desktop usage.
 - [founded-labs/react-native-reusables](https://github.com/founded-labs/react-native-reusables) - Bringing shadcn/ui to React Native. Beautifully crafted components with Nativewind/Uniwind, open source, and almost as easy to use.
 - [flixlix/shadcn-date-picker](https://github.com/flixlix/shadcn-date-picker) - Advanced date picker with range selection, year and month selection, and more.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom) - Spicetify theme inspired by Microsoft's Fluent Design, Always up-to-date!, A Powerful Theme to Calm your Eyes While Listening to Your Favorite Beats
 - [cartmandos/BINGIE](https://github.com/cartmandos/BINGIE) - The official BINGIE dev repo for the development of the Kodi UI of BINGIE
 
@@ -7088,7 +7089,7 @@
 - [nshalabi/SysmonTools](https://github.com/nshalabi/SysmonTools) - Utilities for Sysmon
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
-- [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
+- [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C polymorphic obfuscation (tcc, win x86/x64)
 - [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel™ phone flashing GUI utility with features.
 - [Psmths/windows-forensic-artifacts](https://github.com/Psmths/windows-forensic-artifacts) - Handbook of windows forensic artifacts across multiple Windows version with interpretation tips and some examples. Work in progress!
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
