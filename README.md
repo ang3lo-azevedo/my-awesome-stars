@@ -324,6 +324,7 @@
 
 ## ai 
 
+- [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [nunziopostdoctoral988/ats-resume-checker](https://github.com/nunziopostdoctoral988/ats-resume-checker) - Analyze resumes against ATS requirements using a local, transparent tool that runs entirely in your browser.
@@ -406,12 +407,13 @@
 
 ## android 
 
+- [jojodogm-ctrl/emufii](https://github.com/jojodogm-ctrl/emufii) - One code, and you're in the same room. Remote multiplayer between Android emulators: 3DS, Switch, PSP, PS2, DS and WII.
 - [WaEnhancerX/WaEnhancerX](https://github.com/WaEnhancerX/WaEnhancerX) - An advanced, open-source LSPosed module for WhatsApp. Features UI customization, aggressive Anti-Meta AI, privacy enhancements, and native settings integration. Written entirely from scratch.
 - [Victor-root/Omnify](https://github.com/Victor-root/Omnify) - Beyond F-Droid: install and auto-update apps straight from GitHub, GitLab, Codeberg and self-hosted forges.
 - [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on your iPhone. Natively or Emulated.
 - [aleixrodriala/newtube](https://github.com/aleixrodriala/newtube) - SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in.
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube and other services freely.
-- [A-EDev/Flow](https://github.com/A-EDev/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
+- [Flow-Tube/Flow](https://github.com/Flow-Tube/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
 - [jakesgoodapps/DuoLauncher](https://github.com/jakesgoodapps/DuoLauncher) - An experimental Android launcher for foldables, with a right-side dock, native widgets, and overlapping unfolded Home pages.
 - [BareBrowser/bare-browser](https://github.com/BareBrowser/bare-browser) - Bare is a de-Googled Chromium build for Android, built for privacy, control, and freedom on the web. It strips Google tracking, telemetry, and AI integration while keeping browser extensions and uBloc
 - [MG1937/ASC](https://github.com/MG1937/ASC) - ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
@@ -427,6 +429,7 @@
 - [SubhamTyagi/android-ocr](https://github.com/SubhamTyagi/android-ocr) - Tesseract based OCR for android
 - [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
+- [Rouyashiki/YukiSU](https://github.com/Rouyashiki/YukiSU) - Kernel-based Android Root Solution
 - [VD171/deadhand](https://github.com/VD171/deadhand) - [CATASTROPHIC] Magisk/KSU module: pressing Power 4x wipes the device (crypto-shred + factory reset). Ships disarmed and in dry-run. Fork of abootloop.
 - [cosmictaserdev-creator/Convx](https://github.com/cosmictaserdev-creator/Convx) - Convx is a free, open-source Android music player that streams from YouTube Music — reimagined with an iOS-inspired "Liquid Glass" interface. Every surface uses real backdrop blur and refraction, pair
 - [xprateek/AOSPGenKeyBox](https://github.com/xprateek/AOSPGenKeyBox) - Generates Android Keystore attestation keyboxes with proper CA hierarchy and ASN.1 KeyDescription extension.   (OID 1.3.6.1.4.1.11129.2.1.17)
@@ -457,7 +460,7 @@
 - [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Native-session control plane for Codex, Claude Code, OpenCode, OMP and PI. Run, resume and hand off coding sessions across your machines.
 - [frankheat/noxen](https://github.com/frankheat/noxen) - Android interception tool for component communication and attack-surface mapping
 - [HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - 🌸Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources. 🌼🎵
-- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
+- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - A home for your DuckDuckGo @duck.com addresses. Generate, organise and send from them in Chrome and Firefox. Open source, no tracking.
 - [GeorgeClensy/Escape-Launcher](https://github.com/GeorgeClensy/Escape-Launcher) - A minimalist android launcher to help you quit your phone addiction
 - [CodeWorksCreativeHub/mLauncher](https://github.com/CodeWorksCreativeHub/mLauncher) - Minimal Launcher app for Android. Customized olauncher as I just started learning kotlin .
 - [alperengozum/Sleepwell](https://github.com/alperengozum/Sleepwell) - React-Native - Expo - Sleep Cycle Calculator
@@ -1068,7 +1071,7 @@
 
 - [RyanDFIR/hindsight](https://github.com/RyanDFIR/hindsight) - Browser forensics tool for Google Chrome, other Chromium-based browsers, and Mozilla Firefox
 - [oxcl/nix-flake-helium-browser](https://github.com/oxcl/nix-flake-helium-browser) - Nix Flake for Helium browser. Auto updates, Policy support, NixOS module, Home-manager module
-- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
+- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - A home for your DuckDuckGo @duck.com addresses. Generate, organise and send from them in Chrome and Firefox. Open source, no tracking.
 - [nvckai/Discord-Web-Auto-Quest-Extension](https://github.com/nvckai/Discord-Web-Auto-Quest-Extension) - A Chrome extension that automatically completes all Discord Quests
 - [JingMatrix/ChromeXt](https://github.com/JingMatrix/ChromeXt) - UserScript and DevTools supports for Chromium based and WebView based browsers
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
@@ -1083,7 +1086,7 @@
 
 - [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) - ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展
 - [nunziopostdoctoral988/ats-resume-checker](https://github.com/nunziopostdoctoral988/ats-resume-checker) - Analyze resumes against ATS requirements using a local, transparent tool that runs entirely in your browser.
-- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
+- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - A home for your DuckDuckGo @duck.com addresses. Generate, organise and send from them in Chrome and Firefox. Open source, no tracking.
 - [FoxRefire/wvg](https://github.com/FoxRefire/wvg) - Chrome/Firefox extension for pen-testing to retrieve encryption keys of Widevine protected content !DON'T DECRYPT CONTENT UNLESS YOU HAVE THE RIGHT TO DO IT!
 - [DevLARLEY/WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2) - An extension-based proxy for Widevine/ClearKey EME challenges and license messages. Modifies the challenge before it reaches the web player. Bypasses Hashes, one-time-tokens and license wrapping.
 - [voyager-crew/voyager](https://github.com/voyager-crew/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可
@@ -1789,7 +1792,7 @@
 - [Codextor/better-zen](https://github.com/Codextor/better-zen) - Zen Browser (based on Firefox) config for speed, privacy, and security. Inspired from Betterfox.
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [HeitorAugustoLN/betterfox-nix](https://github.com/HeitorAugustoLN/betterfox-nix) - Home-manager module to integrate Betterfox user.js in Firefox
-- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
+- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - A home for your DuckDuckGo @duck.com addresses. Generate, organise and send from them in Chrome and Firefox. Open source, no tracking.
 - [petrkozorezov/firefox-addons-nix](https://github.com/petrkozorezov/firefox-addons-nix) - The daily auto updated nix pkgs repository with Firefox add-ons
 - [prirai/nira-browser](https://github.com/prirai/nira-browser) - Android browser with multiple profiles, PWAs, extension and tab groups based on Geckoview
 - [glide-browser/glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
@@ -2575,7 +2578,7 @@
 
 - [Victor-root/Omnify](https://github.com/Victor-root/Omnify) - Beyond F-Droid: install and auto-update apps straight from GitHub, GitLab, Codeberg and self-hosted forges.
 - [Clash-Projects/LastWave-Native](https://github.com/Clash-Projects/LastWave-Native) - Next-Gen YouTube Music Client with Liquid Glass UI , Algorithmic Smart Playlist Generator, Real-Time Synced Lyrics & Universal Last.fm Scrobbler for Android.
-- [A-EDev/Flow](https://github.com/A-EDev/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
+- [Flow-Tube/Flow](https://github.com/Flow-Tube/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
 - [jakesgoodapps/DuoLauncher](https://github.com/jakesgoodapps/DuoLauncher) - An experimental Android launcher for foldables, with a right-side dock, native widgets, and overlapping unfolded Home pages.
 - [Aryan447/mpvium](https://github.com/Aryan447/mpvium) - Sane defaults, pro-level control.  An Android video player powered by mpv and libmpv.
 - [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer) - 🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism💫
@@ -3336,7 +3339,7 @@
 
 - [kalink0/crush-forensics](https://github.com/kalink0/crush-forensics) - Open-source desktop workbench for digital forensic analysis. Inspect ZIP/TAR/7z/UFDR archives, raw disk images/EWF, and iTunes/Android backups. Parse and view ABX, SQLite, SEGB, (B)PLIST, REALM, Proto
 - [aleixrodriala/newtube](https://github.com/aleixrodriala/newtube) - SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in.
-- [A-EDev/Flow](https://github.com/A-EDev/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
+- [Flow-Tube/Flow](https://github.com/Flow-Tube/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
 - [Musaddiq-Sultan/NixDroid](https://github.com/Musaddiq-Sultan/NixDroid) - NixDroid is an x86_64 AOSP emulator for Linux uses virtualization technology via QEMU, allowing it to run directly on hardware with native performance and skip software emulation overhead completely.
 - [rry0ku/veluna](https://github.com/rry0ku/veluna) - Ad-free desktop music streaming application powered by YouTube.
 - [DhananjayBhosale/hilight-studio](https://github.com/DhananjayBhosale/hilight-studio) - Experimental Pixel 11 HiLight LED controller for Android 17.
@@ -3346,7 +3349,7 @@
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [ZzEdovec/onlinefix-linux](https://github.com/ZzEdovec/onlinefix-linux) - OFLL - Steam/Epic online-fix launcher for Linux. Download, install and play games with online fixes in two clicks
 - [LibreFitOrg/LibreFit](https://github.com/LibreFitOrg/LibreFit) - The free and private workout tracker
-- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
+- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - A home for your DuckDuckGo @duck.com addresses. Generate, organise and send from them in Chrome and Firefox. Open source, no tracking.
 - [CodeWorksCreativeHub/mLauncher](https://github.com/CodeWorksCreativeHub/mLauncher) - Minimal Launcher app for Android. Customized olauncher as I just started learning kotlin .
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
@@ -3465,6 +3468,8 @@
 
 ## others 
 
+- [t4t5/omdrop-owl](https://github.com/t4t5/omdrop-owl) - airdrop for non-apple devices
+- [storytold/wordcraft](https://github.com/storytold/wordcraft) - An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 - [Austin-Holdheide/searxng-ai-summary-plugin](https://github.com/Austin-Holdheide/searxng-ai-summary-plugin) - Adds an AI-generated summary box above search results using any OpenAI-compatible endpoint (LM Studio, Ollama, OpenAI, Groq, etc.) — just like Google's AI Overview
 - [Mikec78660/searxng-ai_summaries](https://github.com/Mikec78660/searxng-ai_summaries) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [bearinmindcat/morphe-patches](https://github.com/bearinmindcat/morphe-patches) - Morphe android app patches (for apps that I use) - stable releases
@@ -3674,7 +3679,6 @@
 - [1013503897/Vector](https://github.com/1013503897/Vector) - Zygisk ART hooking framework with a KPM traceless backend (stealth-core) and Dobby fallback
 - [SleepTheGod/Vehicle-OSINT-Collection](https://github.com/SleepTheGod/Vehicle-OSINT-Collection) - A comprehensive list of tools that can be used for finding information related to a specific vehicle.
 - [elementor/elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
-- [Rouyashiki/YukiSU](https://github.com/Rouyashiki/YukiSU) - Kernel-based Android Root Solution
 - [VoltageOS-Devices/device_zuk_z2_plus](https://github.com/VoltageOS-Devices/device_zuk_z2_plus) - 
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [rushiranpise/GmsCore](https://github.com/rushiranpise/GmsCore) - Free implementation of Play Services
@@ -5854,7 +5858,7 @@
 - [VD171/VD-Infos](https://github.com/VD171/VD-Infos) - The VD Infos app reads several of these details and information to show you an example of what can be captured from your device in use.​ A.k.a VDInfos, VDInfo, VD Info.
 - [LibreFitOrg/LibreFit](https://github.com/LibreFitOrg/LibreFit) - The free and private workout tracker
 - [fynks/email-aliasing-comparison](https://github.com/fynks/email-aliasing-comparison) - Compare 10+ email alias services by features, pricing, security, privacy, and ease of use.
-- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
+- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - A home for your DuckDuckGo @duck.com addresses. Generate, organise and send from them in Chrome and Firefox. Open source, no tracking.
 - [hagezi/dns-servers](https://github.com/hagezi/dns-servers) - HaGeZi DNS: Free, Non-Commercial EU Public DNS Servers
 - [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositorie
 - [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience.
@@ -6028,7 +6032,7 @@
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
 - [Nokse22/high-tide](https://github.com/Nokse22/high-tide) - Libadwaita TIDAL client for Linux
-- [Jman-Github/Patch-Bundle-Registry](https://github.com/Jman-Github/Patch-Bundle-Registry) - An automated registry for ReVanced, Morphe, and ReSeam patch bundles, featuring searchable patch metadata, multi-runtime support, JSON feeds, a web interface, and REST/GraphQL APIs.
+- [Jman-Github/Patch-Bundle-Registry](https://github.com/Jman-Github/Patch-Bundle-Registry) - An automated registry for ReVanced, Morphe, and Reseam patch bundles, featuring searchable patch metadata, multi-runtime support, JSON feeds, a web interface, and REST/GraphQL APIs.
 - [Woahai321/list-sync](https://github.com/Woahai321/list-sync) - ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management. https://discord.gg/Dy5xNzEHKw
 - [jensb89/trakt---letterboxd-import](https://github.com/jensb89/trakt---letterboxd-import) - Import Letterboxd movie list (diary) into trakt.tv
 - [volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility 3.0 development
@@ -6305,7 +6309,7 @@
 - [f-io/LIVI](https://github.com/f-io/LIVI) - Native CarPlay & Android Auto head unit for Linux (ARM/x64) & macOS (ARM/x64). Multi-session wired + wireless projection, zero-copy hardware video decoding, low-latency audio.
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
-- [storytold/photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 - [paper-plane-developers/paper-plane](https://github.com/paper-plane-developers/paper-plane) - Chat over Telegram on a modern and elegant client
 - [MintyDoggo/miri](https://github.com/MintyDoggo/miri) - A niri extension adding optional tiling layouts such as Master Stack. Provides similar experience to hyprland or mangowm.
 - [crmne/fastframe](https://github.com/crmne/fastframe) - egui on rails: the shared foundation for native Rust apps built with egui
@@ -6800,6 +6804,7 @@
 
 ## twitter 
 
+- [NeoFreeBird/app](https://github.com/NeoFreeBird/app) - A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications.
 - [kaleedtc/Nitterium](https://github.com/kaleedtc/Nitterium) - A privacy-focused Android app and wrapper for Nitter, allowing you to browse Twitter/X content without an account and subscribe to your favorite user profiles.
 - [BandarHL/BHTwitter](https://github.com/BandarHL/BHTwitter) - Awesome tweak for Twitter
 - [MobileFirstLLC/social-media-hacker-list](https://github.com/MobileFirstLLC/social-media-hacker-list) - Growing list of apps and tools for enhancing social media experiences.
@@ -6818,7 +6823,7 @@
 - [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - A self-hosted command center for OpenCode. Sessions, git, terminal, and schedules in one web app, from your phone or desktop.
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [astashov/liftosaur](https://github.com/astashov/liftosaur) - Weightlifting tracker app for coders
-- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
+- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - A home for your DuckDuckGo @duck.com addresses. Generate, organise and send from them in Chrome and Firefox. Open source, no tracking.
 - [alperengozum/Sleepwell](https://github.com/alperengozum/Sleepwell) - React-Native - Expo - Sleep Cycle Calculator
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -7238,7 +7243,7 @@
 
 - [aleixrodriala/newtube](https://github.com/aleixrodriala/newtube) - SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in.
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube and other services freely.
-- [A-EDev/Flow](https://github.com/A-EDev/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
+- [Flow-Tube/Flow](https://github.com/Flow-Tube/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
 - [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
 - [sonorahq/sonora](https://github.com/sonorahq/sonora) - A native music streaming client, built with Rust and GPUI
 - [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
