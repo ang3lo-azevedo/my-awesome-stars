@@ -432,7 +432,7 @@
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [Rouyashiki/YukiSU](https://github.com/Rouyashiki/YukiSU) - Kernel-based Android Root Solution
 - [VD171/deadhand](https://github.com/VD171/deadhand) - [CATASTROPHIC] Magisk/KSU module: pressing Power 4x wipes the device (crypto-shred + factory reset). Ships disarmed and in dry-run. Fork of abootloop.
-- [cosmictaserdev-creator/Convx](https://github.com/cosmictaserdev-creator/Convx) - Convx is a free, open-source Android music player that streams from YouTube Music — reimagined with an iOS-inspired "Liquid Glass" interface. Every surface uses real backdrop blur and refraction, pair
+- [cosmictaserdev-creator/Convx](https://github.com/cosmictaserdev-creator/Convx) - A free, open-source Android music player for YouTube Music with an iOS-style Liquid Glass interface, synced lyrics, Automix and Listen Together.
 - [xprateek/AOSPGenKeyBox](https://github.com/xprateek/AOSPGenKeyBox) - Generates Android Keystore attestation keyboxes with proper CA hierarchy and ASN.1 KeyDescription extension.   (OID 1.3.6.1.4.1.11129.2.1.17)
 - [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) - Morphe Patches
 - [herzhenr/spic-android](https://github.com/herzhenr/spic-android) - A Simple Play Integrity Checker which uses Google Play Integrity API to check the Integrity of the Device
@@ -598,7 +598,7 @@
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
 - [vhaudiquet/BladePlayer](https://github.com/vhaudiquet/BladePlayer) - Android music player that plays from multiple sources
-- [SelfRef/noogle-magisk](https://github.com/SelfRef/noogle-magisk) - Degoogling Magisk modules for stock Android (powered by microG)
+- [SelfRef/noogle-magisk](https://github.com/SelfRef/noogle-magisk) - Magisk modules replacing Google Play Services with microG and unbundling Google apps on stock Android 11-17
 - [zulfikawr/charge_control_magisk](https://github.com/zulfikawr/charge_control_magisk) - charging current control module for magisk
 - [janithcooray/lin_os_swap_mod](https://github.com/janithcooray/lin_os_swap_mod) - increases the SWAP memory by an additional 4GB or 8GB for Android 7.0 or above
 - [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
@@ -2530,7 +2530,7 @@
 - [Aryan447/mpvium](https://github.com/Aryan447/mpvium) - Sane defaults, pro-level control.  An Android video player powered by mpv and libmpv.
 - [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer) - 🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism💫
 - [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras
-- [cosmictaserdev-creator/Convx](https://github.com/cosmictaserdev-creator/Convx) - Convx is a free, open-source Android music player that streams from YouTube Music — reimagined with an iOS-inspired "Liquid Glass" interface. Every surface uses real backdrop blur and refraction, pair
+- [cosmictaserdev-creator/Convx](https://github.com/cosmictaserdev-creator/Convx) - A free, open-source Android music player for YouTube Music with an iOS-style Liquid Glass interface, synced lyrics, Automix and Listen Together.
 - [herzhenr/spic-android](https://github.com/herzhenr/spic-android) - A Simple Play Integrity Checker which uses Google Play Integrity API to check the Integrity of the Device
 - [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) - A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt
 - [LibreFitOrg/LibreFit](https://github.com/LibreFitOrg/LibreFit) - The free and private workout tracker
@@ -2591,7 +2591,7 @@
 - [jakesgoodapps/DuoLauncher](https://github.com/jakesgoodapps/DuoLauncher) - An experimental Android launcher for foldables, with a right-side dock, native widgets, and overlapping unfolded Home pages.
 - [Aryan447/mpvium](https://github.com/Aryan447/mpvium) - Sane defaults, pro-level control.  An Android video player powered by mpv and libmpv.
 - [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer) - 🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism💫
-- [cosmictaserdev-creator/Convx](https://github.com/cosmictaserdev-creator/Convx) - Convx is a free, open-source Android music player that streams from YouTube Music — reimagined with an iOS-inspired "Liquid Glass" interface. Every surface uses real backdrop blur and refraction, pair
+- [cosmictaserdev-creator/Convx](https://github.com/cosmictaserdev-creator/Convx) - A free, open-source Android music player for YouTube Music with an iOS-style Liquid Glass interface, synced lyrics, Automix and Listen Together.
 - [herzhenr/spic-android](https://github.com/herzhenr/spic-android) - A Simple Play Integrity Checker which uses Google Play Integrity API to check the Integrity of the Device
 - [LivingWithHippos/unchained-android](https://github.com/LivingWithHippos/unchained-android) - App to interact with real-debrid API
 - [VD171/VD-Infos](https://github.com/VD171/VD-Infos) - The VD Infos app reads several of these details and information to show you an example of what can be captured from your device in use.​ A.k.a VDInfos, VDInfo, VD Info.
@@ -3191,7 +3191,7 @@
 
 ## music 
 
-- [Seb3thehacker/Gearslip](https://github.com/Seb3thehacker/Gearslip) - An Android Auto alternative built for everyone
+- [twinksoftware/Gearslip](https://github.com/twinksoftware/Gearslip) - An Android Auto alternative built for everyone
 - [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
 - [Kopuz-org/kopuz](https://github.com/Kopuz-org/kopuz) - Your next music player
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
@@ -3351,6 +3351,7 @@
 - [Musaddiq-Sultan/NixDroid](https://github.com/Musaddiq-Sultan/NixDroid) - NixDroid is an x86_64 AOSP emulator for Linux uses virtualization technology via QEMU, allowing it to run directly on hardware with native performance and skip software emulation overhead completely.
 - [rry0ku/veluna](https://github.com/rry0ku/veluna) - Ad-free desktop music streaming application powered by YouTube.
 - [DhananjayBhosale/hilight-studio](https://github.com/DhananjayBhosale/hilight-studio) - Experimental Pixel 11 HiLight LED controller for Android 17.
+- [cosmictaserdev-creator/Convx](https://github.com/cosmictaserdev-creator/Convx) - A free, open-source Android music player for YouTube Music with an iOS-style Liquid Glass interface, synced lyrics, Automix and Listen Together.
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [rama-io/mako](https://github.com/rama-io/mako) - Minimal, privacy-first Android launcher designed for focus, speed, and simplicity.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
@@ -3476,6 +3477,7 @@
 
 ## others 
 
+- [Supermedo/bloodborne_pc](https://github.com/Supermedo/bloodborne_pc) - Bloodborne running natively on Windows 10/11: launcher in 13 languages, DLSS, FSR 3.1/4, unlocked FPS, cheats, mods, one-click updates.
 - [ahmedarif193/LiberNT](https://github.com/ahmedarif193/LiberNT) - A free Windows-compatible Operating System
 - [SpecterOps/SharpHound](https://github.com/SpecterOps/SharpHound) - C# Data Collector for BloodHound
 - [AlekKras/NHI-Hound](https://github.com/AlekKras/NHI-Hound) - Tool for hunting for Ghost Creds. Made specifically for BlackHat 2026. Note: Note: made with the use of AI assisted coding.
@@ -4209,7 +4211,6 @@
 - [L1v1ng0ffTh3L4N/EdgeSavedPasswordsDumper](https://github.com/L1v1ng0ffTh3L4N/EdgeSavedPasswordsDumper) - Proof of concept to show that Edge stores credentials in cleartext
 - [AntonioAlves6/The-Witcher-Interactive-Fiction](https://github.com/AntonioAlves6/The-Witcher-Interactive-Fiction) - 
 - [MachinaIO/diamond-io](https://github.com/MachinaIO/diamond-io) - Diamond iO implementation https://eprint.iacr.org/2025/236
-- [brahmkshatriya/echo-spotify-extension](https://github.com/brahmkshatriya/echo-spotify-extension) - Spotify on Echo
 - [BlagovestKirilov/streampeak](https://github.com/BlagovestKirilov/streampeak) - Stremio addon that automatically picks the best 4K, 1080p, 720p, and 480p stream.
 - [Scatter-Web/Scatter-Web-Project](https://github.com/Scatter-Web/Scatter-Web-Project) - 
 - [TheWinner02/ReVancedXposed_Spotify](https://github.com/TheWinner02/ReVancedXposed_Spotify) - 
@@ -4862,7 +4863,7 @@
 - [damienhaynes/TraktRater](https://github.com/damienhaynes/TraktRater) - TraktRater is a tool written in C# to help users transfer user episode, show and movie user ratings and watchlists from multiple media database sites around the web.
 - [aref2232/Immich-backup-scripts](https://github.com/aref2232/Immich-backup-scripts) - Scripts to backup/restore immich to rclone remote
 - [newbit1/rootAVD](https://github.com/newbit1/rootAVD) - Script to root AVDs running with QEMU Emulator from Android Studio
-- [r4ph3cks/r4ph3cks.github.io](https://github.com/r4ph3cks/r4ph3cks.github.io) - R3p3cks Blog for CTFs Writeups
+- [r4ph3cks/r4ph3cks.github.io](https://github.com/r4ph3cks/r4ph3cks.github.io) - R4ph3cks Blog for CTFs Writeups
 - [gvenzl/oci-oracle-free](https://github.com/gvenzl/oci-oracle-free) - Build scripts for Oracle AI Database FREE container/docker images
 - [Fitzsimmons/oracle-always-free-vps](https://github.com/Fitzsimmons/oracle-always-free-vps) - 
 - [UdDReX/oracle-vps-script](https://github.com/UdDReX/oracle-vps-script) - 
