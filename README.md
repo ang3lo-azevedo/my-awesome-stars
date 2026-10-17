@@ -772,6 +772,7 @@
 - [HadesVR/HadesVR](https://github.com/HadesVR/HadesVR) - The "DIY" SteamVR compatible VR setup made for tinkerers.
 - [lunokjod/watch](https://github.com/lunokjod/watch) - lunokWatch (lilygo twatch2020 series)
 - [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
+- [waveshareteam/ESP32-S3-Touch-AMOLED-2.06](https://github.com/waveshareteam/ESP32-S3-Touch-AMOLED-2.06) - Waveshare ESP32-S3 2.06-inch 410 x 502 QSPI AMOLED touch development board: ESP-IDF and Arduino examples, firmware and hardware resources
 - [Xinyuan-LilyGO/TTGO_TWatch_Library](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library) - 
 - [SpenceKonde/ATTinyCore](https://github.com/SpenceKonde/ATTinyCore) - Arduino core for ATtiny 1634, 828, x313, x4, x41, x5, x61, x7 and x8
 - [LucidVR/lucidgloves](https://github.com/LucidVR/lucidgloves) - Arduino/ESP32 based DIY VR Haptic gloves. Compatible with SteamVR via OpenGloves.
@@ -1145,7 +1146,6 @@
 - [openclaw/wacli](https://github.com/openclaw/wacli) - WhatsApp CLI: sync, search, send
 - [gl0bal01/ctfd-warboard](https://github.com/gl0bal01/ctfd-warboard) - A gentle CTFd parser designed to minimize load on CTF platforms. CLI + Discord bot for small-team collaboration, with automatic git sync to private repos.
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A real browser inside your terminal
-- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
 - [vashhdev/onepace](https://github.com/vashhdev/onepace) - I made a script to watch One Pace, efficiently through your terminal with minimalistic TUI. I made it because I didn't want to download the files cause I watch quickly and then remove those files, als
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -1542,7 +1542,7 @@
 - [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
 - [google/docker-explorer](https://github.com/google/docker-explorer) - A tool to help forensicate offline docker acquisitions
-- [psyb0t/safe-stremio](https://github.com/psyb0t/safe-stremio) - Safe-Stremio is your gateway to running Stremio Server and Stremio Web within a Docker container, wrapped in layers of security, anonymity, and badassery. This ain't your grandma's streaming setup—thi
+- [psyb0t/safe-stremio](https://github.com/psyb0t/safe-stremio) - Safe-Stremio is your gateway to running Stremio Server and Stremio Web within a Docker container, wrapped in layers of security, anonymity, and badassery. This ain't your grandma's streaming setup. Th
 - [I-am-PUID-0/DUMB](https://github.com/I-am-PUID-0/DUMB) - Distributed Unlimited Media Bridge (DUMB) is an All-In-One (AIO) Docker image for building and operating a complete automated media stack from one container.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
@@ -1752,6 +1752,7 @@
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [lunokjod/watch](https://github.com/lunokjod/watch) - lunokWatch (lilygo twatch2020 series)
 - [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
+- [waveshareteam/ESP32-S3-Touch-AMOLED-2.06](https://github.com/waveshareteam/ESP32-S3-Touch-AMOLED-2.06) - Waveshare ESP32-S3 2.06-inch 410 x 502 QSPI AMOLED touch development board: ESP-IDF and Arduino examples, firmware and hardware resources
 - [sharandac/My-TTGO-Watch](https://github.com/sharandac/My-TTGO-Watch) - A GUI named hedge for smartwatch like devices based on ESP32. Currently support for T-Watch2020 (V1,V2,V3), T-Watch2021, M5Paper, M5Core2 and native Linux support for testing.
 - [Xinyuan-LilyGO/TTGO_TWatch_Library](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library) - 
 - [GhostESP-Revival/GhostESP](https://github.com/GhostESP-Revival/GhostESP) - The open-source wireless research platform for ESP32.
@@ -1954,7 +1955,6 @@
 ## git 
 
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - A self-hosted command center for OpenCode. Sessions, git, terminal, and schedules in one web app, from your phone or desktop.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
@@ -3547,7 +3547,6 @@
 - [countryside99/ZygiskNextSecurityResearch](https://github.com/countryside99/ZygiskNextSecurityResearch) - Public Research regarding ZygiskNext Closed-Source Software: https://github.com/LSPosed/ZygiskNext
 - [findus/AtakaDashboard](https://github.com/findus/AtakaDashboard) - Grafana Dashboard for Ataka
 - [Nils1729/ataka-grafana-dashboards](https://github.com/Nils1729/ataka-grafana-dashboards) - Grafana Dashboards for Ataka
-- [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse) - Suitable for Android APK reverse engineering analysis
 - [OpenAttackDefenseTools/ataka](https://github.com/OpenAttackDefenseTools/ataka) - Runs exploits, fast.
 - [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️ OpenCloud is the open source platform for file management, sharing and collaboration. Simple and sovereign.
 - [gfelber/templeos](https://github.com/gfelber/templeos) - 
@@ -3661,7 +3660,7 @@
 - [Attacking-Lab/ecsc2025-ad-wiki](https://github.com/Attacking-Lab/ecsc2025-ad-wiki) - ECSC 2025 A/D Documentation
 - [hawshemi/sni-finder](https://github.com/hawshemi/sni-finder) - SNI Finder
 - [echo-tester/FreeNet](https://github.com/echo-tester/FreeNet) - get free internet connection by bughost via httpcustom or any vpn tunnel app
-- [Liliya2727/AZenith](https://github.com/Liliya2727/AZenith) - Universal perf modules
+- [Liliya2727/AZenith](https://github.com/Liliya2727/AZenith) - A Dynamic Performance Module to tweak gaming experience while keeping user preferences
 - [juanma0511/kknd_Root_Detector](https://github.com/juanma0511/kknd_Root_Detector) - A tool to detect root on Android.
 - [RevealedSoulEven/NothingTweaks](https://github.com/RevealedSoulEven/NothingTweaks) - A customization module for Nothing OS based on Xposed framework.
 - [Xposed-Modules-Repo/com.souleven.nothingos](https://github.com/Xposed-Modules-Repo/com.souleven.nothingos) - Nothing Tweaks
@@ -3870,7 +3869,6 @@
 - [23fpsz/SpotiDuck-Releases](https://github.com/23fpsz/SpotiDuck-Releases) - 
 - [Midrags/SFF](https://github.com/Midrags/SFF) - SteaMidra - Advanced Steam game setup and management tool featuring manifest handling, Lua integrations, LumaCore deployment, multiplayer fixes, DLC unlocking, backups, game fixes, and an easy-to-use 
 - [WordPress/WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop 
-- [lyssadev/Spotilol](https://github.com/lyssadev/Spotilol) - A android app that wraps Spotify's web player with built-in adblocker
 - [Aorimn/dislocker](https://github.com/Aorimn/dislocker) - FUSE driver to read/write Windows' BitLocker-ed volumes under Linux / Mac OSX
 - [elceef/bitlocker](https://github.com/elceef/bitlocker) - Volatility Framework plugin for extracting BitLocker FVEK (Full Volume Encryption Key)
 - [castilho101/CallMe](https://github.com/castilho101/CallMe) - An extension to find callback endpoints in the background while searching the Web
@@ -4668,7 +4666,6 @@
 - [music-assistant/home-assistant-addon](https://github.com/music-assistant/home-assistant-addon) - Music Assistant add-on (repository) for Home Assistant
 - [virtualabs/hackwatch](https://github.com/virtualabs/hackwatch) - T-Watch 2020 v1/v2/v3 compatible firmware providing WiFi and BLE testing tools, TV-B-Gone and a watch feature (obviously)
 - [VolosR/waveshareControl](https://github.com/VolosR/waveshareControl) - 
-- [waveshareteam/ESP32-S3-Touch-AMOLED-2.06](https://github.com/waveshareteam/ESP32-S3-Touch-AMOLED-2.06) - ESP32-S3-Touch-AMOLED-2.06 Engineering Sample Program
 - [sharandac/My-TTGO-Watchfaces](https://github.com/sharandac/My-TTGO-Watchfaces) - 
 - [PGNetHun/PG-TTGO-Watchfaces](https://github.com/PGNetHun/PG-TTGO-Watchfaces) - Watchfaces for Lilygo T-Watch-2020 - Firmware: sharandac/My-TTGO-Watch
 - [whoeevee/EeveeSpotifyReborn](https://github.com/whoeevee/EeveeSpotifyReborn) - A tweak to enhance Spotify experience
@@ -5666,7 +5663,6 @@
 - [LucidVR/opengloves-ui](https://github.com/LucidVR/opengloves-ui) - OpenGloves UI
 - [Philooz/pyambientmixer](https://github.com/Philooz/pyambientmixer) - Python script to download and run ambient files from ambient-mixer.com
 - [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
-- [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
 - [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) - Tool for deleting all photos from the Google Photos
 - [apsun/uSticker](https://github.com/apsun/uSticker) - Custom stickers for Gboard on Android.
 - [zhtok/MSO_E5_Dev_AutoRenew_Modified](https://github.com/zhtok/MSO_E5_Dev_AutoRenew_Modified) - This is a python program based on Git Actions modified to automatically renew Microsoft Office 365 E5 Developer Trail.
@@ -5720,7 +5716,6 @@
 
 ## p2p 
 
-- [baairon/torlink](https://github.com/baairon/torlink) - 👾 A sleek, zero-setup torrent finder and downloader that lives right in your terminal.
 - [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 - [FlavioFS/ParsecSoda](https://github.com/FlavioFS/ParsecSoda) - Parsec Soda is a custom open-source game streaming app that integrates with Parsec API and is focused in Host experience.
 - [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is b
@@ -6145,7 +6140,7 @@
 
 ## raspberry-pi 
 
-- [psyb0t/safe-stremio](https://github.com/psyb0t/safe-stremio) - Safe-Stremio is your gateway to running Stremio Server and Stremio Web within a Docker container, wrapped in layers of security, anonymity, and badassery. This ain't your grandma's streaming setup—thi
+- [psyb0t/safe-stremio](https://github.com/psyb0t/safe-stremio) - Safe-Stremio is your gateway to running Stremio Server and Stremio Web within a Docker container, wrapped in layers of security, anonymity, and badassery. This ain't your grandma's streaming setup. Th
 - [bakustarver/rpgmakermlinux-cicpoffs](https://github.com/bakustarver/rpgmakermlinux-cicpoffs) - Run any RPG Maker XP, VX, VX Ace, MV, MZ, TyranoBuilder, Godot, Construct 2/3, Nscripter game on linux natively
 - [procount/pinn](https://github.com/procount/pinn) - An enhanced Operating System installer for the Raspberry Pi
 - [raghulshanmuganathan/Pi_CarHU](https://github.com/raghulshanmuganathan/Pi_CarHU) - This project is based on the open-source project called CrankShaft https://getcrankshaft.com/ which makes use of the Open Auto to create an Android Auto car head unit using Raspberry Pi. The aim is to
@@ -6839,7 +6834,6 @@
 - [bea4dev/ShojiWM](https://github.com/bea4dev/ShojiWM) - The most customizable Wayland compositor with TypeScript(tsx).
 - [nunziopostdoctoral988/ats-resume-checker](https://github.com/nunziopostdoctoral988/ats-resume-checker) - Analyze resumes against ATS requirements using a local, transparent tool that runs entirely in your browser.
 - [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ A comprehensive, on-demand, all-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
-- [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - A self-hosted command center for OpenCode. Sessions, git, terminal, and schedules in one web app, from your phone or desktop.
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [astashov/liftosaur](https://github.com/astashov/liftosaur) - Weightlifting tracker app for coders
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - A home for your DuckDuckGo @duck.com addresses. Generate, organise and send from them in Chrome and Firefox. Open source, no tracking.
