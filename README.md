@@ -3477,6 +3477,9 @@
 
 ## others 
 
+- [MakrSas/LineageQS](https://github.com/MakrSas/LineageQS) - Android 17 (LineageOS 24) shade and Quick Settings for jailbroken iOS 16
+- [V4bel/InfinityCore](https://github.com/V4bel/InfinityCore) - 
+- [KLPP73/My-CTF-Writeups](https://github.com/KLPP73/My-CTF-Writeups) - 
 - [Supermedo/bloodborne_pc](https://github.com/Supermedo/bloodborne_pc) - Bloodborne running natively on Windows 10/11: launcher in 13 languages, DLSS, FSR 3.1/4, unlocked FPS, cheats, mods, one-click updates.
 - [ahmedarif193/LiberNT](https://github.com/ahmedarif193/LiberNT) - A free Windows-compatible Operating System
 - [SpecterOps/SharpHound](https://github.com/SpecterOps/SharpHound) - C# Data Collector for BloodHound
@@ -4189,7 +4192,7 @@
 - [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 - [Giotino/stegsolve](https://github.com/Giotino/stegsolve) - 
 - [SebastianMorel/AIOLists](https://github.com/SebastianMorel/AIOLists) - Stremio Addon with a bunch of features to manage lists from MDBList and Trakt
-- [sillymamaco/nixos-config](https://github.com/sillymamaco/nixos-config) - 
+- [sillymamaco/nixos-config](https://github.com/sillymamaco/nixos-config) - My personal NixOS configuration (flake-based) with Zsh and Starship.
 - [wuplayapp/wuplay-releases](https://github.com/wuplayapp/wuplay-releases) - WuPlay for Android TV — releases and issue tracker
 - [Matroxt/one-pace-to-plex](https://github.com/Matroxt/one-pace-to-plex) - Guide to adapt One Pace releases to a format Plex can use
 - [haaihond/Trakt-Nuvio-Bridge](https://github.com/haaihond/Trakt-Nuvio-Bridge) - A web bridge for syncing Trakt watched history, playback progress, watchlist, and collection data into Nuvio Sync.
@@ -4450,7 +4453,6 @@
 - [Sonicx161/AIOManager](https://github.com/Sonicx161/AIOManager) - One manager to rule them all. Addon management, cross-device sync, and deep metrics for your entire setup. All without sacrificing your privacy.
 - [Asymons/stremio-account-manager](https://github.com/Asymons/stremio-account-manager) - 
 - [Stremio/stremio-history-sync](https://github.com/Stremio/stremio-history-sync) - 
-- [sofoxe1/OyasumiVR](https://github.com/sofoxe1/OyasumiVR) - 🥽 VR Sleeping Utilities
 - [Cosm-gedenke/Web-Exploitation-classes-secTT-26](https://github.com/Cosm-gedenke/Web-Exploitation-classes-secTT-26) - the collection of classes and challenges used for the teaching of Web exploitation for the CTF IST team SecTT
 - [Pong-Development/device_nothing_Pong](https://github.com/Pong-Development/device_nothing_Pong) - About Device tree for Nothing Phone (2)
 - [VoltageOS/vendor_voltage-priv_keys](https://github.com/VoltageOS/vendor_voltage-priv_keys) - 
@@ -5333,7 +5335,6 @@
 - [ang3lo-azevedo/Pumpkin](https://github.com/ang3lo-azevedo/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine
 - [ang3lo-azevedo/cursor-limit-reset](https://github.com/ang3lo-azevedo/cursor-limit-reset) - This tool is developed for resetting Cursor editor device IDs to resolve account restrictions when switching accounts or during trial periods.
-- [yx-elite/cursor-limit-reset](https://github.com/yx-elite/cursor-limit-reset) - This tool is developed for resetting Cursor editor device IDs to resolve account restrictions when switching accounts or during trial periods.
 - [Torxed/archinstall-aur](https://github.com/Torxed/archinstall-aur) - Archinstall plugin to handle AUR packages
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [kvz/bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
