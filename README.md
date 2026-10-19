@@ -408,6 +408,7 @@
 
 ## android 
 
+- [hddq/magisk-cromite-webview](https://github.com/hddq/magisk-cromite-webview) - Magisk/KernelSU module that automatically replaces Android System WebView with Cromite. Auto-built daily via GitHub Actions.
 - [jojodogm-ctrl/emufii](https://github.com/jojodogm-ctrl/emufii) - One code, and you're in the same room. Remote multiplayer between Android emulators: 3DS, Switch, PSP, PS2, DS and WII.
 - [WaEnhancerX/WaEnhancerX](https://github.com/WaEnhancerX/WaEnhancerX) - An advanced, open-source LSPosed module for WhatsApp. Features UI customization, aggressive Anti-Meta AI, privacy enhancements, and native settings integration. Written entirely from scratch.
 - [Victor-root/Omnify](https://github.com/Victor-root/Omnify) - Beyond F-Droid: install and auto-update apps straight from GitHub, GitLab, Codeberg and self-hosted forges.
@@ -2547,6 +2548,7 @@
 - [vrn7712/Zon](https://github.com/vrn7712/Zon) - Zon - A minimalist Pomodoro timer for Android with Material 3 Expressive design. Track your focus time, manage tasks, and boost productivity.
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [ZalithLauncher/ZalithLauncher2](https://github.com/ZalithLauncher/ZalithLauncher2) - A Minecraft: Java Edition Launcher for Android
+- [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility
 - [Tornaco/Thanox](https://github.com/Tornaco/Thanox) - I am thanos! 😈 👌
 - [IacobIonut01/ReFra](https://github.com/IacobIonut01/ReFra) - Media Gallery app for Android made with Jetpack Compose
@@ -2695,6 +2697,7 @@
 
 ## linux 
 
+- [ARahim3/DigUp](https://github.com/ARahim3/DigUp) - Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.
 - [f-io/LIVI](https://github.com/f-io/LIVI) - Native CarPlay & Android Auto head unit for Linux (ARM/x64) & macOS (ARM/x64). Multi-session wired + wireless projection, zero-copy hardware video decoding, low-latency audio.
 - [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
 - [toaruos/bim](https://github.com/toaruos/bim) - Extensible terminal text editor with syntax highlighting and plugin support.
@@ -2982,6 +2985,7 @@
 
 ## macos 
 
+- [ARahim3/DigUp](https://github.com/ARahim3/DigUp) - Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.
 - [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
 - [crmne/zapfast](https://github.com/crmne/zapfast) - ZapFast: a fast, native WhatsApp client in Rust and egui
@@ -3380,7 +3384,6 @@
 - [jksalcedo/librefind](https://github.com/jksalcedo/librefind) - Discover and replace proprietary apps with FOSS alternatives
 - [nvckai/Discord-Web-Auto-Quest-Extension](https://github.com/nvckai/Discord-Web-Auto-Quest-Extension) - A Chrome extension that automatically completes all Discord Quests
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-- [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [Ketbome/minepanel](https://github.com/Ketbome/minepanel) - A modern Docker-based web panel for managing multiple Minecraft servers with ease.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
@@ -3457,7 +3460,6 @@
 - [PicartaAI/Picarta-API](https://github.com/PicartaAI/Picarta-API) - Picarta AI Image Geolocalization API
 - [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool
 - [khast3x/h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email
-- [OSINTVerseHQ/Social-Media-OSINT-Tools-Collection](https://github.com/OSINTVerseHQ/Social-Media-OSINT-Tools-Collection) - A collection of most useful osint tools for SOCINT.
 - [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 - [jasperan/whatsapp-osint](https://github.com/jasperan/whatsapp-osint) - WhatsApp spy - logs online/offline events from ANYONE in the world
 - [remcostoeten/whatsapp-online-status-tracker](https://github.com/remcostoeten/whatsapp-online-status-tracker) - Monitor a WhatsApp user’s online activity with comprehensive reports that include timestamps, duration online, percentage of time spent online, and visual data through charts and graphs. Track statist
@@ -3472,11 +3474,16 @@
 - [0x0be/yesitsme](https://github.com/0x0be/yesitsme) - Simple OSINT script to find Instagram profiles by name and e-mail/phone
 - [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) - 🕵️‍♂️ A comprehensive, on-demand, all-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥
 - [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
-- [OSINTVerseHQ/Social-Media-OSINT-Tools-Collection](https://github.com/OSINTVerseHQ/Social-Media-OSINT-Tools-Collection) - A collection of most useful osint tools for SOCINT.
 - [megadose/toutatis](https://github.com/megadose/toutatis) - Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more
 
 ## others 
 
+- [dubrovskiy-yevhen-stakelogic/rdr1-quest](https://github.com/dubrovskiy-yevhen-stakelogic/rdr1-quest) - Red Dead Repemption VR mod for Quest 3/Quest 3s Standalone
+- [JiGuroLGC/FuckGoogleLicense](https://github.com/JiGuroLGC/FuckGoogleLicense) - 绕过谷歌服务证书校验 / Bypass Google Service License Verification
+- [R0rt1z2/kaeru](https://github.com/R0rt1z2/kaeru) - ARMv7 payload that provides arbitrary code execution on MediaTek bootloaders
+- [techtornados/Root-My-Device](https://github.com/techtornados/Root-My-Device) - A Fork with more Support and force root trial
+- [blatchley/ecsc2026-unplugged-challenges](https://github.com/blatchley/ecsc2026-unplugged-challenges) - public respository of challenges used at ECSC 2026 unplugged CTF
+- [Pissandshittium/pissandshittium](https://github.com/Pissandshittium/pissandshittium) - Pissandshittium Source
 - [MakrSas/LineageQS](https://github.com/MakrSas/LineageQS) - Android 17 (LineageOS 24) shade and Quick Settings for jailbroken iOS 16
 - [V4bel/InfinityCore](https://github.com/V4bel/InfinityCore) - 
 - [KLPP73/My-CTF-Writeups](https://github.com/KLPP73/My-CTF-Writeups) - 
@@ -3831,7 +3838,7 @@
 - [00112244/windows_forensics](https://github.com/00112244/windows_forensics) - A collection of hands-on digital forensics projects focused on investigating and analyzing Windows operating system artifacts. Includes step-by-step methodologies for event log analysis, registry exam
 - [Akshay1306/clipboard-forensics](https://github.com/Akshay1306/clipboard-forensics) - A digital forensics tool that extracts and analyzes clipboard data from multiple sources (current clipboard, Registry, cloud clipboard), automatically detects sensitive patterns (passwords, credit car
 - [Macmee/OpenMouse](https://github.com/Macmee/OpenMouse) - A free and open alternative to Synergy and ShareMouse
-- [EricZimmerman/MFTECmd](https://github.com/EricZimmerman/MFTECmd) - Parses $MFT from NTFS file systems
+- [EricZimmerman/MFTECmd](https://github.com/EricZimmerman/MFTECmd) - Parses NTFS file system artifacts
 - [Jonathan-Mullet/waypoint-stremio](https://github.com/Jonathan-Mullet/waypoint-stremio) - Trakt resume hints and Continue Watching for Stremio — stateless, encrypted-config Beamup addon
 - [PixelPusher247/morphe-patches](https://github.com/PixelPusher247/morphe-patches) - 
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted key
@@ -4642,7 +4649,6 @@
 - [leedrake5/unredact](https://github.com/leedrake5/unredact) - A simple tool for reading in poorly redacted documents and reproducing their origional form
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
 - [SL-RU/swaylock-fprintd](https://github.com/SL-RU/swaylock-fprintd) - Screen locker for Wayland with fingerprint support via fprintd
-- [risunCode/AppControl-X](https://github.com/risunCode/AppControl-X) - A powerful Android application for controlling app behavior, battery optimization, and system management using Root or Shizuku.
 - [intel/icamerasrc](https://github.com/intel/icamerasrc) - icamerasrc
 - [intel/ipu7-drivers](https://github.com/intel/ipu7-drivers) - 
 - [Lutitious/arch-bw-bio](https://github.com/Lutitious/arch-bw-bio) - Arch linux package for bitwarden biometrics
@@ -5882,6 +5888,7 @@
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+- [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
 - [fym35/ZuckApp](https://github.com/fym35/ZuckApp) - Foss whatsapp client for Android
 - [pixincreate/mGMSCompat](https://github.com/pixincreate/mGMSCompat) - Root Module for adding GMS compatibility layer to vanilla android devices like LineageOS and etc.,
@@ -6663,6 +6670,7 @@
 
 ## swift 
 
+- [ARahim3/DigUp](https://github.com/ARahim3/DigUp) - Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
@@ -6942,7 +6950,6 @@
 - [aceberg/unbox](https://github.com/aceberg/unbox) - CLI tool for sing-box: keep alive, auto switch. Convert URLs to sing-box config. Deduplicate. Remove unreachable servers
 - [mhyrzt/xrat](https://github.com/mhyrzt/xrat) - Rust CLI/TUI proxy manager for Xray-core, V2Ray-core, and sing-box: import subscriptions,   test latency, rotate proxies, scan edge IPs, and run managed local proxy sessions.
 - [dnstt-xyz/dnstt_xyz_app](https://github.com/dnstt-xyz/dnstt_xyz_app) - Multi-platform dnstt client for restricted networks like Iran, China, Russia or maybe your mom firewall
-- [ebrasha/free-v2ray-public-list](https://github.com/ebrasha/free-v2ray-public-list) - A simple and always-updated list of free, working V2Ray servers. including SS, SSR, Trojan, VLESS, VMess, TUIC, and Hysteria2. Just copy, paste, and connect — no signup, no payment, no nonsense. ⏰ Upd
 - [F0rc3Run/F0rc3Run](https://github.com/F0rc3Run/F0rc3Run) - Free VPNs with VMess, VLESS, Shadowsocks & SSTP — powered by V2rayCollector. Bypass censorship, protect your privacy, and enjoy fast, secure, and unrestricted internet access.
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [barry-far/V2ray-Config](https://github.com/barry-far/V2ray-Config) - Free V2ray Configs, Updating Every 15 minutes. 🚀🌐
@@ -7093,6 +7100,7 @@
 
 ## windows 
 
+- [ARahim3/DigUp](https://github.com/ARahim3/DigUp) - Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.
 - [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound) - Active Directory data ingestor for BloodHound Legacy written in Rust. 🦀
 - [agadiffe/WindowsMize](https://github.com/agadiffe/WindowsMize) - :pushpin: PowerShell scripts to automate and customize the configuration of Windows. Easy to use and extensive: Debloat, minimize telemetry, apps installation, general settings, and more.
 - [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
