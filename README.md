@@ -174,6 +174,7 @@
 - [material-design](#material-design)
 - [maven](#maven)
 - [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
@@ -419,6 +420,7 @@
 
 ## android 
 
+- [fmhyplay/android](https://github.com/fmhyplay/android) - FMHYPlay: any streaming site, a real player. A TV-first Android app with a native player, ad blocking, in-app WARP and IPTV.
 - [probear0001/CVE-2026-58868](https://github.com/probear0001/CVE-2026-58868) - Original write up for CVE-2026-58868 Android critical severity cve
 - [sk2andy/candy-browser](https://github.com/sk2andy/candy-browser) - Gesture-first Android browser with Material 3 Expressive design and local privacy tools
 - [Pixelgamer4k/graden](https://github.com/Pixelgamer4k/graden) - Multi-layer video editor and colour grading app for Android — proxy editing, native-resolution preview, colour wheels and scopes, full-quality H.264/H.265 export. Beta.
@@ -469,7 +471,7 @@
 - [VD171/VD-Infos](https://github.com/VD171/VD-Infos) - The VD Infos app reads several of these details and information to show you an example of what can be captured from your device in use.​ A.k.a VDInfos, VDInfo, VD Info.
 - [ang3lo-azevedo/detection](https://github.com/ang3lo-azevedo/detection) - Collection of Various Root Detection Apps for Android
 - [solkin/appteka-android](https://github.com/solkin/appteka-android) - 💊 Appteka is an alternative store for Android
-- [skidworks-openengineering/SimpleBoot](https://github.com/skidworks-openengineering/SimpleBoot) - SimpleBoot [BETA] - Turn your rooted Android phone into a bootable USB drive. Mount and boot ISOs via ConfigFS, legacy, or loopback – no PC needed.
+- [skidworks-openengineering/SimpleBoot](https://github.com/skidworks-openengineering/SimpleBoot) - SimpleBoot - Turn your rooted Android phone into a bootable USB drive. Mount and boot ISOs via ConfigFS, legacy, or loopback – no PC needed.
 - [matthewdaluz/SimpleBoot](https://github.com/matthewdaluz/SimpleBoot) - Turn your rooted Android phone into a bootable USB drive. Mount and boot ISOs via ConfigFS, legacy, or loopback – no PC needed.
 - [Enginex0/UsbMassStorage](https://github.com/Enginex0/UsbMassStorage) - 💾 Turn your phone into a USB drive · USB Mass Storage gadget controller · KernelSU / Magisk / APatch
 - [muhammadrizwan87/frida-bridge](https://github.com/muhammadrizwan87/frida-bridge) - Native JNI bridge to load Frida Gadget — Frida with no root, no APK repacking, containers supported.
@@ -723,7 +725,7 @@
 - [ExTV/Podroid](https://github.com/ExTV/Podroid) - A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.
 - [rushiranpise/shizuku-modules](https://github.com/rushiranpise/shizuku-modules) - 
 - [cosmictaserdev-creator/Convx](https://github.com/cosmictaserdev-creator/Convx) - A free, open-source Android music player for YouTube Music with an iOS-style Liquid Glass interface, synced lyrics, Automix and Listen Together.
-- [skidworks-openengineering/SimpleBoot](https://github.com/skidworks-openengineering/SimpleBoot) - SimpleBoot [BETA] - Turn your rooted Android phone into a bootable USB drive. Mount and boot ISOs via ConfigFS, legacy, or loopback – no PC needed.
+- [skidworks-openengineering/SimpleBoot](https://github.com/skidworks-openengineering/SimpleBoot) - SimpleBoot - Turn your rooted Android phone into a bootable USB drive. Mount and boot ISOs via ConfigFS, legacy, or loopback – no PC needed.
 - [matthewdaluz/SimpleBoot](https://github.com/matthewdaluz/SimpleBoot) - Turn your rooted Android phone into a bootable USB drive. Mount and boot ISOs via ConfigFS, legacy, or loopback – no PC needed.
 - [A4Alpha/mulch-webview-overlay](https://github.com/A4Alpha/mulch-webview-overlay) - Easily install the security-hardened Mulch SystemWebView from DivestOS
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
@@ -1344,6 +1346,7 @@
 
 ## cpp 
 
+- [notsapinho/Eglantine](https://github.com/notsapinho/Eglantine) - Experimental, open-source NS2 emulator based on Eden.
 - [PhotonBrowser/photon](https://github.com/PhotonBrowser/photon) - Photon web browser
 - [mirkobrombin/raven](https://github.com/mirkobrombin/raven) - A Windows your apps recognize.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -1838,6 +1841,7 @@
 
 ## emulator 
 
+- [notsapinho/Eglantine](https://github.com/notsapinho/Eglantine) - Experimental, open-source NS2 emulator based on Eden.
 - [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on iOS. Natively or Emulated.
 - [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - moved to https://git.chefkiss.dev/AppleHax/Inferno
 - [MakrSas/Inferno-iOS](https://github.com/MakrSas/Inferno-iOS) - An emulated iPhone 11 running iOS 14, as an app on a real iPhone. Unofficial, built on Inferno.
@@ -3310,6 +3314,20 @@
 - [gyoridavid/short-video-maker](https://github.com/gyoridavid/short-video-maker) - Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using the Model Context Protocol (MCP) and a REST API.
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Safety guardrails for ai coding agents and human terminal commands
 
+## mcp-server 
+
+- [xerj-org/xerj](https://github.com/xerj-org/xerj) - AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory a
+- [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - Model Context Protocol server for CyberChef — exposes GCHQ's "Cyber Swiss Army Knife" as AI-agent tools: 504 operations across encryption, encoding, compression and forensics, on MCP protocol revision
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
+- [THORCollective/threat-hunting-mcp-server](https://github.com/THORCollective/threat-hunting-mcp-server) - A minimal, modular MCP server that equips your AI with practical capabilities for real-world threat hunting workflows.
+- [RamKansal/pentestMCP](https://github.com/RamKansal/pentestMCP) - pentestMCP: AI-Powered Penetration Testing via MCP, an MCP designed for penetration testers.
+- [DMontgomery40/pentest-mcp](https://github.com/DMontgomery40/pentest-mcp) - NOT for educational purposes: An MCP server for professional penetration testers including STDIO/HTTP/SSE support, nmap, go/dirbuster, nikto, JtR, hashcat, wordlist building, and more.
+- [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+- [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) - A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites)
+- [cyberkaida/reverse-engineering-assistant](https://github.com/cyberkaida/reverse-engineering-assistant) - MCP server for reverse engineering tasks in Ghidra 👩‍💻
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
 ## microsoft 
 
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
@@ -3677,6 +3695,13 @@
 
 ## others 
 
+- [SwitchRECOMP-Dev/SwitchRECOMP](https://github.com/SwitchRECOMP-Dev/SwitchRECOMP) - Static recompiler for Nintendo Switch games. Translates the game's ARM64 code to C once and compiles it to a native Windows or Linux program, with an OpenGL renderer and an optional Vulkan one. No gam
+- [Grantimatter/eden-flake](https://github.com/Grantimatter/eden-flake) - NixOS Flake for the Eden emulator
+- [forge-sa/horizon-nix](https://github.com/forge-sa/horizon-nix) - Nix version of Horizon launcher Minecraft: Java Edition 26.3 rewritten from scratch in Rust
+- [forge-sa/Horizon-NixOS](https://github.com/forge-sa/Horizon-NixOS) - A NixOS fhs-free version of Horizon Nix launcher
+- [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) - A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake
+- [Mars7x/echora](https://github.com/Mars7x/echora) - Experimental native recompilation of The Legend of Zelda: Ocarina of Time (Nintendo Switch 2)
+- [TheReal-Flo/RinCast](https://github.com/TheReal-Flo/RinCast) - An open source VR streaming solution
 - [aardappel/goose](https://github.com/aardappel/goose) - The Goose Programming Language
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [sostenesfreitas/ocarina-recomp](https://github.com/sostenesfreitas/ocarina-recomp) - Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.
@@ -3686,7 +3711,7 @@
 - [SmileyTatsu/Eglantine](https://github.com/SmileyTatsu/Eglantine) - VERY experimental Nintendo Switch 2 emulator
 - [longld/peda](https://github.com/longld/peda) - PEDA - Python Exploit Development Assistance for GDB
 - [anomalyco/rune](https://github.com/anomalyco/rune) - Rune: Native UI framework
-- [Frizti/Lichii](https://github.com/Frizti/Lichii) - Frontier GREEN HAT BOY ADVENTURE specialized Lichii fork, i'm the goat
+- [Frizti/Fritchii](https://github.com/Frizti/Fritchii) - Frontier GREEN HAT BOY ADVENTURE specialized Lichii fork, i'm the goat
 - [zed-industries/awesome-gpui](https://github.com/zed-industries/awesome-gpui) - Awesome projects, built with or for GPUI!
 - [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) - Google_AI_Pro_2Year_ZeroCost_Auto
 - [moceure/BananaNative](https://github.com/moceure/BananaNative) - nxnative for Android: NVN on Vulkan, no system emulation. Unofficial and experimental.
@@ -4046,7 +4071,6 @@
 - [Gericom/GBARunner3](https://github.com/Gericom/GBARunner3) - 
 - [xerpi/vita2hos](https://github.com/xerpi/vita2hos) - [WIP] PlayStation Vita to Horizon OS (Nintendo Switch OS) translation layer
 - [3096/switch-time](https://github.com/3096/switch-time) - Change NetworkSystemClock
-- [NextendoNetwork/Prelude-Nextendo](https://github.com/NextendoNetwork/Prelude-Nextendo) - Prelude: the Nextendo homebrew for a real Nintendo Switch. Connect an Atmosphere console to Nextendo Network (no Nintendo account required).
 - [pix/heystack-nrf5x](https://github.com/pix/heystack-nrf5x) - A openhaystack compatible firmware for NRF51 and NRF52 devices
 - [dakhnod/FakeTag](https://github.com/dakhnod/FakeTag) - firmware for nRF51 chips that is coincidentally compatible with the FindMy (AirTag) ecosystem
 - [biemster/st17h66_FindMy](https://github.com/biemster/st17h66_FindMy) - Firmware for Lenze ST17h66 that advertises to the Apple Find My network
@@ -5231,7 +5255,6 @@
 - [Salvoxia/immich-folder-album-creator](https://github.com/Salvoxia/immich-folder-album-creator) - Automatically create and populate albums in Immich from a folder structure in external libraries
 - [hritikvalluvar/stremio-setup](https://github.com/hritikvalluvar/stremio-setup) - Stremio setup for Torrentio, Torrentio lite, Pirate Bay, and YTS
 - [mteij/Zentrio](https://github.com/mteij/Zentrio) - Zentrio - Stream anything. Own everything.
-- [brantem/wawawa](https://github.com/brantem/wawawa) - An alternative client for Streamio
 - [0xHexE/madari](https://github.com/0xHexE/madari) - Stremio Client for Low Powered TV And Devices
 - [ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard](https://github.com/ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard) - Dynamic, adaptive Material Design 3 dashboard for Home Assistant with a transparent, modern aesthetic
 - [juergenpabel/HAL9000](https://github.com/juergenpabel/HAL9000) - Personal voice assistant based on kalliope with HAL9000 enclosure
