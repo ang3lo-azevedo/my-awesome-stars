@@ -152,6 +152,7 @@
 - [js](#js)
 - [jupyter-notebook](#jupyter-notebook)
 - [kali-linux](#kali-linux)
+- [knowledge-graph](#knowledge-graph)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -191,7 +192,6 @@
 - [no-code](#no-code)
 - [node](#node)
 - [nodejs](#nodejs)
-- [npm](#npm)
 - [objective-c](#objective-c)
 - [obsidian](#obsidian)
 - [obsidian-md](#obsidian-md)
@@ -244,7 +244,6 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
-- [skills](#skills)
 - [software](#software)
 - [spring-boot](#spring-boot)
 - [sql](#sql)
@@ -795,7 +794,7 @@
 
 ## archlinux 
 
-- [omacom/omarchy-mac](https://github.com/omacom/omarchy-mac) - Opinionated Arch/Hyprland Setup for Apple Silicon Macs M1/M2
+- [omacom/omarchy-mac](https://github.com/omacom/omarchy-mac) - Omarchy for Apple Silicon is now an official Omacom solution, part of Omarchy itself. Install it from omarchy.org/manual/mac-support
 - [velunahq/veluna](https://github.com/velunahq/veluna) - Ad-free desktop music streaming application powered by YouTube.
 - [Wyze3306/BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Run Minecraft Bedrock for Windows seamlessly on Linux.
 - [cryinkfly/Autodesk-Fusion-360-for-Linux](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux) - This is a project, where I give you a way to use Autodesk Fusion 360 on Linux!
@@ -910,7 +909,7 @@
 - [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Defund the Police.
 - [niri-wm/awesome-niri](https://github.com/niri-wm/awesome-niri) - An awesome list for niri related projects [Maintainer - @Vortriz]
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
-- [AwesomeHomelab/awesome-homelab](https://github.com/AwesomeHomelab/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
+- [AwesomeHomelab/awesome-homelab](https://github.com/AwesomeHomelab/awesome-homelab) - 
 - [pe3zx/my-infosec-awesome](https://github.com/pe3zx/my-infosec-awesome) - My curated list of awesome links, resources and tools on infosec related topics
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources and tools
@@ -925,7 +924,6 @@
 - [ang3lo-azevedo/my-awesome-stars](https://github.com/ang3lo-azevedo/my-awesome-stars) - A curated list of my GitHub stars!
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [m0nad/awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation) - A curated list of awesome privilege escalation
 - [QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes) - 🐱‍🏍 A curated list of awesome things related to Hugo themes.
@@ -968,7 +966,7 @@
 - [niri-wm/awesome-niri](https://github.com/niri-wm/awesome-niri) - An awesome list for niri related projects [Maintainer - @Vortriz]
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [ardianta/anime-for-dev](https://github.com/ardianta/anime-for-dev) - A curated list of animes every developer should watch.
-- [AwesomeHomelab/awesome-homelab](https://github.com/AwesomeHomelab/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
+- [AwesomeHomelab/awesome-homelab](https://github.com/AwesomeHomelab/awesome-homelab) - 
 - [pe3zx/my-infosec-awesome](https://github.com/pe3zx/my-infosec-awesome) - My curated list of awesome links, resources and tools on infosec related topics
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources and tools
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
@@ -1200,6 +1198,7 @@
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,926+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 
 ## claude-skills 
@@ -1842,6 +1841,7 @@
 ## emulator 
 
 - [notsapinho/Eglantine](https://github.com/notsapinho/Eglantine) - Experimental, open-source NS2 emulator based on Eden.
+- [hffgzktbcc-blip/ounce-core](https://github.com/hffgzktbcc-blip/ounce-core) - Open-source ARM64 execution lab in safe Rust: run programs on three CPU engines and prove the results match real hardware.
 - [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on iOS. Natively or Emulated.
 - [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - moved to https://git.chefkiss.dev/AppleHax/Inferno
 - [MakrSas/Inferno-iOS](https://github.com/MakrSas/Inferno-iOS) - An emulated iPhone 11 running iOS 14, as an app on a real iPhone. Unofficial, built on Inferno.
@@ -2445,6 +2445,7 @@
 - [shodowlo/chromium-nx](https://github.com/shodowlo/chromium-nx) - Chromium web browser as a Nintendo Switch homebrew (Linux as a library inside Horizon OS)
 - [WerWolv/EdiZon](https://github.com/WerWolv/EdiZon) - 💡 A homebrew save management, editing tool and memory trainer for Horizon (Nintendo Switch)
 - [Horizon-OC/Horizon-OC](https://github.com/Horizon-OC/Horizon-OC) - An open source overclocking tool for Nintendo Switch consoles running Atmosphere custom firmware
+- [hffgzktbcc-blip/ounce-core](https://github.com/hffgzktbcc-blip/ounce-core) - Open-source ARM64 execution lab in safe Rust: run programs on three CPU engines and prove the results match real hardware.
 - [LNPANDY/NX2Apple](https://github.com/LNPANDY/NX2Apple) - Play your own Switch games on iPhone/iPad — one-click macOS app, no terminal. | 把 Switch 游戏装进 iPhone：图形界面一键构建，不用命令行。Bring your own game.
 - [Jonathan8520/FlashNX](https://github.com/Jonathan8520/FlashNX) - Homebrew Flash player for Nintendo Switch (.nro). Play your .swf games from the SD card. Powered by Ruffle.
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
@@ -2746,6 +2747,10 @@
 
 - [LayeSec006/pentest-mcp-server](https://github.com/LayeSec006/pentest-mcp-server) - MCP server for penetration testing
 
+## knowledge-graph 
+
+- [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+
 ## kotlin 
 
 - [sk2andy/candy-browser](https://github.com/sk2andy/candy-browser) - Gesture-first Android browser with Material 3 Expressive design and local privacy tools
@@ -2982,7 +2987,7 @@
 - [Samuobe/Arch-Store](https://github.com/Samuobe/Arch-Store) - Simple store for Arch Linux compatible with Flatpak, Pacman, and AUR (using Yay or Paru)
 - [psygreg/linuxtoys](https://github.com/psygreg/linuxtoys) - For everything Linux - tools, tweaks and software manager - ready for the age of AI.
 - [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for any Wayland compositor
-- [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Graphical console greeter for greetd
+- [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Stylish graphical console greeter for greetd, built with Ratatui
 - [e-tho/bzmenu](https://github.com/e-tho/bzmenu) - Launcher-driven Bluetooth manager for Linux
 - [e-tho/iwmenu](https://github.com/e-tho/iwmenu) - Launcher-driven Wi-Fi manager for Linux
 - [caelestia-dots/caelestia](https://github.com/caelestia-dots/caelestia) - A fluid, morphing interface to your Linux desktop
@@ -3117,7 +3122,7 @@
 
 ## login 
 
-- [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Graphical console greeter for greetd
+- [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Stylish graphical console greeter for greetd, built with Ratatui
 - [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 
 ## low-code 
@@ -3310,6 +3315,7 @@
 - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 - [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) - A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites)
 - [cyberkaida/reverse-engineering-assistant](https://github.com/cyberkaida/reverse-engineering-assistant) - MCP server for reverse engineering tasks in Ghidra 👩‍💻
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [gyoridavid/short-video-maker](https://github.com/gyoridavid/short-video-maker) - Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using the Model Context Protocol (MCP) and a REST API.
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Safety guardrails for ai coding agents and human terminal commands
@@ -3542,10 +3548,6 @@
 - [tjarbo/discord-moodle-bot](https://github.com/tjarbo/discord-moodle-bot) - Get notified about changes on moodle on you favorite platform!
 - [ImKyleJK/BeClone](https://github.com/ImKyleJK/BeClone) - Online browser social media network based of BeReal.
 
-## npm 
-
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-
 ## objective-c 
 
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
@@ -3695,6 +3697,23 @@
 
 ## others 
 
+- [conongnang/Lichii](https://github.com/conongnang/Lichii) - VERY experimental Nintendo Switch 2 emulator
+- [lucas-martinic/mario64mr](https://github.com/lucas-martinic/mario64mr) - Mixed reality Super Mario 64 for Meta Quest 3, 3S and 2 (bring your own ROM)
+- [EddizEge/AnkaNative](https://github.com/EddizEge/AnkaNative) - Anka Native: run your own Switch 2 games natively on Android (Snapdragon/Adreno)
+- [EddizEge/AnkaTurnip](https://github.com/EddizEge/AnkaTurnip) - Turnip (Mesa) Vulkan driver for Adreno 8xx, built for Anka Native
+- [cybersecuritychallengept/CTFd](https://github.com/cybersecuritychallengept/CTFd) - CTFs as you need them
+- [forcequitOS/worse_query](https://github.com/forcequitOS/worse_query) - A sandbox escape for iOS 26 and 27, again
+- [Shakoquo/Lichii-sharkiix-version](https://github.com/Shakoquo/Lichii-sharkiix-version) - VERY EXPERIMENTAL - Lichii (sharkiix's version): mainly for AMD GPUs, optimised for Zelda Ocarina of Time (Switch 2). Fork of zortos293/Lichii.
+- [Shakoquo/Hookshot](https://github.com/Shakoquo/Hookshot) - A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake
+- [Spikol02/Nyamu](https://github.com/Spikol02/Nyamu) - Eglatine fork based on the previous work from Selevet
+- [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) - 
+- [DeliciousMeatPop/VRCD](https://github.com/DeliciousMeatPop/VRCD) - A Multi-OS Sideloader for Android / Quest Devices
+- [nerdunit/androidsideloader](https://github.com/nerdunit/androidsideloader) - 
+- [Syyrhc/Lichii-Ally](https://github.com/Syyrhc/Lichii-Ally) - Handheld-tuned edition of the Lichii Nintendo Switch and Switch 2 emulator for the ASUS ROG Xbox Ally X, ROG Ally, Lenovo Legion Go, MSI Claw, Steam Deck, and Windows Handheld PCs
+- [Kradnah/Firefly](https://github.com/Kradnah/Firefly) - Experimental Switch 2 emulator focused on Ocarina of Time. Fork of Lichii.
+- [oceanpacificpeace/lichii-shader-sync](https://github.com/oceanpacificpeace/lichii-shader-sync) - 
+- [CheezerWheezer/Lichii](https://github.com/CheezerWheezer/Lichii) - VERY experimental Nintendo Switch 2 emulator
+- [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) - 
 - [SwitchRECOMP-Dev/SwitchRECOMP](https://github.com/SwitchRECOMP-Dev/SwitchRECOMP) - Static recompiler for Nintendo Switch games. Translates the game's ARM64 code to C once and compiles it to a native Windows or Linux program, with an OpenGL renderer and an optional Vulkan one. No gam
 - [Grantimatter/eden-flake](https://github.com/Grantimatter/eden-flake) - NixOS Flake for the Eden emulator
 - [forge-sa/horizon-nix](https://github.com/forge-sa/horizon-nix) - Nix version of Horizon launcher Minecraft: Java Edition 26.3 rewritten from scratch in Rust
@@ -3714,7 +3733,6 @@
 - [Frizti/Fritchii](https://github.com/Frizti/Fritchii) - Frontier GREEN HAT BOY ADVENTURE specialized Lichii fork, i'm the goat
 - [zed-industries/awesome-gpui](https://github.com/zed-industries/awesome-gpui) - Awesome projects, built with or for GPUI!
 - [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) - Google_AI_Pro_2Year_ZeroCost_Auto
-- [moceure/BananaNative](https://github.com/moceure/BananaNative) - nxnative for Android: NVN on Vulkan, no system emulation. Unofficial and experimental.
 - [v1ktorrr0x/antigravity-filter-bypass](https://github.com/v1ktorrr0x/antigravity-filter-bypass) - 
 - [woshimaniubi8/CVE-2026-43499-root-KernelSU](https://github.com/woshimaniubi8/CVE-2026-43499-root-KernelSU) - 基于内核漏洞CVE-2026-43499的本地提权适配，集成嵌入式 KernelSU.CVE-2026-43499+KernelSU越狱模式
 - [ZendNevs/Eglantine-ZendNevs](https://github.com/ZendNevs/Eglantine-ZendNevs) - Better performance, Frame Generation FSR 3 and LSFG. DynamicFPS. 30FPS LOCK. Only tested on Mario Kart World
@@ -3776,7 +3794,7 @@
 - [shirai91/nx2android](https://github.com/shirai91/nx2android) - A compatibility layer for porting Switch games to Android, one game at a time
 - [vardhangss/cti-intel-resources](https://github.com/vardhangss/cti-intel-resources) - Curated list of resources for Cyber Threat Intelligence (forums, surface sites, tools).
 - [superkeka/KytyPS5-Native](https://github.com/superkeka/KytyPS5-Native) - PS5 games natively on the BC-250/PS5 under Linux
-- [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine) - VERY experimental Nintendo Switch 2 emulator
+- [Eglantine-Community/Eglantine](https://github.com/Eglantine-Community/Eglantine) - VERY experimental Nintendo Switch 2 emulator
 - [MarkBlah/smsofdeath](https://github.com/MarkBlah/smsofdeath) - remote + silent denial of service for all Android phones. https://smsofdeath.com/ for writeup.
 - [kripthor/bsideslisbon2025-badge](https://github.com/kripthor/bsideslisbon2025-badge) - Bsides Lisbon 2025 badge firmware and information
 - [adrianomoraes/Don-t-Drawer-Your-Badge-Bsides-2026-](https://github.com/adrianomoraes/Don-t-Drawer-Your-Badge-Bsides-2026-) - 
@@ -3805,7 +3823,6 @@
 - [Carter54git/Greates-Games-Decompilations-List](https://github.com/Carter54git/Greates-Games-Decompilations-List) - Greates Games Decompilations List
 - [misshexa66/OunceCake](https://github.com/misshexa66/OunceCake) - Tool to dump unencrypted romFS and exeFS for Switch 2 games
 - [rob646464/luigis-mansion-recompiled](https://github.com/rob646464/luigis-mansion-recompiled) - Luigi's Mansion Recompiled: a PC port of Luigi's Mansion (GameCube) built from your own disc
-- [hffgzktbcc-blip/ounce-core](https://github.com/hffgzktbcc-blip/ounce-core) - Rust runtime for open-source Switch homebrew on macOS Apple Silicon, Linux and Windows. Every claim is backed by a real program's frame.
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [Hackndo/pyGPOAbuse](https://github.com/Hackndo/pyGPOAbuse) - Partial python implementation of SharpGPOAbuse
 - [topotam/PetitPotam](https://github.com/topotam/PetitPotam) - PoC tool to coerce Windows hosts to authenticate to other machines via MS-EFSRPC EfsRpcOpenFileRaw or other functions.
@@ -4064,7 +4081,6 @@
 - [juanma0511/kknd_Root_Detector](https://github.com/juanma0511/kknd_Root_Detector) - A tool to detect root on Android.
 - [RevealedSoulEven/NothingTweaks](https://github.com/RevealedSoulEven/NothingTweaks) - A customization module for Nothing OS based on Xposed framework.
 - [Xposed-Modules-Repo/com.souleven.nothingos](https://github.com/Xposed-Modules-Repo/com.souleven.nothingos) - Nothing Tweaks
-- [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym) - https://github.com/DuarteSantos8/openGym
 - [XiaoTong6666/ZygoteNextProbe](https://github.com/XiaoTong6666/ZygoteNextProbe) - 
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
 - [Gericom/GBARunner2](https://github.com/Gericom/GBARunner2) - A GBA hypervisor for DS. (like nintendont for gc on wii)
@@ -5006,7 +5022,7 @@
 - [feel-co/hjem](https://github.com/feel-co/hjem) - Streamlined, elegant $HOME management with Nix
 - [Goxore/nixconf](https://github.com/Goxore/nixconf) - 
 - [rnl-dei/nixrnl](https://github.com/rnl-dei/nixrnl) - NixOS @ RNL Infrastructure [Mirror from GitLab@RNL]
-- [BeatLink/nixos-plymouth](https://github.com/BeatLink/nixos-plymouth) - NixOS plymouth theme, forked from https://github.com/libredeb/darwin-plymouth
+- [x-tech-laboratories/X-Plymouth](https://github.com/x-tech-laboratories/X-Plymouth) - NixOS plymouth theme, forked from https://github.com/libredeb/darwin-plymouth
 - [glv2/bruteforce-luks](https://github.com/glv2/bruteforce-luks) - Try to find the password of a LUKS encrypted volume.
 - [Wuang26/Kaorios-Toolbox](https://github.com/Wuang26/Kaorios-Toolbox) - Kaorios Toolbox
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]
@@ -6653,7 +6669,7 @@
 
 ## reverse-engineering 
 
-- [Lucas-blip-png/dkb-pc-recomp](https://github.com/Lucas-blip-png/dkb-pc-recomp) - Static recompilation of Donkey Kong Bananza (Switch 2) to native Windows with Vulkan. The 3D tutorial renders; not playable yet. No game files included.
+- [Lucas-blip-png/dkb-pc-recomp](https://github.com/Lucas-blip-png/dkb-pc-recomp) - Static recompilation of Donkey Kong Bananza (Switch 2) to native Windows with Vulkan. Plays from the title screen through the first stage on an RTX 5060 Ti; still early, can crash. No game files inclu
 - [squeeeezy/HelioDarwin](https://github.com/squeeeezy/HelioDarwin) - iOS 16 (XNU) bring-up on Infinix Note 12 2023 X676C (MT6789), based on MakrSas/ios-topaz
 - [gaasedelen/lighthouse](https://github.com/gaasedelen/lighthouse) - A Coverage Explorer for Reverse Engineers
 - [lucasbaizer/GdTool](https://github.com/lucasbaizer/GdTool) - Reverse engineering tools for Godot
@@ -6727,6 +6743,7 @@
 - [PhotonBrowser/photon](https://github.com/PhotonBrowser/photon) - Photon web browser
 - [Tatone26/Numworks-games](https://github.com/Tatone26/Numworks-games) - A few games working on official Numworks software.
 - [slaterain/nv-rs](https://github.com/slaterain/nv-rs) - Fallout: New Vegas rebuilt in Rust from the original game's code. Windows preview out now; needs your own copy of the game.
+- [hffgzktbcc-blip/ounce-core](https://github.com/hffgzktbcc-blip/ounce-core) - Open-source ARM64 execution lab in safe Rust: run programs on three CPU engines and prove the results match real hardware.
 - [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
 - [stixez/SyncCrate](https://github.com/stixez/SyncCrate) - Sync your game mods, custom content, and saves with friends over LAN.
 - [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
@@ -6958,7 +6975,6 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
-- [AwesomeHomelab/awesome-homelab](https://github.com/AwesomeHomelab/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
 - [pritkr/predirect](https://github.com/pritkr/predirect) - A manifest v3 web extension with minimal permissions to automatically redirect to privacy friendly frontends. ⭐️ Star to support our work!
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [TechSquidTV/Hermes](https://github.com/TechSquidTV/Hermes) - Hermes Video Downloader — Self-hosted video downloader compatible with 1,000+ sites. yt-dlp api.
@@ -7042,10 +7058,6 @@
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-
-## skills 
-
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 
 ## software 
 
@@ -7253,7 +7265,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [sparklost/endcord](https://github.com/sparklost/endcord) - The most feature rich Discord TUI client.
 - [Vonr/parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
-- [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Graphical console greeter for greetd
+- [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Stylish graphical console greeter for greetd, built with Ratatui
 - [Stan-breaks/ytsurf](https://github.com/Stan-breaks/ytsurf) - YouTube in your terminal. Clean and distraction-free.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) - Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)
