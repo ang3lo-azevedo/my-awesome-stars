@@ -420,6 +420,9 @@
 
 ## android 
 
+- [ZHINFINITY/Mpv-infinity](https://github.com/ZHINFINITY/Mpv-infinity) - Ad-free Android video and music player with MPV and Media3 engines, smooth-motion frame interpolation up to 120 fps, Liquid Glass UI, HDR/Dolby Vision, AI subtitle translation, Jellyfin and Seerr.
+- [mpvRex/REX-Player](https://github.com/mpvRex/REX-Player) - A modern Android video player powered by libmpv, built with Jetpack Compose.
+- [lordnordic-debug/StradaOS](https://github.com/lordnordic-debug/StradaOS) - Una nueva vida para la pantalla Android de tu vehículo
 - [ALW1EZ/Arkhota](https://github.com/ALW1EZ/Arkhota) - Arkhota, a web brute forcer for Android.
 - [fmhyplay/android](https://github.com/fmhyplay/android) - FMHYPlay: any streaming site, a real player. A TV-first Android app with a native player, ad blocking, in-app WARP and IPTV.
 - [probear0001/CVE-2026-58868](https://github.com/probear0001/CVE-2026-58868) - Original write up for CVE-2026-58868 Android critical severity cve
@@ -527,7 +530,7 @@
 - [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram) - Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.
 - [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring) - Open-source Android device integrity and risk analysis framework with rootless diagnostics, evidence correlation, hardware-backed attestation, and an embeddable SDK.
 - [Xposed-Modules-Repo/ps.reso.instaeclipse](https://github.com/Xposed-Modules-Repo/ps.reso.instaeclipse) - InstaEclipse
-- [monogram-android/monogram](https://github.com/monogram-android/monogram) - Native Telegram client for Android
+- [monogram-android/monogram](https://github.com/monogram-android/monogram) - Telegram client for Android
 - [teekamsuthar/Mutify](https://github.com/teekamsuthar/Mutify) - An android app built with java to mute Spotify ads.
 - [Coldblackice/ReVancedXposed_Spotify](https://github.com/Coldblackice/ReVancedXposed_Spotify) - ReVanced LSPosed module for Spotify
 - [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator) - Software simulation for Android hardware-backed key pairs with key attestation
@@ -721,6 +724,7 @@
 
 ## android-app 
 
+- [lordnordic-debug/StradaOS](https://github.com/lordnordic-debug/StradaOS) - Una nueva vida para la pantalla Android de tu vehículo
 - [rignaneseleo/SlimSocial-for-Facebook](https://github.com/rignaneseleo/SlimSocial-for-Facebook) - Light version of Facebook. Light both in the weight and in the use.
 - [aleixrodriala/newtube](https://github.com/aleixrodriala/newtube) - SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in.
 - [ExTV/Podroid](https://github.com/ExTV/Podroid) - A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.
@@ -1142,6 +1146,7 @@
 
 ## chrome 
 
+- [0rcruxe/pass-ta-key](https://github.com/0rcruxe/pass-ta-key) - A PoC tool for the Pass-ta-key Golden Attack, covering the extraction of the Google Password Manager Security Domain Secret from Chrome process memory, and the decryption of synced GPM passkeys for Ac
 - [RyanDFIR/hindsight](https://github.com/RyanDFIR/hindsight) - Browser forensics tool for Google Chrome, other Chromium-based browsers, and Mozilla Firefox
 - [oxcl/nix-flake-helium-browser](https://github.com/oxcl/nix-flake-helium-browser) - Nix Flake for Helium browser. Auto updates, Policy support, NixOS module, Home-manager module
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - A home for your DuckDuckGo @duck.com addresses. Generate, organise and send from them in Chrome and Firefox. Open source, no tracking.
@@ -2688,6 +2693,7 @@
 
 ## jetpack-compose 
 
+- [ZHINFINITY/Mpv-infinity](https://github.com/ZHINFINITY/Mpv-infinity) - Ad-free Android video and music player with MPV and Media3 engines, smooth-motion frame interpolation up to 120 fps, Liquid Glass UI, HDR/Dolby Vision, AI subtitle translation, Jellyfin and Seerr.
 - [sk2andy/candy-browser](https://github.com/sk2andy/candy-browser) - Gesture-first Android browser with Material 3 Expressive design and local privacy tools
 - [Pixelgamer4k/graden](https://github.com/Pixelgamer4k/graden) - Multi-layer video editor and colour grading app for Android — proxy editing, native-resolution preview, colour wheels and scopes, full-quality H.264/H.265 export. Beta.
 - [shreyagarwal72/petal](https://github.com/shreyagarwal72/petal) - Material 3 Expressive Browser For Android
@@ -2757,6 +2763,7 @@
 
 ## kotlin 
 
+- [ZHINFINITY/Mpv-infinity](https://github.com/ZHINFINITY/Mpv-infinity) - Ad-free Android video and music player with MPV and Media3 engines, smooth-motion frame interpolation up to 120 fps, Liquid Glass UI, HDR/Dolby Vision, AI subtitle translation, Jellyfin and Seerr.
 - [sk2andy/candy-browser](https://github.com/sk2andy/candy-browser) - Gesture-first Android browser with Material 3 Expressive design and local privacy tools
 - [Pixelgamer4k/graden](https://github.com/Pixelgamer4k/graden) - Multi-layer video editor and colour grading app for Android — proxy editing, native-resolution preview, colour wheels and scopes, full-quality H.264/H.265 export. Beta.
 - [shreyagarwal72/petal](https://github.com/shreyagarwal72/petal) - Material 3 Expressive Browser For Android
@@ -2786,7 +2793,7 @@
 - [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Android feed reader app
 - [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) - An application to write OS images to USB drives, on Android, no root required.
 - [GPLaider/Ventoid](https://github.com/GPLaider/Ventoid) - Android OTG Ventoy-style USB writer - GPL-3.0-only, ad-free, available on F-Droid
-- [monogram-android/monogram](https://github.com/monogram-android/monogram) - Native Telegram client for Android
+- [monogram-android/monogram](https://github.com/monogram-android/monogram) - Telegram client for Android
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools and mods for Android nerds
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
@@ -3569,6 +3576,7 @@
 
 ## open-source 
 
+- [mpvRex/REX-Player](https://github.com/mpvRex/REX-Player) - A modern Android video player powered by libmpv, built with Jetpack Compose.
 - [shreyagarwal72/petal](https://github.com/shreyagarwal72/petal) - Material 3 Expressive Browser For Android
 - [harkhowalia-1/MacSubsystemForAndroid](https://github.com/harkhowalia-1/MacSubsystemForAndroid) - Run Android apps on your Mac like Mac apps: each in its own window with its own Dock icon, on Apple silicon. Notifications, game controllers, privacy controls. Free & open source (LineageOS + QEMU + s
 - [kalink0/crush-forensics](https://github.com/kalink0/crush-forensics) - Open-source desktop workbench for digital forensic analysis. Inspect ZIP/TAR/7z/UFDR archives, raw disk images/EWF, and iTunes/Android backups. Parse and view ABX, SQLite, SEGB, (B)PLIST, REALM, Proto
@@ -3702,7 +3710,9 @@
 
 ## others 
 
-- [lordnordic-debug/StradaOS](https://github.com/lordnordic-debug/StradaOS) - Una nueva vida para la pantalla Android de tu vehículo
+- [ViceVerse-cz/Serein](https://github.com/ViceVerse-cz/Serein) - Tiny, Performant & 100% Native client for Discord made in Rust
+- [MSNightmare/SignDrop](https://github.com/MSNightmare/SignDrop) - Windows Common Log FileSystem Authentication 0day Local Privilege Escalation Vulnerability
+- [mamcjr/Swap2-Native](https://github.com/mamcjr/Swap2-Native) - Switch 2 games running natively on Android phones (fork of Banana Native)
 - [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise) - Android complete exploit chain that enables privilege escalation from a local untrusted app to root/kernel, combination of CVE-2026-49881 and CVE-2026-43284
 - [ericmigi/voxl-pocket-android](https://github.com/ericmigi/voxl-pocket-android) - Native Android client for the voxl remote desktop server
 - [adriadam10/mkw-recomp](https://github.com/adriadam10/mkw-recomp) - Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program
@@ -3778,7 +3788,6 @@
 - [LucianoNeo/pokemon-pokopia-pt-br](https://github.com/LucianoNeo/pokemon-pokopia-pt-br) - 
 - [joxeankoret/diaphora](https://github.com/joxeankoret/diaphora) - Diaphora, the most advanced Free and Open Source program diffing tool.
 - [mamcjr/BOTWRecompAndroid](https://github.com/mamcjr/BOTWRecompAndroid) - Static recompilation of The Legend of Zelda: Breath of the Wild (Switch 1.0.0 / 1.6.0 / 1.8.2) for Android - no game files included
-- [kalasyan/recompa](https://github.com/kalasyan/recompa) - 
 - [Swordpdf/ProsperoEden](https://github.com/Swordpdf/ProsperoEden) - Experimental Eden port for PS5
 - [zortos293/Lichii](https://github.com/zortos293/Lichii) - VERY experimental Nintendo Switch 2 emulator
 - [pgarba/SwitchIDAProLoader](https://github.com/pgarba/SwitchIDAProLoader) - Loader for IDA Pro to support the Nintendo Switch NRO binaries
@@ -3897,7 +3906,6 @@
 - [VECERTUSA/Analyzer_forums](https://github.com/VECERTUSA/Analyzer_forums) - consumes the largest collection of forum content specialized in threat intelligence researchers.
 - [dipa-studio/ios-sweet](https://github.com/dipa-studio/ios-sweet) - iOS 16 userland + XNU on Redmi Note 10 Pro (sweet, SM7150)
 - [MakrSas/ios-topaz](https://github.com/MakrSas/ios-topaz) - iOS 16 userland + XNU on Redmi Note 12?
-- [Apolinario-coder/SkyRecomp](https://github.com/Apolinario-coder/SkyRecomp) - Static recompilation of The Legend of Zelda: Skyward Sword for PC
 - [c22dev/mush8](https://github.com/c22dev/mush8) - A native Mach-O iOS/macOS port of Mario Kart 8 Deluxe, with LAN, online and wireless multiplayer
 - [dubrovskiy-yevhen-stakelogic/rdr1-quest](https://github.com/dubrovskiy-yevhen-stakelogic/rdr1-quest) - Red Dead Repemption VR mod for Quest 3/Quest 3s Standalone
 - [JiGuroLGC/FuckGoogleLicense](https://github.com/JiGuroLGC/FuckGoogleLicense) - 绕过谷歌服务证书校验 / Bypass Google Service License Verification
@@ -6727,7 +6735,7 @@
 - [shishkabob27/cwk-server](https://github.com/shishkabob27/cwk-server) - A reversed-engineered server for Card Wars Kingdom.
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
 - [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) - An open-source framework for Steam Client themes and plugins
-- [Schwartzblat/WhatsAppPatcher](https://github.com/Schwartzblat/WhatsAppPatcher) - A patcher that decompiles WhatsApp APK, patches the smali, recompiles and signs it.
+- [Schwartzblat/IMPatcher](https://github.com/Schwartzblat/IMPatcher) - 
 - [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sess
 - [RBEnhanced/RB3Enhanced](https://github.com/RBEnhanced/RB3Enhanced) - Open-source plugin for Rock Band 3 providing many enhancements, fixes, and extra features.
 - [userbradley/BeReal](https://github.com/userbradley/BeReal) - How does BeReal work (Under the hood)
@@ -6812,7 +6820,7 @@
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome
 - [trailofbits/mquire](https://github.com/trailofbits/mquire) - Zero-dependency Linux memory forensics, leveraging kernel-embedded BTF and kallsyms for type-aware memory analysis without external debug info.
-- [monogram-android/monogram](https://github.com/monogram-android/monogram) - Native Telegram client for Android
+- [monogram-android/monogram](https://github.com/monogram-android/monogram) - Telegram client for Android
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
@@ -7164,7 +7172,7 @@
 - [Faizan-Khanx/TelegramOSINT](https://github.com/Faizan-Khanx/TelegramOSINT) - A curated collection of tools, bots, and resources for Open Source Intelligence (OSINT) investigations on Telegram. Includes chat analysis methods, browser extensions, search engines, and secure pract
 - [Nekogram/Nekogram](https://github.com/Nekogram/Nekogram) - Open-source third-party Telegram client with not many but useful modifications.
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
-- [monogram-android/monogram](https://github.com/monogram-android/monogram) - Native Telegram client for Android
+- [monogram-android/monogram](https://github.com/monogram-android/monogram) - Telegram client for Android
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web A, GPL v3
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [arsLan4k1390/Cherrygram](https://github.com/arsLan4k1390/Cherrygram) - 
@@ -7591,7 +7599,6 @@
 - [utkarsh914/whatsapp-stalker](https://github.com/utkarsh914/whatsapp-stalker) - Track when people came online and went offline on WhatsApp
 - [jasperan/whatsapp-osint](https://github.com/jasperan/whatsapp-osint) - WhatsApp spy - logs online/offline events from ANYONE in the world
 - [Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp tools for Android
-- [Schwartzblat/WhatsAppPatcher](https://github.com/Schwartzblat/WhatsAppPatcher) - A patcher that decompiles WhatsApp APK, patches the smali, recompiles and signs it.
 - [portapps/whatsapp-portable](https://github.com/portapps/whatsapp-portable) - ⚠️ WhatsApp portable for Windows
 - [FouadRaheb/Watusi-for-WhatsApp](https://github.com/FouadRaheb/Watusi-for-WhatsApp) - Your all-in-one tweak for WhatsApp Messenger!
 
@@ -7603,6 +7610,7 @@
 
 ## windows 
 
+- [0rcruxe/pass-ta-key](https://github.com/0rcruxe/pass-ta-key) - A PoC tool for the Pass-ta-key Golden Attack, covering the extraction of the Google Password Manager Security Domain Secret from Chrome process memory, and the decryption of synced GPM passkeys for Ac
 - [tembo/voxl](https://github.com/tembo/voxl) - extremely fast web remote desktop streaming
 - [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) - Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.
 - [mirkobrombin/raven](https://github.com/mirkobrombin/raven) - A Windows your apps recognize.
@@ -7733,7 +7741,6 @@
 
 - [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The Windows debloater.
 - [agadiffe/WindowsMize](https://github.com/agadiffe/WindowsMize) - :pushpin: PowerShell scripts to automate and customize the configuration of Windows. Easy to use and extensive: Debloat, minimize telemetry, apps installation, general settings, and more.
-- [TheBeardofKnowledge/TBOK-Win11Optimizer](https://github.com/TheBeardofKnowledge/TBOK-Win11Optimizer) - Windows 11 Optimizer that's also safe for business use.   This is how Windows 11 should work OOBE, not what we were given by Microsoft.
 - [Psmths/windows-forensic-artifacts](https://github.com/Psmths/windows-forensic-artifacts) - Handbook of windows forensic artifacts across multiple Windows version with interpretation tips and some examples. Work in progress!
 - [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience.
 - [AdEx-Partners-DE/OpenNiri-Windows](https://github.com/AdEx-Partners-DE/OpenNiri-Windows) - Scrollable tiling window manager for Windows 10/11 in Rust - Niri-style horizontal workspace, global hotkeys, and multi-monitor support.
