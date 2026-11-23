@@ -252,6 +252,7 @@
 - [sql](#sql)
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
+- [static-site-generator](#static-site-generator)
 - [statistics](#statistics)
 - [svelte](#svelte)
 - [swift](#swift)
@@ -314,6 +315,7 @@
 - [MG1937/ASC](https://github.com/MG1937/ASC) - ASC is a super FAST and lightweight Android decompiler designed for Agents/Mobile Researchers.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
 - [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - A self-hosted command center for OpenCode. Sessions, git, terminal, and schedules in one web app, from your phone or desktop.
+- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform. 1Panel 是专门为 AI 服务器打造的管理面板。
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Safety guardrails for ai coding agents and human terminal commands
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
@@ -322,7 +324,7 @@
 ## agent-skills 
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,955+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 3,000+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 
 ## agentic-ai 
@@ -337,6 +339,7 @@
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Agentic Development Environment based on OpenCode AI agent
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
+- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
@@ -412,7 +415,7 @@
 - [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Native-session control plane for Codex, Claude Code, OpenCode, PI and many others. Run, resume and hand off coding sessions across your machines.
 - [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - A self-hosted command center for OpenCode. Sessions, git, terminal, and schedules in one web app, from your phone or desktop.
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - Model Context Protocol server for CyberChef — exposes GCHQ's "Cyber Swiss Army Knife" as AI-agent tools: 504 operations across encryption, encoding, compression and forensics, on MCP protocol revision
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,955+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 3,000+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -601,7 +604,7 @@
 - [Crazyphil/digitales-amt-liberator](https://github.com/Crazyphil/digitales-amt-liberator) - Removes root and bootloader checks from e-government apps
 - [JingMatrix/ChromeXt](https://github.com/JingMatrix/ChromeXt) - UserScript and DevTools supports for Chromium based and WebView based browsers
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-- [WinlatorXR/WinlatorXR](https://github.com/WinlatorXR/WinlatorXR) - Windows apps/games emulator for standalone OpenXR headsets.
+- [WinlatorXR/WinlatorXR](https://github.com/WinlatorXR/WinlatorXR) - Windows apps/games wrapper for standalone OpenXR headsets.
 - [JingMatrix/KernelSU](https://github.com/JingMatrix/KernelSU) - Research of Kernel level attack via KernelSU
 - [JingMatrix/PlayIntegrityFix](https://github.com/JingMatrix/PlayIntegrityFix) - Spoof bootloader property (Android OS layer only) and Play Integrity verdict
 - [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project.
@@ -790,6 +793,7 @@
 
 ## api 
 
+- [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI) - FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化将API请求转发到 Google AI Studio Chat，并同样按照OpenAI标准格式返回的工具。内置调试WebUI面板。
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free, open-source music app that lets you stream and download high-quality tracks across all your devices. With a sleek, intuitive UI built for a seamless experience, it supports Android
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -1179,6 +1183,7 @@
 
 ## chrome-extension 
 
+- [havenicec/google-qr-sms-helper](https://github.com/havenicec/google-qr-sms-helper) - Chrome Extension (MV3) to switch Google's mandatory QR code verification back to standard 6-digit SMS verification via iPad Mini profile & [3,null,4] RPC fallback.
 - [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) - ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展
 - [nunziopostdoctoral988/ats-resume-checker](https://github.com/nunziopostdoctoral988/ats-resume-checker) - Analyze resumes against ATS requirements using a local, transparent tool that runs entirely in your browser.
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - A home for your DuckDuckGo @duck.com addresses. Generate, organise and send from them in Chrome and Firefox. Open source, no tracking.
@@ -1203,6 +1208,7 @@
 
 ## claude 
 
+- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
@@ -1213,6 +1219,7 @@
 
 ## claude-code 
 
+- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) - DSH's officially top-recommended TUI plugin — high performance, low overhead, cute pixel whale, smooth mouse interaction. One-command install via npm. / DSH 官方首推的 TUI 插件，高性能低占用，可爱像素鲸鱼，流畅鼠标交互，npm 一键安装
 - [xerj-org/xerj](https://github.com/xerj-org/xerj) - AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory a
@@ -1221,7 +1228,7 @@
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A real browser inside your terminal
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this rep
 - [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Native-session control plane for Codex, Claude Code, OpenCode, PI and many others. Run, resume and hand off coding sessions across your machines.
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,955+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 3,000+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
@@ -1377,7 +1384,7 @@
 ## cpp 
 
 - [notsapinho/Eglantine](https://github.com/notsapinho/Eglantine) - Experimental, open-source NS2 emulator based on Eden.
-- [elarisbrowser/elaris](https://github.com/elarisbrowser/elaris) - Photon web browser
+- [elarisbrowser/elaris](https://github.com/elarisbrowser/elaris) - Elaris web browser
 - [mirkobrombin/raven](https://github.com/mirkobrombin/raven) - A Windows your apps recognize.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [roma-glushko/awesome-distributed-system-projects](https://github.com/roma-glushko/awesome-distributed-system-projects) - 🚀 List of distributed system projects for inspiration and learning to build distributed services from real world examples
@@ -1385,7 +1392,6 @@
 - [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 translation layer for Windows, Linux and macOS
 - [OpenNMT/CTranslate2](https://github.com/OpenNMT/CTranslate2) - Fast inference engine for Transformer models
 - [NotRequiem/VMAware](https://github.com/NotRequiem/VMAware) - State-of-the-art virtual machine detection
-- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [FlavioFS/ParsecSoda](https://github.com/FlavioFS/ParsecSoda) - Parsec Soda is a custom open-source game streaming app that integrates with Parsec API and is focused in Host experience.
 - [praydog/UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4.8 - 5.4)
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
@@ -1453,7 +1459,6 @@
 
 ## cybersecurity 
 
-- [probear0001/CVE-2026-58868](https://github.com/probear0001/CVE-2026-58868) - Original write up for CVE-2026-58868 Android critical severity cve
 - [devploit/awesome-ctf-resources](https://github.com/devploit/awesome-ctf-resources) - Awesome CTF resources: curated list of Capture The Flag tools, platforms, frameworks, writeups and courses for beginner and experienced players 🚩
 - [v4resk/red-book](https://github.com/v4resk/red-book) - The Red-book: The  Art of Offensive CyberSecurity
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
@@ -1548,7 +1553,7 @@
 - [Amethyst-szs/smo-lunakit](https://github.com/Amethyst-szs/smo-lunakit) - A Mario Odyssey tool built off Dear ImGui for developers, level builders, glitch hunters, and everyone in-between
 - [giuliastro/harness-remote](https://github.com/giuliastro/harness-remote) - Native-session control plane for Codex, Claude Code, OpenCode, PI and many others. Run, resume and hand off coding sessions across your machines.
 - [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - A self-hosted command center for OpenCode. Sessions, git, terminal, and schedules in one web app, from your phone or desktop.
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,955+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 3,000+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - An open-source coding agent for your terminal, written in Rust. It works with any model, can split one task across several agents, and every line of it is yours to read.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [brunos3d/discord-enable-devtools](https://github.com/brunos3d/discord-enable-devtools) - 🚀 zx - Bring your Discord's devtools back to life (again)
@@ -1659,7 +1664,7 @@
 - [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - A self-hosted command center for OpenCode. Sessions, git, terminal, and schedules in one web app, from your phone or desktop.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
-- [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Track Instagram users' activities, profile changes and capture content with beautiful dashboards and instant notifications
+- [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Track Instagram users' activities, followers, profile changes and capture content with beautiful dashboards and instant notifications
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - Model Context Protocol server for CyberChef — exposes GCHQ's "Cyber Swiss Army Knife" as AI-agent tools: 504 operations across encryption, encoding, compression and forensics, on MCP protocol revision
 - [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
@@ -1874,7 +1879,8 @@
 ## emulator 
 
 - [notsapinho/Eglantine](https://github.com/notsapinho/Eglantine) - Experimental, open-source NS2 emulator based on Eden.
-- [hffgzktbcc-blip/ounce-core](https://github.com/hffgzktbcc-blip/ounce-core) - Open-source ARM64 execution lab in safe Rust: run programs on three CPU engines and prove the results match real hardware.
+- [Eglantine-Community/Eglantine](https://github.com/Eglantine-Community/Eglantine) - An experimental Switch 2 Emulator built for Windows, Linux and MacOS.
+- [hffgzktbcc-blip/ounce-core](https://github.com/hffgzktbcc-blip/ounce-core) - Ounce-Core runs supported ARM64 programs on three CPU engines, compares their outputs with real-hardware references, and helps developers find bugs.
 - [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on iOS. Natively or Emulated.
 - [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - moved to https://git.chefkiss.dev/AppleHax/Inferno
 - [MakrSas/Inferno-iOS](https://github.com/MakrSas/Inferno-iOS) - An emulated iPhone 11 running iOS 14, as an app on a real iPhone. Unofficial, built on Inferno.
@@ -1923,6 +1929,8 @@
 
 ## fastapi 
 
+- [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI) - FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化将API请求转发到 Google AI Studio Chat，并同样按照OpenAI标准格式返回的工具。内置调试WebUI面板。
+- [MasuRii/AIstudioProxyAPI-EN](https://github.com/MasuRii/AIstudioProxyAPI-EN) - [EN] OpenAI-compatible proxy for Google AI Studio using FastAPI, Playwright & Camoufox. Simulates human requests via web automation.
 - [spoo-me/spoo](https://github.com/spoo-me/spoo) - spoo.me is an open-source & API first link management infra
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Webchat to API
 
@@ -2067,12 +2075,12 @@
 ## game-engine 
 
 - [slaterain/nv-rs](https://github.com/slaterain/nv-rs) - Fallout: New Vegas rebuilt in Rust from the original game's code. Windows preview out now; needs your own copy of the game.
-- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
+- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft 26.3 rewritten in Rust.
 - [ferrumc-rs/ferrumc](https://github.com/ferrumc-rs/ferrumc) - A reimplementation of the minecraft server in rust.
 
 ## gamedev 
 
-- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
+- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft 26.3 rewritten in Rust.
 - [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
 - [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers
@@ -2112,7 +2120,7 @@
 - [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
 - [Mr-Homeless/waldo](https://github.com/Mr-Homeless/waldo) - Waldo Vision | Cheat detection
 - [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) - Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - An open and lightweight modification to Windows, designed to optimise performance, privacy and usability.
 - [uwzis/GPU-Passthrough-Manager](https://github.com/uwzis/GPU-Passthrough-Manager) - GPU passthrough made easy.
 - [johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
 - [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
@@ -2181,6 +2189,7 @@
 
 ## golang 
 
+- [zexadev/gemini-web2api-go](https://github.com/zexadev/gemini-web2api-go) - Gemini web → OpenAI-compatible + native Gemini API, self-hosted, no API key. Gemini 4 Argon from a paid account cookie, strict_model (429 instead of a silent downgrade), cookie pool with auto-renewal,
 - [marvinvr/docktail](https://github.com/marvinvr/docktail) - Label-based Tailscale Services for Docker containers
 - [nicocha30/ligolo-ng](https://github.com/nicocha30/ligolo-ng) - An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
 - [roma-glushko/awesome-distributed-system-projects](https://github.com/roma-glushko/awesome-distributed-system-projects) - 🚀 List of distributed system projects for inspiration and learning to build distributed services from real world examples
@@ -2218,8 +2227,7 @@
 
 ## good-first-issue 
 
-- [hffgzktbcc-blip/ounce-core](https://github.com/hffgzktbcc-blip/ounce-core) - Open-source ARM64 execution lab in safe Rust: run programs on three CPU engines and prove the results match real hardware.
-- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
+- [hffgzktbcc-blip/ounce-core](https://github.com/hffgzktbcc-blip/ounce-core) - Ounce-Core runs supported ARM64 programs on three CPU engines, compares their outputs with real-hardware references, and helps developers find bugs.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## google 
@@ -2369,7 +2377,6 @@
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 - [Criador-Horarios/Criador-Horarios](https://github.com/Criador-Horarios/Criador-Horarios) - Ferramenta para criar horários.
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
@@ -2488,10 +2495,10 @@
 ## homebrew 
 
 - [sonerx7/Nexvyn-OS-NX](https://github.com/sonerx7/Nexvyn-OS-NX) - Nexvyn OS - a desktop OS shell for Nintendo Switch homebrew (.nro): the App Market (Store/: apps, games, themes, fonts) and the SDK for app developers (SDK/: Lua, JavaScript, Python, Squirrel, C, Java
-- [shodowlo/chromium-nx](https://github.com/shodowlo/chromium-nx) - Chromium web browser as a Nintendo Switch homebrew (Linux as a library inside Horizon OS)
+- [shodowlo/chromium-nx](https://github.com/shodowlo/chromium-nx) - Chromium web browser as a Nintendo Switch / Switch 2 homebrew (Linux as a library inside Horizon OS)
 - [WerWolv/EdiZon](https://github.com/WerWolv/EdiZon) - 💡 A homebrew save management, editing tool and memory trainer for Horizon (Nintendo Switch)
 - [Horizon-OC/Horizon-OC](https://github.com/Horizon-OC/Horizon-OC) - An open source overclocking tool for Nintendo Switch consoles running Atmosphere custom firmware
-- [hffgzktbcc-blip/ounce-core](https://github.com/hffgzktbcc-blip/ounce-core) - Open-source ARM64 execution lab in safe Rust: run programs on three CPU engines and prove the results match real hardware.
+- [hffgzktbcc-blip/ounce-core](https://github.com/hffgzktbcc-blip/ounce-core) - Ounce-Core runs supported ARM64 programs on three CPU engines, compares their outputs with real-hardware references, and helps developers find bugs.
 - [LNPANDY/NX2Apple](https://github.com/LNPANDY/NX2Apple) - Play your own Switch games on iPhone/iPad — one-click macOS app, no terminal. | 把 Switch 游戏装进 iPhone：图形界面一键构建，不用命令行。Bring your own game.
 - [Jonathan8520/FlashNX](https://github.com/Jonathan8520/FlashNX) - Homebrew Flash player for Nintendo Switch (.nro). Play your .swf games from the SD card. Powered by Ruffle.
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
@@ -2572,7 +2579,7 @@
 
 - [0x0be/yesitsme](https://github.com/0x0be/yesitsme) - Simple OSINT script to find Instagram profiles by name and e-mail/phone
 - [SoCuul/SCInsta](https://github.com/SoCuul/SCInsta) - A feature-rich tweak for Instagram on iOS!
-- [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Track Instagram users' activities, profile changes and capture content with beautiful dashboards and instant notifications
+- [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Track Instagram users' activities, followers, profile changes and capture content with beautiful dashboards and instant notifications
 - [megadose/ignorant](https://github.com/megadose/ignorant) - ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.
 - [MobileFirstLLC/social-media-hacker-list](https://github.com/MobileFirstLLC/social-media-hacker-list) - Growing list of apps and tools for enhancing social media experiences.
 - [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram) - Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.
@@ -2921,10 +2928,10 @@
 ## linux 
 
 - [tembo/voxl](https://github.com/tembo/voxl) - extremely fast web remote desktop streaming
-- [elarisbrowser/elaris](https://github.com/elarisbrowser/elaris) - Photon web browser
+- [elarisbrowser/elaris](https://github.com/elarisbrowser/elaris) - Elaris web browser
 - [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) - Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.
 - [mirkobrombin/raven](https://github.com/mirkobrombin/raven) - A Windows your apps recognize.
-- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
+- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft 26.3 rewritten in Rust.
 - [sgan81/apfs-fuse](https://github.com/sgan81/apfs-fuse) - FUSE driver for APFS (Apple File System)
 - [tclahr/uac](https://github.com/tclahr/uac) - UAC is a powerful and extensible incident response tool designed for forensic investigators, security analysts, and IT professionals. It automates the collection of artifacts from a wide range of Unix
 - [ARahim3/DigUp](https://github.com/ARahim3/DigUp) - Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.
@@ -3226,7 +3233,7 @@
 
 - [SafeExamBrowser/seb-mac](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS
 - [tembo/voxl](https://github.com/tembo/voxl) - extremely fast web remote desktop streaming
-- [elarisbrowser/elaris](https://github.com/elarisbrowser/elaris) - Photon web browser
+- [elarisbrowser/elaris](https://github.com/elarisbrowser/elaris) - Elaris web browser
 - [harkhowalia-1/MacSubsystemForAndroid](https://github.com/harkhowalia-1/MacSubsystemForAndroid) - Run Android apps on your Mac like Mac apps: each in its own window with its own Dock icon, on Apple silicon. Notifications, game controllers, privacy controls. Free & open source (LineageOS + QEMU + s
 - [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) - Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal. Bring your own gam
 - [tclahr/uac](https://github.com/tclahr/uac) - UAC is a powerful and extensible incident response tool designed for forensic investigators, security analysts, and IT professionals. It automates the collection of artifacts from a wide range of Unix
@@ -3355,10 +3362,11 @@
 
 ## mcp 
 
+- [dmaivel/ntoseye](https://github.com/dmaivel/ntoseye) - WinDbg-like kernel debugger for Windows, from Linux and macOS
 - [xerj-org/xerj](https://github.com/xerj-org/xerj) - AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory a
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) - Model Context Protocol server for CyberChef — exposes GCHQ's "Cyber Swiss Army Knife" as AI-agent tools: 504 operations across encryption, encoding, compression and forensics, on MCP protocol revision
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,955+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 3,000+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
 - [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - An open-source coding agent for your terminal, written in Rust. It works with any model, can split one task across several agents, and every line of it is yours to read.
@@ -3397,7 +3405,7 @@
 
 ## minecraft 
 
-- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
+- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft 26.3 rewritten in Rust.
 - [stixez/SyncCrate](https://github.com/stixez/SyncCrate) - Sync your game mods, custom content, and saves with friends over LAN.
 - [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
 - [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
@@ -3458,7 +3466,7 @@
 - [marvinvr/docktail](https://github.com/marvinvr/docktail) - Label-based Tailscale Services for Docker containers
 - [scottchiefbaker/dool](https://github.com/scottchiefbaker/dool) - Linux CLI tool providing real-time system resource monitoring
 - [nshalabi/SysmonTools](https://github.com/nshalabi/SysmonTools) - Utilities for Sysmon
-- [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Track Instagram users' activities, profile changes and capture content with beautiful dashboards and instant notifications
+- [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Track Instagram users' activities, followers, profile changes and capture content with beautiful dashboards and instant notifications
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
@@ -3669,7 +3677,7 @@
 - [meichthys/foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries) - Free and Open Source Photo Libraries
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [ImKKingshuk/Awesome-CustomROM](https://github.com/ImKKingshuk/Awesome-CustomROM) - Awesome-CustomROM: Explore the World of Custom Android Experiences! Dive into a collection of the best Custom ROMs, featuring cutting-edge features, enhanced performance, and a vibrant developer commu
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - An open and lightweight modification to Windows, designed to optimise performance, privacy and usability.
 - [mesquidar/ForensicsTools](https://github.com/mesquidar/ForensicsTools) - A list of free and open forensics analysis tools and other resources
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
@@ -3682,6 +3690,7 @@
 
 ## openai 
 
+- [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI) - FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化将API请求转发到 Google AI Studio Chat，并同样按照OpenAI标准格式返回的工具。内置调试WebUI面板。
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [symgraph/BinAssist](https://github.com/symgraph/BinAssist) - Binary Ninja plugin to provide LLM assistance analyzing binaries.
@@ -3711,6 +3720,7 @@
 
 ## operating-system 
 
+- [rizonesoft/impossible-os](https://github.com/rizonesoft/impossible-os) - A 64-bit operating system built from scratch for modern x86-64 hardware: UEFI boot, a compositing desktop, and a native Win32 API.
 - [LiberNT/LiberNT](https://github.com/LiberNT/LiberNT) - A free Windows-compatible Operating System
 - [klange/toaruos](https://github.com/klange/toaruos) - Complete, independent operating system built by humans.
 - [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
@@ -3728,7 +3738,7 @@
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
-- [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Track Instagram users' activities, profile changes and capture content with beautiful dashboards and instant notifications
+- [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Track Instagram users' activities, followers, profile changes and capture content with beautiful dashboards and instant notifications
 - [evyatarmeged/Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning
 - [megadose/ignorant](https://github.com/megadose/ignorant) - ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.
 - [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
@@ -3758,6 +3768,17 @@
 
 ## others 
 
+- [ivall/xcl](https://github.com/ivall/xcl) - Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL
+- [iChris4/dolphinXR](https://github.com/iChris4/dolphinXR) - DolphinXR is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements and in VR.
+- [omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator) - Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)
+- [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) - Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
+- [ang3lo-azevedo/one-pace-viewing-guide](https://github.com/ang3lo-azevedo/one-pace-viewing-guide) - One Pace viewing guide with per-episode progress tracking, filtering, and search.
+- [Lemxy/WinRust](https://github.com/Lemxy/WinRust) - Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.
+- [nexgen999/PS5-Fedora-Guides](https://github.com/nexgen999/PS5-Fedora-Guides) - PS5-Linux-After.Setup.Guide
+- [duwqijlk/google-trial-tool](https://github.com/duwqijlk/google-trial-tool) - 
+- [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) - 
+- [MSNightmare/FastUnlock](https://github.com/MSNightmare/FastUnlock) - FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability
+- [THZoria/NX2_Firmware](https://github.com/THZoria/NX2_Firmware) - Firmware for the Nintendo Switch 2
 - [jacquesdupontd/zelda-inside-the-dream](https://github.com/jacquesdupontd/zelda-inside-the-dream) - Zelda: Inside The Dream, a Port0r project: Link's Awakening in first person, in VR on PC or on the screen on Windows, Linux and Mac. Built on LAS Recomp by Peiikai. No game data included.
 - [AmesianX/CVE-2026-124194-poc](https://github.com/AmesianX/CVE-2026-124194-poc) - CVE-2026-124194 PoC - Outlook spoofing/forced-authentication NTLM leak (patched 2026-11). Concept proof only, untested against vulnerable Outlook.
 - [digital-grease/fauxx](https://github.com/digital-grease/fauxx) - Data poisoning for your everyday tracking
@@ -3873,7 +3894,6 @@
 - [shirai91/nx2android](https://github.com/shirai91/nx2android) - A compatibility layer for porting Switch games to Android, one game at a time
 - [vardhangss/cti-intel-resources](https://github.com/vardhangss/cti-intel-resources) - Curated list of resources for Cyber Threat Intelligence (forums, surface sites, tools).
 - [superkeka/KytyPS5-Native](https://github.com/superkeka/KytyPS5-Native) - PS5 games natively on the BC-250/PS5 under Linux
-- [Eglantine-Community/Eglantine](https://github.com/Eglantine-Community/Eglantine) - VERY experimental Nintendo Switch 2 emulator
 - [MarkBlah/smsofdeath](https://github.com/MarkBlah/smsofdeath) - remote + silent denial of service for all Android phones. https://smsofdeath.com/ for writeup.
 - [kripthor/bsideslisbon2025-badge](https://github.com/kripthor/bsideslisbon2025-badge) - Bsides Lisbon 2025 badge firmware and information
 - [adrianomoraes/Don-t-Drawer-Your-Badge-Bsides-2026-](https://github.com/adrianomoraes/Don-t-Drawer-Your-Badge-Bsides-2026-) - 
@@ -3882,7 +3902,7 @@
 - [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight) - Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.
 - [ariankordi/OunceCake](https://github.com/ariankordi/OunceCake) - Fork of Switch 2 ExeFS/RomFS dumper, adding: HTTP support + system titles, archives.
 - [andergrim/vim-niri-nav](https://github.com/andergrim/vim-niri-nav) - Seamless navigation between [niri](https://github.com/YaLTeR/niri) windows and (Neo)Vim splits with the same key bindings.
-- [byizmysh/IZ2S-Platform](https://github.com/byizmysh/IZ2S-Platform) - IZ2S is a Homebrew launcher for Nintendo Switch. PC platform for Linux and Windows.
+- [byizmysh/IZ2S-Platform](https://github.com/byizmysh/IZ2S-Platform) - IZ2S is a Homebrew launcher for Nintendo Switch 2. PC platform for Linux and Windows.
 - [Equicord/Equibuilds](https://github.com/Equicord/Equibuilds) - Build Archive for https://github.com/Equicord/Equicord
 - [maharmstone/moxnox](https://github.com/maharmstone/moxnox) - NT-like POSIX-compatible operating system
 - [nvnprogram/FiveX](https://github.com/nvnprogram/FiveX) - A Phive converter that can convert .bphsh files into .obj + material info json and vice versa.
@@ -4078,7 +4098,6 @@
 - [AlexRed29/GTA_Symlink_Generator](https://github.com/AlexRed29/GTA_Symlink_Generator) - "GTA Symlink Generator" is a tool to create a GTA installation (III/Vice City/San Andreas) with "Symlinks". Perfect for saving disk space!
 - [malebuffy/XtreamPlayerFree](https://github.com/malebuffy/XtreamPlayerFree) - An Android Auto Media Platform
 - [willfaust/Madeira](https://github.com/willfaust/Madeira) - Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
-- [monkeyscript/heimdall](https://github.com/monkeyscript/heimdall) - A lightweight SMS spam shield for Android.
 - [GrapheneOS/Messaging](https://github.com/GrapheneOS/Messaging) - Messaging app
 - [adelmonte/victoria-launcher](https://github.com/adelmonte/victoria-launcher) - An open source alternative to Niagara Launcher — a minimal, list-based Android home screen.
 - [Conan1231/APL_forensic_data_analysis_automation_with_fortrace--](https://github.com/Conan1231/APL_forensic_data_analysis_automation_with_fortrace--) - Automated Image Creation for Forensic Data Analysis with Fortrace++
@@ -4195,7 +4214,6 @@
 - [rushiranpise/Root-My-Galaxy-Payloads](https://github.com/rushiranpise/Root-My-Galaxy-Payloads) - Signed device profiles, mobile exploit payloads, and KernelSU artifacts for Root My Galaxy
 - [Hybrid-Mount/meta-hybrid_mount](https://github.com/Hybrid-Mount/meta-hybrid_mount) - Hybrid Mount Metamodule
 - [VoltageOS-staging/packages_apps_GmsCompat](https://github.com/VoltageOS-staging/packages_apps_GmsCompat) - 
-- [backslashxx/small_module](https://github.com/backslashxx/small_module) - 
 - [RevealedSoulEven/WAPlusXposed](https://github.com/RevealedSoulEven/WAPlusXposed) - WhatsApp Plus Unlocker using Xposed framework at runtime in Android.
 - [rushiranpise/MetaPlusXposed](https://github.com/rushiranpise/MetaPlusXposed) - Meta Plus Unlocker using Xposed framework at runtime in Android.
 - [halogenOS/android_vendor_nothing_Pong](https://github.com/halogenOS/android_vendor_nothing_Pong) - 
@@ -4305,7 +4323,6 @@
 - [Star-Seven/susfs4ksu](https://github.com/Star-Seven/susfs4ksu) - Imported from https://gitlab.com/simonpunk/susfs4ksu
 - [dev-sm8350/susfs4ksu](https://github.com/dev-sm8350/susfs4ksu) - From: https://gitlab.com/simonpunk/susfs4ksu/
 - [hzzmonetvn/MamboSU](https://github.com/hzzmonetvn/MamboSU) - personal fork, focused on lkm
-- [backslashxx/kernelnosu](https://github.com/backslashxx/kernelnosu) - 
 - [backslashxx/KernelSU](https://github.com/backslashxx/KernelSU) - arm64-v8a, armeabi-v7a. upstream compliant driver for Linux 3.0 to 5.4+. check issues for guides
 - [itsshashanksp/KernelSU](https://github.com/itsshashanksp/KernelSU) - A fork of https://github.com/backslashxx/KernelSU.git by @backslashxx
 - [FlamingoOS-Devices/hardware_dolby](https://github.com/FlamingoOS-Devices/hardware_dolby) - 
@@ -4351,7 +4368,7 @@
 - [solst-ice/gba-hashcat](https://github.com/solst-ice/gba-hashcat) - Password cracker for the GAME BOY Advance, supporting SHA256
 - [tomchop/volatility-autoruns](https://github.com/tomchop/volatility-autoruns) - Autoruns plugin for the Volatility framework
 - [dougburks/so-crates](https://github.com/dougburks/so-crates) - SO-CRATES: Security Onion Containerized Rapid Analysis of Threats, Evil, and Sus!
-- [thcolin/gamepad-media-center-aggregator](https://github.com/thcolin/gamepad-media-center-aggregator) - 🎮 📺 GMCA - A Gamepad (Switch, PS Vita, Linux, PS4) Media Center Aggregator (Plex, Jellyfin, Emby or Stremio)
+- [thcolin/gamepad-media-center-aggregator](https://github.com/thcolin/gamepad-media-center-aggregator) - 🎮 📺 GMCA - A Gamepad (Switch 1/2, PS Vita, Linux, PS4) Media Center Aggregator (Plex, Jellyfin, Emby or Stremio)
 - [shodowlo/NX-torrent-player](https://github.com/shodowlo/NX-torrent-player) - NX Torrent Player: Stremio on Nintendo Switch and Nintendo Switch 2
 - [foreni-packages/fcrackzip](https://github.com/foreni-packages/fcrackzip) - fcrackzip -  Fast zip password cracker
 - [keygenesis/Jackify](https://github.com/keygenesis/Jackify) - Jackify - Simplifying Wabbajack modlist installation and configuration on Linux
@@ -4676,12 +4693,10 @@
 - [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 - [Giotino/stegsolve](https://github.com/Giotino/stegsolve) - 
 - [SebastianMorel/AIOLists](https://github.com/SebastianMorel/AIOLists) - Stremio Addon with a bunch of features to manage lists from MDBList and Trakt
-- [nullbloop/nixos-config](https://github.com/nullbloop/nixos-config) - My personal NixOS configuration (flake-based) with Zsh and Starship.
 - [wuplayapp/wuplay-releases](https://github.com/wuplayapp/wuplay-releases) - WuPlay for Android TV — releases and issue tracker
 - [Matroxt/one-pace-to-plex](https://github.com/Matroxt/one-pace-to-plex) - Guide to adapt One Pace releases to a format Plex can use
 - [haaihond/Trakt-Nuvio-Bridge](https://github.com/haaihond/Trakt-Nuvio-Bridge) - A web bridge for syncing Trakt watched history, playback progress, watchlist, and collection data into Nuvio Sync.
 - [ProdigyV21/ARVIO](https://github.com/ProdigyV21/ARVIO) - ARVIO - A media hub application with a modern, beautiful interface.
-- [ParticularCatch449/Nuvio](https://github.com/ParticularCatch449/Nuvio) - Nuvio account and collections builder based off my TVFlix builder
 - [techuhak/Nuvio-Account-Manager](https://github.com/techuhak/Nuvio-Account-Manager) - 
 - [Inside4ndroid/M3U-XCAPI-EPG-IPTV-Stremio](https://github.com/Inside4ndroid/M3U-XCAPI-EPG-IPTV-Stremio) - A feature‑rich, configurable Stremio addon that ingests IPTV M3U playlists and optional EPG (XMLTV) guide data – with built‑in Xtream Codes API support, encrypted configuration tokens, caching (LRU + 
 - [kost/dvcs-ripper](https://github.com/kost/dvcs-ripper) - Rip web accessible (distributed) version control systems: SVN/GIT/HG...
@@ -4768,8 +4783,6 @@
 - [Rishabh5321/playtorrio-flake](https://github.com/Rishabh5321/playtorrio-flake) - 
 - [yortem/chrome-stremio-imdb](https://github.com/yortem/chrome-stremio-imdb) - A chrome extension to open movies and shows from your browser directly to Stremio
 - [MunifTanjim/stremthru](https://github.com/MunifTanjim/stremthru) - Companion for Stremio.
-- [JibsouX/Shushify](https://github.com/JibsouX/Shushify) - Shush spotify ads automatically
-- [JibsouX/Shutify](https://github.com/JibsouX/Shutify) - Shut ads on Spotify
 - [shugi12345/stremio-skip-button](https://github.com/shugi12345/stremio-skip-button) - Community-powered “Skip Intro” for shows and movies in Stremio Enhanced.
 - [TheBeastLT/stremio-kitsu-anime](https://github.com/TheBeastLT/stremio-kitsu-anime) - Unofficial Kitsu anime catalog for Stremio platform
 - [Saadiq8149/AnilistStream](https://github.com/Saadiq8149/AnilistStream) - A Stremio addon for streaming anime from multiple HTTP sources (no torrents) while keeping your AniList watch list perfectly in sync. Search, watch, and track your progress all in one place.
@@ -4917,7 +4930,7 @@
 - [rodrig20/DuckyHid](https://github.com/rodrig20/DuckyHid) - Use your rooted Android phone as Rubber Ducky
 - [musabcel/android_rom_list](https://github.com/musabcel/android_rom_list) - List of all Android ROMs
 - [ServerHive-Development/guide](https://github.com/ServerHive-Development/guide) - 
-- [KOWX712/KernelSU](https://github.com/KOWX712/KernelSU) - personal fork, focused on Material theming update
+- [KOWX712/KernelSU](https://github.com/KOWX712/KernelSU) - personal fork
 - [5ec1cff/KernelSU](https://github.com/5ec1cff/KernelSU) - A KernelSU based root solution for Android
 - [LKDenchin/rsuntk-KernelSU](https://github.com/LKDenchin/rsuntk-KernelSU) - KernelSU with MagicMount, support GKI and Non-GKI. Updates: https://t.me/rsukrnlsu
 - [Pong-Development/packages_apps_ParanoidGlyph](https://github.com/Pong-Development/packages_apps_ParanoidGlyph) - packages/apps/ParanoidGlyph
@@ -5342,7 +5355,7 @@
 - [Starry-AXQG/Context-Menu-Icons](https://github.com/Starry-AXQG/Context-Menu-Icons) - Improve your context menu by adding icons, folding redundant menu items, and more. Support Firefox/Zen
 - [Salvoxia/immich-folder-album-creator](https://github.com/Salvoxia/immich-folder-album-creator) - Automatically create and populate albums in Immich from a folder structure in external libraries
 - [hritikvalluvar/stremio-setup](https://github.com/hritikvalluvar/stremio-setup) - Stremio setup for Torrentio, Torrentio lite, Pirate Bay, and YTS
-- [mteij/Zentrio](https://github.com/mteij/Zentrio) - Zentrio - Stream anything. Own everything.
+- [MTEIJ/Zentrio](https://github.com/MTEIJ/Zentrio) - Zentrio - Stream anything. Own everything.
 - [0xHexE/madari](https://github.com/0xHexE/madari) - Stremio Client for Low Powered TV And Devices
 - [ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard](https://github.com/ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard) - Dynamic, adaptive Material Design 3 dashboard for Home Assistant with a transparent, modern aesthetic
 - [juergenpabel/HAL9000](https://github.com/juergenpabel/HAL9000) - Personal voice assistant based on kalliope with HAL9000 enclosure
@@ -5513,9 +5526,8 @@
 - [zacharee/RootActivityLauncher](https://github.com/zacharee/RootActivityLauncher) - 
 - [fmhy/FMHYFilterlist](https://github.com/fmhy/FMHYFilterlist) - FMHY Filterlist
 - [fayaz12g/mk8d-aar](https://github.com/fayaz12g/mk8d-aar) - Mario Kart 8 Deluxe Any Aspect Ratio
-- [KaladinDMP/AGBrowser](https://github.com/KaladinDMP/AGBrowser) - Auto Browser Download with persistent link
 - [pumPCin/HMAL](https://github.com/pumPCin/HMAL) - My changes to Hide My AppList (An Xposed module to intercept applist detections)
-- [osm0sis/PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork) - Fix Play Integrity &lt;A13 verdicts, allowing custom fields and props
+- [osm0sis/PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork) - Fix Play Integrity verdicts, allowing custom fields and props
 - [Xposed-Modules-Repo/com.close.hook.ads](https://github.com/Xposed-Modules-Repo/com.close.hook.ads) - AdClose
 - [Xposed-Modules-Repo/its.madruga.warevamp](https://github.com/Xposed-Modules-Repo/its.madruga.warevamp) - Wa Revamp
 - [zacharee/Tweaker](https://github.com/zacharee/Tweaker) - 
@@ -6341,6 +6353,7 @@
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [FaFre/WebLibre](https://github.com/FaFre/WebLibre) - Private Gecko browser with containers, web apps, Tor/VPN, and on-device search
 - [BareBrowser/bare-browser](https://github.com/BareBrowser/bare-browser) - Bare is a de-Googled Chromium build for Android, built for privacy, control, and freedom on the web. It strips Google tracking, telemetry, and AI integration while keeping browser extensions and uBloc
+- [monkeyscript/heimdall](https://github.com/monkeyscript/heimdall) - A lightweight SMS spam shield for Android.
 - [daboynb/Safetycore-placeholder](https://github.com/daboynb/Safetycore-placeholder) - Placeholder APK to permanently block Google SafetyCore installation and updates
 - [Codextor/better-zen](https://github.com/Codextor/better-zen) - Zen Browser (based on Firefox) config for speed, privacy, and security. Inspired from Betterfox.
 - [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras
@@ -6383,7 +6396,7 @@
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [Rikj000/AndroidAuto4MicroG](https://github.com/Rikj000/AndroidAuto4MicroG) - My personal fork of Android Auto 4 microG
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - An open and lightweight modification to Windows, designed to optimise performance, privacy and usability.
 - [realaravinth/libmedium](https://github.com/realaravinth/libmedium) - An Alternative Medium Frontend | Development continues at: https://git.batsense.net/realaravinth/libmedium
 - [takomine/Open-source-alternatives](https://github.com/takomine/Open-source-alternatives) - Overview of open-source alternative for popular applications.
 - [TeamPiped/Piped-Backend](https://github.com/TeamPiped/Piped-Backend) - The core component behind Piped, and other alternative frontends!
@@ -6460,6 +6473,8 @@
 
 ## python 
 
+- [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI) - FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化将API请求转发到 Google AI Studio Chat，并同样按照OpenAI标准格式返回的工具。内置调试WebUI面板。
+- [MasuRii/AIstudioProxyAPI-EN](https://github.com/MasuRii/AIstudioProxyAPI-EN) - [EN] OpenAI-compatible proxy for Google AI Studio using FastAPI, Playwright & Camoufox. Simulates human requests via web automation.
 - [gfelber/vagd](https://github.com/gfelber/vagd) - VirtuAlization GDb integrations in pwntools
 - [jtpereyda/boofuzz](https://github.com/jtpereyda/boofuzz) - A fork and successor of the Sulley Fuzzing Framework
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -6493,7 +6508,7 @@
 - [fortra/impacket](https://github.com/fortra/impacket) - Impacket is a collection of Python classes for working with network protocols.
 - [p0dalirius/ctfd-parser](https://github.com/p0dalirius/ctfd-parser) - A python script to dump all the challenges locally of a CTFd-based Capture the Flag.
 - [vladko312/SSTImap](https://github.com/vladko312/SSTImap) - Automatic SSTI detection tool with interactive interface
-- [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Track Instagram users' activities, profile changes and capture content with beautiful dashboards and instant notifications
+- [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Track Instagram users' activities, followers, profile changes and capture content with beautiful dashboards and instant notifications
 - [aw-junaid/Hacking-Tools](https://github.com/aw-junaid/Hacking-Tools) - This Repository is a collection of different ethical hacking tools and malware's for penetration testing and research purpose written in python, ruby, rust, c++, go and c.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 - [airbus-cert/regrippy](https://github.com/airbus-cert/regrippy) - A modern Python-3-based alternative to RegRipper
@@ -6508,7 +6523,6 @@
 - [THORCollective/threat-hunting-mcp-server](https://github.com/THORCollective/threat-hunting-mcp-server) - A minimal, modular MCP server that equips your AI with practical capabilities for real-world threat hunting workflows.
 - [Cxsmo-ai/Ascend-Media-RPC](https://github.com/Cxsmo-ai/Ascend-Media-RPC) - Ascend Media RPC is a Discord RPC and Auto Intro Skip Windows GUI for Stremio/Wako Android TV
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
-- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [mukul975/cve-mcp-server](https://github.com/mukul975/cve-mcp-server) - Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more.
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [mralanbourne/kitsutracker-stremio-v2](https://github.com/mralanbourne/kitsutracker-stremio-v2) - Asynchronous Stremio addon to auto-sync anime watch progress and catalogs with your Kitsu account.
@@ -6535,7 +6549,6 @@
 - [lukearran/TvTimeToTrakt](https://github.com/lukearran/TvTimeToTrakt) - A Python script to import TV Time data into Trakt.TV
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.
 - [Cyogenus/XTREME-IPTV-PLAYER-by-MY-1](https://github.com/Cyogenus/XTREME-IPTV-PLAYER-by-MY-1) - Legacy IPTV player project. Try the new BLAZIN IPTV Player for Windows on the Microsoft Store.
-- [gookie-dev/StepDaddyLiveHD](https://github.com/gookie-dev/StepDaddyLiveHD) - A self-hosted IPTV proxy for DLHD.
 - [rafatosta/zapzap](https://github.com/rafatosta/zapzap) - WhatsApp desktop application written in PyQt6 + PyQt6-WebEngine.
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [Armaansaini20/ShortEZY-YouTube-Bot](https://github.com/Armaansaini20/ShortEZY-YouTube-Bot) - Automatic youtube or insta shorts generator, Free alternative to openAI api bots
@@ -6598,7 +6611,6 @@
 
 ## qt 
 
-- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smal
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Offline Minecraft launcher.
@@ -6740,7 +6752,9 @@
 
 ## reverse-engineering 
 
-- [Lucas-blip-png/dkb-pc-recomp](https://github.com/Lucas-blip-png/dkb-pc-recomp) - Static recompilation of Donkey Kong Bananza (Switch 2) to native Windows and Linux with Vulkan. 0.4.1: FSR 3.1/FSR 4 upscalers, frame generation Auto and 3x-8x, window and CRT filters, smoother audio,
+- [zexadev/gemini-web2api-go](https://github.com/zexadev/gemini-web2api-go) - Gemini web → OpenAI-compatible + native Gemini API, self-hosted, no API key. Gemini 4 Argon from a paid account cookie, strict_model (429 instead of a silent downgrade), cookie pool with auto-renewal,
+- [dmaivel/ntoseye](https://github.com/dmaivel/ntoseye) - WinDbg-like kernel debugger for Windows, from Linux and macOS
+- [Lucas-blip-png/dkb-pc-recomp](https://github.com/Lucas-blip-png/dkb-pc-recomp) - Static recompilation of Donkey Kong Bananza (Switch 2) to native Windows and Linux with Vulkan. 0.5.1 out: NVIDIA shader cache fix, player 2 rumble; one-file Windows launcher, presets, local co-op, 16
 - [squeeeezy/HelioDarwin](https://github.com/squeeeezy/HelioDarwin) - iOS 16 (XNU) bring-up on Infinix Note 12 2023 X676C (MT6789), based on MakrSas/ios-topaz
 - [gaasedelen/lighthouse](https://github.com/gaasedelen/lighthouse) - A Coverage Explorer for Reverse Engineers
 - [lucasbaizer/GdTool](https://github.com/lucasbaizer/GdTool) - Reverse engineering tools for Godot
@@ -6812,11 +6826,11 @@
 
 - [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager) - misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
 - [tembo/voxl](https://github.com/tembo/voxl) - extremely fast web remote desktop streaming
-- [elarisbrowser/elaris](https://github.com/elarisbrowser/elaris) - Photon web browser
+- [elarisbrowser/elaris](https://github.com/elarisbrowser/elaris) - Elaris web browser
 - [Tatone26/Numworks-games](https://github.com/Tatone26/Numworks-games) - A few games working on official Numworks software.
 - [slaterain/nv-rs](https://github.com/slaterain/nv-rs) - Fallout: New Vegas rebuilt in Rust from the original game's code. Windows preview out now; needs your own copy of the game.
-- [hffgzktbcc-blip/ounce-core](https://github.com/hffgzktbcc-blip/ounce-core) - Open-source ARM64 execution lab in safe Rust: run programs on three CPU engines and prove the results match real hardware.
-- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
+- [hffgzktbcc-blip/ounce-core](https://github.com/hffgzktbcc-blip/ounce-core) - Ounce-Core runs supported ARM64 programs on three CPU engines, compares their outputs with real-hardware references, and helps developers find bugs.
+- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft 26.3 rewritten in Rust.
 - [stixez/SyncCrate](https://github.com/stixez/SyncCrate) - Sync your game mods, custom content, and saves with friends over LAN.
 - [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
 - [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
@@ -6992,7 +7006,7 @@
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [leohearts/AlternativeUnlockXposed](https://github.com/leohearts/AlternativeUnlockXposed) - Unlock your Android phone with an alternative PIN, and run any root command when you enter it. Works before the first unlock after a reboot. (Xposed)
 - [rushiranpise/detection](https://github.com/rushiranpise/detection) - Collection of Various Root Detection Apps for Android
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - An open and lightweight modification to Windows, designed to optimise performance, privacy and usability.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
@@ -7030,6 +7044,7 @@
 
 ## self-hosted 
 
+- [zexadev/gemini-web2api-go](https://github.com/zexadev/gemini-web2api-go) - Gemini web → OpenAI-compatible + native Gemini API, self-hosted, no API key. Gemini 4 Argon from a paid account cookie, strict_model (429 instead of a silent downgrade), cookie pool with auto-renewal,
 - [marvinvr/docktail](https://github.com/marvinvr/docktail) - Label-based Tailscale Services for Docker containers
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
 - [Victor-root/Omnify](https://github.com/Victor-root/Omnify) - Beyond F-Droid: install and auto-update apps straight from GitHub, GitLab, Codeberg and self-hosted forges.
@@ -7167,6 +7182,16 @@
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [afoster/kodi2m3u](https://github.com/afoster/kodi2m3u) - Export m3u playlists from a Kodi music video database
+
+## static-site-generator 
+
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Leading Git-based headless CMS. Successor to Netlify/Decap CMS. Modern UX, first-class i18n support, mobile support + numerous improvements. Framework-agnostic, open source & free.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
+- [i3months/eziwiki](https://github.com/i3months/eziwiki) - 🧩 A Markdown wiki generator built on Next.js - graph views, search
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+- [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
+- [zeon-studio/hugoplate](https://github.com/zeon-studio/hugoplate) - Hugoplate is a free starter template built with Hugo and Tailwind CSS v4.0 that will save you hours of work.
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 
 ## statistics 
 
@@ -7306,7 +7331,7 @@
 
 ## testing 
 
-- [hffgzktbcc-blip/ounce-core](https://github.com/hffgzktbcc-blip/ounce-core) - Open-source ARM64 execution lab in safe Rust: run programs on three CPU engines and prove the results match real hardware.
+- [hffgzktbcc-blip/ounce-core](https://github.com/hffgzktbcc-blip/ounce-core) - Ounce-Core runs supported ARM64 programs on three CPU engines, compares their outputs with real-hardware references, and helps developers find bugs.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 
@@ -7664,6 +7689,8 @@
 
 ## windows 
 
+- [dmaivel/ntoseye](https://github.com/dmaivel/ntoseye) - WinDbg-like kernel debugger for Windows, from Linux and macOS
+- [R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows) - GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.
 - [0rcruxe/pass-ta-key](https://github.com/0rcruxe/pass-ta-key) - A PoC tool for the Pass-ta-key Golden Attack, covering the extraction of the Google Password Manager Security Domain Secret from Chrome process memory, and the decryption of synced GPM passkeys for Ac
 - [tembo/voxl](https://github.com/tembo/voxl) - extremely fast web remote desktop streaming
 - [drakolordx7/switch2-recomp](https://github.com/drakolordx7/switch2-recomp) - Nintendo Switch 2 games recompiled to run natively on PC.
@@ -7747,7 +7774,7 @@
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - An open and lightweight modification to Windows, designed to optimise performance, privacy and usability.
 - [uwzis/GPU-Passthrough-Manager](https://github.com/uwzis/GPU-Passthrough-Manager) - GPU passthrough made easy.
 - [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
 - [HawaiiBeach/TinyNvidiaUpdateChecker](https://github.com/HawaiiBeach/TinyNvidiaUpdateChecker) - The best NVIDIA GPU update checker for Windows power users/gamers. Fully open sourced and lightweight.
