@@ -436,6 +436,8 @@
 
 ## android 
 
+- [imxieyi/Kernarium](https://github.com/imxieyi/Kernarium) - Run real Linux kernel natively on iOS
+- [thtbee/nectarlink](https://github.com/thtbee/nectarlink) - Your Android phone and your PC, working as one. Windows and Linux. Local-first, end-to-end encrypted, no account.
 - [ZHINFINITY/Mpv-infinity](https://github.com/ZHINFINITY/Mpv-infinity) - Ad-free Android video and music player with MPV and Media3 engines, smooth-motion frame interpolation up to 120 fps, Liquid Glass UI, HDR/Dolby Vision, AI subtitle translation, Jellyfin and Seerr.
 - [mpvRex/REX-Player](https://github.com/mpvRex/REX-Player) - A modern Android video player powered by libmpv, built with Jetpack Compose.
 - [lordnordic-debug/StradaOS](https://github.com/lordnordic-debug/StradaOS) - Una nueva vida para la pantalla Android de tu vehículo
@@ -793,6 +795,7 @@
 
 ## api 
 
+- [Mag1cFall/AIStudio2API](https://github.com/Mag1cFall/AIStudio2API) - 将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API
 - [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI) - FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化将API请求转发到 Google AI Studio Chat，并同样按照OpenAI标准格式返回的工具。内置调试WebUI面板。
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free, open-source music app that lets you stream and download high-quality tracks across all your devices. With a sleek, intuitive UI built for a seamless experience, it supports Android
@@ -1208,6 +1211,7 @@
 
 ## claude 
 
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
@@ -1219,6 +1223,7 @@
 
 ## claude-code 
 
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) - DSH's officially top-recommended TUI plugin — high performance, low overhead, cute pixel whale, smooth mouse interaction. One-command install via npm. / DSH 官方首推的 TUI 插件，高性能低占用，可爱像素鲸鱼，流畅鼠标交互，npm 一键安装
@@ -1878,9 +1883,9 @@
 
 ## emulator 
 
+- [imxieyi/Kernarium](https://github.com/imxieyi/Kernarium) - Run real Linux kernel natively on iOS
 - [notsapinho/Eglantine](https://github.com/notsapinho/Eglantine) - Experimental, open-source NS2 emulator based on Eden.
 - [Eglantine-Community/Eglantine](https://github.com/Eglantine-Community/Eglantine) - An experimental Switch 2 Emulator built for Windows, Linux and MacOS.
-- [hffgzktbcc-blip/ounce-core](https://github.com/hffgzktbcc-blip/ounce-core) - Ounce-Core runs supported ARM64 programs on three CPU engines, compares their outputs with real-hardware references, and helps developers find bugs.
 - [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on iOS. Natively or Emulated.
 - [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - moved to https://git.chefkiss.dev/AppleHax/Inferno
 - [MakrSas/Inferno-iOS](https://github.com/MakrSas/Inferno-iOS) - An emulated iPhone 11 running iOS 14, as an app on a real iPhone. Unofficial, built on Inferno.
@@ -2189,6 +2194,7 @@
 
 ## golang 
 
+- [Mag1cFall/AIStudio2API](https://github.com/Mag1cFall/AIStudio2API) - 将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API
 - [zexadev/gemini-web2api-go](https://github.com/zexadev/gemini-web2api-go) - Gemini web → OpenAI-compatible + native Gemini API, self-hosted, no API key. Gemini 4 Argon from a paid account cookie, strict_model (429 instead of a silent downgrade), cookie pool with auto-renewal,
 - [marvinvr/docktail](https://github.com/marvinvr/docktail) - Label-based Tailscale Services for Docker containers
 - [nicocha30/ligolo-ng](https://github.com/nicocha30/ligolo-ng) - An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
@@ -2227,11 +2233,11 @@
 
 ## good-first-issue 
 
-- [hffgzktbcc-blip/ounce-core](https://github.com/hffgzktbcc-blip/ounce-core) - Ounce-Core runs supported ARM64 programs on three CPU engines, compares their outputs with real-hardware references, and helps developers find bugs.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## google 
 
+- [Mag1cFall/AIStudio2API](https://github.com/Mag1cFall/AIStudio2API) - 将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API
 - [opsdisk/metagoofil](https://github.com/opsdisk/metagoofil) - Search Google and download specific file types
 - [daboynb/Safetycore-placeholder](https://github.com/daboynb/Safetycore-placeholder) - Placeholder APK to permanently block Google SafetyCore installation and updates
 - [rushiranpise/sorry-google](https://github.com/rushiranpise/sorry-google) - Minimal stub APKs that block Google from automatically installing or updating unwanted system apps. Each stub declares the same package name as the target app but is signed with a different key, causi
@@ -2498,7 +2504,6 @@
 - [shodowlo/chromium-nx](https://github.com/shodowlo/chromium-nx) - Chromium web browser as a Nintendo Switch / Switch 2 homebrew (Linux as a library inside Horizon OS)
 - [WerWolv/EdiZon](https://github.com/WerWolv/EdiZon) - 💡 A homebrew save management, editing tool and memory trainer for Horizon (Nintendo Switch)
 - [Horizon-OC/Horizon-OC](https://github.com/Horizon-OC/Horizon-OC) - An open source overclocking tool for Nintendo Switch consoles running Atmosphere custom firmware
-- [hffgzktbcc-blip/ounce-core](https://github.com/hffgzktbcc-blip/ounce-core) - Ounce-Core runs supported ARM64 programs on three CPU engines, compares their outputs with real-hardware references, and helps developers find bugs.
 - [LNPANDY/NX2Apple](https://github.com/LNPANDY/NX2Apple) - Play your own Switch games on iPhone/iPad — one-click macOS app, no terminal. | 把 Switch 游戏装进 iPhone：图形界面一键构建，不用命令行。Bring your own game.
 - [Jonathan8520/FlashNX](https://github.com/Jonathan8520/FlashNX) - Homebrew Flash player for Nintendo Switch (.nro). Play your .swf games from the SD card. Powered by Ruffle.
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
@@ -2601,6 +2606,7 @@
 
 ## ios 
 
+- [imxieyi/Kernarium](https://github.com/imxieyi/Kernarium) - Run real Linux kernel natively on iOS
 - [Ch0pin/medusa](https://github.com/Ch0pin/medusa) - Mobile Edge-Dynamic Unified Security Analysis
 - [kuscholar/iDeck](https://github.com/kuscholar/iDeck) - iDeck brings the Steam Big Picture experience to iOS
 - [LNPANDY/NX2Apple](https://github.com/LNPANDY/NX2Apple) - Play your own Switch games on iPhone/iPad — one-click macOS app, no terminal. | 把 Switch 游戏装进 iPhone：图形界面一键构建，不用命令行。Bring your own game.
@@ -2737,6 +2743,7 @@
 
 ## jetpack-compose 
 
+- [thtbee/nectarlink](https://github.com/thtbee/nectarlink) - Your Android phone and your PC, working as one. Windows and Linux. Local-first, end-to-end encrypted, no account.
 - [ZHINFINITY/Mpv-infinity](https://github.com/ZHINFINITY/Mpv-infinity) - Ad-free Android video and music player with MPV and Media3 engines, smooth-motion frame interpolation up to 120 fps, Liquid Glass UI, HDR/Dolby Vision, AI subtitle translation, Jellyfin and Seerr.
 - [sk2andy/candy-browser](https://github.com/sk2andy/candy-browser) - Gesture-first Android browser with Material 3 Expressive design and local privacy tools
 - [Pixelgamer4k/graden](https://github.com/Pixelgamer4k/graden) - Multi-layer video editor and colour grading app for Android — proxy editing, native-resolution preview, colour wheels and scopes, full-quality H.264/H.265 export. Beta.
@@ -2806,6 +2813,7 @@
 
 ## kotlin 
 
+- [thtbee/nectarlink](https://github.com/thtbee/nectarlink) - Your Android phone and your PC, working as one. Windows and Linux. Local-first, end-to-end encrypted, no account.
 - [ZHINFINITY/Mpv-infinity](https://github.com/ZHINFINITY/Mpv-infinity) - Ad-free Android video and music player with MPV and Media3 engines, smooth-motion frame interpolation up to 120 fps, Liquid Glass UI, HDR/Dolby Vision, AI subtitle translation, Jellyfin and Seerr.
 - [sk2andy/candy-browser](https://github.com/sk2andy/candy-browser) - Gesture-first Android browser with Material 3 Expressive design and local privacy tools
 - [Pixelgamer4k/graden](https://github.com/Pixelgamer4k/graden) - Multi-layer video editor and colour grading app for Android — proxy editing, native-resolution preview, colour wheels and scopes, full-quality H.264/H.265 export. Beta.
@@ -2927,6 +2935,8 @@
 
 ## linux 
 
+- [imxieyi/Kernarium](https://github.com/imxieyi/Kernarium) - Run real Linux kernel natively on iOS
+- [thtbee/nectarlink](https://github.com/thtbee/nectarlink) - Your Android phone and your PC, working as one. Windows and Linux. Local-first, end-to-end encrypted, no account.
 - [tembo/voxl](https://github.com/tembo/voxl) - extremely fast web remote desktop streaming
 - [elarisbrowser/elaris](https://github.com/elarisbrowser/elaris) - Elaris web browser
 - [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) - Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.
@@ -3690,6 +3700,7 @@
 
 ## openai 
 
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie
 - [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI) - FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化将API请求转发到 Google AI Studio Chat，并同样按照OpenAI标准格式返回的工具。内置调试WebUI面板。
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -3768,10 +3779,14 @@
 
 ## others 
 
+- [Marvisak/VIctory](https://github.com/Marvisak/VIctory) - An attempt at running GTA VI on PC
+- [ItsNotRexed/Blueshell](https://github.com/ItsNotRexed/Blueshell) - 
+- [OnlyMoisties/GTA6-BootTest](https://github.com/OnlyMoisties/GTA6-BootTest) - Stand-in DLLs and harness that boot the Xbox Series X|S GTA VI build on Windows up to the GPU wall. No game code or data.
+- [MSedgeMC/aistudio-proxy](https://github.com/MSedgeMC/aistudio-proxy) - OpenAI-compatible API proxy for Google AI Studio's free Gemini models
+- [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) - Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.
 - [ivall/xcl](https://github.com/ivall/xcl) - Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL
 - [iChris4/dolphinXR](https://github.com/iChris4/dolphinXR) - DolphinXR is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements and in VR.
 - [omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator) - Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)
-- [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) - Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
 - [ang3lo-azevedo/one-pace-viewing-guide](https://github.com/ang3lo-azevedo/one-pace-viewing-guide) - One Pace viewing guide with per-episode progress tracking, filtering, and search.
 - [Lemxy/WinRust](https://github.com/Lemxy/WinRust) - Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.
 - [nexgen999/PS5-Fedora-Guides](https://github.com/nexgen999/PS5-Fedora-Guides) - PS5-Linux-After.Setup.Guide
@@ -3882,7 +3897,6 @@
 - [redluigi323/ResortCompiled](https://github.com/redluigi323/ResortCompiled) - Native pc port of Wii Sports Resort, with a easy launcher, easy install, and new additions too (if you want)
 - [doldecomp/ogws](https://github.com/doldecomp/ogws) - A work-in-progress matching decompilation of Wii Sports
 - [etonedemid/minecraft-switch](https://github.com/etonedemid/minecraft-switch) - minecraft java 1.12.2 for nx
-- [DerilDX/nv-rs-nx](https://github.com/DerilDX/nv-rs-nx) - NX-PORT Experimental Fallout: New Vegas engine reimplementation in Rust and Bevy. Requires your own game data; base-game foundations first.
 - [robzilla10001/SwitchPorts](https://github.com/robzilla10001/SwitchPorts) - List of Software Ported to Nintendo Switch
 - [dirudomelon/AIO-Switch-DIRUDOMELON-MOD](https://github.com/dirudomelon/AIO-Switch-DIRUDOMELON-MOD) - 
 - [tetj/NXSyncDBI](https://github.com/tetj/NXSyncDBI) - Sync Nintendo Switch game files using DBI. Supports XCI, NSP and NSZ.
@@ -4323,7 +4337,6 @@
 - [Star-Seven/susfs4ksu](https://github.com/Star-Seven/susfs4ksu) - Imported from https://gitlab.com/simonpunk/susfs4ksu
 - [dev-sm8350/susfs4ksu](https://github.com/dev-sm8350/susfs4ksu) - From: https://gitlab.com/simonpunk/susfs4ksu/
 - [hzzmonetvn/MamboSU](https://github.com/hzzmonetvn/MamboSU) - personal fork, focused on lkm
-- [backslashxx/KernelSU](https://github.com/backslashxx/KernelSU) - arm64-v8a, armeabi-v7a. upstream compliant driver for Linux 3.0 to 5.4+. check issues for guides
 - [itsshashanksp/KernelSU](https://github.com/itsshashanksp/KernelSU) - A fork of https://github.com/backslashxx/KernelSU.git by @backslashxx
 - [FlamingoOS-Devices/hardware_dolby](https://github.com/FlamingoOS-Devices/hardware_dolby) - 
 - [ansemjo/truepolyglot](https://github.com/ansemjo/truepolyglot) - Create polyglot files, which are valid PDF and ZIP simultaneously. See POC||GTFO 07. (forked from git.hackade.org)
@@ -5139,7 +5152,6 @@
 - [stefanpartheym/archlinux-ipu6-webcam](https://github.com/stefanpartheym/archlinux-ipu6-webcam) - Easy installation for patched Intel IPU6 camera drivers
 - [hesCalledAJ/Raise](https://github.com/hesCalledAJ/Raise) - 
 - [ang3lo-azevedo/galaxy-book5-pro-linux](https://github.com/ang3lo-azevedo/galaxy-book5-pro-linux) - Notes and utilities for running Linux on the Samsung Galaxy Book5 Pro
-- [backslashxx/mountify](https://github.com/backslashxx/mountify) - Globally mounted modules via OverlayFS.
 - [HumanSecurity/obfuscation-detector](https://github.com/HumanSecurity/obfuscation-detector) - Detect different types of JS obfuscation by their AST structure
 - [JnCrMx/cyberwatch](https://github.com/JnCrMx/cyberwatch) - A Cyberpunk 2077 inspired firmware for the LILYGO T-Watch S3.
 - [noahclark556/Smart-Watch-OS-for-ESP32-S3-1.69inch-Touch-LCD](https://github.com/noahclark556/Smart-Watch-OS-for-ESP32-S3-1.69inch-Touch-LCD) - A smart watch OS for use on the ESP32-S3-1.69inch-Touch-LCD
@@ -5230,7 +5242,7 @@
 - [shantanu-sarkar/CustomROM](https://github.com/shantanu-sarkar/CustomROM) - Basic guide to build custom android ROM for smartphones
 - [AliHasan7671/guides](https://github.com/AliHasan7671/guides) - 
 - [MaheshTechnicals/Compile-Rom-from-source](https://github.com/MaheshTechnicals/Compile-Rom-from-source) - 
-- [sounddrill31/crave_aosp_builder](https://github.com/sounddrill31/crave_aosp_builder) - Build android ROMs using github actions! Also automatically releases them here for easy OTA setup
+- [sounddrill31/crave_aosp_builder](https://github.com/sounddrill31/crave_aosp_builder) - Archived: Crave.io is no longer providing compute for AOSP | Build android ROMs using github actions! Also automatically releases them here for easy OTA setup
 - [rom-builder/BUILDS](https://github.com/rom-builder/BUILDS) - Automated build framework for AOSP custom roms with Self hosted GitHub actions runner
 - [saradinismarques/meic-a](https://github.com/saradinismarques/meic-a) - Projects developed for the Computer Science and Engineering master's degree at Instituto Superior Técnico.
 - [wojtekojtek/builddroid](https://github.com/wojtekojtek/builddroid) - Build ROMs on Crave with ease!
@@ -6611,6 +6623,7 @@
 
 ## qt 
 
+- [thtbee/nectarlink](https://github.com/thtbee/nectarlink) - Your Android phone and your PC, working as one. Windows and Linux. Local-first, end-to-end encrypted, no account.
 - [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smal
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Offline Minecraft launcher.
@@ -6824,6 +6837,7 @@
 
 ## rust 
 
+- [thtbee/nectarlink](https://github.com/thtbee/nectarlink) - Your Android phone and your PC, working as one. Windows and Linux. Local-first, end-to-end encrypted, no account.
 - [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager) - misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
 - [tembo/voxl](https://github.com/tembo/voxl) - extremely fast web remote desktop streaming
 - [elarisbrowser/elaris](https://github.com/elarisbrowser/elaris) - Elaris web browser
@@ -7689,8 +7703,9 @@
 
 ## windows 
 
+- [thtbee/nectarlink](https://github.com/thtbee/nectarlink) - Your Android phone and your PC, working as one. Windows and Linux. Local-first, end-to-end encrypted, no account.
 - [dmaivel/ntoseye](https://github.com/dmaivel/ntoseye) - WinDbg-like kernel debugger for Windows, from Linux and macOS
-- [R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows) - GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.
+- [R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows) - Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.
 - [0rcruxe/pass-ta-key](https://github.com/0rcruxe/pass-ta-key) - A PoC tool for the Pass-ta-key Golden Attack, covering the extraction of the Google Password Manager Security Domain Secret from Chrome process memory, and the decryption of synced GPM passkeys for Ac
 - [tembo/voxl](https://github.com/tembo/voxl) - extremely fast web remote desktop streaming
 - [drakolordx7/switch2-recomp](https://github.com/drakolordx7/switch2-recomp) - Nintendo Switch 2 games recompiled to run natively on PC.
